@@ -19,9 +19,10 @@ async function main() {
   // Create a function to remove punctuation from sentences
   function removePunctuation(sentence) {
     return sentence
-      .replace(/[.,\/#!$%\^&\*;:{}=\-_`~()]/g, '')
+      .replace(/[.,\/#!$%\^&\*\";:\[\]{}=\-_`~()]/g, '')
       .replace(/\s{2,}/g, ' ')
-      .toLowerCase();
+      .toLowerCase()
+      .trim();
   }
   // Create a function to find n-grams.
   function findNGrams(sentence, n) {
@@ -38,11 +39,29 @@ async function main() {
     return _ngrams;
   }
 
-  // console.log("Test case of findNGrams() function:", findNGrams("No longer, it's not a problem anymore", 4));
+  console.log('Test case of findNGrams() function:', findNGrams("No longer, it's not a problem anymore", 4));
 
   // calculate frequency of n-grams using ngrams columns
   let nGrams = data.map(d => d.ngrams);
   let nGramsFlat = nGrams.flat();
   console.log(nGramsFlat);
+  let nGramsFreq = {};
+  nGramsFlat.forEach(gram => {
+    nGramsFreq[gram] = (nGramsFreq[gram] || 0) + 1;
+  });
+  console.log(nGramsFreq.length);
+  let nGramsTable = [];
+
+  // create an array that is: "gram", "frequency", "length"
+  Object.keys(nGramsFreq).forEach(gram => {
+    nGramsTable.push([gram, nGramsFreq[gram], gram.split(' ').length]);
+  });
+  console.log(nGramsTable);
+
+  // Let's find the components of the corpus
+  let speechTurnsList = data.map(d => d.utterance);
+  let speechTurnsListClean = speechTurnsList.map(removePunctuation);
+  console.log(speechTurnsListClean);
 }
+
 main();
