@@ -1,0 +1,499 @@
+dataset;session;speaker;utterance
+dtrs-11;11-linking-insights-from-cc-to-project;Kenny;So we are trying to- to rephrase the enjoying life.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Mhm?
+dtrs-11;11-linking-insights-from-cc-to-project;Kenny;And eh we try to- to take it from top down. So, going from good life, and ending somewhere in enjoying life, the theme. So, I think we- we found it actually pretty hard to crack open. We kind of started from scratch, but to base in the old files that you wrote, and eh tried to take something from one file, take something from another file, but I think everything turned out to be a little bit messy and we couldn't really navigate through all the things. And after a while I think we realized that we had to base it in the last file that you wrote about enjoying life, and then I think we wrote some things that we used. For example the beginning about where we came from to simplify the bowl of good life things, because it's not really the essence of eh of the theme. So we wanted to quickly go through the- the introduction of eh of the overall- overarching theme, good life, and how it leads to enjoying life. So I- I don't know, should I just read it?
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Yeah.
+dtrs-11;11-linking-insights-from-cc-to-project;Kenny;"So, ""enjoying life. Our project immersion in China tells us that the (bali co?) has seen rapid economic progress. The Chinese mentality of ""endure now, benefit later"" has become the recipe of success with aspirations to achieve a good life""."
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Mhm?
+dtrs-11;11-linking-insights-from-cc-to-project;Kenny;"""From the last session however, we heard from you that the path to achieving a good life is not so straight forward. The pursuit comes with concerns and challenges- challenges, living in an urban society. Not all of these concerns are within our power to control"". Insert quote quote quote quote."
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Mhm?
+dtrs-11;11-linking-insights-from-cc-to-project;Kenny;"""Despite these hurdles, you find ways to endure your (.) the uncontrollable""."
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Endure the uncontrollable.
+dtrs-11;11-linking-insights-from-cc-to-project;Kenny;Yes.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Alright.
+dtrs-11;11-linking-insights-from-cc-to-project;Will;Wow, that's-
+dtrs-11;11-linking-insights-from-cc-to-project;Kenny;(laughs) It's a mix.
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;Yeah! (laughter)
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Kind of want that on my t-shirt. (..) (Off task) (..)
+dtrs-11;11-linking-insights-from-cc-to-project;Kenny;So- so we used a lot of the words from- from the- from T-
+dtrs-11;11-linking-insights-from-cc-to-project;Will;"I think when we reach the- read to the Chinese people when we come to this part, ""Kenny?"" (laughter)"
+dtrs-11;11-linking-insights-from-cc-to-project;Kenny;"Alright, and eh ""what we learned from you is that at the most basic level, there is an inherent need to break away from society and family constraints. On a more personal level, there's a strong desire to retreat and escape from daily chores to accommodate me-time"". Cleaning robot quote. (laughter) ""The ability to be in control and enjoy what you truly want, as opposed to doing what is expected of you,"""
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Yeah?
+dtrs-11;11-linking-insights-from-cc-to-project;Kenny;"""Becomes a manifestation of great autonomy. The freedom-"" maybe it should say ""that freedom of having pockets of enjoyment reflects a sense of achieve'- achievement towards a good life""."
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Okay, yeah.
+dtrs-11;11-linking-insights-from-cc-to-project;Kenny;So that's (.) the result of eh one and a half hour work, and I'm sorry it looks like so few words-
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;(laughs) Written in like five minutes.
+dtrs-11;11-linking-insights-from-cc-to-project;Kenny;But (.) [it was so hard].
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;[But it needs to be- it needs] to be (.) simple, right? And I think if we- yeah.
+dtrs-11;11-linking-insights-from-cc-to-project;Kenny;It needs to be so simple, and- and-
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;And that's the challenge.
+dtrs-11;11-linking-insights-from-cc-to-project;Kenny;It was a struggle to- to get to that point, because-
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Yeah, that's the challenge. To boil it down.
+dtrs-11;11-linking-insights-from-cc-to-project;Kenny;We kept like circling around. We- it was so easy to- to get in to good life. But then going from there into enjoying life, we kept circling around enjoying life with all the underlying sub-themes, just circling around it, but not really getting in to it. Eh but I think I- I think we're happy about where we came now.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Mhm?
+dtrs-11;11-linking-insights-from-cc-to-project;Kenny;So I think we are getting into the freedom, enjoying life, the me-time.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;With me-time you have the pockets.
+dtrs-11;11-linking-insights-from-cc-to-project;Kenny;Plus, we are still- or and- still linking out to the good life eh theme outwards.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Mhm. And a little bit kind of the draw between (.) the responsibility they have towards family and stuff, but also the personal, they need to have the personal me-time.
+dtrs-11;11-linking-insights-from-cc-to-project;Kenny;And then we tried to make it a little bit personal, so the respondents can recognize it with- of course with a lot of quotes,
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Mhm.
+dtrs-11;11-linking-insights-from-cc-to-project;Kenny;And we wrote it in you-form. So hopefully the respondents can recognize the quotes that we did not manage to insert yet.
+dtrs-11;11-linking-insights-from-cc-to-project;Abby;Yeah.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;I- if anything I feel maybe it needs to maybe be a little bit tweaked back to that we do respect the responsibilities they have as well. Not only about escaping some, is it? (..) But we- I'm not-
+dtrs-11;11-linking-insights-from-cc-to-project;Abby;I think it's just the balance- we talked about the balance eh
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;The balance.
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;"So this is where we struggle. 'Cause we wanted to insert health, we wanted to insert ""because you have the choices"", you have the (.) eh status thing, and then we were like ""okay, this is going too deep. I think we need to pull up again""."
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Okay.
+dtrs-11;11-linking-insights-from-cc-to-project;Abby;Yeah.
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;So I think this is where you guys come in.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Yeah, let's have a look at what we have and see (.)
+dtrs-11;11-linking-insights-from-cc-to-project;Kenny;[We do actually have-]
+dtrs-11;11-linking-insights-from-cc-to-project;Abby;[Yeah, but not the-] not the- towards the health, but more towards
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;[The balance, yeah].
+dtrs-11;11-linking-insights-from-cc-to-project;Abby;[the me-time] and the family time, or the me-time and the social time. So that balance. So it's not only about escaping, but it's also to cater for your family.
+dtrs-11;11-linking-insights-from-cc-to-project;Kenny;Yeah.
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;"I think there's a quote after ""find ways to endure the uncontrollable"". There should be a bunch of quotes about balancing from like time (.)"
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Okay okay.
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;"""How do you endure work?"", and so on."
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Okay. I think that could work.
+dtrs-11;11-linking-insights-from-cc-to-project;Kenny;Mhm. Yeah, also-
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;"Just so that they don't get too primed with ""this session is all about how you get away from it all""."
+dtrs-11;11-linking-insights-from-cc-to-project;Abby;Yeah.
+dtrs-11;11-linking-insights-from-cc-to-project;Kenny;Mhm.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Yeah. What do you guys think?
+dtrs-11;11-linking-insights-from-cc-to-project;Will;(..) Hm.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;You recognize some if it? (laughter)
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;I think more importantly (.)
+dtrs-11;11-linking-insights-from-cc-to-project;Will;We recognize it.
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;can this be translated? (laughter)
+dtrs-11;11-linking-insights-from-cc-to-project;Will;Well that- I'm sure we have a way. (laughs) Eh, I just have two thoughts. One is that I think (.) well, my first thought is that it feels a little bit, eh how should I put it (.) miserable. (laughter)
+dtrs-11;11-linking-insights-from-cc-to-project;Rose;This is what I felt as well.
+dtrs-11;11-linking-insights-from-cc-to-project;Will;"Yeah because we're trying to- a little to, hey, we are searching for good life, what pocket-dimension it is, and you know, ""this is what we want"", and good life ""oh let me ask you this and that"", eh. But, I mean we have a little bit of that, but it's a little bit more towards the end, it's almost like ""oh, the pockets"" which is true (.)"
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Yeah?
+dtrs-11;11-linking-insights-from-cc-to-project;Will;"You know, but it sounded like ""oh, we have so- no much choice that we only- can only rely on them""."
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Okay okay.
+dtrs-11;11-linking-insights-from-cc-to-project;Kenny;Mhm.
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;Yeah, I can see that.
+dtrs-11;11-linking-insights-from-cc-to-project;Will;But having said that, ehm, this tone might also be useful to kind of like, set the stage for them as they build a company.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Mhm.
+dtrs-11;11-linking-insights-from-cc-to-project;Will;"And they build a product. They recognize that ""hey. It's (.) as an individual org or as a consumer, it is because it is painful"", so, like the way-"
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;Yes.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;"""This is the struggle. This is why we have this company to- to-"""
+dtrs-11;11-linking-insights-from-cc-to-project;Will;So, I'm kind of like caught between these two, I mean should it be a little bit more upbeat, but at the same time it's too upbeat, then you know.
+dtrs-11;11-linking-insights-from-cc-to-project;Abby;Mhm.
+dtrs-11;11-linking-insights-from-cc-to-project;Will;It may not lead so easily- naturally into that product or service idea.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Okay, interesting.
+dtrs-11;11-linking-insights-from-cc-to-project;Kenny;Mhm.
+dtrs-11;11-linking-insights-from-cc-to-project;Rose;But, maybe we can frame (.) becuase, I guess the tension is there, but maybe kind of frame it a bit more aspirational rather than (.) more like [cut- cut in the-]
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;[Reality? Like, social reality?]
+dtrs-11;11-linking-insights-from-cc-to-project;Rose;Yeah, something like that, I don't know is it (.)
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Mhm?
+dtrs-11;11-linking-insights-from-cc-to-project;Rose;"It felt a bit like- you know when we're in CHINESE CITY FROM PHASE 1, we talked a lot about the ""endure now, benefit later"" and then- then at some point we were so caught up with the whole enduring part we kind of forgot about the [retirement and the benefit later]"
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;[The benefit, yeah. Yeah yeah].
+dtrs-11;11-linking-insights-from-cc-to-project;Rose;And then- then it seemed a little bit like-
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Okay, yeah. Okay, I think that's a good point.
+dtrs-11;11-linking-insights-from-cc-to-project;Rose;Right? Because I mean the title is enjoying life, and then there's not like- (laughter) It's like- I mean, enjoying life, are we just translating as enjoying life and then the rest of it is like (.) huh?
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;"Yeah. ""Enjoy life, yeah okay let's go!"" and then ""what? This is- this is the pain, the suffering!"""
+dtrs-11;11-linking-insights-from-cc-to-project;Rose;At least maybe like in the beginning, sort of like- at least like (.) uhm sort of articulate the kind of aspirations that they want, but then maybe contrast it against maybe but glance-
+dtrs-11;11-linking-insights-from-cc-to-project;Will;Or should it be maybe the reverse? I mean, usually when we write a concept or a proposition, right? We set it up with an insight. And the insight is usually a- some pain or tension point.
+dtrs-11;11-linking-insights-from-cc-to-project;Rose;Yeah yeah yeah.
+dtrs-11;11-linking-insights-from-cc-to-project;Will;So- which is what-
+dtrs-11;11-linking-insights-from-cc-to-project;Rose;We have.
+dtrs-11;11-linking-insights-from-cc-to-project;Will;You know, most of this.
+dtrs-11;11-linking-insights-from-cc-to-project;Rose;Yes.
+dtrs-11;11-linking-insights-from-cc-to-project;Will;Eh and maybe we can kind of like ehm eh update- I think the last bit is eh leading to it. Ehm, but making (.) but mainly making a little bit the tone a little bit more positive, like, you know, that it's a sure fact you can find pockets of time, that you can find some autonomy that leads up to greater sense of achievement or what you want in life, so.
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;Yeah.
+dtrs-11;11-linking-insights-from-cc-to-project;Will;So maybe it's more the tonality of the end of it.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Okay, so just-
+dtrs-11;11-linking-insights-from-cc-to-project;Rose;And I think also because- I mean, at least the target that we're looking at, even though you can definitely hear them, you know, sort of like lament about, you know, how they don't have time and bla bla bla, but they are indeed enjoying life, right? I mean, these are the people who are traveling, or taking pictures and like putting on WeChat and stuff like that, so- I don't know.
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;Well I guess it depends on the goal, right?
+dtrs-11;11-linking-insights-from-cc-to-project;Rose;Yeah. That's true too I guess.
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;"What is the setup for? It is to reflect what we've heard? So it's like a share back report? (..) Or is it also to put a bigger emhpasis on ""okay, we- we think we understand you, here's what we heard. But we have a lot of challenges that we want- need your help to also find the solutions for""."
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;We want them to have an-
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;[Like, what is the balance?]
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;"[We want them to have] an opinion at least. We don't want it to be like ""everything is super great""."
+dtrs-11;11-linking-insights-from-cc-to-project;Kenny;But it should be of course based on what we heard from them, that day.
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;Exactly, yeah.
+dtrs-11;11-linking-insights-from-cc-to-project;Kenny;But I think it should be both what they- with their reality, but also their aspirations.
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;Mhm.
+dtrs-11;11-linking-insights-from-cc-to-project;Kenny;So it should not just reflect the- the current reality for- for-
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;"Yeah it's like, how do we inspire them? Is it through kind of the (.) ""the darkness will come and get you, so you better come up with something?"", or is it like ""your dreams will come true, so you better make something- if you make something""."
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;"I guess then maybe the last closing line could be something like your- the aspiration part, right? Like what you said. Like eh ""here is what we heard you want to do, or have""."
+dtrs-11;11-linking-insights-from-cc-to-project;Kenny;Mhm.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Mhm yeah.
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;"Kind of leave it there and like ""okay, well, then this whole session is about achieving that""."
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Yeah.
+dtrs-11;11-linking-insights-from-cc-to-project;Kenny;Mhm.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;And this is- yeah.
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;So this is- this is more about the progress. So, the whole work session that day is about the tour'- working the progress towards the goal.
+dtrs-11;11-linking-insights-from-cc-to-project;Kenny;Yeah.
+dtrs-11;11-linking-insights-from-cc-to-project;Rose;At least more uplifting. (laughter)
+dtrs-11;11-linking-insights-from-cc-to-project;Will;I think the key words are already in the last para anyway.
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;Yeah.
+dtrs-11;11-linking-insights-from-cc-to-project;Will;Like, you know, ability to control time, space, myself, you know, to do what you actually want, the freedom for small pockets, large pockets of time and tasks and all that. Those are already, you know, what we're already talking about as far as life enjoyment.
+dtrs-11;11-linking-insights-from-cc-to-project;Rose;"Maybe if we- instead of like ""the"", like put in like ""your"", so it's like at least they have (.) it's like, at least they are already having some of it, I don't know?"
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;"I think you say ""this freedom"", right? The last sentence? It's not ""the freedom"" but ""this freedom""."
+dtrs-11;11-linking-insights-from-cc-to-project;Kenny;"Yeah. Or ""that""."
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;"""That freedom""."
+dtrs-11;11-linking-insights-from-cc-to-project;Will;"Or ""being in control"" or ""what you enjoy, what you can do, what you enjoy""."
+dtrs-11;11-linking-insights-from-cc-to-project;Kenny;"You could also say ""your f'-"" (.) but I don't know- yeah."
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;"""The freedom that you have""? No. Yeah. Also, connecting to the-"
+dtrs-11;11-linking-insights-from-cc-to-project;Kenny;That will be fine.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Also connecting to the pockets, of course the pockets could be two seconds or it could be a month. Or a week.
+dtrs-11;11-linking-insights-from-cc-to-project;Abby;"Yeah. And I think it's- it's good to have- to emphasize these pockets there, because what we kind of focused on in CHINESE CITY FROM PHASE 1 was the ""okay, endure now"", and that's from until you're fifty, and there is not these small pockets at all, it's just endurance. Hard work, and then it's freedom and happy life."
+dtrs-11;11-linking-insights-from-cc-to-project;Kenny;In the end.
+dtrs-11;11-linking-insights-from-cc-to-project;Abby;And of course it's (.) they have the small pockets, of course eh, in the everyday life as well. But in- in CHINESE CITY FROM PHASE 1 we looked at it pretty black and white. [Now it's work'-]
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;[They probably had it in CHINESE CITY FROM PHASE 1, but we looked] at it as you have this block of endurance, and then you have a block of enjoying life. Eh not- but I think here it is more like those pockets could be anywhere between a micro-pause and the day until (.)
+dtrs-11;11-linking-insights-from-cc-to-project;Kenny;Yeah yeah, they could [(.) be anything, yeah].
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;[the going to and eating salmon] in Norway.
+dtrs-11;11-linking-insights-from-cc-to-project;Kenny;But it is of course focusing, I guess, mostly on the pockets of the endurance.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Yeah.
+dtrs-11;11-linking-insights-from-cc-to-project;Kenny;Rather than after endurance.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Yeah yeah, I think so.
+dtrs-11;11-linking-insights-from-cc-to-project;Kenny;Yeah. And that's why it [becomes a little bit negative].
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;[Whereas the time perspective becomes] too grand.
+dtrs-11;11-linking-insights-from-cc-to-project;Kenny;Yeah.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Okay. So maybe do you feel (.) that you can tweak it a little bit in here?
+dtrs-11;11-linking-insights-from-cc-to-project;Kenny;Absolutely, I think we can tweak it forever. (laughter)
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;But I think more importantly (.)
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Mhm?
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;That it makes sense for you guys to translate, so
+dtrs-11;11-linking-insights-from-cc-to-project;Will;Yeah yeah yeah.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Yeah yeah, that's basically what our thoughts-
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;Yeah, and how do you want the flow. I mean (.) what we're trying to do really is just summarizing your deck into a page.
+dtrs-11;11-linking-insights-from-cc-to-project;Will;Yeah yeah yeah.
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;So, whatever you guys want to take it for it sh'- I think, it has to be suitable to the Chinese.
+dtrs-11;11-linking-insights-from-cc-to-project;Will;Sure. I think translation is no issue. I mean, we've got to bump up or bump down certain things, we can still kind of tweak it at a translation level, but making sure the essence of the few things that we wanna talk about, the barriers that they face, what they seek. Things like that, making sure that that key part- those key parts are still there.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Mhm.
+dtrs-11;11-linking-insights-from-cc-to-project;Kenny;Mhm.
+dtrs-11;11-linking-insights-from-cc-to-project;Will;Yeah.
+dtrs-11;11-linking-insights-from-cc-to-project;Rose;How do you foresee the quotes to be like? Like, short snippets, or?
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;Yeah we give a s'- example of the quote we have.
+dtrs-11;11-linking-insights-from-cc-to-project;Will;They should be just a short line for each one.
+dtrs-11;11-linking-insights-from-cc-to-project;Rose;Yeah, I think it has to be like a short line.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Yeah.
+dtrs-11;11-linking-insights-from-cc-to-project;Rose;(..) I mean, I think it's kind of nice to sort of- at least then it sounds like we did listen and kind of did remember, but we did also have too much- (..) (Off task) (..)
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;So this is the size of the quotes.
+dtrs-11;11-linking-insights-from-cc-to-project;Kenny;Yeah.
+dtrs-11;11-linking-insights-from-cc-to-project;Will;Yeah, but I think that's
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;Something like that.
+dtrs-11;11-linking-insights-from-cc-to-project;Will;Snappy enough.
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;Yeah.
+dtrs-11;11-linking-insights-from-cc-to-project;Kenny;Mhm.
+dtrs-11;11-linking-insights-from-cc-to-project;Rose;Yeah.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Yeah, it gives it some reality and context, it's good.
+dtrs-11;11-linking-insights-from-cc-to-project;Will;But we don't actually have to say who said what.
+dtrs-11;11-linking-insights-from-cc-to-project;Rose;[No, I think we should learn it from the-]
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;[No, that's not-]
+dtrs-11;11-linking-insights-from-cc-to-project;Kenny;[No, no no].
+dtrs-11;11-linking-insights-from-cc-to-project;Will;"Then Billy might say ""did I say that?"" (laughter)"
+dtrs-11;11-linking-insights-from-cc-to-project;Rose;Eh it shouldn't. Because like, actually it should be kind of generic that everybody can sort of recognize their-
+dtrs-11;11-linking-insights-from-cc-to-project;Will;I mean, it could be made up so that they can see themselves.
+dtrs-11;11-linking-insights-from-cc-to-project;Kenny;"Mhm. But I think it's also fine if they can personally see ""oh, that comes from me"", then they don't need to say anything, but they can recognize it."
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;Yeah.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Yeah. Okay. Great.
+dtrs-11;11-linking-insights-from-cc-to-project;Kenny;Yes.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Should we have a small look at our stuff before we go to lunch?
+dtrs-11;11-linking-insights-from-cc-to-project;Will;Yeah yeah.
+dtrs-11;11-linking-insights-from-cc-to-project;Kenny;Yeah. (..) (Off task) (..)
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;"So we start with evolving status symbol, which is one the- the main blocks that they- their company needs to have. And that is (.) so we write it also in our- so, like our company. So ""our product is on the forefront of what's hot, exciting, and appealing to our demographic"". And their demographic is them. So whatever they like, their demographic like and the other way around. Eh ""using showing the product makes the customers stand out in a positive way, and they are proud to talk about it. And our product enables our customers to- eh to do direct- customers to do directly and or-"""
+dtrs-11;11-linking-insights-from-cc-to-project;Abby;Yeah, to directly or indirectly promote-
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;"Yeah, ""to directly or indirectly promote their status in society"". And, we didn't elu'- explain what directly and indirectly mean, 'cause we want them to ask or discuss what that means. But we mean it in the sense- for example the domestic robot in itself is not something you brag about, but it gives you the time to do stuff that you can brag about."
+dtrs-11;11-linking-insights-from-cc-to-project;Abby;So that's a indirectly.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Yeah, indirectly. So you're indirectly eh getting a benefit from it. Or, for example that a Rolex is a tangible product, but it's not especially unique, but the brand is a s'- you know, val'- status symbol.
+dtrs-11;11-linking-insights-from-cc-to-project;Abby;And maybe something you want to brag about, but you don't want to brag about the domestic eh (.)
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Eh robot.
+dtrs-11;11-linking-insights-from-cc-to-project;Abby;Help, but you want to brag about the time and the travel experiences that you get because you have (.) [you don't have to do eh-]
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;"[""How did you have time for this?"" ""Because I have the domestic robot""]."
+dtrs-11;11-linking-insights-from-cc-to-project;Abby;Yeah. (laughs)
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Eh yeah. So, this is kind of the (.) the level. We don't want to be more complex than this.
+dtrs-11;11-linking-insights-from-cc-to-project;Abby;Or more specific or detailed.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Yeah.
+dtrs-11;11-linking-insights-from-cc-to-project;Abby;Yeah.
+dtrs-11;11-linking-insights-from-cc-to-project;Will;So I was just thinking, the example of Rolex, I'm not sure if-
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;No, no-
+dtrs-11;11-linking-insights-from-cc-to-project;Will;Well, I mean, we can still keep Rolex.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;No, no no-
+dtrs-11;11-linking-insights-from-cc-to-project;Rose;We're not showing it, it's for us.
+dtrs-11;11-linking-insights-from-cc-to-project;Will;Oh, we're not showing- okay.
+dtrs-11;11-linking-insights-from-cc-to-project;Abby;So it was just for our understanding of it, yeah.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;It was just- yeah. Just note to self.
+dtrs-11;11-linking-insights-from-cc-to-project;Will;Yeah.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;So we have written that, and when we do the handover we can go more deep- deep into like, and we have tons of also other questions that we can-
+dtrs-11;11-linking-insights-from-cc-to-project;Abby;Yeah, and- yeah. We have questions that (.)
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;Is there also something about reflection of values?
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Reflection of values, mhm, yeah?
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;Mhm.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Yeah, I think that is eh (.) let's eh write that down as something we can (.) (writes on computer)
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;(..) 'Cause it's not just about promoting status. How do they promote it? It's through their reflection.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Yeah?
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;They choose a brand that reflect their- the values they believe in.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Mhm, mhm.
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;As a very direct way to show their status in society, right?
+dtrs-11;11-linking-insights-from-cc-to-project;Kenny;Mhm.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Okay, so maybe (.) it can- maybe indirectly reflects their values and status in society? Values that gives them status in soci-
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;Reflect the status, therefore their status in society.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Yeah. Reflect their values, therefore (.)
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;Their status.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;"Yeah. (writes on computer) That is ""therefore""."
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;Their status in society.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;"Okay. (..) Okay, so it's like that. Okay? Yeah. Continuing on. Body, mind, well being. This is very simple. ""Our company knows that our demographic is very conscious eh about how their life is balanced, catering for both body and mind"". Whatever that means. ""Taking care for themself enables them to take care of others, and at the same time, eh live their own life to the fullest"". So it's about others and them and it's the balance between that. Yeah, this was very simple."
+dtrs-11;11-linking-insights-from-cc-to-project;Abby;And these are the ones that they get when they are creating the company.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Yeah.
+dtrs-11;11-linking-insights-from-cc-to-project;Abby;So, not really the product yet, but (.) what their company should be all about.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;And it's important that of course we totally respect that it is about family and it is about, you know, enduring and stuff like that, but it's also about enjoying and that is kind of living their own life to the fullest.
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;This concept is- I don't know what you guys feel. It's a very Western-
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;"Yeah, it's super Western. ""Be all you can be""."
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;"""Live to the fullest"" kind of sense. (..) What'll be way too-"
+dtrs-11;11-linking-insights-from-cc-to-project;Will;But may'- maybe not to that extreme. I mean, now they mentioned it, maybe just to the actual of, you know, that puts you in a better physical and mental shape to (.) do what really matters to you, or what you ma'- what matters to you, or what you enjoy.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Mhm.
+dtrs-11;11-linking-insights-from-cc-to-project;Kenny;Mhm.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;"What we wanted here is to- to make sure that they had focus on themself as well. It's not like ""I wanna be healthy so I can take care of (.) my family""."
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;Maybe more like f'- remember our conversation about living a legacy of good life, at the death bed.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Yeah. Yeah death bed, yeah.
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;So something about, at the same time (.) finding meaning? Something around there? More than living to the fullest?
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Yeah. I think- we wanted- yeah, so I was thinking here that it should be these pockets. Life to the fullest is that you utilize the- you make small pockets-
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;Optimize them.
+dtrs-11;11-linking-insights-from-cc-to-project;Kenny;Mhm.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Yeah, and the meaning is something maybe you find in the end, but you maybe have endured a long life, to find that in the end.
+dtrs-11;11-linking-insights-from-cc-to-project;Abby;But I guess, living life to the fullest is, what you're also saying, to doing- enjoying life and doing what matters to them and what they want to do. All of that is I think what we need with living-
+dtrs-11;11-linking-insights-from-cc-to-project;Will;Yeah, it captures that- probably- probably Amanda's point is that nobody's saying living life to the fullest has more the connotation of just (.) whole out enjoyment.
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;Very American.
+dtrs-11;11-linking-insights-from-cc-to-project;Rose;Mhm.
+dtrs-11;11-linking-insights-from-cc-to-project;Abby;Yeah.
+dtrs-11;11-linking-insights-from-cc-to-project;Kenny;Yeah. So I think it's just the expression, but I guess in translation it [will be different in that- so, yeah].
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;[Yeah yeah yeah].
+dtrs-11;11-linking-insights-from-cc-to-project;Will;[Yeah yeah yeah yeah. So we'll just copy that].
+dtrs-11;11-linking-insights-from-cc-to-project;Rose;[Yeah, that's what I'm thinking].
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Yeah? That's okay? Yeah?
+dtrs-11;11-linking-insights-from-cc-to-project;D;Utilizing their potential, or?
+dtrs-11;11-linking-insights-from-cc-to-project;Will;Could be included-
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Yeah.
+dtrs-11;11-linking-insights-from-cc-to-project;Will;Yeah, including-
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;It's like all of these tings going kind of together.
+dtrs-11;11-linking-insights-from-cc-to-project;D;Mhm.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Okay? Assurance. So we went back to the word assurance instead of safety and security. So how- and this- and this- yeah, so these two are the one they- their company needs to have,
+dtrs-11;11-linking-insights-from-cc-to-project;Will;Needs to have, yeah.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;"So that's why it's ""our company"", and then we have now the modifiers or whatever we call them. So, we wrote them as ""how might we's""."
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;Very good.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;"""How might we- eh how might-"" ah, our products."
+dtrs-11;11-linking-insights-from-cc-to-project;Abby;It's one up.
+dtrs-11;11-linking-insights-from-cc-to-project;Will;There's one before that, right?
+dtrs-11;11-linking-insights-from-cc-to-project;Abby;Yeah. There's one-
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;"Yeah. I just gonna do it this one. (..) Assurance. ""How might we secure our customers peace of mind, so that they feel assured that we are trustworthy, deliver quality, and that we keep our promises?"""
+dtrs-11;11-linking-insights-from-cc-to-project;Will;So it's not about feeling a sense of assuredness in general, but rather a sense of assuredness about a company that you go to.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Yeah, 'cause they are a company now.
+dtrs-11;11-linking-insights-from-cc-to-project;Abby;Yeah, the products actually. So, yeah. [And it links of course back to the company that makes it].
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;[Keep on the product whiteboard]. Solution.
+dtrs-11;11-linking-insights-from-cc-to-project;Will;Okay.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;So these- okay, so we have started them off now. They have read the- the good life things, that's kind of the basis of it.
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;Like the domestic robot.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Yeah.
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;"They will use the ""how might we"" to poke into ""okay, when you wanna create domestic robot, where is the assurance?"""
+dtrs-11;11-linking-insights-from-cc-to-project;Rose;So how to create them.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Yeah.
+dtrs-11;11-linking-insights-from-cc-to-project;Abby;Exactly, so they have the product already kind of defined. And then (.) it's hard to-
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;"They been here- they worked fifteen minutes already, and they something kind of building up, then it's time to maybe poke them a little bit. And then you ask them ""you know, how might you secure the customers peace of mind with this? You know, you need to be trustworthy. You're a new company, no one has heard about you before"". And then they suddenly need to think ""ah okay, maybe that thing we have, maybe we need to spend more time on emphasizing this part of it"" for example. Yes that's why we went back to the assurance part of it. Eh but yeah, whatever the translation. ""Comfort and convenience. How might our product or service provide our customer with a high level of comfort and or convenience?"" And then the- maybe a moderator question here could be ""what kind of-"" ah, sorry. ""What kind of impact does it have on the product or service, if only one of them can be present?"" Maybe it can't be comfortable and convenient, maybe it's only one of them. That's- but nevertheless the main question is ""how- how can it be comfortable and convenient"". And we were using this kind of mental model of okay, ehm comfort is sitting in a very soft chair, and convenience is having a remote control changing the channels."
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;Very nice. We should find those images.
+dtrs-11;11-linking-insights-from-cc-to-project;Kenny;Mhm.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Yeah. And you can be comfortable, but you have to go all the way up to turn out the TV. Or you can be very convenient. You can be sit'- in a- maybe a sofa that is not super good, but you can change the channels as you please. Both of those thing is great, but what would you choose if you could only have one?
+dtrs-11;11-linking-insights-from-cc-to-project;Will;Yeah.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Painful chair but remote control, or fantastic chair but no remote control. (..) Eh so maybe a (.) and what will they choose if they can only have one.
+dtrs-11;11-linking-insights-from-cc-to-project;Abby;Yeah, exactly.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;(..) Ehm. (writes on computer)
+dtrs-11;11-linking-insights-from-cc-to-project;Abby;"(..) ""Comfy."""
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;"""Comfy"" (laughs)"
+dtrs-11;11-linking-insights-from-cc-to-project;Abby;"""Equals comfort"". (laughter)"
+dtrs-11;11-linking-insights-from-cc-to-project;Kenny;Not an uncomfortable sofa.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;"Yeah. (..) Okay. Then ""environmental sustainability. How might we ensure that our product service benefits the environment and is created in a sustainable way?"" And ""how might we communicate this to our customer in an engaging, appealing way?"" And ""which emotion is evoked in your customers (.) with this aspect in mind?"" (..) Eh, and different things here is like, yeah, you know. Conflict free materials, sustainable iron control, no sweatshops, and so on and so on. And we do acknowledge that kind of the whole saving the world thing, we don't have to go there at all. But we might wanna go to, I have a circle we drew which is like ""I wanna take care of myself and my family, so I wanna make sure that I buy the rice from the right store"". But then you start to think ""okay, maybe what about where the store buys it from?"" and you go one circle out again. ""Ah, it's this factory, okay. What kind of water do they use in that factory?"" and go one level out again. And this is kind of the (.) the path, you know. It's not like the tree-hugger apporach, it's like ""I wanna secure myself and my family"" that you- you reach outwards, and at one point you reach (.) maybe you start asking yourself ""is this sustainable?"""
+dtrs-11;11-linking-insights-from-cc-to-project;Rose;So the environment will be environment environment, right? So, uhm, in case they kind of go back to the environment health kind of model, like the formaldehyde type of thinking, then we bring it back up to the eco
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;I think so, yeah.
+dtrs-11;11-linking-insights-from-cc-to-project;Kenny;Yeah.
+dtrs-11;11-linking-insights-from-cc-to-project;Abby;Yeah.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Yeah, most definitely. It's a very kind of- it's a classic- yeah, we want to get them out of that track, the material emission and stuff like that- unless it comes through as an example for something else, something bigger.
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;Do you think we should split the first question in to two?
+dtrs-11;11-linking-insights-from-cc-to-project;Rose;Yes, this was what I was thinking.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Mhm?
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;"Yeah, 'cause I think benefit of the environment is one, and a second that we can probe about ""what- what is your understanding of sustainable?"""
+dtrs-11;11-linking-insights-from-cc-to-project;Abby;Mhm.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;As a modification- as a mod-question, or as a- as a- it's only the thing?
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;"A second ""how might we""."
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Yeah, okay.
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;"""How might we ensure that our products always benefits the environment?"", yeah. ""How might we (.)"""
+dtrs-11;11-linking-insights-from-cc-to-project;Abby;"""Create a product that's sustainable?"""
+dtrs-11;11-linking-insights-from-cc-to-project;Kenny;Yeah.
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;"""How might we (.)"""
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;"""Secure a sustainable product?"" Promote? Produce?"
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;Promote?
+dtrs-11;11-linking-insights-from-cc-to-project;Kenny;Yeah, secure sustainability.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Promote?
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;Promote this product or service (.) in a sustainable way?
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;But then you're talking about the promotion action.
+dtrs-11;11-linking-insights-from-cc-to-project;Will;[Yeah, it's all- the whole process].
+dtrs-11;11-linking-insights-from-cc-to-project;Kenny;[And that's a completely different thing].
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;"[Yeah yeah yeah], ""how might we (.)"""
+dtrs-11;11-linking-insights-from-cc-to-project;Abby;"""Do this create-"""
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;"""Adress""?"
+dtrs-11;11-linking-insights-from-cc-to-project;Kenny;Yeah, create or [(.) or secure sustainability].
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;[Adress the sustainable].
+dtrs-11;11-linking-insights-from-cc-to-project;Will;"[Or should we just- ""how do we ensure] the business is"" (.)"
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Sustainable?
+dtrs-11;11-linking-insights-from-cc-to-project;Will;Yeah.
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;Yeah.
+dtrs-11;11-linking-insights-from-cc-to-project;Will;It's not sustainable, but it's (.)
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Yeah.
+dtrs-11;11-linking-insights-from-cc-to-project;Will;It's driving a sustainable (.) lifestyle or profit.
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;"""How might we drive (.) [drive s'- drive sustain'- yeah]."
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;[Sustainabi'- sustainability through this product?] Yeah, mhm.
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;Drive sustainability.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;"(..) Sustainability ""through our projects""? ""Through our product""?"
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;Through the product or service.
+dtrs-11;11-linking-insights-from-cc-to-project;Kenny;(..) Sustainability.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;"(Writes on computer) (..) Okay. Okay. It's okay? And then, ""sexy commitment. How might our product service's story enable our customers to feel enligthened, aware, responsible, and elevated in regards to the environmental sustainability?"" And this is the one we are most unsecure about, so how can we-"
+dtrs-11;11-linking-insights-from-cc-to-project;Will;Actually we were talking about that actually during our discussion, but because (.) what is- that was my impression that when we talked about sexy commitment, right? This was (.) this all arose from the whole discussion about the environment and sustainability.
+dtrs-11;11-linking-insights-from-cc-to-project;Abby;Yeah.
+dtrs-11;11-linking-insights-from-cc-to-project;Rose;Part of it, the- so how is it-
+dtrs-11;11-linking-insights-from-cc-to-project;Will;We didn't really see it as a different thing.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Yeah.
+dtrs-11;11-linking-insights-from-cc-to-project;Will;This is more like a more intense, richer version of the whole topic of environment and sustainability. So, it's almost like extension, if you're gonna throw in the modifier of the environment and so on, this is like- like the additional probing.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Yeah, that was- we saw it as a modifier of the modifier in a way.
+dtrs-11;11-linking-insights-from-cc-to-project;Abby;Yeah, exactly. We talked about the exact same thing, that because [it totally belongs to the enviroment].
+dtrs-11;11-linking-insights-from-cc-to-project;Will;"[Because if you treat it separately then they might say] ehm, ""okay, isn't it just related to what we just said, you know, then the company should do this, do that"" and something like that, but-"
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;"But here- this is the- eh the company should definitely do it, but then of course, they need- how do we- and that's the the second one, ""how might the commitment responsibility in the realm of environment sustainability, add to our customers social status and feeling of understated brag-able accomplishment?"""
+dtrs-11;11-linking-insights-from-cc-to-project;Rose;It's the self work part (laughter)
+dtrs-11;11-linking-insights-from-cc-to-project;Will;This is like digging up their sub-conscious
+dtrs-11;11-linking-insights-from-cc-to-project;Rose;Yeah.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Yeah.
+dtrs-11;11-linking-insights-from-cc-to-project;Will;To their consciousness. (laughter)
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;"Yeah, no definitely. 'Cause we wanted- yeah. As we said yesterday, we want them to (.) ""I'm doing something, I'm sacrificing something over here, to gain something over here. I'm going- I'm using my free time, which I worked so hard to get, to help out in a school over there, so that I- people will see me, hopefully see me, understant what I'm doing and place me in society here, which I wanna be""."
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;"So maybe that's the first ""how might we"", not (.)"
+dtrs-11;11-linking-insights-from-cc-to-project;Kenny;Mhm.
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;So, the first one, it goes from (.) you, right? Actually you want it to come back to you.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;You want it to come back to you, yeah.
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;"""How might (.) how might"", it sounds a bit weird. ""How might"" (.)"
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;"You want it to come back to you, you want it to be a circle. Like ""sacrificing something here, gives me something there, which is more worth"". Like ""I'm doing something for others, which is good-"""
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;"""How might we (.) help the customer to express their commitment?"""
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Mhm?
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;"""How might we (.) enable the customer to express their commitment?"""
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;(..) Showcase, express, communicate.
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;"To express their commitment to environment sustainability? To, not through. (..) Or of, ""to express their commitment of (.) environmental sustainability (.) in the context of social status and accomplishment""?"
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;"""In the realm of"", or?"
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;Yeah, in the realm.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;In regards to?
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;In regards to (.) the feeling of accomplishment?
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;(..) In status?
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;To the feeling of accomplishment.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;"But it needs to be brag-able. 'Cause like, or else we're gonna be like ""I am very-"""
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;That's the express part, no?
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Yeah, yeah maybe.
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;That's the bragging (.) where you express-
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;"Yeah, we don't want like ""I am very proud of my family""."
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;Yeah.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Yeah.
+dtrs-11;11-linking-insights-from-cc-to-project;Kenny;But I also feel like it's a little bit too direct, to [ask if it's brag-able].
+dtrs-11;11-linking-insights-from-cc-to-project;Rose;[Yeah, this is what we're thinking, it feels like-]
+dtrs-11;11-linking-insights-from-cc-to-project;Will;[Yeah, I think bragging is- yeah].
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;So, yeah, so-
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;"""How might you"" (laughter)"
+dtrs-11;11-linking-insights-from-cc-to-project;Will;"""I want to brag!"""
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Yeah (laughter)
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;That's why I think to express is- you can express it differently. Showing us eh location status [is an- a way to express].
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;[Yeah, that's-] that's where we wanna go. The having location on on your Instagram photo or eh.
+dtrs-11;11-linking-insights-from-cc-to-project;Abby;Yeah. But maybe this one should just go under the (.) the other one. This bullit there.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Ah yes so it becomes like here?
+dtrs-11;11-linking-insights-from-cc-to-project;Abby;No, so it goes [under that environment-]
+dtrs-11;11-linking-insights-from-cc-to-project;Rose;[The previous slide. So together] with environment.
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;No, ehm.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;But so we wanted this to be- we wanted this to be- why we have this, and it's like a modifier on a modifier, but we- it is so important for us that we want to have a focus on it.
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;What did you write there, human what?
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Human stability?
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;Yeah. So it's not just about environment sustainability anymore.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;No.
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;So (.)
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Yeah. So we have induced- the- yeah. So it's not only about that.
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;Commitment to society? To wider society?
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;"Yeah. Yeah yeah. That's good. ""To wider society""."
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;Commit'- yeah. To express their commitment (.) to the wider community?
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Ah this is going somewhere. (..) Community?
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;Yeah. Or enable as well.
+dtrs-11;11-linking-insights-from-cc-to-project;Kenny;And maybe even community is too small.
+dtrs-11;11-linking-insights-from-cc-to-project;Abby;Yeah.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Yeah?
+dtrs-11;11-linking-insights-from-cc-to-project;Abby;Society.
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;Society.
+dtrs-11;11-linking-insights-from-cc-to-project;Kenny;Yeah, society is- is bigger, at least.
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;"""or enable them to express their (.) to express their commitment""."
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Yeah?
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;"""To express"" (.) well they come up with commitment, so they should understand the context of what does it mean, right?"
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;(..) If you mean society-
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;"It's not commitment to the wider society. ""Express their commitment- to serve""? Or ""to give back""?"
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;"""To- to responsibility (.) over the wider-"" or ""commitment""?"
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;It's about giving back, right? And that's what we want them to brag about.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Yeah. They're giving back to get something back. Hopefully. But it's- it's the classic- like, it's the ulti'- it's the ultimate sacrifice. You give something without asking anything in return. But if you get something in return, it's really good.
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;So I'm just thinking about the story where they show the location,
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Mhm?
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;Without explicitly (.)
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;But that's a little disconnected. 'Cause that is about pure status symbol. Here we want them to help out at the school (.) and you show the location- yeah okay, so you show the location of that school in a photo, like I have a good friend in SCANDINAVIA, and she's eh super first world, super SCANDINAVIAN, eh eh tons of money, eh and eh she (.) quit her job to go- she was between jobs, and then she went down to Greece, to help the refugees coming in land, which is a good thing to do. But (.) she was, several times a day, posting images of her holding babies, saving babies. To- and why did she do it? I don't know. Did she do it- did she do the whole thing to promote herself? It was done in a very uns'- understa'- or not understated.
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;Okay. So it's about finding that connection, right? Connection point, so.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Mhm.
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;The commitment part is that you (.) want them- you want the customer to be able to find the connection of the- what choices they make in choosing the product that is according to their value,
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Yes.
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;As a way to give back.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Yeah, yeah. You want- you want that to be (.)
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;It's a reflection of value again.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;It's ref'- it's a- definitely a reflection of value, but it's important to you. You can't really say it, but it is important to you, deep down, that this-
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;To express, to express this.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;That this is- this reaches a surface level.
+dtrs-11;11-linking-insights-from-cc-to-project;Kenny;"And that's the point, you can't say it because [it just sounds wrong when you say it in your own words like, ""I'm a super good person-"" yeah]."
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;[Then it breaks].
+dtrs-11;11-linking-insights-from-cc-to-project;Abby;[Exactly].
+dtrs-11;11-linking-insights-from-cc-to-project;Will;[That's the thing].
+dtrs-11;11-linking-insights-from-cc-to-project;Rose;[That's the thing]. (laughs)
+dtrs-11;11-linking-insights-from-cc-to-project;Will;So we are trying to say- say something that should not be said? Dare not be said? (laughter)
+dtrs-11;11-linking-insights-from-cc-to-project;Abby;No, but maybe it's okay that they are saying it and discussing it, because they are making a product that-
+dtrs-11;11-linking-insights-from-cc-to-project;Will;Ah yeah yeah yeah, okay.
+dtrs-11;11-linking-insights-from-cc-to-project;Rose;Yeah yeah yeah.
+dtrs-11;11-linking-insights-from-cc-to-project;Abby;So they need to-
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;"And this is why we used their company, [""this is not us, it's not us!""]"
+dtrs-11;11-linking-insights-from-cc-to-project;Abby;[Yeah, exactly], it's not really them, but they are producing something that others should (.)
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;Okay, let's think about the domestic robot.
+dtrs-11;11-linking-insights-from-cc-to-project;Kenny;Mhm.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Mhm? So the domestic robot is helping at the school. (laughter) While they are traveling, eating salmon in Norway. (laughter)
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;So they buy the domestic robot, because (.)
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;So they buy it for several reasons, they buy it because-
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;To free up their time at home, so they can go out and contribute.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;That could be one thing. Or, or, they- eh that's one thing, and, eh they also buy it because it is made of conflict free aluminum,
+dtrs-11;11-linking-insights-from-cc-to-project;Abby;Exactly.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Eh compared to the other domestic robot, which is made of like eh some really really bad stuff.
+dtrs-11;11-linking-insights-from-cc-to-project;Will;(INAUDIBLE) aluminum.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;[Yeah, conflict aluminum].
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;[So, one is aware-] so, one is the understanding the knowledge (.) of what this robot made of,
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Yeah.
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;"So it's the material, it's like the BMW. ""I know that BMW used this material. I like that as a value. That's why I buy it, because it reflects what I believe""."
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Yeah, reflects who we-
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;"So that's one. That's the commitment, right? ""I'm committed to what the brand is committed to""."
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;"Yeah, and ""I pay more, I do more research, it takes more time, but it reflects who I am in the end""."
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;"Yes. And the second one is that ""by buying this, it enables me to open up my time and my commitment to the other things""."
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Yeah yeah.
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;Okay, we need two- two of these there. (laughs)
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Mhm. Hold them- hold them there! 'Cause that is super liquid, this thing! (laughter)
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;Okay, first it's about reflection of value, what the company does and what I believe in. Something around there.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;"(..) ""How"", okay. So far so good. (laughter) ""might we"""
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;"""How might our product"" actually, right?"
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Yeah.
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;"""How might our products"" (.) is it about telling the story of the commitment behind it?"
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Mhm, showcase, communicate
+dtrs-11;11-linking-insights-from-cc-to-project;Abby;Yeah.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Emit. (laughter)
+dtrs-11;11-linking-insights-from-cc-to-project;Abby;So maybe it's actually some of the last eh is it some (.) to feel aware or enlightened? (..) (Off task) (..)
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;"Yeah, it's kind of what we try to say here, but like ""how might our product"" (.)"
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;"""How might we communicate (.) how might we communicate our product or services""."
+dtrs-11;11-linking-insights-from-cc-to-project;Kenny;That's in- it's in the one before, wasn't it?
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;"So we have in this one (.) we have ""how might you communicate this and this by meaning?"""
+dtrs-11;11-linking-insights-from-cc-to-project;Kenny;Yeah, and the next one is also referring to the same topic, environment and sustainability.
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;But it's more about the action than the actual material.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Yeah.
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;That's- that's why it's the modifer of the modifier.
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;Yeah, that's why it's the modifier of the modifier.
+dtrs-11;11-linking-insights-from-cc-to-project;Amanda;"The first one is more about ""the metal comes from there"", but choosing a metal that comes from there is this (.) [committed, yeah]."
+dtrs-11;11-linking-insights-from-cc-to-project;Ewan;[From there, it shows that I am aware and] committed. Sexy commitment. (laughter)

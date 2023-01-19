@@ -1,0 +1,363 @@
+dataset;session;speaker;utterance
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;Let's have a (.) a separate one called a product, right(..) even though we're not going for it all the way (.) I mean  the product they come up with is not something that we (.) really (..) want to continue with, but maybe just some of the thinking around [what] was [important] (.)
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Tiffany;[mmh]
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Kenny;[was important for them]
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Nina;Yeah like the product should be able to create value for (.)
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;mmh
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Tiffany;mmh mmh
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Nina;for the society like later on, or like you know, like (.) there was kinda of the recycle balls and like
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;yeah and it's very much in to the story (.) but I'm just thinking maybe there are some (..) more specifics for the (..) what we need to remember for the products (..) if any
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Tiffany;mmm (..) (Off task) (..)
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Kenny;I think the important thing is of course (.) the hole thing haha but the service as the most important thing, but the service couldn't do it all. It have to have a carrier of some sort
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Tiffany;mmh
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Kenny;maybe it's a physical product or something else(.) I think we could- maybe it's nothing important
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;"and I was actually thinking of that, because it's- it was so strange that they didn't just say (.) ""it should just be an app for my phone"" I mean they have their phone on them ALWAYS (..) but (..) maybe they didn't think of it or we didn't ask them. It's kind of - if there needed to be a carrier, if it was a (.) watch or a terminal of"
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Tiffany;yeah
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Kenny;but they didn't see their phone as the carrier
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;yeah exactly
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Nina;but they could
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;hmm?
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Nina;if it's kinda good no?
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;yeah? Maybe but I'm thinking eh I mean (..) if it needs to be convenient and all of the extra things that I'm saying, it almost SHOULD be the phone
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Kenny;yeah 'cause we (.) we didn't need to ask into environment, it could be because they only want it to be on the phone
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;yeah
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Kenny;maybe the- maybe they feel like it's (.) if it has to be a good service, it has to also be some different kind of carrier on the phone
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Tiffany;or if they are focused more on things like this (touches her watch) wearables and apple watches
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;yeah
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Tiffany;and (INAUDIBLE) about the health and medical stuff (.) and then you don't rely on the [phone or the other]
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Nina;[yeah you don't really (trust your phone on your body to do?)]
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Kenny;I don't think it was [because of
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Rose;[because it was much more] specific to health so there had to be something that would (INAUDIABLE) to get it
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;mmh
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Rose;But I guess (.) if we have a carrier it's much easier to tell people that or to also
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Kenny;Like a talking of the new thing you bought
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Rose;yeah alright as it's much more like in the real life if feels more- because I think they were thinking that the thing itself should be (INAUDIABLE) able to functions beyond just the services
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;mmh
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Kenny;ehh
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;so maybe the- maybe the point was actually that (.) it had to be, yeah, some kind of wearable (.) a wristband or something like that? But the service it self would be available on the phone firstly
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Tiffany;yeah
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;so they like read information whenever they [wanted to], so that was kind of (.) the service
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Tiffany;[yeah]
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Nina;connected
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;yeah exactly, so it would monitoring whatever (.) some kind of small devices in your house, in your (.) ATM air cleaner or something on you, and then you could (.)[see the services]
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Tiffany;[actually see. As they mentioned the IPad]
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;Yeah, yeah they mentioned the tablet exactly
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;yeah
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Kenny;so should I write that down? Like the (..)
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;write (.) what we just said hehehe
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Tiffany;haha
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Kenny;haha
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Rose;haha like you just said
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;like I just said here (everyone laughs)
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Kenny;okay hehe
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Tiffany;fine hehe okay
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;I'm writing 'customisation is the uniqueness'
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Tiffany;yeah!
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;they talked about making it eh unique and (.)
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Tiffany;yeah, yeah
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Kenny;okay
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Tiffany;that where also more at THE COMPANY office, that eh sometimes the copies are out before we launch ours, because (.) we have pre-shown them and they are so fast and it get copied so it should be our stuff should be really unique things, that can become- there is a lot out there
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;okay
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Kenny;you should see it as wearables, something that measures things - blood sugar (INAUDIBLE) and they want some thing out of that (.) something (.) a service
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Kenny;They weren't straight here about what they wanted it for? Anything, something healthy or something. They weren't like super clear what were they - did you get any (.) specific things about 'more like that' , 'yes, we like it to be like that' (.)
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;I guess I didn't really agree. It could be [anything from]
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Rose;[yeah could be different ideas]
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Nina;for instance to help them, to give them solutions or monitor at least
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;Exactly (..) and all the way down to even (..) even some kind of eh advice for some Chinese medicine, because of [the review]
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Nina;[Yeah, point out the social-]
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;and make the acupuncture ahaha it self
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Nina;yeah that was kind of, yeah, extreme, but
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Tiffany;mmh
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;but down to the solutions, but the newer that the normal medicine hehe (.) that they couldn't get that from the- from the robot, because it had to be a real eh (prescription?)
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Rose;a bit about the Chinese medicine. He was trying to sort of (.) create like who is into the (…) with the questions to do it, because he could understand like, it was better we take pulse to kinda and (INAUDIBLE) it suggests by fitting and the sending up the pulse flow, how your health is, so that- because people understand that symbol and then understand how a robot might be able to (mime?) the same things. on the other hand if we just had a robot so say that (.) eh so you need some kind of technology or something like that, that then can tell you that- here's- can be like (accuracy?) tell you about variables, statistics and then- then there is the last credibility because like, how can a robot possible be able to understand so much, so
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;hmm ah yeah yeah yeah
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Rose;because what they were [trying to- to]
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;[yeah that's right]
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Rose;so I guess if you have, let's say a robot, just to build a very technical basically, you mustn't say- because there is a pulse on this, or pul- a system behind that is supporting the robot. So I think what you are trying to do is to create a- a like a resent to believe to make it a more compelling story like, how do you go about doing this
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;[mmh mmh yeah]
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Kenny;[it has to be incredible]
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;so something about (.) actually explaining the (.) the functions, or how it's made [for them] to actually trust that
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Rose;[mmh]
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Rose;yes
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;okay it is [okay, isn't that just like] a close system, it is actually something getting like I don't know information or all over the internet
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Rose;[it's a trustworthy system and accurate (.) yeah]
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Rose;so then I guess if you go back to the accuracy thing, then it creates more credibility, it get's more weight
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;mmh mmh
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Tiffany;yeah so we should combine- (long break)
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Kenny;(.) 'credible key functionality' there
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;(Abby hands over a post 'it to Kenny with the text 'explain the full product to create trust')
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Tiffany;and the product should really be easy to use as they talked about
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Kenny;yeah
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Tiffany;yeah
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Kenny;ehm
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Rose;(points at wall) (INAUDIBLE)
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Tiffany;convenient and easy to use
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Kenny;I- I would like to (.) write it in a different way
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Tiffany;you're welcome hehe (everyone laughs)
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Kenny;I just think it's it's gonna be shallow to say 'easy to use'
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Tiffany;mmh
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Kenny;everybody (.) can agree to that
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Tiffany;yeah
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Kenny;ehm (..) It's something about (.) understanding their their everyday life, when it's convenient for them
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Tiffany;mmh
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;yeah
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Kenny;and how do they use their (services to get inspired?) maybe it's much about this personalisation
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Rose;yeah I [think-]
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Kenny;[that's a big part] of making it easy to [use]
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Tiffany;[mmh mmh]
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;[mhh] And I think the new dimension - the thing that it should be easy to use WHEN I need it
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Kenny;yeah
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Tiffany;yeah
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;So if its on the go, if it's when he is [sitting idling in the car] something so- it's not just the 'easy to use' and it needs to be user friendly, but it's it's the whole thing about
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Kenny;[precisely]
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Tiffany;[own needs]
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;[personalizing] exactly. He can just use it (.) just when he [wants to] and another one can use it whenever he [wants eh]
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Tiffany;[mmh mmh]
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Rose;[that the phrase use as (willingness as e Rén made?)  so amusing the hu- the person as the s- source that everything should come just stream from  the user it self ehm actually in the eh the one where we had to give name at the very very very end, where we gave a name to the thing (.) ah I think it was when we said here's e Rén, so Rén is people, person so- so e Rén, that is the little face we used, so that we use the person as the source and everything should stream from the person
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;yeah
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Rose;but then (e Rén mit?), is like respect, not just, you just from the person himself, but you are respecting the person as something
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;mmh
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Rose;so then I think it's the idea behind the personalization [and like using it when ever]
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;[Yeah (.) human centred design yeah yeah]
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Kenny;mmh mmh (..)
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;and that's again all about what's what's THE COMPANY saying in (.) in the [values]
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Tiffany;mhh [Yes, yes,] it really is (.) mmh
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;It fits to THE COMPANY
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Kenny;yeah
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Tiffany;it does hehe it does (.) we know all this, (it fits the?) we are- where we are
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Kenny;yeah we need to find the [way how to utilize it]
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Tiffany;[yeah yes] (long break)
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Kenny;we have something that was the perfect thing that they said (points at post-it on wall) it was all about the service, they don't really care about the (flat?) of the thing
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Tiffany;mmh service (equipment?)
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;just this 'competegaming' (.) [part] in the product, they talked [a little bit about that]
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Tiffany;[yeah] [yes they did]
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;kinda the
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Rose;(INAUDIBLE)
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;I'm gonna try that with my-
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Tiffany;mmh share with others
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;yeah
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Rose;like social
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;yeah
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Rose;(this remind me of?) 'cause they could get more people involved, if you need it for yourself, you share, but then if you (.) if you make it a game everybody want to take part of it
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Tiffany;yeah
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;mmh
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Tiffany;yeah
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Rose;cause even if you want to share with someone else it's just like (.) still one-way the way you are going to that person, but then if everybody involved (in cleaning?) it becomes a lot to easy, its (parmore? Parmore?)
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Nina;also (..) the (.) Yen was the one who mentioned that the (.) about the prizing, that it should be re- basic prize tags of thousand of dollars and eh the basic models can be cheaper (.) it depends on the technology like value the technology, like of course if they have a very high (lock?) product it gotta be cheap because it's basically (..) and then they also talked about the (..) (terri boards?) like giving prices (.) for something (..) do you remember? (..) the (..)
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;what was it with the?
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Nina;something with the price is like ehm an actual rewards (..) eh
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;ah
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Nina;with a service can't find it I wrote something about it
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;was it when (.) in the compete thing [so they] could win something?
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Nina;[yeah] yes yes yes
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Rose;ahhh
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Kenny;the three spoke about monitor or a medal or something
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Rose;yeah yeah yeah the reward
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;yeah
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Kenny;mmh mmh (..) ehm (..)
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Nina;so they are willing, seem more than ready to like (.) going to those competitions if they have an incentive to win something for free
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;mmh
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Nina;and that's how I guess why they are doing the one with the child seat right now as well
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;yeah (.) I think it seems- it sounds strange to me
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Kenny;with the
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;somehow that (.) that people like this (.) kind of eh wealthy (.) are really into this, the thing about getting something for free. I mean (.) what's it
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Kenny;well (.) I think what I head from (.) I think one was that, what he wanted to have is a- someway where he could [showcase] that he was successful
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;[yeah!]
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;yeah [exactly ]
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Kenny;[his goals]
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;but not maybe in the way- not maybe to actually get a prize [it's like a physical item 'okay not just' but to show off that 'oh I totally ' ]
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Kenny;[ I think eh that actually value ] [yeah yeah] this is a token of my [surface ] this and-
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;[exactly!] exactly and then that's easy to is as s- [kind of a status symbol]
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Kenny;[it definitely a status symbol]
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Rose;I think it is a (.) like a cheap thrill right? Like, you don't care for it [and then like to] kinda get it, it gives you that that shot- shot of high a little bit
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Kenny;[to get]
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;yeah
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Rose;you know right, if you like 'uh it's pretty cool' right (.) and that kind of additional (..) (Long pause when Kenny writes on a post-it)
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Nina;and then I guess this goes with like, with Susan said before (.) in the other session. I mean I wasn't in the group but first thing I think that she does something, because eh her friends (.) like want her to kinda do it or like do it- no, maybe not Susan, it's like ' I don't really want it, but like I want is because other people want it and I can show that I can do'
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;yeah exactly that was Susan, exactly yeah (.)
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Nina;it kinda goes with the incentive part of this like to brag like ' okay my friend want it, then I want it to and then if I get it then I can be like oh yeah'
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;yeah and the funny thing (.) with her- the way she said it was that 'I want to (.) be able to do what other people want, but can't'
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Tiffany;mmh mmh
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;so it wasn't 'what I want to brag to these people' but it was what [they want. She wants to do that] if they could. (.) so really yeah
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Tiffany;mmh mmh yeah]
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Rose;status
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;yeah exactly! It's only [status it's ] not about what you actually want your self, because that- the status is more important to her to actually-
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Rose;[yeah it's only status]
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Rose;but I  guess  that's (.) what you want as a self satisfaction right
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;yeah yeah
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Rose;the thing it self (.) is the
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;too
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Tiffany;and the thing you
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;yeah feel different or kinda dammed to express
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Tiffany;the thing you wrote there actually to show my- the goals and successes and my goals- that you can do in THE COMPANY PRODUCT like if you're, you can compete, you could compete (.) if you- if you have a product like who are environmental or friendly (driver?) for instance and then you can share it and show it
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Kenny;mmh mmh
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Tiffany;so it is a way of competing and (..) the way you are the best among your friends or THE COMPANY PRODUCT drivers
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Kenny;mmh
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Nina;even I have the better (mojo?) kind of thing, like 'you have the standard' 'I have the better one'
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Tiffany;mmh
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Rose;so this is the extra functioning does having it, then it makes the other person really want it
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Tiffany;mmh mmh yeah
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Kenny;we did see that yeah (.) and it did actually - we did actually make (..) a lit- small concept around it. (but I think we changed it on the way?) so it became a buyer quality instead (..)to the story about the (..) you need something (INAUDIBLE)
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Tiffany;mmh
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Rose;I think the native Asian is that- it shows status in a different way, like because you know we were talking about like how to push people in kind of to want to show off their status right, and it- I guess the target that we are looking at now are no longer (want's to?)  push it or go and in that kinda sense , and this time it's very hard for the Chinese to actually commit to and say 'that I want show off my status', so it has to be like to these other ways to kinda show off your status
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Nina;then we can see like the Susan, what she said that now they mention to the whole group, they can not (INAUDIABLE) (long break, Abby is taking notes)
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;Heidi said something like (..) 'it had to be a cool pro- product and save your time and then it should also (.) solve a problem'
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Kenny;yeah
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Tiffany;they want a little to much
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;mmh?
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Tiffany;they want a little to much
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;hehe I think maybe it kinda goes together (. ) that is solves the problem (.) and by that problem it solves it's kinda saving them some time [but] and then they kinda (change agents?) but it's something cool eh or nice or what she wrote also on the pitch, yeah cool, fun, use
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Kenny;yeah
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Rose;and the ones (.) comes the inconvenience (..) (long pause)
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Rose;I head what Will was talking about yesterday about his company is another marker, premium right, because he feels, you kind of do that, as the (INAUDIBLE)
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Nina;can I (.) so Heidi said that eh she saw the advertising with the shoes (.) the (INAUDIBLE) so it's like me it's like the other generation
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Tiffany;arh sure
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Nina;yeah so (.) maybe that is something (..) do you remember that Abby?
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;Yeah (.) eh yeah (.) so it was when was it? In relation to [what (..)I think it was] (.) Yeah (..)
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Nina;[it was advertising]
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;So was it in how to show the environment? That is was environment friendly (..) how to(.) I remember she said something about to- that to show this (.) or she- there was this eh add ware
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Nina;yeah it-
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;it was shown to sure that it- its something that you have for generations or [something like ]
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Tiffany;]yes yes ] lifestyle and
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;yeah
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Nina;yeah and I think it kinda con- (corrects?) with the eh companion (.) life long companion
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;yeah yeah
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Nina;did you know like even  if you use it in (.) you know some other ways to use it
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;yeah
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Nina;like you have the personal (.) attachment to it or family attachment
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;yeah
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Tiffany;it's like my father had a COMPANY PRODUCT, I have a COMPANY PRODUCT and my (kids?) have a COMPANY PRODUCT
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Nina;and this- that's the case from the (.) the Phase I videos, he knew so much about THE COMPANY he was in a THE COMPANY club (.)
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Tiffany;mmh yeah
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Nina;you really gets (ways?)  (long pause)
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Tiffany;is APPX something? (.)
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Rose;sorry?
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Tiffany;APPX it that something? (.)
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Rose;A-P-P is just ehm the apps (.) okay? Like the apps they have, but they say 'A-P-P', they don't say the word app.
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Tiffany;ah ah they ahh 'cause I was like listening and wondering (laughs) yeah
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Rose;(laughs) and they say APP hehe 'cause they don't know how  to say the word app.
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Tiffany;haha (more laughs) okay  then I know (laughs) because I wrote when the other group was presenting, they said that it should be an 'A-P-P'
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Rose;yeah the- they have a funny way to say  things so app [is A-P-P]
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Tiffany;[and stores] and to shops and channels
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Rose;skype is S-KY-P
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Tiffany;ah uh yeah
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Kenny;s-ky-p that's kinda cute hehehe
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Tiffany;yeah
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Rose;H&M they just say H-M (.) (INAUDIBLE)
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Tiffany;mmh
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;(hands over a post-it to Kenny)
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Nina;yeah and that the products are probably quite word of mouth (.)
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Tiffany;mmh
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;I think (.) ehm Winnie talked about (..) I think it was in relation to the whole health eh system that (.) it should solve minor things before- before it god to serious, so it was some kind of eh monitoring thing was to to really eh prevent [the things from happening]
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Rose;[yeah definitely]
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;yeah [exactly (..) ehm]
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Nina;[also someone else said, but]
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;I was just kinda thinking how we can count what
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Tiffany;(is preventive?)
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;yeah exactly, and it's of course the- the best care and everything right that
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Tiffany;yeah
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;so I think that could als- also kind of a (.) a (quit?) area to (..) prevent things from happening
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Tiffany;yeah
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;and have the assurance that 'okay [(.) I'm kinda safe' ]
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Tiffany;[yeah and also] all the safety features (.) the one in the cars prevent you to have an accident and injury your self (.) to tell a story around it (e-warning?) (..) and prevent to get stuck in a lawsuit because of the Dash Cam can prove that you are nothing wrong (..) yeah (long pause)
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Rose;we got the important so-  I think 'assurence' is the examples that we have what (last week right?) we need to come back to 'peace of mind' so 'assurance' it there that we
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Tiffany;I like what they said about THE COMPANY like ehm 'THE COPMANY has air purifier, your health is not in a danger when you are in a COMPANY PRODUCT' (..) they have captured so much about our values
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;yeah yeah
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Tiffany;the people who knew, they knew a lot of- for me this also like eh they are showing a real interest in a product they have chosen and that's - they take ehm try to learn as much as  possible as well as- and that the information must be really easy accessible (.)
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Kenny;yeah maybe we come back to that at 'risk' a big risk of eh of loosing our trust in things yeah giving some promises that turned to- yeah (.) and I know that CHINESE CITY on street level -  it actually impossible for us to keep our level or apartments - like the air filtering system kinda following the- or street level
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Tiffany;yeah mmh yeah (long pause)
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Kenny;But it's a good start to tell, but we need to tell it the right way without to big promises like CHINESE CITY because surely we are in lead maybe with other layers, but we are definitely in-
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;In (gets?)
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Tiffany;We can not say health- your health is not in danger ,[you- what's sells]
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Kenny;[yeah we need to use different words ]
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;well sales channels eh I think it was Winnie who said this thing about it was almost like 'internet dating', because you [could]
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Kenny;[yeah]
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;do you have it there?
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Kenny;yeah
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Rose;online flirting
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Kenny;yeah I have it in the  (INAUDIBLE) to experience it, that it was like the internet dating, that you are flirting online first and not your point, that you have to see her or him on- in real life
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Rose;yeah
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;yeah maybe move it over there (points at post-it) (long pause)
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Tiffany;it's good that we have these eh legal department on 'how to express yourself' to not the be claimed like the US, but is really
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Rose;(INAUDIBLE)
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Tiffany;yeah so we always need to (.) know how to express ourselves (..) yeah (long pause)
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;(hands over a post-it to Kenny)
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Kenny;the green stuff 'create ambassadors' (reads from text on post-it)
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Rose;what is that? Okay create ambassadors
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Kenny;yeah
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;arh yeah! Abo- in the story, do we have some green back, ehm Yen said something about ' it's all about high-tech and intelligence' so the intelligence thing- it's a little bit on the smart living maybe- maybe it was that he just had-
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Rose;He was always said that the I-watch was I for Intelligence
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Tiffany;yeah (long pause, Abby writes on a post-it)
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;on yeah (corrects placement of post-it) well it it's the totally (..) eh (.) yeah (long pause)
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;there was something about access (..) well he had also talked about- also before, Yen, the thing about 'anytime anyplace' you have the access to [all of your] data
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Tiffany;[mmh yeah] I wrote that too (..) accessible when I want it to be
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Nina;(how ever look like?) (INAUDIBLE)
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Rose;hehe because it's an Asian woman
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Nina;(that the one?) (..) must have the (uni?-INAUDIBLE)
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Tiffany;hehe  (long pause)
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Nina;(reads from notes) that the company can actually recycle it, that they can take it back
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Rose;mmh yeah that (points at poster) that was the going back to the 'environment',  that was the energy recycling -
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Nina;yeah yeah (.) maybe- they were actually getting like- getting back and take money for it, if they come back to recycle (.) so it's a devotion for like self purchasing to show something else or (INAUDIBLE)
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;yeah so maybe it's- can you write something about the eh [environment]
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Rose;[environment] you see there are different levels
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;yeah yeah
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Rose;decide it with the materials, so that's the most, I guess basically of looking at it, then you look at the technology (.) it's the materials, and then energy and of the product of it self, and then you look at the factory, and then, but they can't really articulate the (hume?) the factory was as far as they could go
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;yeah yeah (long pause, Kenny writes on post-it)
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;I guess, yeah (.) and then for the kind of lifetime of the product. It actually gets recycled
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Rose;mmh definitely
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;and that was eh something that the company would do that (..) an extra star hehe envio- environment star (long pause, Abby writes on a post-it)
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Nina;I guess we didn't really discuss about the- the convenient and the comfort (.)
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;yeah
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Nina;and the (detected?) yesterday about (.) it was more important to them
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;yeah
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Kenny;I've written here 'product' (INAUDIBLE)
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;but it's- but it's much more in the story, I absolutely agree. It's much more to get the credit from actually doing this-
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Kenny;yeah and I think the product (.) is only the small thing here (.)
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;yeah
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Kenny;so it is like the whole process (longer pause)
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;Is Ikea really (.) environmental friendly?
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Kenny;they have that impression
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;they
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Rose;always had it though. I think they don't really really know, but they just have this impression, that Scandinavian kind of, I think, has that, kind of like influence different
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Kenny;I have the impression that most of their stuff is made in China
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;yeah and made of glue
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Kenny;and made of glue
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;haha (everyone laughs)
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Kenny;even the wood is made out of glue hehehe (everyone laughs)
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Kenny;(INAUDIBLE)
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;yeah the design is always SCANDINAVIAN- it has the SCANDINAVIAN names and everything- every product has this SCANDINAVIAN name
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Kenny;yeah (.) the
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;and you can also read something about the designer behind it on the webpage I think [there is some kind of]
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Nina;is it non-profit direct (.) non-profit?
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Kenny;the designers
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Nina;no (.) Ikea, it's not (..) that's what I was told
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Kenny;alright
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Nina;it's a non-profit
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Kenny;I think eh this guy [who owns it] he's like crazy rich
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;[I think he's the richest eh]
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Nina;yeah but the the the whole- I was watching a video about it actually, and they support some designer school and that's why (.) because they (.) give (for example?) giving yeah  to this designer school, that's why they are non-profit (..) but then yeah- it's like (.) kinda covered (..)
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Kenny;and eh actually [he is one of the richest guys in SCANDINAVIA]
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Nina;[I mean, I'm not (.) quite sure, but I've seen videos] about it
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Kenny;yeah but I- I don't
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Nina;and I was told in school that- the professor, so (..) surprised to!
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Kenny;yeah (..) so I think
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;It sounds strange
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Rose;it sounds strange
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;to be non-profit hehe and he's the riches guys in
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Kenny;yeah (everyone laughs)
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;like some kind of a
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Kenny;there is something wrong (..)
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Kenny;alright did we did we feel like we exhausted our
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Nina;if you don't want to talk about 'comfort and convenience'
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Kenny;no I think we should go through these (.) before
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;yeah this
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Rose;So I- I put it like this way, so I guess it's the most base and they kinda like go up in terms of what [they need]
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Kenny;[they voted]
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Rose;yeah I guess 'assurance' so I think this was what we (have last?) so you really need this for anything else and then- and I guess assurance comes in both forms so- because they look at the product first, right, before they look at the company, so the product is (available?) as you would see in other products that is this- for them to feel that this is a product that 'I can feel I should buy', and then the company goes beyond that, and I think this is why- so I think
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Kenny;yeah I don't know if it would make sense, but I think there's like two things in it. There is this sure basic thing, that they want to be sure that the quality it this
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Rose;yes
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Kenny;and that they are not being cheated.  There is also  this thing, that they want to be sure that these things differentiate (.) they elevate them. It takes them apart from the rest (..) and (..) I think there were re- they were really tired and maybe they were not even conscious about it all the time (longer pause)
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Rose;and  I think the 'assurance' then feeds into the long (durability?) of the product- research for example. What how a  life companion-  you need the assurance, right? Especially when you try the first, you are not super sure, maybe you are 70% but you bought the product and then maybe starts to use it. It works, it goes to like 80% and then when (.) it get's even better and your friends are all using it and it goes more large, that's the idea of how assurance is (..)
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Kenny;I don't know what to write about this (..) because I feel like 'assurance' is- is kinda like the whole thing (.) maybe it starts here and it comes here and comes here, and then it goes back again [so it's then] people start to- to spread the story (longer pause)
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Rose;[yeah all of it]
+dtrs-11;16-sharing-insights-from-cocreation-workshops-2;Abby;yeah but I think it's interesting because the thing about 'product first', because what- how much can you actually read out I mean if you are in a marked or if your are in a a store where these COMPANY accessories are sold (.) and you- and you don't have that good of an idea about the story (..) then you just see this- the product and then (.) I'm just thinking what would they- for them to buy it they need to buy into the story around otherwise it would way to expensive and (..) and not t- [a familiar concept]

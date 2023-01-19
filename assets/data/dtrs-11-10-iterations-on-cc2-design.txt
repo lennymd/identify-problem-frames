@@ -1,0 +1,441 @@
+dataset;session;speaker;utterance
+dtrs-11;10-iterations-on-cc2-design;Will;Shall we, after they start doing the company (.) the idea of the company, right? And as we give them the task of doing a product or service or solution, should we already deliberately ask them to say for example include maybe two of these dimensions? So whatever product or service you've got- you're planning to do, must incorporate two of these, [must give some-]
+dtrs-11;10-iterations-on-cc2-design;Rose;[Yeah, this- that was] what I thought was gonna happen, like we give them [the constraints- we give them the constraints to-]
+dtrs-11;10-iterations-on-cc2-design;Will;"[So, as they build it, and then as they share it back], eh then we structure in some of the other constrain. ""Now, you didn't think it environment, now what if I tell you you've got to be this""."
+dtrs-11;10-iterations-on-cc2-design;Rose;That was what I thought it was gonna be.
+dtrs-11;10-iterations-on-cc2-design;Ewan;Mhm mhm.
+dtrs-11;10-iterations-on-cc2-design;Amanda;So what are- so these two things is the same across. Let's say health and status symbol.
+dtrs-11;10-iterations-on-cc2-design;Ewan;Mhm? Those are shared.
+dtrs-11;10-iterations-on-cc2-design;Amanda;Yeah, and then there is all this bottom layer.
+dtrs-11;10-iterations-on-cc2-design;Ewan;Yeah. So I really enjoyed it, and- enjoy this, and eh
+dtrs-11;10-iterations-on-cc2-design;Amanda;Or whatever that is, maybe you guys wanna do this.
+dtrs-11;10-iterations-on-cc2-design;Ewan;Yeah, yeah. And this I really enjoy, because this is for me super super important.
+dtrs-11;10-iterations-on-cc2-design;Kenny;I think actually- [I think health is, definitely-]
+dtrs-11;10-iterations-on-cc2-design;Will;[Yeah I think so].
+dtrs-11;10-iterations-on-cc2-design;Rose;[Health is somewhere-ish, not at the bottom].
+dtrs-11;10-iterations-on-cc2-design;Kenny;So I think it should be above. I think environment should be down.
+dtrs-11;10-iterations-on-cc2-design;Ewan;Yeah?
+dtrs-11;10-iterations-on-cc2-design;Abby;What do you mean- what is this eh division?
+dtrs-11;10-iterations-on-cc2-design;Rose;[Two components- yeah].
+dtrs-11;10-iterations-on-cc2-design;Will;[Some of them have two-two] things like, so it's got to be- have one from here and one from here, something like that.
+dtrs-11;10-iterations-on-cc2-design;Rose;Yeah, different-
+dtrs-11;10-iterations-on-cc2-design;Will;Is that way alright for you?
+dtrs-11;10-iterations-on-cc2-design;Ewan;So, what I was thinking was that, you can have whatever- like, or maybe I was thinking it more (.) so, the thing they make needs to have some sort of status symbol in it.
+dtrs-11;10-iterations-on-cc2-design;Will;Yeah yeah, okay.
+dtrs-11;10-iterations-on-cc2-design;Rose;Yes.
+dtrs-11;10-iterations-on-cc2-design;Ewan;And that is- that's like given- that's a hundred percent. It needs to have this.
+dtrs-11;10-iterations-on-cc2-design;Abby;Exactly.
+dtrs-11;10-iterations-on-cc2-design;Rose;Yes.
+dtrs-11;10-iterations-on-cc2-design;Ewan;If it has this or this, I- we don't really care, that's-
+dtrs-11;10-iterations-on-cc2-design;Abby;So, this is actually what we give them up here, then.
+dtrs-11;10-iterations-on-cc2-design;Amanda;Yeah.
+dtrs-11;10-iterations-on-cc2-design;Ewan;Yeah.
+dtrs-11;10-iterations-on-cc2-design;Kenny;Yeah.
+dtrs-11;10-iterations-on-cc2-design;Abby;You have a company, it has to do something with status symbol, [it has to be about eh-]
+dtrs-11;10-iterations-on-cc2-design;Rose;[Yes].
+dtrs-11;10-iterations-on-cc2-design;Ewan;[You- you can- you should] change a lot of it, but one thing you need to have, is status symbol.
+dtrs-11;10-iterations-on-cc2-design;Abby;Yeah.
+dtrs-11;10-iterations-on-cc2-design;Rose;Yes. Agree.
+dtrs-11;10-iterations-on-cc2-design;Kenny;[Sub-health maybe].
+dtrs-11;10-iterations-on-cc2-design;Will;[(Subtle or obvious, but].
+dtrs-11;10-iterations-on-cc2-design;Ewan;Yeah yeah, if it's all [understated, overstated, whatever].
+dtrs-11;10-iterations-on-cc2-design;Rose;[We got this, who cares].
+dtrs-11;10-iterations-on-cc2-design;Kenny;[Health and stat'-], status symbol.
+dtrs-11;10-iterations-on-cc2-design;Amanda;Health and status symbol, or just status symbol?
+dtrs-11;10-iterations-on-cc2-design;Will;I was thinking health, but maybe broaded into say well-being, I was thinking.
+dtrs-11;10-iterations-on-cc2-design;Ewan;Yeah, maybe what- it needs to at least- we shouldn't go straight to air quality [and stuff, that should be-]
+dtrs-11;10-iterations-on-cc2-design;Will;[No. So I was thinking broader here].
+dtrs-11;10-iterations-on-cc2-design;Abby;[Yeah, or exercise. But there was really food and exercise they-]
+dtrs-11;10-iterations-on-cc2-design;Will;So I think in health then they'll say- they'll surely think about safe food, safe water, pure air, something.
+dtrs-11;10-iterations-on-cc2-design;Kenny;Yeah yeah.
+dtrs-11;10-iterations-on-cc2-design;Abby;Yeah. (..) And maybe- I'm thinking if we had- should have a third one as well, because (.) at least in our group it was very, yeah, and I don't know if well-being is helping if it just takes the eh, the mental part in as well, but (.)
+dtrs-11;10-iterations-on-cc2-design;Amanda;Body and mind well-being.
+dtrs-11;10-iterations-on-cc2-design;Will;"Well, it should ""body and mind"" or ""body or mind""."
+dtrs-11;10-iterations-on-cc2-design;Abby;Yes.
+dtrs-11;10-iterations-on-cc2-design;Kenny;Yeah, or mind.
+dtrs-11;10-iterations-on-cc2-design;Will;And or mind.
+dtrs-11;10-iterations-on-cc2-design;Abby;Yeah? Yeah.
+dtrs-11;10-iterations-on-cc2-design;Will;To be as- allow them to do anything they want. [If they think it's gonna be physical-]
+dtrs-11;10-iterations-on-cc2-design;Rose;[I think just within realm], they should be able to get it, right?
+dtrs-11;10-iterations-on-cc2-design;Kenny;Yeah.
+dtrs-11;10-iterations-on-cc2-design;Abby;But do we want this one in as well? I was just thinking if- if-
+dtrs-11;10-iterations-on-cc2-design;Ewan;I like it, I'm just afraid of this being too complex.
+dtrs-11;10-iterations-on-cc2-design;Abby;Yeah.
+dtrs-11;10-iterations-on-cc2-design;Ewan;It should be- it should be simple and we can just push- push hard for this one, [afterwards].
+dtrs-11;10-iterations-on-cc2-design;Kenny;[Yeah, I think] this is important, but I [also think we-] we overcomplicate it if [we put too many things-]
+dtrs-11;10-iterations-on-cc2-design;Ewan;[I think it's important, yeah].
+dtrs-11;10-iterations-on-cc2-design;Amanda;[I think it would be a good measure] to see whether or not they already have [environment to that- to what extent].
+dtrs-11;10-iterations-on-cc2-design;Rose;[Yes, I agree].
+dtrs-11;10-iterations-on-cc2-design;Kenny;[Ah that's true, it could cover the value they- if they're] going in that direction or they totally ignore it.
+dtrs-11;10-iterations-on-cc2-design;Rose;Because I think like, for the Chinese this is almost a given, this ehm like, this we're talking about, somehow it will- especially we are talking about premium people, right? Some way it will come out like that, and then this is-
+dtrs-11;10-iterations-on-cc2-design;Will;And these are given for the topic that we are talking about.
+dtrs-11;10-iterations-on-cc2-design;Amanda;But we want them to be more explicit about it.
+dtrs-11;10-iterations-on-cc2-design;Rose;Correct correct, so we can put this, but I don't think it will be that difficult, because the target that we [have are already here].
+dtrs-11;10-iterations-on-cc2-design;Ewan;[That's fantastic, that's really good].
+dtrs-11;10-iterations-on-cc2-design;Amanda;[Yeah, which is great, which is great, exactly what we want].
+dtrs-11;10-iterations-on-cc2-design;Ewan;And this is- it is so given that we don't hear it and see it, because [it's understated, and as eh, as Europeans-]
+dtrs-11;10-iterations-on-cc2-design;Amanda;[Because it's implicit in their mind. We want them to bring it out].
+dtrs-11;10-iterations-on-cc2-design;Rose;[Yeah, they don't think about it, yes].
+dtrs-11;10-iterations-on-cc2-design;Ewan;As Europeans we have zero clue what's going on. It's- it is communicated to the sub-channels.
+dtrs-11;10-iterations-on-cc2-design;Abby;"Yeah, so I'm thinking, are we giving- we are saying ""okay, you need to focus on these two- your company needs to reflect these two values somehow, or in-"" yeah]."
+dtrs-11;10-iterations-on-cc2-design;Ewan;You can reflect whatever you kind of want connected to it, but it-
+dtrs-11;10-iterations-on-cc2-design;Kenny;But it has to include these.
+dtrs-11;10-iterations-on-cc2-design;Ewan;But it has to include this.
+dtrs-11;10-iterations-on-cc2-design;Abby;It has to include these-
+dtrs-11;10-iterations-on-cc2-design;Ewan;In one form or another.
+dtrs-11;10-iterations-on-cc2-design;Abby;But are we also showing these- it could also include whatever we have here, or do we want to keep this kind of as a secret [to- as eh constraints to eh- yes].
+dtrs-11;10-iterations-on-cc2-design;Ewan;[Yeah, I think we keep it as a secret. Yeah, I think we keep it as a secret], untill they get going. And then we start and they-
+dtrs-11;10-iterations-on-cc2-design;Will;We can position it as a investor question.
+dtrs-11;10-iterations-on-cc2-design;Ewan;Yeah, for example, yeah.
+dtrs-11;10-iterations-on-cc2-design;Amanda;We'll give eh the investor some ch'- some guided question to ask which is those things.
+dtrs-11;10-iterations-on-cc2-design;Kenny;Yeah, I guess when they reach this point, it would maybe be a good point to introduce an investor. So what do you have there?
+dtrs-11;10-iterations-on-cc2-design;Abby;Yeah here, when they actually have pitched eh this.
+dtrs-11;10-iterations-on-cc2-design;Kenny;Yeah. They have some- some stories to tell and they know what kind of value it represents.
+dtrs-11;10-iterations-on-cc2-design;Rose;But if the investor comes right there, what is the investor doing in the meantime?
+dtrs-11;10-iterations-on-cc2-design;Ewan;Yeah so, yeah.
+dtrs-11;10-iterations-on-cc2-design;Rose;That's my question (laughter)
+dtrs-11;10-iterations-on-cc2-design;Kenny;But maybe we can be the- But I mean maybe we can be the-
+dtrs-11;10-iterations-on-cc2-design;Ewan;He's on the airplane. (laughter)
+dtrs-11;10-iterations-on-cc2-design;Will;Why don't we do it like a- a bootcamp, you know start out with camp outing, like we can position the two new guys as investors. So, as they are creating the company right from the beginning, we can already encourage the two guys to [buckle down, start listening to them].
+dtrs-11;10-iterations-on-cc2-design;Rose;[Start asking, yeah, maybe] something like that.
+dtrs-11;10-iterations-on-cc2-design;Will;Whether we want them asking questions it doesn't matter, but at least they hear what you guys are talking about, what you guys are doing. It's just like investor- I don't even know what-
+dtrs-11;10-iterations-on-cc2-design;Ewan;We could have several layers of investors. They can be one investor-type, we can be another one coming in the end.
+dtrs-11;10-iterations-on-cc2-design;Abby;Yeah, I was actually thinking that the new guys are not the investors anymore. That they are a part of the group,
+dtrs-11;10-iterations-on-cc2-design;Rose;That's [eh, actually what I was thinking].
+dtrs-11;10-iterations-on-cc2-design;Abby;"[A part of the] company and then, we are the investors ju'- or you guys are the investors just, ""okay, I just"" like someone said, ""got a call from eh-"""
+dtrs-11;10-iterations-on-cc2-design;Ewan;Yeah, the Euro-office.
+dtrs-11;10-iterations-on-cc2-design;Abby;"Exactly. ""Please eh- we need it to be environmental friendly, it's a new- it's a hot spring"" (laughs)"
+dtrs-11;10-iterations-on-cc2-design;Ewan;"Yeah, exactly yeah, ""turns out- shit! Stop the (INAUDIBLE)! (laughter) Sexy commitment is all- what it's all about in Europe!"""
+dtrs-11;10-iterations-on-cc2-design;Abby;So, that was how I was actually thinking it. Because, I think it's important to get the new (.) people in already here, to- when they are forming the- or creating the company.
+dtrs-11;10-iterations-on-cc2-design;Ewan;Mhm, yeah. Yeah. Let's go over that for- for the moment and see eh, see if that makes sense.
+dtrs-11;10-iterations-on-cc2-design;Kenny;Yeah.
+dtrs-11;10-iterations-on-cc2-design;Rose;Maybe easier.
+dtrs-11;10-iterations-on-cc2-design;Abby;And also I'm pretty sure that we will be able to ask these questions or you guys, in a better way than [any other eh- yeah, exactly, exactly. So we can control it so much more].
+dtrs-11;10-iterations-on-cc2-design;Rose;[Yes].
+dtrs-11;10-iterations-on-cc2-design;Ewan;[I'm a hundred percent sure of that, at least. 'Cause we can control it so much more, we can control it so much more]. Eh but I'm also open to having several investor-layers, but- but let's go for it now that we are there just infused.
+dtrs-11;10-iterations-on-cc2-design;Abby;Yeah.
+dtrs-11;10-iterations-on-cc2-design;Ewan;Eh because, as we said it's not like they are like one super group and we are-
+dtrs-11;10-iterations-on-cc2-design;Rose;Then I would actually like for the re-grouping to take place.
+dtrs-11;10-iterations-on-cc2-design;Ewan;Mhm?
+dtrs-11;10-iterations-on-cc2-design;Rose;If- if we are going to have the new people put in [the groups right from the beginning],
+dtrs-11;10-iterations-on-cc2-design;Abby;[Yeah, I think that's also a good idea].
+dtrs-11;10-iterations-on-cc2-design;Rose;Then we re-group so that we don't have the initial clique- or really the-, since, if we don't wanna talk so much about what it was before?
+dtrs-11;10-iterations-on-cc2-design;Ewan;The only thing we're gonna do is of course we want to try to stay at the depth we left off with.
+dtrs-11;10-iterations-on-cc2-design;Abby;Yeah.
+dtrs-11;10-iterations-on-cc2-design;Ewan;And if we lose some of that, that's sad, because then Susan needs to explain her stories again and time travel, or time tunnel and stuff. And now we-
+dtrs-11;10-iterations-on-cc2-design;Abby;But maybe it's of'- I think, in our group at least, it would not hurt that they should eh tell the story again. What was the time tunnel all about? Why was it important? What was it that it actually did for you? Why-
+dtrs-11;10-iterations-on-cc2-design;Ewan;"But you're already there using references. ""Why was the time tunnel important""."
+dtrs-11;10-iterations-on-cc2-design;Abby;"No, we're just using ""last time you had an idea about a time tunnel, could you repeat it""."
+dtrs-11;10-iterations-on-cc2-design;Ewan;If we say it.
+dtrs-11;10-iterations-on-cc2-design;Abby;Yeah yeah, exactly.
+dtrs-11;10-iterations-on-cc2-design;Ewan;Ah okay, yeah, I understand.
+dtrs-11;10-iterations-on-cc2-design;Will;Well, I- I think, breaking up the group has its value, because if they're all together, I think when we come to this stage, [there is a- if we keep them-]
+dtrs-11;10-iterations-on-cc2-design;Ewan;[Oh, sorry sorry]. (laughter) Why would you break it- break it, what do you mean, break it open! (laughter)
+dtrs-11;10-iterations-on-cc2-design;Will;No I mean if we're gonna separate and re-group them, ah-
+dtrs-11;10-iterations-on-cc2-design;Ewan;Yeah, separate and re-group them.
+dtrs-11;10-iterations-on-cc2-design;Rose;Yes.
+dtrs-11;10-iterations-on-cc2-design;Will;So- so, if we're gonna keep to the same group [for example]
+dtrs-11;10-iterations-on-cc2-design;Rose;[It's too much].
+dtrs-11;10-iterations-on-cc2-design;Will;"There's a chance that they'll just say, ""oh remember we talked about [THE COMPANY, let's just do it over"". And then we- they don't really have to think about it]."
+dtrs-11;10-iterations-on-cc2-design;Ewan;[Oh, bam! Okay, yeah, that's a good point].
+dtrs-11;10-iterations-on-cc2-design;Rose;[Yes it's actually- that's why I said it's too much, we need to- we need to correct that].
+dtrs-11;10-iterations-on-cc2-design;Will;But if say Susan feels very strongly about time travel she has got to justify it to her new team members.
+dtrs-11;10-iterations-on-cc2-design;Ewan;[Again. Yeah, okay, I think that's a super valid point].
+dtrs-11;10-iterations-on-cc2-design;Abby;[Exactly, exactly].
+dtrs-11;10-iterations-on-cc2-design;Will;[And this time then she's got to (INAUDIBLE)]
+dtrs-11;10-iterations-on-cc2-design;Ewan;That's a very valid point.
+dtrs-11;10-iterations-on-cc2-design;Abby;Yeah, exactly. Yeah, absolutely.
+dtrs-11;10-iterations-on-cc2-design;Will;"Cause if- if it's like ""oh I like the dog or the robot"" and ""okay"", within five minutes [they've got robot. ""Okay, time"", so] (laughs)"
+dtrs-11;10-iterations-on-cc2-design;Ewan;[Yeah, it's so easy to default to that]. Yeah, okay, good point. Excellent point.
+dtrs-11;10-iterations-on-cc2-design;Will;(..) But I think we do- there are a few more-
+dtrs-11;10-iterations-on-cc2-design;Abby;Okay then, should we decide that we're going to split up the groups, and then also the new guys are going to feel much more comfortable because it's (.) yeah.
+dtrs-11;10-iterations-on-cc2-design;Ewan;And they will just- we- we'll utilize them as fresh blood. Right? They will come in there and they will mayb'- hopefully they will be able to maybe shake the cage a little bit in the discussion.
+dtrs-11;10-iterations-on-cc2-design;Rose;I was thinking maybe even in the beginning, this part, we don't break up yet, right?
+dtrs-11;10-iterations-on-cc2-design;Will;No no, I don't think if we've got a share back, what- it's a recap of what they-
+dtrs-11;10-iterations-on-cc2-design;Rose;So then, everybody is aligned before we start the thing, just in case that there are some differences somewhere, I think- [I think the concept is- yeah].
+dtrs-11;10-iterations-on-cc2-design;Ewan;[And als'- always feel good to start] as a one (INAUDIBLE).
+dtrs-11;10-iterations-on-cc2-design;Abby;Yeah, yeah.
+dtrs-11;10-iterations-on-cc2-design;Rose;So then, that will be better.
+dtrs-11;10-iterations-on-cc2-design;Abby;Yeah, so here we are splitting out.
+dtrs-11;10-iterations-on-cc2-design;Ewan;Mhm. Eh, do we still do the ex'- no, here they make their company profile, based on that, and they have to include this.
+dtrs-11;10-iterations-on-cc2-design;Abby;Yeah.
+dtrs-11;10-iterations-on-cc2-design;Kenny;Yes.
+dtrs-11;10-iterations-on-cc2-design;Ewan;Do we- do we do an exercise here together where they, eh say what's important what is not important and stuff?
+dtrs-11;10-iterations-on-cc2-design;Will;[Maybe do it as a total group first?]
+dtrs-11;10-iterations-on-cc2-design;Ewan;[So that turns in the total group? Yeah.]
+dtrs-11;10-iterations-on-cc2-design;Rose;[Yeah, so everybody does the- everybody does the] concept on the table, and then we- we water it together, and then after that, we're all kind of aligned and sure what this topic is about and we all have a sense of what they like, not like, bla bla bla and everything, then we split into the groups, right? And that's also a bit better.
+dtrs-11;10-iterations-on-cc2-design;Abby;Yeah.
+dtrs-11;10-iterations-on-cc2-design;Ewan;Yeah. 'Cause we can then- we can have a discussion as a whole as well, so they can get hopefully inspired by each other and so on and so on. Okay. So first- yeah sorry, go ahead.
+dtrs-11;10-iterations-on-cc2-design;Will;How many splits do we want to (.)
+dtrs-11;10-iterations-on-cc2-design;Rose;As in split meaning what?
+dtrs-11;10-iterations-on-cc2-design;Will;As in- okay, obviously this is one general discussion session,
+dtrs-11;10-iterations-on-cc2-design;Abby;Yeah.
+dtrs-11;10-iterations-on-cc2-design;Will;Ehm. We go on to build their respective companies, do you want to kind of stop this first?
+dtrs-11;10-iterations-on-cc2-design;Amanda;Yeah.
+dtrs-11;10-iterations-on-cc2-design;Will;And let them just talk about this first?
+dtrs-11;10-iterations-on-cc2-design;Rose;Yes.
+dtrs-11;10-iterations-on-cc2-design;Ewan;Oh yeah.
+dtrs-11;10-iterations-on-cc2-design;Will;Do we want them to kind of share back to everyone else?
+dtrs-11;10-iterations-on-cc2-design;Amanda;Use the smaller post-its. Session one, session two, session three.
+dtrs-11;10-iterations-on-cc2-design;Will;Yeah. So after session one, for example do we want them to kind of share back to other people?
+dtrs-11;10-iterations-on-cc2-design;Abby;The foreign group?
+dtrs-11;10-iterations-on-cc2-design;Rose;Yeah actually that would be kind of nice, [to share the company first].
+dtrs-11;10-iterations-on-cc2-design;Will;"[It's more like a-], it's more like a ""he he ha ha"" kind of one."
+dtrs-11;10-iterations-on-cc2-design;Rose;Yeah, share the company. [We can bring some props!]
+dtrs-11;10-iterations-on-cc2-design;Will;[You know, I want my company to be like, nine to three, we'd be sitting on a beach, because we believe in this, and (.) I don't know (laughs)
+dtrs-11;10-iterations-on-cc2-design;Rose;I don't know we can bring some props or whatever.
+dtrs-11;10-iterations-on-cc2-design;Ewan;So, yeah, so a moderate- an incentive for finishing stuff and pushing it is because you have to share back to someone else, right? And they would hear that, so we need to create those triggers.
+dtrs-11;10-iterations-on-cc2-design;Abby;Yeah, and at the same time, it also just takes time to do the share back, so we also need to [make sure that it's- yeah, exactly].
+dtrs-11;10-iterations-on-cc2-design;Ewan;[What is the value we get back] versus what we give away, yeah.
+dtrs-11;10-iterations-on-cc2-design;Abby;If we didn't do it and maybe just did it a little bit later or in the end, ehm.
+dtrs-11;10-iterations-on-cc2-design;Rose;I think it would only takes- I mean we just tell them five minutes and actually, like you know the other day, we were talking about the animal we were talk'- it was two minutes, but here it only takes thirty seconds, really to talk, right? [It does actually kind of-]
+dtrs-11;10-iterations-on-cc2-design;Will;[Who's gonna be there, we- there are only three tasks] for them probably.
+dtrs-11;10-iterations-on-cc2-design;Rose;Yeah, but I think it's- it's okay.
+dtrs-11;10-iterations-on-cc2-design;Abby;"But I think it's really good- I mean, we need to have all these time constraints and say ""okay, you need to pitch your company, you have three minutes to do it. Go."" (..) Stop, stop and split, in the first one."
+dtrs-11;10-iterations-on-cc2-design;Ewan;Stop (.) plus (.) split. (Writes on post-it) Eh there's an exercise in between here. (..) Need a bigger whiteboard.
+dtrs-11;10-iterations-on-cc2-design;Abby;(..) It's- it's also- there's also something on this one. Do you want a bigger-, an actual whiteboard?
+dtrs-11;10-iterations-on-cc2-design;Ewan;Yeah, should we move it over to an actual whiteboard?
+dtrs-11;10-iterations-on-cc2-design;Amanda;We can use some of ours.
+dtrs-11;10-iterations-on-cc2-design;Ewan;On the backside maybe?
+dtrs-11;10-iterations-on-cc2-design;Amanda;This one, yeah. (..) The design team and the consultants organize post-it cardboards and have a break (..)
+dtrs-11;10-iterations-on-cc2-design;Kenny;I understand that you want to create some kind of motivation or incentive for them to do a good job with creating their profile, but I'm just not sure you're- if that's the incentive for them. If it's incentive enough just to be competing with the other ones, to make the best company or- because I don't know, the company profile itself, doesn't really say anything about who is the best company. I think none of them will decide who is the better company.
+dtrs-11;10-iterations-on-cc2-design;Ewan;I don't know if it's the best company or if it's just that [we have a company].
+dtrs-11;10-iterations-on-cc2-design;Kenny;[But I guess that's- that's] the competition. So I think- I- I kind of follow your idea, but I'm not sure if this is gonna create the incentive that we hope for.
+dtrs-11;10-iterations-on-cc2-design;Ewan;Ah okay. So do you have- what could other- what other ways could we do it so they do eh, they follow a time line, so that we can time box it, and they make the best effort they can, within that time.
+dtrs-11;10-iterations-on-cc2-design;Kenny;Yeah?
+dtrs-11;10-iterations-on-cc2-design;Ewan;"If it's only for themself, ehm, they don't know the- what's at stake here, so they don't know ""how much should I invest in it?"" But if they know something is at stake, ""I have to present this"", not to be the best or whatever, but if I have to present it-"
+dtrs-11;10-iterations-on-cc2-design;Kenny;To be honest then I think, if I was to create a company, then what would be most important to me would probably be capital. Do I- can I get the money from the investors? But I think actually the investors could be the incentive here, rather than competing with the other group.
+dtrs-11;10-iterations-on-cc2-design;Ewan;Mhm? Okay.
+dtrs-11;10-iterations-on-cc2-design;Kenny;At least if I should see it from my own- out- my own point of view, then I would be more interested in knowing that the investors want to invest in me.
+dtrs-11;10-iterations-on-cc2-design;Ewan;Yeah. I fee'- what challenge there is that if the investor is actually to invest, we will have a winner and loser here. And that's maybe too hard. I was thinking maybe the incentive is just that oh, and we need to have something at least because I don't- we can't just say bullshit. It needs to be- it's just my own pride- or our company's pride, not-
+dtrs-11;10-iterations-on-cc2-design;Kenny;But do you think that we need anything here, do you think they need to compete? Don't you think they take it serious enough to actually create-
+dtrs-11;10-iterations-on-cc2-design;Ewan;I think they take this easy way out.
+dtrs-11;10-iterations-on-cc2-design;Amanda;They don't feel that squeeze enough with it to-
+dtrs-11;10-iterations-on-cc2-design;Ewan;That's what I feel like, this was why I wanted it to be that they create this, and that it's a- it's a, literally a three minute-
+dtrs-11;10-iterations-on-cc2-design;Abby;Pitch.
+dtrs-11;10-iterations-on-cc2-design;Ewan;"Pitch, or share- share back of ""this is our company"", like an advertisement in a way for the company. ""This is what we believe in, this is-"" we create a template for them."
+dtrs-11;10-iterations-on-cc2-design;Abby;"Yeah. I'm afraid if they're going- if there will be an investor already here that they are going to focus too much on, yeah like you're saying, ""okay, what is it actually that we can sell? What will make us rich?"" and then they will not focus on their own values but they will focus on trying to see, okay."
+dtrs-11;10-iterations-on-cc2-design;Kenny;But I don't see how this forces them to- to think about the values. I- I totally follow that we need to squeeze them a little bit to get the best out of them, I'm just in doubt if this is actually doing it.
+dtrs-11;10-iterations-on-cc2-design;Amanda;I guess Chinese people, when they have to stand up and share something, it's more like a mental-
+dtrs-11;10-iterations-on-cc2-design;Kenny;But what is the incentive?
+dtrs-11;10-iterations-on-cc2-design;Ewan;Incentive is that they have to stand up and share something.
+dtrs-11;10-iterations-on-cc2-design;Kenny;That's not an incentive for me (laughs), to stand up and share something.
+dtrs-11;10-iterations-on-cc2-design;Amanda;[You're not Chinese enough]. (laughs)
+dtrs-11;10-iterations-on-cc2-design;Ewan;[It is a pressure]. Isn't it? Don't you feel that? I at least feel it as a- (.) if I'm only self to know it, I don't necessarily like, okay then I s'- you know what, here it doesn't really matter, [but if I have to stand up-]
+dtrs-11;10-iterations-on-cc2-design;Amanda;[I think the other incentive] is for them to bond, like they have a mission. Like, we have to be together to approach, to- to share this mission. So that the-
+dtrs-11;10-iterations-on-cc2-design;Kenny;I think what I need, or what I miss is how do we measure this? If there's supposed to be some kind of pressure, if somehow it needs to be-
+dtrs-11;10-iterations-on-cc2-design;Amanda;We can't measure it. We can't, but it's more of a-
+dtrs-11;10-iterations-on-cc2-design;Ewan;"But I think it's enough to just say, you know, ""you create this company profile, it needs to embody this, and eh you need to fill- when you have done it, write it into this template"", so the pitch template, or the company template, ""then you need to present to us, and the other group."""
+dtrs-11;10-iterations-on-cc2-design;Kenny;Alright, yeah.
+dtrs-11;10-iterations-on-cc2-design;Ewan;"And then okay, now they have a mission, they need to ""okay, we need to- okay, what could we- we need to agree""."
+dtrs-11;10-iterations-on-cc2-design;Abby;They know they have half an hour, time is ticking, they need to-
+dtrs-11;10-iterations-on-cc2-design;Amanda;"And also, once they share, I think they could be more crisp in coming out with this like okay, ""we heard something similar, we don't wanna be the same, we want to do de-de-de""."
+dtrs-11;10-iterations-on-cc2-design;Kenny;But, I totally agree that it's a good idea, I'm- for me it would not be an incentive, I think that's why I feel like [this is not squeezing me].
+dtrs-11;10-iterations-on-cc2-design;Amanda;[Ah, okay].
+dtrs-11;10-iterations-on-cc2-design;Will;[To pre'- to what], present?
+dtrs-11;10-iterations-on-cc2-design;Kenny;Yeah to present. It would not be an incentive for me, in that sense I think. Not to bring from the value- I would- I think I would focus on different things. So in order to bring their- or bring out the personal values or what can you say, yeah.
+dtrs-11;10-iterations-on-cc2-design;Will;So you're saying as an investor, or as a- [if you made a start-up?]
+dtrs-11;10-iterations-on-cc2-design;Kenny;[I'm not sure], maybe investor is wrong, I follow you that then it becomes maybe too money fixated that you want to- to profit on it. So I think- I don't really have any other suggestion. I just-
+dtrs-11;10-iterations-on-cc2-design;Abby;But do you feel like there needs to be some kind of- some extra pressure for them to perform, or?
+dtrs-11;10-iterations-on-cc2-design;Kenny;I think more- I just don't see how this is gonna be pushing them to focus on the values and get them- the best values or get the job or-
+dtrs-11;10-iterations-on-cc2-design;Amanda;[So you're saying-]
+dtrs-11;10-iterations-on-cc2-design;Abby;[But I guess that's the] (.) you too, who is going to eh, who are going to actually-, I mean you're going to be there all the time as well of course, and we are, eh so I guess, if we think that they just-, it was too easy for them just to come up with, okay then we take this and this and this, this is what our company's- is eh all about. Then of course it's just about probing in to what they're saying and then they can change it and so on.
+dtrs-11;10-iterations-on-cc2-design;Amanda;So you mean we don't need to share [back, Kenny?]
+dtrs-11;10-iterations-on-cc2-design;Rose;[Maybe this is just the] team work, I think.
+dtrs-11;10-iterations-on-cc2-design;Kenny;[I don't- I don't know].
+dtrs-11;10-iterations-on-cc2-design;Will;Yeah, it's- for me it's more like a warm up [to get them interested].
+dtrs-11;10-iterations-on-cc2-design;Rose;[Yes, that's what we were thinking about, yeah].
+dtrs-11;10-iterations-on-cc2-design;Will;Frankly whether they write about values, or they write about P and L-types, or-
+dtrs-11;10-iterations-on-cc2-design;Ewan;But wait, are you sure about this? 'Cause it- we really need them to be sharp here.
+dtrs-11;10-iterations-on-cc2-design;Abby;Yeah.
+dtrs-11;10-iterations-on-cc2-design;Will;Yeah, exactly.
+dtrs-11;10-iterations-on-cc2-design;Ewan;It's extremely important that they come sharp, sharp in here. [And they need to-]
+dtrs-11;10-iterations-on-cc2-design;Abby;[And we need them to really] on'- the overall frame.
+dtrs-11;10-iterations-on-cc2-design;Will;Yeah, which is the role of this, [we want the (INAUDIBLE) on this].
+dtrs-11;10-iterations-on-cc2-design;Abby;[Yeah, yeah].
+dtrs-11;10-iterations-on-cc2-design;Ewan;[And we need them to be] accountable, for the stuff they have there. And the more they- you know, they are accountable if they tell someone else what we're gonna do.
+dtrs-11;10-iterations-on-cc2-design;Will;Yeah yeah, sure sure. So- so, I mean, I would prefer them to share back as well. Eh one thing is that eh it almost doesn't matter whether we want them to talk about values or we want them to talk about whatever, so long as they have sufficient to think about it.
+dtrs-11;10-iterations-on-cc2-design;Rose;Yes, [it's actually what having the-, yes].
+dtrs-11;10-iterations-on-cc2-design;Will;"[They need to think enough about] ""what it means to us, how it will present us, how it will be differentiating, as a company"", enough meat for us before they go into the next product development phase."
+dtrs-11;10-iterations-on-cc2-design;Ewan;Yeah, and they need to come in here with a sharpness and a unification.
+dtrs-11;10-iterations-on-cc2-design;Abby;Yeah.
+dtrs-11;10-iterations-on-cc2-design;Rose;"Like I always feel like at this point, if we had some random props that they can pull out and then they can say, ""I picked something green because our company is a green company"" or, something like that, it doesn't really matter, and then-"
+dtrs-11;10-iterations-on-cc2-design;Abby;Exactly.
+dtrs-11;10-iterations-on-cc2-design;Ewan;Yeah, alright.
+dtrs-11;10-iterations-on-cc2-design;Rose;So I think this is like-, this is sort of like-, I think the more important goal is because it's a bit hard to go straight into this, but this kind of brings them together first before moving [(.) next level].
+dtrs-11;10-iterations-on-cc2-design;Abby;[Exactly].
+dtrs-11;10-iterations-on-cc2-design;Ewan;[And it sharpens, you know] eh, some sort of mission.
+dtrs-11;10-iterations-on-cc2-design;Will;Yeah.
+dtrs-11;10-iterations-on-cc2-design;Ewan;"And I think that comes into this, eh pitch template, or introduction template. ""This is our goal. By 2030 we wanna be the-"", and then something, yeah?"
+dtrs-11;10-iterations-on-cc2-design;Will;Yeah.
+dtrs-11;10-iterations-on-cc2-design;Abby;(..) Yeah.
+dtrs-11;10-iterations-on-cc2-design;Ewan;(..) This is the introduction (writes on post-it)
+dtrs-11;10-iterations-on-cc2-design;Abby;(..) So hopefully this is something that we can actually do before lunch? I don't know if it's possible, and then eh-
+dtrs-11;10-iterations-on-cc2-design;Rose;Yes, we wrote- we have some stuff here.
+dtrs-11;10-iterations-on-cc2-design;Abby;Ah okay.
+dtrs-11;10-iterations-on-cc2-design;Rose;We can give out some Chinese here. So we were thinking of (.) so we start with an introduction at ten, I guess? So the introduction will be like what we have been doing, some time-lapse videos, bla-bla-bla, sharing on the animals, right? So that should be ten to ten thirty. Then, we have the concept so, ehm, I think how we do the concepts that probably we should deal the papers out, maybe we'll read out together, just maybe I or you read the thing and then they will spend some time to circle, right? So it's like five minutes of their time,
+dtrs-11;10-iterations-on-cc2-design;Amanda;It's that all as a group or already split into three?
+dtrs-11;10-iterations-on-cc2-design;Rose;So no, all as a group, so everybody sits together in a circle, ehm. And then, eh and then ten to fifteen minutes to discuss, I guess? To just-
+dtrs-11;10-iterations-on-cc2-design;Will;"Go to- goes in on a few areas, ""what excites you, what I'm interest- can you relate to, what is also as you""."
+dtrs-11;10-iterations-on-cc2-design;Amanda;Do you think all together, or as a group?
+dtrs-11;10-iterations-on-cc2-design;Rose;All together.
+dtrs-11;10-iterations-on-cc2-design;Abby;Do you think that's enough, with fifteen- ten to fifteen minutes to that?
+dtrs-11;10-iterations-on-cc2-design;Rose;Actually there'll be twenty- so the total will be like twenty to twenty five minutes I think, I think for concept- I think it's enough. For concept testing.
+dtrs-11;10-iterations-on-cc2-design;Will;For one concept.
+dtrs-11;10-iterations-on-cc2-design;Rose;Yeah, for one concept I think it's okay.
+dtrs-11;10-iterations-on-cc2-design;Abby;For one concept?
+dtrs-11;10-iterations-on-cc2-design;Rose;One paragraph of stuff.
+dtrs-11;10-iterations-on-cc2-design;Abby;Yeah.
+dtrs-11;10-iterations-on-cc2-design;Rose;Because it shouldn't be too far out from what we had already had, because it's just like sort of encapsulating it, right? And-
+dtrs-11;10-iterations-on-cc2-design;Will;Unless you are concerned that there are things that we still have missed out and you want them to really shed light on some of the dimensions, but I don't think we are very far out.
+dtrs-11;10-iterations-on-cc2-design;Abby;So wh'- when you're saying concept it's this theme, right?
+dtrs-11;10-iterations-on-cc2-design;Rose;This, yeah, this thing, is talking about.
+dtrs-11;10-iterations-on-cc2-design;Abby;Yeah, okay.
+dtrs-11;10-iterations-on-cc2-design;Rose;So, so five minutes individual time for them, and then maybe fifteen minutes of group discussion, together. So it should be about twenty to twenty-five minutes, so that-
+dtrs-11;10-iterations-on-cc2-design;Amanda;How do you-
+dtrs-11;10-iterations-on-cc2-design;Rose;Sorry?
+dtrs-11;10-iterations-on-cc2-design;Amanda;How are we gonna start the group discussion once they're done with the five minutes? Are we just gonna pitch-
+dtrs-11;10-iterations-on-cc2-design;Rose;Oh we'll just say- no we'll just say-
+dtrs-11;10-iterations-on-cc2-design;Will;It's just [like open focus group. It's just like open focus group].
+dtrs-11;10-iterations-on-cc2-design;Rose;"[We use the usual- yeah, usual focus group] like, ""what do you guys think?"", then whoever's ready to talk will just start talking, I guess? Yeah."
+dtrs-11;10-iterations-on-cc2-design;Abby;Okay.
+dtrs-11;10-iterations-on-cc2-design;Rose;Maybe we can actually do more individual things, like we think of it and we can look at the numbers later, but I think just like a normal group. So let's say if this is ten, let's say by eleven we should finish this whole step, so ten to ten thirty, ten thirty to eleven, maybe we can finish this bit, and then, after that, then we intro the task for this part, so, I think we need a little bit of time to explain what we wanna do, in terms of splitting and setting up your own company, then we break into groups, then ehm, and then we have the company naming profile, so maybe like twenty minutes, I think? Twenty to thirty minutes, I think, something like that, and then-
+dtrs-11;10-iterations-on-cc2-design;Will;We were thinking about twenty minutes.
+dtrs-11;10-iterations-on-cc2-design;Rose;Yeah, twenty minutes, and then they share back about their company, then we can break for lunch. So, it will be about eleven forty-five, hopefully, by the time that we go for lunch.
+dtrs-11;10-iterations-on-cc2-design;Ewan;Mhm?
+dtrs-11;10-iterations-on-cc2-design;Abby;So twenty-five minutes, including introduction and
+dtrs-11;10-iterations-on-cc2-design;Rose;So twenty-five minutes, including introduction for them to come up with the company and stuff, and then just, ehm, the share back of the company just like five to seven minutes-
+dtrs-11;10-iterations-on-cc2-design;Ewan;Yeah, short.
+dtrs-11;10-iterations-on-cc2-design;Rose;Yeah, short. Just tell us the name of your company, what are the key important features of your company, that's it, and then we can break for lunch, hopefully at eleven forty-five.
+dtrs-11;10-iterations-on-cc2-design;Ewan;Mhm.
+dtrs-11;10-iterations-on-cc2-design;Abby;Yeah.
+dtrs-11;10-iterations-on-cc2-design;Rose;And then we intro the task for the next part, which will- I think will take about five minutes, actually introduce what we need them to do.
+dtrs-11;10-iterations-on-cc2-design;Abby;Mhm.
+dtrs-11;10-iterations-on-cc2-design;Rose;Yeah. And then-. So then, giving them the task to do, thirty- I think thirty to forty-five minutes, I think thirty minutes can?
+dtrs-11;10-iterations-on-cc2-design;Will;Yeah.
+dtrs-11;10-iterations-on-cc2-design;Rose;Thirty to forty-five minutes, right? For the actual task, and then the discussion of the task itself then is this part, with us, will be forty-five minutes? I feel. Because I think we will have stuff to ask, even if we wanted it to be shorter.
+dtrs-11;10-iterations-on-cc2-design;Kenny;Yeah.
+dtrs-11;10-iterations-on-cc2-design;Rose;So then I was- we were discussing about should they fine tune their product after? The discussion?
+dtrs-11;10-iterations-on-cc2-design;Will;Yeah, the state about whether we wanna fine tune before the final share back to everyone else.
+dtrs-11;10-iterations-on-cc2-design;Rose;Before the share back with everyone, or is it just after that that they share with everyone else?
+dtrs-11;10-iterations-on-cc2-design;Amanda;What's the time by then?
+dtrs-11;10-iterations-on-cc2-design;Rose;So, by here it should be- so say this is eleven forty-five, let's say twelve thirty we finish lunch, and then twelve thirty, about five minutes and forty-five minutes so let's say it will be about one thirty by the time they finish the product, and then the discussion will already be into like two something,
+dtrs-11;10-iterations-on-cc2-design;Will;Two ten to fifteen.
+dtrs-11;10-iterations-on-cc2-design;Rose;So now-
+dtrs-11;10-iterations-on-cc2-design;Amanda;Maybe like a very quick five minutes time, if they want to change.
+dtrs-11;10-iterations-on-cc2-design;Rose;Okay, they can have.
+dtrs-11;10-iterations-on-cc2-design;Abby;Yeah.
+dtrs-11;10-iterations-on-cc2-design;Amanda;What is the one thing they wanna change.
+dtrs-11;10-iterations-on-cc2-design;Ewan;Yeah.
+dtrs-11;10-iterations-on-cc2-design;Abby;And hopefully they want to change, because hopefully they have had some really [good like discussion] here that they feel is more [relevant, yeah, exactly].
+dtrs-11;10-iterations-on-cc2-design;Rose;[Some ideas, yeah, okay].
+dtrs-11;10-iterations-on-cc2-design;Ewan;And then it would be that- almost some sort of real time changing, 'cause we are there, constantly pushing them, so it's not like they go and we now leave them alone, we are continuously- they- they're allowed to build, and then we, you know eh, on purpose tear down some of that build, to make them eh rebuild it.
+dtrs-11;10-iterations-on-cc2-design;Abby;Mhm.
+dtrs-11;10-iterations-on-cc2-design;Will;"We can just force them to ""look. I think the investors are probably very keen that you got to incorporate at least one other thing, commitment"", really force them."
+dtrs-11;10-iterations-on-cc2-design;Rose;Yes, control it- you push, yeah.
+dtrs-11;10-iterations-on-cc2-design;Ewan;For example, yeah.
+dtrs-11;10-iterations-on-cc2-design;Will;So you got to force something in.
+dtrs-11;10-iterations-on-cc2-design;Ewan;"You could even make a prop which is like a mobile phone, a big mobile phone or something. ""Yeah we just got a call. Sorry, there's been some changes"". (laughter) ""Just got a text""."
+dtrs-11;10-iterations-on-cc2-design;Abby;"(makes sound of mobile ring tone) ""Oh no, that doesn't- oh no, what now?"" (laughter)"
+dtrs-11;10-iterations-on-cc2-design;Rose;So then now we have then the share back with the other team, so each team maybe ten minutes? To share about their product, or their service. I think that should be enough. Then, it will already be almost like two thirty or two forty-five I think, actually.
+dtrs-11;10-iterations-on-cc2-design;Amanda;Yeah. And then eh maybe like a-
+dtrs-11;10-iterations-on-cc2-design;Rose;I don't know what else you guys- is there anything at the end?
+dtrs-11;10-iterations-on-cc2-design;Ewan;So-
+dtrs-11;10-iterations-on-cc2-design;Will;Selection of winners, or.
+dtrs-11;10-iterations-on-cc2-design;Rose;Yeah is there a [selection or not?]
+dtrs-11;10-iterations-on-cc2-design;Ewan;[Yeah that was what- yeah yeah yeah].
+dtrs-11;10-iterations-on-cc2-design;Abby;We decided that there shouldn't be a selection. We decided that we want some- the share back and some feedback, ehm.
+dtrs-11;10-iterations-on-cc2-design;Rose;Or maybe you can get the other team to suggest, ehm for- right? Then that would help- [might be a bit better].
+dtrs-11;10-iterations-on-cc2-design;Amanda;[Yeah, that's what the last three minutes is for].
+dtrs-11;10-iterations-on-cc2-design;Ewan;I think it would be great to have some sort of-, there needs to be some sort of feedback,
+dtrs-11;10-iterations-on-cc2-design;Rose;Yeah.
+dtrs-11;10-iterations-on-cc2-design;Abby;Yeah.
+dtrs-11;10-iterations-on-cc2-design;Ewan;Based on something. Ma'- and you know, making it, again, tangible through something, but of course it's hard to choose a winner.
+dtrs-11;10-iterations-on-cc2-design;Amanda;Like a- I- not the winner.
+dtrs-11;10-iterations-on-cc2-design;Kenny;No, and we kind of planned that everybody should be [a winner. That's why we have presents for everybody]. (laughter)
+dtrs-11;10-iterations-on-cc2-design;Abby;[Everyone should have the prize, yeah, exactly].
+dtrs-11;10-iterations-on-cc2-design;Ewan;[Everyone's a winner! Yeah yeah, yeah yeah], let's embrace the Scandinavian-ness.
+dtrs-11;10-iterations-on-cc2-design;Amanda;No, suddenly, there's some extra money here, boom! (laughter)
+dtrs-11;10-iterations-on-cc2-design;Ewan;"But, some sort of- we want to like- again, like we had here, on this one, ""what did you like about this? What did you- what was most- what was the coolest part of it? What was the- needs to be improved?"""
+dtrs-11;10-iterations-on-cc2-design;Amanda;So it's a reflection.
+dtrs-11;10-iterations-on-cc2-design;Ewan;Like a reflection part, yes. I'm gonna write that down, and which is formalized a little bit. (..) Yeah, some sort of reflection
+dtrs-11;10-iterations-on-cc2-design;Abby;Yeah.
+dtrs-11;10-iterations-on-cc2-design;Ewan;Cause you know, yeah.
+dtrs-11;10-iterations-on-cc2-design;Ewan;I guess it's kind of on the side, with- together with this, so it's the share back and then reflection and so on.
+dtrs-11;10-iterations-on-cc2-design;David;But, ehm, I don't if there's time for it and if it's relevant, but maybe there could be like a five minute ideation at the very end, where they kind of know and it doesn't matter we're telling that it's a car company, like, that we-
+dtrs-11;10-iterations-on-cc2-design;Ewan;Mhm?
+dtrs-11;10-iterations-on-cc2-design;Abby;Yeah, we have the- actually the accessory- [we have the one exercise eh, the accessory exercise].
+dtrs-11;10-iterations-on-cc2-design;Kenny;[So the accessory exercise].
+dtrs-11;10-iterations-on-cc2-design;Ewan;Oh yes, throw that out.
+dtrs-11;10-iterations-on-cc2-design;Abby;Yeah maybe.
+dtrs-11;10-iterations-on-cc2-design;Kenny;Mhm.
+dtrs-11;10-iterations-on-cc2-design;Ewan;But it might be- I-
+dtrs-11;10-iterations-on-cc2-design;David;But ehm, but eh I was thinking this-
+dtrs-11;10-iterations-on-cc2-design;Ewan;"Isn't it just- yeah, introducing the last, you know, ""what is this?"" ""This is THE COMPANY, please help us"". (laughter)"
+dtrs-11;10-iterations-on-cc2-design;David;Yeah but- even- even- yeah. But just a- like an immediate off-load of course, but even prior that, eh, still not saying that we are THE COMPANY, but eh like, having all the brands we're eh kind of in the segment of, like the one eh, ehm-
+dtrs-11;10-iterations-on-cc2-design;Ewan;Like the other automobile brands?
+dtrs-11;10-iterations-on-cc2-design;David;"All the other motor brands, Range Rover and all those kind of things, right? So, we ask them to ideate on- ""write three words this brand represent and go through all of them"". Like, THE COMPANY would be one of them as well, just, ""what comes in to you mind when you- when you hear this car logo, or company?"""
+dtrs-11;10-iterations-on-cc2-design;Ewan;Yeah, okay?
+dtrs-11;10-iterations-on-cc2-design;David;So they- for instance they- they say-
+dtrs-11;10-iterations-on-cc2-design;Ewan;What happens then?
+dtrs-11;10-iterations-on-cc2-design;David;"Yeah, then we get like ""oh, THE COMPANY, that's eh, like eh this kind of car, it reminds me of comfort and eh safety and"""
+dtrs-11;10-iterations-on-cc2-design;Ewan;"Yeah, [""sexy commitment""]."
+dtrs-11;10-iterations-on-cc2-design;David;"""And a Range Rover, that's an adventure car, that's a bla-bla-bla"". So you go through all of these,"
+dtrs-11;10-iterations-on-cc2-design;Ewan;And what can we use it for?
+dtrs-11;10-iterations-on-cc2-design;David;Identification of eh core, like underlying values, immediate values for each consumer.
+dtrs-11;10-iterations-on-cc2-design;Ewan;But can we link it to this somehow?
+dtrs-11;10-iterations-on-cc2-design;Abby;Yeah I was actually-
+dtrs-11;10-iterations-on-cc2-design;David;We can differentiate it, like it's a way eh, potentially seeing a trend within marketing, or [where- where people are].
+dtrs-11;10-iterations-on-cc2-design;Ewan;[Yeah, is it we're- yeah. I follow] you a hundred percent, and I like it, I think we need to tie it into this somehow, or else we will derail completely.
+dtrs-11;10-iterations-on-cc2-design;David;Yeah, yeah.
+dtrs-11;10-iterations-on-cc2-design;Amanda;Maybe the question is, if this is for THE COMPANY,
+dtrs-11;10-iterations-on-cc2-design;Ewan;Yeah, and that was what I was thinking.
+dtrs-11;10-iterations-on-cc2-design;Amanda;Which one re'- fit to this brand?
+dtrs-11;10-iterations-on-cc2-design;Ewan;Yeah, which one or how can you combine them, or whatever.
+dtrs-11;10-iterations-on-cc2-design;Will;"""How can you [make it] the soul to THE COMPANY?"" is an idea."
+dtrs-11;10-iterations-on-cc2-design;Amanda;[Custom made for this brand, yeah].
+dtrs-11;10-iterations-on-cc2-design;Ewan;"Yeah, ""how can this be attached to THE COMPANY""."
+dtrs-11;10-iterations-on-cc2-design;Will;We say the investor is THE COMPANY.
+dtrs-11;10-iterations-on-cc2-design;Rose;"Yeah, ""hi"" and they'll be like [(makes amazed exclamation), then they'll be like ""this is so far from my car life!""]"
+dtrs-11;10-iterations-on-cc2-design;Will;"[So THE COMPANY is ""just stop them right there"" or I don't know]."
+dtrs-11;10-iterations-on-cc2-design;Rose;And then they'll be like (INAUDIBLE).
+dtrs-11;10-iterations-on-cc2-design;Amanda;That would be good to know, if they have their-
+dtrs-11;10-iterations-on-cc2-design;Ewan;Yeah yeah, and know that. (..)
+dtrs-11;10-iterations-on-cc2-design;Ewan;Okay, great. Yeah let's start to refine that exercise, I think it makes sense, great eh input.
+dtrs-11;10-iterations-on-cc2-design;Abby;Can we- can we also maybe have a look at what we actually planned? Just to kind of eh see if [we actually had some good ideas].
+dtrs-11;10-iterations-on-cc2-design;Kenny;[We can use something].
+dtrs-11;10-iterations-on-cc2-design;Rose;[I think] Tiffany and Hans are gonna get a hard time if nothing is car-related for like the first four hours. (laughter)
+dtrs-11;10-iterations-on-cc2-design;Amanda;"""Domestic robot?! [What are you talking about?!""]"
+dtrs-11;10-iterations-on-cc2-design;Rose;[I've been thinking about it], I just like-
+dtrs-11;10-iterations-on-cc2-design;Will;It's a fish-ball making machine or something (laughter)
+dtrs-11;10-iterations-on-cc2-design;Rose;Like a dumpling machine.
+dtrs-11;10-iterations-on-cc2-design;Amanda;Underwear? What?!
+dtrs-11;10-iterations-on-cc2-design;Ewan;"""Dumpling machine"" (laughs)"
+dtrs-11;10-iterations-on-cc2-design;Amanda;But like, whoever gonna do the debrief, good luck (laughter)
+dtrs-11;10-iterations-on-cc2-design;Ewan;Ah it really doesn't- it really doesn't matter that much, but eh if- this last exercise will tie it nicely together.
+dtrs-11;10-iterations-on-cc2-design;Abby;Ewan?
+dtrs-11;10-iterations-on-cc2-design;Ewan;Yeah?
+dtrs-11;10-iterations-on-cc2-design;Abby;Could you ehm do this one?
+dtrs-11;10-iterations-on-cc2-design;Will;"Which means we need- we need to make sure you- the final exercise is not too short. I think basically finding- ""oh by the way it's THE COMPANY""."
+dtrs-11;10-iterations-on-cc2-design;Ewan;[No no no, it's like-]
+dtrs-11;10-iterations-on-cc2-design;Abby;[We need to- yeah].
+dtrs-11;10-iterations-on-cc2-design;Rose;Put like, twenty minutes at least, for it to take.
+dtrs-11;10-iterations-on-cc2-design;Ewan;It's like the THE COMPANY-fication part.
+dtrs-11;10-iterations-on-cc2-design;Amanda;(..) Maybe this is too long then. So if this is ten, if this is t'- fifteen,
+dtrs-11;10-iterations-on-cc2-design;Rose;Sure, yeah.
+dtrs-11;10-iterations-on-cc2-design;Amanda;Then we save already.
+dtrs-11;10-iterations-on-cc2-design;Will;Sure.
+dtrs-11;10-iterations-on-cc2-design;Rose;Sure.
+dtrs-11;10-iterations-on-cc2-design;Amanda;(..) And lunch is forty-five?
+dtrs-11;10-iterations-on-cc2-design;Will;Probably closer to thirty, we didn't need forty-five minutes the other day.
+dtrs-11;10-iterations-on-cc2-design;Rose;Yeah, we didn't need that day. Probably we have to think of another quick food option that is not the same (laughs)
+dtrs-11;10-iterations-on-cc2-design;Ewan;(..) Okay. I think this is starting to shape up. And also what it does is that it releases some of the- the heavy practical work on the day, but also tomorrow. Eh yeah. We just need to kind of sprinkle it a little bit with eh, with tangibility.
+dtrs-11;10-iterations-on-cc2-design;Abby;"And maybe it's enough actually- I mean, we can build some things, but maybe it's also enough that there is this small wooden pieces and, stuff like this just lying on the table for them to pick up and say ""oh! I like this fluffy- fluffyness of this eh pink eh"" whatever it is. ""Uh, this gives me this idea""."
+dtrs-11;10-iterations-on-cc2-design;Ewan;Or, as you say, like for every time we introduce some of that or this, we attach something, like safety security maybe there's a padlock on this one.
+dtrs-11;10-iterations-on-cc2-design;Abby;Exactly.
+dtrs-11;10-iterations-on-cc2-design;Ewan;Eh evolving status symbol, maybe there's a Norwegian salmon hanging on to it. Eh (laughter) maybe, I'm just sort of brainstorming here, maybe, I don't know.
+dtrs-11;10-iterations-on-cc2-design;Amanda;From IKEA (laughs)
+dtrs-11;10-iterations-on-cc2-design;Ewan;Yeah. Just something they can smell and hold and eh
+dtrs-11;10-iterations-on-cc2-design;Abby;Yeah.
+dtrs-11;10-iterations-on-cc2-design;Amanda;Maybe like a Japanese bento-set.
+dtrs-11;10-iterations-on-cc2-design;Ewan;Yeah. Just something that will jug their mind and maybe come in from another angle.

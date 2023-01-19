@@ -1,0 +1,1017 @@
+dataset;session;speaker;utterance
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;CC2.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;CC2.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;We have ehm
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;We could stand up.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah, and vi have some eh
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;We already have some?
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah, we do actually already have some.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Start things.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yes, then we can actually move this. Then we have some co-creation two post-its here.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Oh yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;(..) Ehm.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;(..) From Amandas eh
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;"Input. What did you write? ""Each group is its own little company""."
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yep, so-
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;"""Ideal idea of product, where to sell it, how to storytell it, how to price it"". ""Problem solving, create a problem within (.) the respondent-"""
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;"""Which the-"""
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;"""Which the respondents needs to solve"""
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Mhm.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;"""Start with share back plus investment"""
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Okay, so now we switch to English.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;So I guess this is the ehm. This little thing here I think was what we talked about, the problem solving. That-
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;That we give them a challenge, we give them a
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah, exactly.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;An issue that they need to solve.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah. So we need to create a problem around whatever we have, and then they need to solve the problem. And I think- I like this approach because of the way that the Chinese people think, and I think it's very easy for them to get into a task like that.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;And I- and the whole idea of the- kind of the mini company, I think is a cool approach because-
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah it's a cool approach and they will like it.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah because it makes it very easy for them to- it's very logical for them to think in story and sales and.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Cause basically they are- they're doing their- the job for us in a very natural way.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah, so they can focus on the fun things rather than trying to understand the task.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;It does of course create another challenge, which is the opposite challenge of if it was very personal for them, because then they will be coming from a personal side, now they come from a company side so now maybe the focus is not around what's important for them, but what's important for the company which is typically money. So that is our challenge. How can we keep them within their own personal realm.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah I guess they need to know that target, customers needs to be themself.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah, so like in the first session they should imagine that there are millions of you, and you need to sell this product to them.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;And I think that is the cool part, that we don't introduce this before the very end of the first session, or maybe in the first eh, at the start of this session, so we already have that captured, so that stick is in the ground.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah. And they already have this company thinking from the first session probably, because they needed to invest as a company.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;"Yeah. So we- the moderator needs to always, and we need to always, if they go out on a tangent and think only money or whatever, we need to draw them back into ""this is what we know is important, this is what we agreed on""."
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah. And it gives a pretty good flow that we come from this company investment thing, and now we need to sell the product, we need to market the product.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Maybe one thing that they should make is some sort of company slogan, which is the company values.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah, mhm.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;And every- and then, when they talk about storytelling or product or sales, it needs to make sense for their company slogan.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah. Maybe we can just write the time, just like we did last time, so we'll start- [it's- it will be the same].
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;[Eight forty-five].
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah. Ehm and we also need this eh kind of warm up exercise to include the two new guys.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Oh the two new guys, yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;And we should- we should maybe do- we thought about this really early, like maybe it is- should be some sort of, the people that have been there before are sharing something. You know, telling about their little company or whatever.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Ehm and of course they need to feel really welcome, the other people, and they need to be- they need to do that little exercise. (laughs)
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah, exactly, but we can't spend an hour on it.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;No no! (laughs)
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;So, we need to really make them do this. And maybe we can ask them to actually-
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Come a little earlier?
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;"Come maybe twenty minutes early or something, then they can have the small exercise. ""Here you have the animals"", and so on, and then they can present themselves to their respective groups."
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah, 'cause [I guess they go- they do like this].
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;[And then the groups can- yeah, exactly]. And then the group members can also present themselves. But within each of the groups.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah. It makes sense. It's gonna be a little uncomfortable for them, but I think they- the groups are still so small and we are there to welcome them and everything so I think it will feel safe, in the end.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah. And I guess Rose, or the recruitment eh woman also needs to say this to these two people that are-
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah maybe we can make them even more specially welcome. We can have a- we can have a little surprise for them or something like that. Or maybe they don't want to have a little surprise.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;"Yeah but, I mean, it- I think it will be a big enough surprise for them if they don't know it beforehand, that- and they're actually coming in and they can see the people totally mingling and is talking, ""hm okay, [what is eh-""]"
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;"[Yeah, with surprise I didn't mean a s'-] I meant a little gift or something like that. Like, ""we know that this is- you're gonna have to come in there, so here's like a muffin for you"". I have no idea, but like- (laughter)"
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;But I think it's important that they don't feel that they're less important than the other people because they haven't been part of the first session, so how do we make them feel just as valuable as the others from-
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;And there is a reason why we brought them in there.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah yeah, and they should absolutely hear that reason and really ma'- and even making them special, that okay now they're actually-
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;"But not more special than the other people, but they're also special. (laughter) ""You're all special, but in your own ways"" (laughter)."
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah. Eh should they be eh, should they be given some special power? Eh in the sense that they are kind of the customer of that little company? Or are they the CEO or the- or maybe an investor coming in, are they to invest in something?
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah, I think that was actually what we talked about, wasn't it? That they could come in, the two companies present whatever they're kind of eh thinking-
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;And they come with their money and invest in the idea.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;And maybe it could even be that eh that's the way that they actually choose group.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Oh yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Aha, that's interesting (laughs)
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;"So they- ""Okay, I will invest in your group"""
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;What if- what if they eh-
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;[They both want to invest in the same?]
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;[Yeah yeah, but then maybe they both] can go to the same, I don't know (laughs)
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;"But the other one would be the loser group (laughter) ""We got zero money, we fucked up!"""
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;"Or maybe it could just be a discussion within the two ""okay, you two just decide which group you want to go to"". I don't know if it's putting too much pressure on them maybe. Maybe, maybe it is."
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;It should almost be random where they end. We need- they need to feel comfortable within the group of course.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Eh it's interesting.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;"But I think, I mean, we're ending here, with the ""now imagine that you're a CEO in a company wanting to invest in these themes"". So I'm thinking, we haven't made the companies yet, so they can't present a company. So-"
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;So, wait, okay so, maybe this- could that happen that the first thirty minutes or something, eh the two new people, they are making name tags over here, and the groups, so group one and group two, (draws on whiteboard) are making the company over here and here?
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;I guess- I- yeah if-
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;And then they- we are putting them together here. So then they have time to, for thirty minutes or something like that, they have time to make the company and make the kind of get together.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;So I'm thinking that the company can't really be- I mean, here- the company can be based on values only then. Not any products or anything because that's kind of what we are doing later. So I'm thinking that maybe it's kind of the first half of the day we'll use- we'll spend on making it more concrete, and then we'll make the companies based on something a little bit more concrete than just the values and themes.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah, that could be- so this would be the company values that they would create here.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;"But isn't it hard to- if you have no idea what product you are going to sell, but you just have an idea of ""okay, I want to create a company with these values""."
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah?
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;And I think- I think it's- maybe it doesn't feel so nice for this person, or [these two]
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;[To be separated?]
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;To be separated so obviously, from the beginning, when they need to part of the rest of the process later.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Oh no, I agree. Eh let's scrap this one. Eh. But there's no doubt that we have to utilize the freshness, or the virginity of these two people. Eh and how do we do that in the best what? 'Cause these- the people who come here, even though they've been with us one time, they're still a little raw and a little virgin themself, so how can we make sure that they can communicate something fairly straightforward, together, as a unit, where the other person is kind of watching. Or commenting.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;"Yeah. And at the same time I'm not sure what. I mean, if they're going to arrive kind of at the same time and (.) then maybe we need to do something more in co-creation one, to get one step deeper, but I'm not sure that we have time to do that, becaues otherwise the only thing that they can share back would be the selected themes for example ""okay, I invested in this because of this and this"". ""I invested in this because of this"". On a theme level."
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah, and that was of course why I wanted to separate them out in the beginning 'cause the- these groups can then come up with something, they can use that little time and- while these people are making the name tags.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;But I'm- my point is that it's- I don't think thirty minutes is enough.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Is enough?
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;To them- for them to create something that they can actually eh create a company or something like that.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah. Yes. Eh so how can we then- 'cause the- when they come in, for every minute that passes they will become more and more in to it.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Couldn't we ask the new- the two new people to prepare something, the animals, before they come? We can send- send a list.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;A hitch?
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah I don't know if it's (.)
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Again [that becomes eh]
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;[I feel it's hard] to integrate with the (.) when they're starting to work.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;But I think, if they come just eh fifteen minutes eh-
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;If they come fifteen minutes before, it would also work.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;"Yeah. Because then they have cut it out, laminated it and everything and then they are ""okay, I'm in this group"" and then we will all present ourselves againg, and then this new person will also present him or herself. Ehm."
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;I think that would work out. And I think it would nice as- it's a nice thing to re-represent yourself- represent yourself, because people- even though they know each other, it's nice with a- it's a warm up. It's kind of like a hand shake.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Mhm. But, if they come fifteen minutes earlier, then- and if we're still putting things up on the wall, will it feel strange for them to be sitting there alone by the table while we are doing things around them?
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;But they're not alone. Rose will be there, and. They will do that- this exercise together, and- yeah okay, one needs to be-
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah one needs to receive the- the other respondents when they're coming.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;So it will be Rose or Will, and it would be us.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Or Amanda could actually do it.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Amanda could maybe do it. We can sit there.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;"Yeah, so it could just be that eh Rose and Will is out in the meeting, kind of registration room, and then they do the exercise out there, and then Rose and Will is kind of supporting them ""ah okay, yeah okay, so you're-"""
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;It's just that all the people will come in there, ask questions and.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;But not if they arrive earlier than the other ones.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah but there is a chance that they arrive a little later, and some people arrive a little before, and then it will be an odd overlap.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;But maybe we should discuss what is it actually that we want to use these two extra people for. So our first thought was to, kind of, get some feedback, new fresh eyes on whatever we have done in this one. So maybe we should have a look at- okay, so what is it actually that we are doing here? We are coming up with themes.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;There is a- yeah, there's two reasons. One is new fresh eyes and the other one is security.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Typically you lose one or maybe even two, so it's just so we don't become so small that there's no one there.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Eh, but yeah. Best case scenario everyone- until now in China, everyone- we have never lost anyone.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah, and I'm- yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;"So, so that's good, but I- this is typically never that eh, a thing that will happen. There are always someone that falls off. But we could be lucky. So it's more like you mean ""let's use them because they don't know anything and they will come with a new perspective""."
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;(..) Yeah. And I'm thinking hopefully they will not, because hopefully (.) so maybe they're there to validate the themes that we have actually selected.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah we want them to confirm that this is still valid, that we did not eh push too hard in a direction or we are some kind of eh- or we are biasing them in some way that we didn't really realize.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;So how do we get that? How do we leverage that?
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;"Exactly, because I'm thinking that it's almost that they have to do this on themself- by themselves together with a moderator, what we went through but in a much more condensed form. Eh and then we can match it up. Because, if they are presented with anything, and they're totally new, I'm sure that they will say ""yeah yeah, it's good, kind of fits with my idea as well. Yeah yeah, it looks fine and-"""
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah we shouldn't put the words in their mouths. [They should try to put words on it before we say anything].
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;"[Yeah exactly, so they should- exactly]. Have the chance to actually eh say ""okay good life to me means this and this and this"", but, then I'm just thinking, when will we actually meet? Eh when will they meet with the rest of the group, and-"
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;But this is why we wanted the- I only did this once in co-creation and with the investment, and it did work really well there, but it could have been because it was in the US and stuff like that, but it really worked with people coming in, and they were confident enough to- they did the investment stuff. Right? They invested money, different they-
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah. So exactly what the big group is doing here.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah. And they could come in and the other group pitched it as an eh as a company.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;And I think that is really great, but-
+dtrs-11;05-designing-cocreation-workshops-day-2;David;Then they should simply arrive later. When they've already created the organization.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Exactly because, my point is exactly that I don't think that we'll get to a point here (.)
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Where you ready [to- to communicate as the company].
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;"[At all, where we- because we're saying it] kind of on the side note, ""okay, imagine you're the CEO in a company"". We don't talk about anything else eh about this company."
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;So how long time do you think they need? To- is it an hour, is it two hours,
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;I think it could be easily two hours.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Because if they need to work on a company that could focus in on one of these then they need to select a theme, they need to start to-
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;I see what you mean. The problem is, if we do it for two hours, it's really difficult to change it if they come with good input these people. You want it to be flexible enough to be able to absorb that, eh that information and then change, or adjust.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;(..) But then maybe we don't- maybe we should just use them as extra respondents. I mean, and then just start, okay, they arrive a little bit earlier, maybe they will not (.) maybe they will do their name tag and then get a short introduction of what have happened last time, and then they'll just be thrown into it.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;And then everyone is together on the exercises. [Because otherwise I think it will eh-]
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;[I tend to think that it will work best].
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Maybe, I still- I-
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;I think it would be nice to do that, as you say, but I think we are not ready to do it at that point, and I think I-
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Maybe, I've seen it work, and that's the only reason why I'm holding it. I've seen it work, but I agree that when I saw it work they
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;were a little further ahead.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah, exactly. It sounds like they-
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;They were a little further ahead, but it was still on a company-level, but they were like we were-
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;But we're not even on a company-level here.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;No, that's why like where do we end here? That's the question. Like how far do we push it into this? 'Cause-
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;So we don't- I mean, this will- is something like five minutes, this exercise.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;But then maybe we need to prioritize this to do- we need to be more or less, more time into this. So they are more secure around what that company is.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;But we don't have any more time. That's the problem.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;No no, so I- no, I'm just saying something needs to go. So this- we can have room for this.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;"Or- or we can change the ex'- maybe they don't need to- to communicate how to sell it and all that stuff. We can change their tasks so they're trying to tell something else. If we take the point that we are here, we're invested in something, and then you go back to your, I don't know, to your boss or to your executive board, and then you tell, ""what did I invest in and why did I invest in this?"" And maybe that's what they're going to tell, the two new respondents."
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah yeah, so they could be- it's basically just taking what you believe in here,
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;And pitching that to someone else.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;"So they can say ""alright, we saw these three, four themes, and we invested in this one, because of this and this and this and this"". Because that's what they- that's the point where they are. They know why they invested in it, but they don't know exactly how it can be turned into a product and how it can be turned into a business yet."
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;But it will be- so it's not a group thing yet, so this is eh
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Individual.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;[Yeah, individual. For each person represent the- yeah].
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;[Individual. Eh it could easily be three or four] or five eh themes that-
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Different themes, easily. They could- it could be- hopefully they will align a little bit, but it could definitely be that. So, and this is why, and of course maybe I'm repeating myself, I'm coming back to, is it possible that they come here and we spend, I don't know, half an hour, forty minutes on them becoming a company, like agreeing on the values of the company, while we're doing the other exercise, the name tag exercise, with the others in for example the sc'- so if they, they come a little asynchronously. So these go in to this room and then the other people come into this room, but there is like a twenty minute gap between them or whatever.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;"But maybe we should ehm- maybe we should then (.) so, then they have- then this group has agreed on ""okay, we will focus in- our company will focus in on well being, the well being theme. Eh our values are about, I don't know, eh r'-"""
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Mental health, eh and children.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;"Yeah. For example. (laughter) (..) And how will you pitch that? How should they pitch this and how should this eh person respond? ""Eh okay. Yeah? Then I'm a part of your company now."" (laughs)"
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah, so why it worked the last time was that this company had several areas.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;But what if this person disagrees? And then he still needs to be a part of this project for the rest of the session. But he thinks it's basically wrong, he has not been part of agreeing that that's the theme that they need to work on.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;No no, and this is the challenge, but that is kind of the premise as well. That this person, he has some money (.) and this company produces (.) has maybe two areas, eh. And then, they will choose one of them- they have to choose one of them. Or, maybe, eighty percent here and twenty percent here.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;I think the person at this point, when you come, they can present the themes that they have invested in, and they can explaing why. And if he comes with money, then he can invest in the two three themes that they have invested in, so he has like the top- the winner themes from the last session, but he can invest in one of them.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;And that's- that's the thing here. The point is we want them to say why they invested in it.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah, exactly.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;We want him to see- to say why he's investing there, and then we want this here- the discussion.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah but then- then these guys eh they haven't decided yet.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;They haven't decided it. We know from last time which one is the heavily invested in.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;"Yeah yeah, but- but they- they need- I mean eh, what we talked about was that these should create the company based on one or two themes. So, they shouldn't have created the- the company, or maybe I mean, but they are in the eh the company's in the making and these guys are sitting around, wondering ""should we invest in- or should we continue with this theme, this or this or this, five themes"" it's- and it's all of those eh top eh winner themes here,"
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah but, [we know that this one-]
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;[Yeah but- but each-]
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;[And then this eh], then they pitch all of them. And then this person comes in, putting money on it.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;But I- my suggestion is that each person will pitch the theme that they invested the most in. So each person has a winner theme that they invested- I assume so, that they have one theme that they invest most in unless they invest the same in all of them. Then they need to choose one. Then maybe they invest something else and which is more than the other one.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;So we know what each one of them invested, but we also know this is not the right math.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;The sum, yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;We all know that your group actually have- this is the winner investment. Here- you have the most money here, in the excitement eh currency.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah we know that. They don't know that.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;No, but-
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;No, I guess we'll present it to them, or we put an-
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;And they should in theory recognize that, unless it's totally like this. So, and this- and of course, this then becomes something we could show to this person (.) eh, but they don't necessarily need to (.) to see this, then they will do the same investment, but without going through the whole path they got to, but they will hear the pitch, they will hear the pitch from these people, for that product. And the question is how do they make a pitch?
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah, I think that's hard, because it's not necessarily their own they need to pitch, then. If they pitch the one that they chose, it's easier because they know the whole mental process of- of choosing that one. But if they need to pitch something that someone else chose, of course that's difficult to do, if they don't have time to prepare and align.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;"So the point of course of this is to be- it needs to be some consensus, and we- hopefully they are more- they're aligned in the sense that ""yes, okay, like we are moving towards- we want to go towards- this is our (INAUDIBLE), so we need to make some hard choices here"", and as business men, they need to make some hard choices. And of course if some of that is so against this, that is of course a challenge, but hopefully they will more or less move towards this here."
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah, I- I'm just thinking that- I think we're talking about different things.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah?
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;I think, my point is more like eh what will they feel comfortable with? And what are they able to- to talk about or to present without preparing anything?
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Without preparing anything, yeah. No, I agree.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;If you want to align already at that point, then I think they need preparation time and they need to talk together.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah no- and-
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Because it's not necessarily their own thing, but if they are only talking about their own thing I think you can pretty much just throw them out into the scene and then they can talk about their own decision.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;I'm just thinking-
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah it was the [last thing that they did here].
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;[Yeah. The last thing that they] did there.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Eh I'm just thinking how can- 'cause we want this person to help us make the choice.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;And after they have pitched their winner theme, then this person can invest in the three or four winner themes that he has eh or she has eh heard.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;And maybe everyone, actually- maybe eh
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah maybe everyone can [invest at then].
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;"[I think maybe] everyone should invest, because then it's not this person who actually makes the choice, but it's eh- it's a group thing again, and maybe one person pitched this idea really really good so someone else is thinking ""oh wow, this is eh (INAUDIBLE)""."
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;"But they are- remember they are investing- but hold on two seconds. I agree, but hold on two seconds. The other people know where they came from, they know the history, right? And this is why people within THE COMPANY knows ""why don't you buy it? It's amazing"" ""because I have been through it in the last eight years."" We want this person! This is simulating the new customer that only see the pitch."
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah but if one person is really bad at presenting then- but the theme is super good, then it shouldn't eh die because one person couldn't pitch it.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;No, that is true, so that is of course something we need to also be aware of, but we just- we shouldn't throw away the gold that this person has, because they don't know anything. We want- which stories are they picking out?
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;But it could be that this person has eh some extra money to invest for example. Eh
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;That could be, yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Than the other ones. But I think still that it is important because, if this is what they're going to base their company on, then I think it's super important that everyone get a vote in this and get a chance to actually reinvest ehm.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah. So they already did cast their vote, but they can definitely reinvest in it. Eh and, so the question is will there- will it be different between the last time of the day here and the first time of the day the next time?
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;"Yeah but it could easily be that they have maybe been thinking about it eh back home and when they come and they hear this guy presenting one theme and they're really thinking ""oh wow, I actually eh agree""."
+dtrs-11;05-designing-cocreation-workshops-day-2;David;They might have had some insights inbetween the co-creation sessions as well. And some incubation.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Maybe, but maybe not.
+dtrs-11;05-designing-cocreation-workshops-day-2;David;Yeah, totally, totally.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;They could- we just- there we come back to we only have those five hours. Are we just ending up with the same thing? Like, what are the-
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;"No but, I mean, this will take five more minutes, compared to if this person is going to invest in whatever these guys are pitching. I think it's eh super dangerous if this guy has so much power that he can choose ""okay, out of these three or five themes, I select this one. Now all of you need to go in this direction."""
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;I totally agree on that one, but I think the cool thing here is we basically want to hear how do they pitch it? How do they try to get this person on board? That's the story, right?
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah, absolutely.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;"And then we want him to say ""wow! Okay, I'm engaged. I'm engaged in the story, this is what I want"". So clearly there was something there."
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;I think- I think we can may'- I think it's- we can elevate this guy by maybe letting him have a little bit more money to invest than the others, so they have hundred thousand, here it's hundred and fifty. Or hundred and twenty or something, just a little bit, it shouldn't be three times or two times, but it should be a little bit, depending on how much additional power we want him to have. But I think that would work and then we also give him the ability to- to-
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;To reinvest?
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Not to reinvest, but-
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Or these people to reinvest.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah they can reinvest, but- but eh a less amount than him.
+dtrs-11;05-designing-cocreation-workshops-day-2;David;And is- is the reinvestment done after the first guy? Or at the same time?
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;I think it should be the secret eh [the secret investment].
+dtrs-11;05-designing-cocreation-workshops-day-2;David;[Secret, ah okay, yeah].
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;[Yeah secret, so then- so they don't see] that.
+dtrs-11;05-designing-cocreation-workshops-day-2;David;Ah okay, yeah yeah yeah everything's secret investment.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Are they allowed to invest in their own?
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yes they are.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Then everyone's just gonna invest in their own (laughs)
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah but, I mean, then it's- then-
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;But then of course this person will be the one that-
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah then he will actually be the-
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;So he will be the one that have- (laughs)
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;The final weight, yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;And, I mean, I'm pretty sure that eh this guy will pitch eh this idea, and this guy will also pitch this idea because it is the same theme that they have invested in, so and that's just eh
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;And I guess they can split it, the money, and they can split it in any way
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Any way.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Thirty-nine, forty-one or whatever, so it's just- the balance becomes very different I think, because nobody knows how they're gonna split the money.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;The thing that has worked with this before is that these people are fairly comfortable in talking, so they are able to talk out loud. They have one full day and one full week to mentally be in this space. This person is much more, of course, afraid, but they have power in the sense of money.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Exactly.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;And it- they could communicate eh through money.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;And I feel when it is the secret voting thing then it shouldn't matter.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Mhm.
+dtrs-11;05-designing-cocreation-workshops-day-2;David;Yeah because he doesn't know that he has more money.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Ah he s'- I think we should elevate him. At this point-
+dtrs-11;05-designing-cocreation-workshops-day-2;David;He should be aware that he has more money than the others?
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah and I think the other ones should also know that he has a little bit more.
+dtrs-11;05-designing-cocreation-workshops-day-2;David;Ah okay.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;So that they need to sell it to him.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah so that they need to sell it.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;We want them to really wanna get him on board, so they will invest.
+dtrs-11;05-designing-cocreation-workshops-day-2;David;Ah okay.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;But also the other ones. Because,
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah yeah yeah
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Eveyone wants everyone to put money on their theme.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah yeah yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;But I'm pretty sure that this eh this theme here is eh (.) this one and this as well, hopefully.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Probably. Hopefully. Hopefully.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah exactly. And then this is something different.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Hopefully. Ah definitely. Yeah. (..) (Off task) (..)
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;(Ewan drawingwriting on whiteboard) And I guess welcome and split out.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;But then we should know already there what- which groups the two new respondents should go in to.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Mhm, yes, so,
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;So if we want-
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;So that was what I actually was thinking of this should happen, this is the name tag sharing.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah, should it be a common session, the name tag sharing? Or should it be in the groups?
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;That's a good- that's the question, because like you want everyone to feel equal, and you want the other team also to know who the other person is.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah, that's true.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;But then it becomes a longer session.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;That becomes a longer session because then everybody needs to do it after each other instead of in parallel (.)
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Are we just going to spend eh (.) is it going to be nine forty-five that we'll do- just for fifteen minutes?
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Name tagging?
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah?
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;The name tag creation?
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Mhm?
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;For the new people?
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;[Yeah. For them to- okay, and-]
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;[We can do it for- we can ask them (.)] to come thirty minutes before?
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah before the- yeah, so-
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;So it becomes thirty?
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah, or that they will- I guess we should (.) yeah, and then how long before this will they actually arrive, thirty minutes?
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;To register?
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Register.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;"Arrive and register, suddenly one is a little late and ""bla bla bla""."
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;I think it should eh be as close to nine thirty as possible. Because we're only paying them for five hours, so.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;It's nine fifteen?
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Arrival?
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;At the earliest, I think. And if the- I mean, if they arrive nine, or if they start nine forty, then they still have twenty minutes.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah. I think nine forty is fine for them, and then they have twenty minutes to the- to do this, but then we just need to say to them that they need to come even earlier, eh. Nine fifteen?
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Mhm. (..) So that is eh (..) new respondents' arrival.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;So nine-
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;And registration.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;David;Welcome that includes eh for instance WeChat feedback, whatever. Homework eh.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;I don't know, maybe that comes later.
+dtrs-11;05-designing-cocreation-workshops-day-2;David;Yeah, yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Eh, it depends a little bit on the response we get. If we don't get anything back we- we (stand?) like-
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah, I think it doesn't need to be something that we use in that way, but we will use it in our workshops.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;If we see it, that we get tons of stuff back, we will eh kind of eh on the fly in the analysis phase create a thing around it.
+dtrs-11;05-designing-cocreation-workshops-day-2;David;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;But I guess registration for the seven people who are there at the first co-creation, they don't- it will only be the greeting.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah, it's not so much a registration anymore, because we don't need to check their eh
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;They just need to say hi.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;So maybe they (.) they don't need to be here half an hour before.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Maybe they only need to be fifteen minutes before?
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Because they- they're just-
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;No, not the other one.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah, exactly.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;They can be there just like fifteen minutes before so we know that they're there.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah, nine forty-five.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;(..) Mhm. (writes on whiteboard)
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;(..) Old respondents.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;"Yeah. ""Used"". (laughter)"
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;"Yeah, ""second hand""."
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;"Yeah. Oh was he writing ""old""? (laughter)"
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;(..) Yeah, so, in those fifteen minutes the old respondents they can just kind of arrive, walk around, and in those-
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;And again, warm up a little bit.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah, and eh, maybe in a separate room we will have the two new ones, in those fifteen minutes sitting there, cutting out the animals, preparing them to present to the rest of the group.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Mhm, yeah. Makes sense. (..) (Off task) (..)
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yep, so I guess we will (.) the seating will be as (.)
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;As before.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;As before. (..) And we will have a welcome and a- I guess we will also have the plan of the day and the whole introduction and I think the whole introduction will take half an hour again.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;"I think so, and that is to- also, the same as we have here, ""what's the purpose of today? Last time we was going broad, this time it's like we're really gonna focus on some things. So this is what we want the outcome to be""."
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah. So I guess it's eh recap (.)
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah, and purpose. Recap, and purpose of the day.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah. (..) And then plan (.) and expected outcome, maybe?
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;"Mhm. Expec'- that's so corp- corporate language. ""Expected outcome"" (laughs)"
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;"And I guess we still need to say these thing about ""we are here to- to understand what's going on"" and I guess we also need to say that ""this time around, it's co-creation so you will experience that we are a little bit more active"", de-de-de."
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;"Yeah, and maybe here we can show some images or even video from our three days of doing this. ""This is what we've been doing"", of course we hopefully have been giving eh some sneak peaks through WeChat, but maybe this is where eh we show them and we had that good suggestion from- I don't know who it was, maybe it was Dennis Leary who said that eh in regards to ""here's a small highlights of what we've been- you guys last time""."
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Been doing last time, yes.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;I think that works good.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah. To kind of- to- to mentally get them to remember.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Back into what they did, yeah. (..) Yeah, so some-
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;We can have video highlights of some kind.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah yeah. Maybe some time lapse of eh what they did.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah, that's cool. Yeah, that could be cool, to actually put up a time lapse camera, use one of our go pro's to do a time lapse.
+dtrs-11;05-designing-cocreation-workshops-day-2;David;Eh I'm already time lapsing on all cameras. At the same time while shooting, so.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Oh you are?
+dtrs-11;05-designing-cocreation-workshops-day-2;David;Yeah yeah yeah it shoots every ten seconds, so.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Okay, cool.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Ah that's cool.
+dtrs-11;05-designing-cocreation-workshops-day-2;David;So it- that shouldn't be a problem.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Can you do it on these?
+dtrs-11;05-designing-cocreation-workshops-day-2;David;They are running now.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;They are running both?
+dtrs-11;05-designing-cocreation-workshops-day-2;David;Yeah yeah yeah, both video and time lapsing, so.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Okay. Cool.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Okay. That's even cool to- it could even do- use some of the material we get now in the first session, to show how we work. Like, this is us, a time lapse of us prepping this very session.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah. (laughter)
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Super (vetter?)! (laughter)
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Okay, so we have ehm (.) let's see. The respondents are arriving (.) nine fifteen? And then we will start the exercise ehm with the name tags at nine forty?
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah?
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;And we have kind of fifteen minutes for that. And (.) meanwhile the other respondents will start to come in and mingle around.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Mhm mhm.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;At ten we'll start the introduction, eh seating as last time. Welcome by Rose and Will, and then introduction which will be recap and purpose of the day, ehm and in that- what we did up until now, some kind of videos or time lapse of what we've been doing. Eh something about our roles, today,
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Mhm.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Mhm?
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;So it's co-creation so we'll be more active. And then the plan of the day with kind of expected outcome eh
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Mhm.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;And, I guess we also need to say this eh, these thing about our expectations to them. So the other ones have heard this already, but maybe it's good that they're reminded again, and the new ones need to know it.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;And then confiscate the mobile phones again?
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yes.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah, the ceremony. The ritual. (laughter)
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;So half an hour for that, and then eh I guess we should use a spell'- eh (.) I don't know how much time-
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;On the name-
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah?
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah 'cause then, that was the question. Should they tell the names while they're in their separate group, which is good because it's faster, we can do it parallel, but it's bad because it will (.) [the other group, the oth'- yeah yeah].
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;[They will never get to know the other one].
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;And we [hope they- yeah at som'- yeah, true].
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;[And at some point they need to come together again], so it would be nice if they know each other.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah. Or should we- or should we do it in the sense that everyone else knows each other, but you two you tell who you are to the full group, and then you go in to smaller group- but then again it's not like the other people are super involved with each other, so it would maybe be a nice way again to do. But it just takes time.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;It takes time, yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;And also, we're doing the same thing, so it's not just about the respondents, it's everyone.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Ah true. It's everyone.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;So we are (.) how many, fifteen? I don't know. Nine and then (.) six- yeah, fifteen.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;"Or you could say- the two new one can do the extended version, which is ""these are the animals and this is why"","
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;And we can do it ultra short.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;"And the other one can do ""I am the elephant-beatle, Ewan, I am the"""
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah (laughs)
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;"Yeah. (laughter) And that's kind of funny as well. That's like ""I have no idea why beatle i-"""
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;You need to act your animal instead.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah! (laughter) So it's more like the gesture of doing it, eh for the others, but for the new people it's more the actual information you get.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah, that's true.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;So maybe that is the thing then, so. All people introduce themselves on a basic level, except the two new ones, which are doing the more in depth.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Mhm.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;So maybe we'll start with the people who already know each other, and then in the end, when the oth'- when they have been laughing a little bit and stuff like that, eh the two new ones will do it. So if it's just name and animal combination, it is literally thirty seconds per person.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah we can say one minute per person.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah. That's max!
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;"Yeah but, I guess they can- I mean, it doesn't really give that much to say ""okay, I'm the elephant-beatle."""
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;No, but it's funny-
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;You just need the extra words to
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah, a little bit.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Kind of understand the values that you have out on those two animals. Because it could be that okay an elephant, really big and grey, eh a little bit slow, maybe, or really clever and eh have a really good memory. I mean, it could be all kinds of things that you have focused in an ehm-
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;I think we should say one minute per person, and then maybe an additional five minute buffer or something.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Mhm.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;"And I think for example in these eh something like this, I think it could be really cool that we have some kind of big clock counting down, tick-tick-tick-tick-tick, so that everyone can see, also the ones speaking that, ""okay, now I actually need to stop."""
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Personally I'm totally against that of course (laughter)
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;I think that it would be eh, it could be really good.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yes. I think it should be good, maybe for the second session. The first session is difficult to s'- yeah, how- when, that's enormous power you have, to show that watch.
+dtrs-11;05-designing-cocreation-workshops-day-2;David;But maybe it's-
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;How- like, because sometimes you just need to invest more, and if you cut people off-
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;I think, in the first one, we have the hour. So we have plenty of time there. So it shouldn't be in that one, but for this one, because we don't want the other respondents eh, the old respondents to just eh tell and tell and tell and explain.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah, the thing I was thinking about is that, will it become boring? They- these have in theory heard it before.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;If they tell too much it becomes boring for the other ones.
+dtrs-11;05-designing-cocreation-workshops-day-2;David;But it's only in group? The other group doesn't know, right?
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;No the other group also know, because-
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah we do it as a shared session in the first.
+dtrs-11;05-designing-cocreation-workshops-day-2;David;Alright.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;[Wi- will it become a repeat?]
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;[Yeah, and we don't want the-]
+dtrs-11;05-designing-cocreation-workshops-day-2;David;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah, and we don't want the new ones to just-
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Elaborate.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;"As the first eh people, standing up in front of everyone ""yeah, hm, I chose the something."""
+dtrs-11;05-designing-cocreation-workshops-day-2;David;Yeah yeah, totally not. [It's putting them on the spot].
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;[This is a recap], but that was why I was wondering should it only be name and animal?
+dtrs-11;05-designing-cocreation-workshops-day-2;David;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Or should it be more in depth? I see your point, Abby, I don't-
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;But I mean, if we have for example one minute per person, you can say much more than eh the name, your own name and the [two animals that you've chosen].
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;[Yeah, so I was thinking like should it be] twenty seconds?
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;"You can- you can say, ""okay, and I have eh, I have focused on these values"", chk-chk-chk."
+dtrs-11;05-designing-cocreation-workshops-day-2;David;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah. Yes. It will be a recap, eh but like- yeah. Two words.
+dtrs-11;05-designing-cocreation-workshops-day-2;David;If it's-
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;A much shorter eh presentation compared to the first one.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Mhm.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Mhm. Okay, let's try it. Maybe we can even simulate this, eh later on, eh to see what makes sense.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah, we can.
+dtrs-11;05-designing-cocreation-workshops-day-2;David;"Yeah. Leaving- leaving it short might also open up for like conversation possibilites instead of they're saying ""what do you do?"" when they have like a moment at the table. Then they might ask ""so why did you choose the elephant?"" or whatever."
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah. Let's eh give it one minute now and they can- whatever they wanna fill that with.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;So how much time are we going to spend on this, all in all?
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;So how many people are we?
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Is it like twenty minutes?
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Now we're nine respondents plus (.) us three, Rose, so that's-
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;And Will plus (.)
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;So we are six, and they are nine.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah, and the translators are also there.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;And the translators, yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;How many was there? (laughs)
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Seventeen.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Seventeen, yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Seventeen.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;And then three minutes buffer (laughs)
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah, twenty minutes.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;And then we go home! (laughter)
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;I think it's doable. Twenty minutes.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;"I think- I'm still open- I think- I still believe it's possible to say just your name and animal and (.) so they say like ""I am the s'- (.) I am the slow eleph'- slow and slimy elephant-eel."" (laughter)"
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;"We could- instead of time-capping it, we can also word-capping it and say, ""you can say ten words about yourself. You can say twenty words about yourself"", instead of putting a time-cap then put a limit on the words."
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;It becomes very complex.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;It becomes quite complex (laughter), people need to think a little bit about (.) yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;"Cause the normal way of saying that ""I chose the elephant because eh I think the elephant is beautiful, and-"""
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;(laughs) Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;But still, that takes maybe ten seconds. I mean, so- and if we have one minute for each, I think it is doable to actually put a few extra words on it.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah I was thinking could it be thirty seconds, or is it like how can we keep it as low as possible without it getting boring. Ah fuck it, let's try it-
+dtrs-11;05-designing-cocreation-workshops-day-2;David;You can totally set the scene if you start in the format that you want it. It's only gonna be shorter.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;That's a good point, so let's maybe- let's- a couple of us start,
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;"Yeah, and we don't need to mention any time limit. We just say ""you need to say it ultra short, and then you start"" and set the format, and then they just continue the same way, [yeah. I think that's eh that will work]."
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;[Let's try it- to do it like that].
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah. So it's twenty minutes, present yourself and your animals (laughter), and the values.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;"""Present your animal!"" (makes animal sound, laughter) (..) (Off task) (..)"
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah, present yourself and the values your animals represent.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah. Your animal values. Yeah, okay. Cool. So that will then be (.)
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Ten fifteen? Eh ten fifty.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Ten fifty?
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Ten fifty to (.) so then we have welcome, it's fifteen minutes, and maybe that was including in your intro. Included in your intro. We start at ten to ten fifteen. This could be outdated.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Ah yeah, I have eh actually- I have- from ten to ten thirty I have intro and setting the scene.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Mhm.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;And then from ten thirty to ten fifty, introducing ourselves.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Mhm. (writing on whiteboard) So ten thirty to ten fifty, introduction. Or, introducing yourself.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah. (..) And then, we have- if we want to have lunch at twelve, then we have one hour and ten minutes.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;And that's maybe where this baby comes in (taps on whiteboard).
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah, I think- and that would be perfect to put it in there, and also to have (.) time-
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Eh this is the second session, should it be ten fifty to ten, is that seating arrangements? Does that take ten minutes?
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah ten minutes to split out?
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah? Find the seats,
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;But I guess it's just, the other people will be sitting (.) ah, so are we going to put the tables together again? Start as one group, and then split up, yeah, I think that's a good idea.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;I think so, yeah. So maybe eh-
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Okay yeah, so that's the ten minutes exercise.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;So that's el'- eh ten-
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;But maybe people are already s'- if it's just a wall on the table, then maybe people are already sitting where they're supposed to sit. It's just a wall that we move.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Let's see what solution we select there.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;"Yeah. And we need to find out how- where the new ones are going. I mean, I get- it will be one in each group, but (.) is it just ""okay, you sit closer to that group, you'll be in there""?"
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;It's- their animal has to fight to the death. (laughter) Yeah, okay so-
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah, but let's have this buffer with- of ten minutes. Ehm.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;That's to eleven,
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Seating.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Find your seats.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;And divide into- divide eh split out in two groups. (E writes on whiteboard) (..) New respondents are given their seat.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah, and it's the new ones. (..) Yeah we need to discuss how that can happen.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;"Hopefully there is a- like an obvious (.) like it should be- like, not a logical bond, but an obvious one. Like ""ah clearly you chose a land animal. You go to the land animal crew"" or whatever."
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah, and if there's not then maybe it's not super important. I mean, so it could either be that okay, we can see that this person is really shy, and the other- one group is not as aggressive as the other one, then maybe it could go there and-
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Actually we talked about changing the groups, the constellation of the groups, for the second eh co-creation.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Oh that's interesting.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;We did not eh think about that now.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;My gut feeling is that we shouldn't.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;So this could be totally new groups.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;So everyone is a little new. They have to rebuild a lot of rapport with each other.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah?
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;It's a- it's a- I'm thinking not.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;I'm thinking that it would be better to-
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Keep them.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah, to keep them. Also because it's the themes that (.) they know the reasoning behind the these themes that they have selected, so it could be that one group selects this eh pool of themes.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Maybe not- so at one point we wanna get them to go and get together of course, again.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;But I guess it was also what we talked about, that the two groups could (.) not fight, but they need to kind of eh
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Position each other.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah, the other company needs to do something. There needs to be some kind of eh
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Merger.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Merger-
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Joint venture. (laughter)
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah. Whatever.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah. And this of course, when we- hopefully, here they are (.) it's basically this exercise again, but just as one. Where these go together as one company. And of course they need to then, the two companies need to figure out something together.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah. Should we move on, just like eh, should we try to write down this part?
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yes.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Before we open up for a new major issue. (laughter) Yeah. So split out in to groups, eh place new ones, and that I guess now is one hour, eleven (.)
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;To twelve.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;To twelve (.) is the pitch.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;(..) From eleven to twelve, yes.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Pitch and investment.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah. (Writes on whiteboard) (..) (Off task) (..)
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;"So hopefully through the homework (.) best case scenario, through the homework, they have already been verbalizing some, (thoughts about something?), because it's like, ""think about your investment, what is good, who is there, what makes sense"". And they have just laughed a little bit and they have these new people in the group,"
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;And ehm (.) they will now (.) eh pitch their-
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;"Pitch, ""pitch your favorite theme, which you invested the most in."""
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah. Mhm.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;(..) And the purpose. Ehm. (..) To present their themes, (writes on computer)
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;"""To each own"""
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;"""for (.) new respondents (..) and choose direction"""
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;And then we have the break to collect their investments.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;(..) Mhm?
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah so it's pitch, everyone pitches their favorite theme, and then everyone eh do the secret voting, ehm and then we need to (.) find-
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;We have a result from last time, but maybe we'll get a new result now.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;So they- yeah, we can show them both results. I don't know if it gives any values to show them both, but the- it's interesting.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;I think, it's important that at some point they know these results, 'cause we are lea'- using this as a cliffhanger. No wait, didn't we say that we were gonna show the results over here? But not from the other group. (..) I think we said we will show them.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah? Or is it they know the result already? Maybe?
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah, they don't know who (.) they don't know who pitched it- no sorry, invested, but they know the result, which one was the most favorite one.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;It's kind of a conclusive thing, or else a very very loose
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah, we haven't actually written anything down here.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Okay. 'Cause I think it's real'- or else it's like the classic, like in- at least in film theory, you should never show a gun in a movie without firing it. And here we definitely show the gun, but we don't fire it if we don't eh
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;"But- hm. But the reason for them to invest (.) I don't- I'm thinking that eh it's just for themself to know ""what is my favorite""."
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;But people are always interested in what does the other- who won? Like I'm investing something, then what happens? To my investment.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah? And we're saying that maybe it wasn't money, maybe it's emotional may'- so it's kind of more like a voting.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah, but still, they wanna see the result, we're building up something and I think it's just- it's a little (.) unfair to- or, should I say it's a little unconclusive to not share that.
+dtrs-11;05-designing-cocreation-workshops-day-2;David;But do you have eh multiple currencies? Like a- like, a rational and an emotional?
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Maybe, we haven't gotten that much into it.
+dtrs-11;05-designing-cocreation-workshops-day-2;David;Alright.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;"But, I mean, if it's (.) I'm just thinking that they shouldn't be- just because the group thinks that ""okay, this theme is eh the most important"", then eh I s'- I really think that it's important that they keep on to the theme that they think is the most important."
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;I understand. So they can easily be skewed if everyone else was doing that, then it's suddenly like you pull out.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah, exactly.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;I see that.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;So maybe it's more about eh the last exercise, there's more about eh choosing your personal theme, and maybe say it out loud, why did you choose it? Why did you put the most eh money on this? And then it's not about which one eh- which theme eh actually won. It's not a competition. It's just to actually-
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Totally Scandinavian. (laughs)
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;"It's just to state ""okay, I prefer this, because of this, I prefer this"", and then, when they come again, we can say ""okay so eh you preferred this one, you preferred this, does it still hold? Eh yeah, okay, then pitch it""."
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Mhm. Can you close the window? It's like minus a thousand degrees here. Eh yeah, we can do it like that as well. Eh of course we're doing it because we want to- to for'- we wanna stop the going out and start the going in.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;But if that starts or stops here, or sorry start- eh if it's here or here doesn't really matter, we just (.) they need to- they need to be settled on something.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Exactly.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;They need to make a statement.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;And I think that's the purpose.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;That's the- that is the purpose.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;"It's not that one theme won, but it's for- it- for the different ones to say ""okay, I'm eh betting on this one""."
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah. Mhm.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Okay, so I'll write that in (.)
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;And we're also saying that they don't- they can put the money where'- however they want. Thirty thirty thirty or (.)
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;"Okay, so it's actually maybe- so it's a secret (.) eh so they still need to do it, and then we'll ask each of them ""okay, why did you choose this one?"""
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Mhm.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Mhm.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Are you now here or here? (points to whiteboard) You're here, right?
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yes.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah, mhm. (..) And we will still hang on to the money. We won't reveal the money- or sorry the- the amount here, that comes here.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Hm? What?
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;No I was thinking like, are we- we're holding on (.) 'cause we want to force something. We wanna force that this is on top, this is on bottom.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;"Yeah but I don't think that we even need eh investment up there, and I think also maybe that if we do the investment there, it's not as fun to do it here as well. So I think we should just remove it from the first eh day, and then just say ""okay now you eh, in a group, okay"" eh, Rose is introducing the exercise which is to- ""now you need to lock in on one of these themes that's the best- that you find most whatever"", they write it down and then they present it. ""Okay I find well being the most interesting because of this and this and this"". ""Okay, that's great, remember that to next time""."
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;We- yes yeah. So, let's go for that, but listen to this.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yes yes.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;And so, the good thing about having s'- the investment is that it becomes very real in a way, you knew- you have a stack of something that you need to give out. It's that analogy forces them into another way of thinking.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;But I think we do that there.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;We do that here, and yeah, and- which is okay.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah, so I think here, we can [put a heart-]
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;[It should be dif'- yeah].
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;We put a heart on some of them here. So that's the one that I like.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;And then in the next session, then we'll start to put the money in.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Exactly.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Because we already know what we like, but now we start to put some rationality on top of that.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Should we put- should we have three hearts, then? Something- they can put three hearts on one or two hearts on one and one on another one? Or are we forcing them to choose only one?
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;I think it's fine just to choose one, because we are not excluding anything. And, we don't need to know what second and third. And we don't need them to think about the second and the third either.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Especially because- I'm just thinking, then for the next time (.) I think that one person should present one theme. The theme that he believes the most in. And if we (.) I mean- and if it's- then there's no reason for them to choose top one two three.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;"The reason is just the mental process you go through when you select a- when- if you are allowed to keep both, it's like ""I selected this because I love it, but I selected this because it's most important""."
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah but then which one will they pitch the next time?
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah, yeah so of course it's- that is eh something they need to do here. So, I just wanted them to (.) which part are we com'- which part of them are we communicating to here?
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Mhm.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;I meant- I- if you can- the thing with the investment is that you can- it's okay to ride on two different horses. Because this is like, it's not as black and white.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah yeah, I totally get that, but then then what will happen in-
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;What will happen here. (Points to whiteboard)
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah, exactly.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;And this is of course where it becomes (.) where we knew- we want the discussion to happen inbetween them and everything when we are- they are seeing something is going up, something is going down. And these are the arguments. We want this- this is like very darwinistic in a way. We want the strongest one to- or the most compatible one or whatever, the most eh adaptable one to survive.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah, and I guess it could be that eh all of them will pitch the exact same theme.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Mhm.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;"And the new respondents saying ""okay, hm. I don't really feel for it."""
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yes if- (laughter) and that could be the case, but hopefully- and if they all pitch the same, ehm we will already kind of know that here, if they pitch the same.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Mhm, yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Exactly. And then we can do something to change it [in the next eh- yeah].
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;[Then we can adjust the eh the eh].
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;So let's assume that they are choosing one, eh one theme
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;I think they should- yeah?
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;"And they write it down on a post-it, they share back and say ""okay I chose this one because of this and this and this"", and it can't just- I mean, Rose and Will needs to really ask why and get deeper into it so that they know even better themselves why they actually chose it. To make them reflect over this."
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;"So you still think we should only do it for one, not- they don't- they shouldn't have three hearts. They can do all on three or two on one, and. 'Cause I kind of wanted that discussion, ""why is that still here? Why- what is the value in this one? You didn't want to put it on top, but it still- you're still dragging it with you. What are the features and the the values of this?"""
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;"I think it can be done in the moderation. That- that Rose or Will just ask ""why did you not choose that instead?"" or ""why did you not choose that?"""
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah. Yeah, and, I mean, we have like (.) two minutes, per person, for this, to share back, in this eh session here.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yes, and it's a fairly important part, it's the conclusion of this in many ways.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah yeah, I-
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;So we can't down prioritize it. It's kind of the fruit of our labour that day. It will be what sustains us to three days here. Not a hundred percent, but in many ways it-
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah, not hundred percent I would say.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;This is the- this, at least, for these people this is a goal for them. That is the goal of the day for them.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah yeah, we get them to to prioritize ehm to prioritize the themes that we have been going through the whole day. Ehm.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;(..) They need to make a choice, and that's the thing.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;"Exactly. And if (.) I'm just eh, yeah, I think it could be okay that of course Rose or whoever is asking ""okay so, why was it this theme, not the other ones?"" for example. Then they need to relate the themes and kind of eh argue why they chose this and not the other ones."
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah, so the question is, if we should- if the moderator should are to ask that, why don't we just include it in the vote? But that's kind of what three hearts do, or (.) we can of course make a rule that it is (.) you can, you can only choose two. And you have three hearts, so one of them needs to be on top.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;But I think the- the one that gets less hearts, they're basically loosing out with all the other themes. You'll only have one winning theme, the rest are losing, or what you want to call it. So you'll have- so even though they are more (.) they like them better than the rest of them, they're still losing out.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;So [we'll not- they will not be allowed to be pitched].
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;[So- so they don't- so they don't really-] no, they will not be allowed to be pitched, and- and
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah?
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;They chose not to- to (.) [to include them].
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;[Yeah, I agree. So I agree that] here of course it will be much more hardcore winning and losing, but here it's the dialogue I'm interested in. I'm interested in why they made the different choices.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;[And they can still have the dialogue].
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;[Yeah, and- and we are asking] about this.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Mhm.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;"""Which will it be, and why?"""
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Mhm.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;"""And why not one of the others?"""
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;"""And why not some of the other ones?"""
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Mhm.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;So it is the dicu'- I mean, it is the discussion, but-
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;"I think it's just because more pa'- personal when you can say ""why did you choose eh health eh to give health, to-"" no sorry ""why did you choose to give child security two starts and style only one?"" Instead of saying ""why did you choose to give style eh child security everything and not anyone on the else? Of the others?"" Then you open up for a- for everyone instead of that we keep the focus on the two that they were in doubt about. So it becomes- you hit them deeper, with the question."
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah, and I think- I think that's- it's good input to get, but they need to choose at some point. So, they just- then we need some exercise on the second day where they need to choose the theme that they're going to pitch.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah?
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;"And I'm thinking if they have more time in the first co-creation session to really focus in on ""this is my theme"", okay, eh so, maybe we can have the questions and the hearts, and then they need to totally choose."
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah. I'm just eh- yeah and I- it's more simple to do it that way. I agree that we are forcing them to choose and it becomes more convenient. Just- I'm just hating to- to simplify that much. 'Cause I know that it is about this, but it's also about this.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;"Yeah yeah, but I mean if we- if we eh let them have three hearts that they can put, or five hearts. One on one, two on another one, three on another and six hearts on one. Ehm and then they share back why they chose- but then we'll not ask- I mean, then we'll talk- they need to explain ""why did you choose this one? Why did you give this one three hearts?"" So this is the top one."
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah?
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Compared to the other ones, and then we have what you are asking. But then they have still chosen this one, but then, I think, what you also said before, the thing about (.) what if eh one person is choosing eh something that no of the other ones have even put one heart on?
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah?
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Then should that theme die? And then that person is not allowed to pitch it, because then it will not actually be eh-
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Oh they will pitch it here.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah but- or should we exclude that one and then that person needs to take the second best theme, because it needs to be something that everyone can kind of relate to.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Mhm, yeah?
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Because otherwise we'll get in trouble in the next session if eh if this- if one person is pitching an idea that no of the other ones actually put any hearts on, and then eh-
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;This guy-
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;This guy loves that idea, and puts all his money on that, and then that's eh-
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah. That is an unfortunate scenario (laughter)
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;No but I guess, I mean-
+dtrs-11;05-designing-cocreation-workshops-day-2;David;So, are you suggestion that they should vote inside the group, prior?
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;And I guess it will- yeah, and it will be when you're putting the hearts or whatever it is on eh the themes.
+dtrs-11;05-designing-cocreation-workshops-day-2;David;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;But if you- if you- so, of course in eh in regular voting you have something called eh- what do you call that? Maybe you know, the minority vote.
+dtrs-11;05-designing-cocreation-workshops-day-2;David;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Which is that you are always- when you vote for example for a politician you vote on two different eh people. So if the one you vote the most for doesn't win, you're vote will go to the- the second one, right? You know about this system? Maybe you know about this system.
+dtrs-11;05-designing-cocreation-workshops-day-2;David;Not necessarily (laughs)
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Which means that-
+dtrs-11;05-designing-cocreation-workshops-day-2;David;Yeah yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;If this is party one, this is party two, Republican Democrats for example, many people vote here but many people vote there, but they put- I put this as first one and this one second one. But these are dividing that so much that this per'- this party wins. But, in the minority- this is not right, 'cause most people are actually voting over here, but what is happening now is that all- this person doesn't win, these votes [defaults into this].
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;[Yeah, go to the other one].
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;So this will become bigger, so. So the question there is should we run some of the same system here? That if the one you pitched as number doesn't win, at least you get the second, the second one counts.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah but no- but then I guess it's (.) if no one of the other one eh voted on your top eh idea, then you can't take that one, and then you need to take the second one. And I'm not sure if it's eh
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;It's comparable.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;It's- yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah yeah yeah, no, I agree. Eh yeah. I- I think it's- I'm all for cutting stuff away. I'm just- I'm just thinking eh social relations, how can we get that person to still be like in the game. Eh.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah yeah, I agree.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;So it has nothing to do with us- I'm loving to cut stuff away, it's just like (.) if- is this a outlier, is this a scenario that is so unlikely that we shouldn't even prepare for it?
+dtrs-11;05-designing-cocreation-workshops-day-2;David;But, like the presentation of themes that's- like the way it's told here it's gonna be exhausted, all the things that they had on the table, right? You couldn't let the group decide internally prior?
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Who will pitch what?
+dtrs-11;05-designing-cocreation-workshops-day-2;David;Which few themes to pitch for- for everybody?
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah, we discussed this in the beginning here, should they meet first and like decide as a company which product-
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Or instead of this investment exercise, then they do the investment together.
+dtrs-11;05-designing-cocreation-workshops-day-2;David;Yeah, exactly.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Mhm.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;So it needs to be a consiste'- what do you call [it, consensus decision]
+dtrs-11;05-designing-cocreation-workshops-day-2;David;[Then you don't skip somebody in the group].
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;To do the investment rather then they do it individually.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah yeah. So-
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;But I really like that they need- they do it eh secretly first, and then they see the result and then maybe someone have to kind of cave in a little bit.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;So I saw that as the second, like when they have done all of this, that's when they come and they should discuss. So- 'cause then they have different things, of course, when all- let's say the scenario is that they all pitch each others' ideas, and they invest, and this person invests, and then we will get a count, right?
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah, and then one idea will win.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;One idea will win, probably, and then they will- we will say okay, the ideas that comes out here are out, but the three top one or two top one or three top one are still in the game.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Mhm.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;"Eh so they have some value to it, all of them. And then the question is, ""okay now you need to come together as everyone, as a company, and you need to- we need to-"" and that's the next exercise, to be more concrete about this."
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;(..) Eh. But, what we're discussing now, and it's getting complex in my head, but it is a scenario where one of them are pitching something no one else likes here, but this person likes, and suddenly that- those people will make it rise to the top. Is that what we're discussing?
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah, a [litt'- no, a little bit, but- but I guess- but I guess it's-]
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;[But- but then they're still like two against two. So it's not like] completely off.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;But I'm also thinking that (.) should the person even pitch an idea that the rest of the group (.)
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Hated.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Is not- yeah. Is not eh buying in on?
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;And that's kind of (.) [should it be eh-]
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;[I mean that's the risk of the- this thing] that we thought in the beginning that they only put one thing and they just pitch the one that they like. Then we'll have the risk that (.)
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;[The other ones-]
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;[One of them will] pitch something which- which is hated by everybody else.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;"Yeah. And this cames back to what we talked about in the beginning that when I did this, they pitched it as one group. ""We're one company"", five people in one group which is one company, ""we pitch one idea""."
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;But I think we should go away from that. And do it like this, so it's not a company yet.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;No, no.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;It's eh ideas. It's separate people, wanting to create a company together, they need to get together to decide what is eh our business plan here, [what is it that we eh- that we want to eh-]
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;[And remember- and remember we-] and remember what we're interested in- we are interested in this. What are they saying? What are they using as- eh as eh
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Absolutely. Storytelling, yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah, as the storytelling tools, or features or whatever, to get this person on board.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;That's what we wanna hear. So (..) you know one thing- if this person is allowed to pitch something these people hate, we can also hear what we shouldn't use as eh (laughs), it's kind of the- eh the opposite side. Or, but the question is, what are the chances of this happening?
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;I'm- I'm more thinking if it's eh- I'm sure that the chances are maybe not super big, but I'm more interested in if we want him, or if we want these guys to be more aligned or not. I mean, should it- should there be-
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah, at this point. We want them to be aligned at some point, but already at this point, how aligned should they be?
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Exactly, and that eh person A kind of likes the idea that person B is presenting as well, and so on, ehm.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;"So it's not really a pitching war, it's eh a pitching battle, it's more ""okay, I'm presenting this idea"", and ""I'm presenting this"" and ""I'm presenting this""."
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;And now, we keep talking about ideas, and actually I guess most of it is not really ideas, they are-
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;No, it's not id'- it's themes.
+dtrs-11;05-designing-cocreation-workshops-day-2;David;It's themes, yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;They're themes, they are definitions of what health is.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;And why- themes and why they are important.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah, exactly.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah, yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;And that's also why it is so- it's still on a fluffy level.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;It is, absolutely.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;So it's really difficult to believe that they're here, are like totally disagreeing, like how could that have been even surviving. We have been funneling this in in clustering clustering clustering. And I don't think a cluster can survive with just one person, eh liking it.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah, no, maybe not. But I guess it's- it's a way to (.) narrow everything in, so that we don't have- if one group come up- if we have five pillars and eh there will be, I don't know, seven clusters out of that, then we don't want to take seven themes [down to this one, we don't want to narrow it in].
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;[True. And that's the thing, this is the] start of this.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah, exactly.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;(..) I think we should continue on as we planned here,
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Eh they- they all pitched the one they invested the most in. (..) Yeah. I think that- if they are to pitch a very very specific idea, people can love or hate it, [but it's really difficult in a fee'-]
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;[Yeah, and it- and we don't have] the idea. Ehm.
+dtrs-11;05-designing-cocreation-workshops-day-2;David;But you can still eh kind of eh moderate it so it doesn't get personal even just by the- the way you invest. Like, eh you have to admit there's at least one (.) in each of them and then like, eh raise it. So, it- you're not allowed putting zero on a theme, and stuff like that.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Okay, you could put one.
+dtrs-11;05-designing-cocreation-workshops-day-2;David;Yeah, but it's still emotionally their value, but.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Mhm. Eh and of course this person doesn't get a say. We just- he needs to align with this. Is he allowed to not invest at all, just keep the money for himself? (laughs)
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;"""I have an even better idea!"""
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah, yeah (laughter)
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah?
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;"Ehm or maybe she- is he allowed to invest with conditions? Like, ""I invest all of it on this, if you add this."""
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah. Would he be able?
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;"Would he be- yeah. Is that a discussion- 'cause again, it's about the discussion. It's the discussion we have, for example this guy pitched this and he's like ""yes, I totally agree with that, but I also think it is about this. Here, you get my money if that is okay"". (laughs)"
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;"(..) I guess- I don't know if it's- not necessarily conditions, but whatever he thinks needs to be changed, I guess will be changed during the next exercises, because then they're starting to think ""well, how do we make these real?"" And then his input will be eh- be part of forming how it eh develops."
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah, and we need to cater for his ability to be part of it. 'Cause it's very easy for him to be totally overrun by these three people. And of course here we are solving it by giving him some extra money
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah. (..) Time is flying.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah, it is.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah, it is.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;It really is.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;"Because what did we agree on now? Because (laugther) what I wrote here, an hour ago or something, was for the exercise ""pitch your favorite themes which you invested the most in""."
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Mhm? Yeah. That's still what we agree on (laughter). Yeah. It is still what we agree on, but we gotta-
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;And invest eh again, right? So after everyone has pitched, everyone needs to invest again.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah, with him, with some extra money.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Cause they- these people will then hear about (.) you know yeah, they have a second chance. After they have been marinating for a week, ehm yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah. (..) Should we- should-
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;But yeah, so the question here, okay now we're coming back to it, because the question here is like what themes- is it only the themes that (.) that was invested the most in from here that we pull into this session?
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;But maybe we can just say- and, I mean (.)
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;What about this?
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;"Maybe we can see ""okay, these are the top three themes that we have, that we have s'- eh invested in up there. You top one was this, theme A, you and you had (.) your top one as eh- your favorite one as eh theme B, okay. We can't- you can't both pitch the same, could one of you pitch the oth'- this idea?"""
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Ah okay yeah, that's- but that's dangerous.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah, I know, but then they will have- but I-
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah. But maybe they have- we want to hear why they pitch- why they invested the most in it. It could be different things. It could be the same.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah, but, we don't want them to pitch the same idea.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah, we want-
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;I mean, we want them to pitch different themes.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;The same theme.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Three different- yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;But that's really difficult to control.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yes, it is.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah, it is. Without- without them already at this point agreeing or having some kind of consensus, at that point.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;"And I think that maybe that's what they need to (.) to agree on before they go home. ""Okay, we have these eh top three themes that we agree on. This is the top three, we need to pitch them next time."""
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah?
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;"""Ah okay, how do we do it?"" ""Okay, we eh toss a coin, we do whatever"". And maybe it's also a good exercise for them to actually just internally agree on it."
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Hundred percent. And-
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah, maybe they should just be allowed to have these six hearts or whatever and then put them on, and we collect the things and then they see the result and they can discuss whether this eh order still makes sense for them. Then they will have a top three from the result, but they can discuss whether it makes sense.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;If it corresponds to what they were expecting.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah, yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;And then they have a top three that they can work on here, and the top three will be represented by those three, so they know how or the reasons behind them, and they can distribute who will pitch this, who will pitch this, and who will pitch this.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Mhm.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Because one of them will own or each of them, each of the items.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;So I'll write on the first day (.) invest in top three, or only one, we need to find out.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Decide who should pitch which theme. Right?
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;"So that they can kind of prepare a little bit. They know ""okay, next time I need to prepare or, I need to pitch this theme"""
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah, just two seconds on that one because it's- that means that, there will be a person that will be forced
+dtrs-11;05-designing-cocreation-workshops-day-2;David;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;To pitch the lowest voted for. That will be the loser position.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;To pitch the lowest rated
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Rated.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;"theme. I guess that's part of what they need to agree on, who will do that. We don't- we don't need to present it as eh the winner, we can just say ""this is top three without any order""."
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah, exactly. So they don't need to know [(.) who won].
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;[They don't need to know which one w'-] yeah. Because we are the only one who sees the actual votes.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah yeah yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;I think that's a good point.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;And they don't even need to put three here, two here, one here, they can put one on three different. So all of them are just voted the same, or it's equal (.) amount of hearts or stars or-
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Is this helping us forward when it comes to narrowing down?
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah it definitely does, because we get a top three.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah. (..) And we don't get a loser theme within the top three. I mean, we don't get a top three, we get just three (.) or we get a top three, but the respondents, they will see it as three equal-
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Three equals, yeah yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;They made- they made it over the bar, they're over the bar.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah yeah. So it's like a common first base.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah. And then they just need to decide who should own which theme.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;But we don't know which one, like (.) these two can still have the same thing.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah, but-
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;And then maybe they just need to fight it out. (laughs)
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah. But if all of them are only putting one heart on three different themes then I guess that they kind of need to mentally also think that they are the same. Then they don't have a winner internally because they all are rated equally.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;And that is of course why we typically- or it's smart to have- if it's (.) they can only select two, but they have three hearts. So they are- we are forcing them to (.) like, it can't- it's no easy way out, they have to put one above the other.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;I think also the good thing about only putting one start on three different would be that the, that if they put three on one and it doesn't become part of the top three then they feel like they lost their child. They did not bring in their favorite, but if they just put one on each then almost- of course there is a chance still that they will not get anything of their's in to the top three, but eh most likely not. The chances are less at least.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;(..) Still don't feel hundred percent we have it in the bag. Ehm because I'm- in principle I'm very much for them deciding already there.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;But I think that's also that, because they're voting, they have seven themes or nine themes and they are- each of them are voting on three themes, but only with one heart or one star, on the three themes that they like. And then,
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;[Then we take all the the votes].
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;[we will take all the] votes, and we will see which three themes got the most hearts in total.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah yeah, and those are the one that are-
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;"And these three we'll present to them and say ""these are the three themes that you voted the most for, and you need to-"", yeah."
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;And- so I understand that, but it was not a problem there that- or, you said Abby that we don't have enough time, 'cause this is a typical thing to- will take- can take endless of time.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;So we will do the voting anyway, so the only additional thing is that they need to decide who will take which theme.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah. And we can count the stars fast.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;"And we can say ""okay, have eh"" (.) I mean, we can [totally eh- put time constraints]."
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;[So, is there- yeah. Ah, shit, is there another- yeah]. It's so much easier to pitch something you burn for than to pitch something that you (.) at least for these people who are not professional advertisement people.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah, I'm thinking (.) is this something, these themes, something- I mean, will it matter so much? I'm not sure if it's ehm (.)
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;I at least would think it was a drag to try to sell something to another person that I don't know without having a fire inside me that I wanna get out.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Maybe they- they don't need to sell it really, they just need to explain why.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Explain it.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;But is that-
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Maybe we should not shape it as they need to sell it (.) [in this one yet].
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;[But we want- that was] what we wanted, [we want- so it's like- yeah].
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;[I know that was what we wanted in the beginning,] but maybe the whole selling exercise should be later?
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;M'- yeah. I- but I- I know that we were initially thinking that they should sell it to the new guy, also to-
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;We want them to use all tricks possible to get this guy on board. That's how we tap in to what kind of eh (.)
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;But I think the whole selling concept might be premature at that point anyways. Because we don't have a product, we don't have an idea, we have a definition of health.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;But I can- but still, this is so connected to the emotional side. How do they evoke emotions? What evokes emotion for them, and wha'-
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;I also- I really- I would like them to pitch it, absolutely. But, like you're saying, if it's someone who's not eh engaged in his eh
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;It's really difficult (laughs)
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Theme, then (.)
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah, yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;It's really hard to- yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;"""Yeah okay. This is about well being. I don't care."" (laughter)"
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;I think we're closing in. We are in the area of solving it, I just think we need to- like, which type- how can we decide what themes come in? And then the simplest way is of course for them to pitch what they believe the most in. But that's the- automatically fix it, but we have the problem there that it could be two people, or even three people pitching the same thing.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;And we don't want that, of course.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Maybe we don't want that. Why don't we want that?
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;It would be way to narrow I think. I would be-
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;But it shows the direction. And hopefully we will get different facets.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;But then (.) if that will be the case that everyone of them will select the triangle theme, then (.) (sighs) I mean-
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;It is still personal, what it is it- what is it for you?
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;"But then it will be about the angle of it. Then you choose eh that- and then it will be narrowing it even more in, because then one person eh present the well being theme as something well being with spa, but also really broad, and then one other one is about ""oh it's about relaxation"" and the third one is about something else, but still within (.)"
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;So the only reason- so, this is kind of a simulation, right? This is THE COMPANY and this is the customer. He will invest the money in what he relates the most to. That's basically what we were trying to do at THE COMPANY as well. We put out some fjords and some blond people and we hope that people will invest in it because it appeals to them. But this is kind of- this is the micro cosmos we're trying to create here. So I think (.) the triangle pitch, if that doesn't appeal to him, hopefully the square pitch will appeal to him. But of course I see the problem is when it's two triangle pitches, but they will eh- then maybe they need to (.) yeah, if they- if it's two people pitching the same, do they mean the same? (.) So how- if we try to think about it like if it's us. Status.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Their reasoning might be different, but their reasoning might also be the same. It's hard to say already now.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;And is it a problem or not? Maybe it is a problem but it's like for example let's take eh status for example. Us four, when it comes to health and status. For me it is about ehm letting my really eco-friends think that I'm eco-friendly. I'm not really that in to it. But it makes me feel cool. (..) What is it to you, Kenny? Eco.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Eco?
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;(laughs) Eco?
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Not eh
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Ego.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;health? (laughs)
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Or it is the- so it's health in relations to eco.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;(..) But didn't you say it was status? (laughs)
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Status? You said status before. I think it's getting late now. (laughter)
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Let's spend two seconds on this one. So, first let's- sorry. (laughs) If we say it's eh it's- yeah. Ehm eco, right? For me it is about (.) not so much about saving the world but it is about eh doing the right thing because it makes me feel a little better. About myself.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;I think in it- eco for me is mostly about energy consumption, I think. About saving energy consumption. Or, reducing.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Why is that important to you?
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;And that's important to me because (.) I guess it depends on where the energy comes from. (laughter)
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;And what about you, Abby?
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;So eco to me is (.) a hassle.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;A hassle, yeah (laughter)
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;It's kind of the opposite of convenience.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Okay yeah, okay.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;It's easy to spend a lot of water, use a lot of water, through the garbage out just the way you want. It's a hassle to recycle, save the water, ehm.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Okay, yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;And maybe I don't do it as much as I should, but I don't really care (laughter)
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;What about you? We learned so much about (.) about Abby today (laughter)
+dtrs-11;05-designing-cocreation-workshops-day-2;David;I actually think it's- the whole thing is kind of like a scam for me, because if you look at the bigger picture there's like, my- my- like, starting at myself, my own eh kind of stuff doesn't really matter. It's the bigger issues that-
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Okay, so what did we learn from this little session, we learned that we have four fairly different perspectives at least on it.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;But we didn't- yeah, and we didn't discuss it the whole- a full day in advance.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;No no no, a hundred percent.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;No, but I think that's also the point that hopefully they will have kind of the same understanding because they have been talking about these different themes, they have already been eh choosing in on some of them, eh examplifying them and so on, they day before, so. Hopefully they have kind of the same idea, of course with a few twists to it because, I have these examples, you had some other examples, but now we are aligned anyway, ehm.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;And we want him to- or her, to align with one of them, so when they go into a bigger group-
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;"And it should- they should be different enough, so that it's a choice eh that he makes. So that it's not just ""ah it's all about eco, pf, it doesn't matter, I could choose whatever""."
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;It's just difficult for the'- for us to force them to be different. Because it is about their personality. If their personal'- we are basically recruiting people to be pretty similar here. Eh how- because they are within the same demographic.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;But I'm thinking, I mean, it's not (.) it's not like we're asking them to kill anyone to, I mean, they should just pitch a theme they haven't on their top eh list. They should just- I mean, and then they just need to act engaged. They need to role play eh engagement or ehm-
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;I think we should stick to the top three and then they need to pitch it even though it's not their favorite.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;I do disagree. I- should we continue today, we need to continue this tomorrow I think, but I do (.) I think we really are losing an opportunity there, if they are to pitch something they don't care for. 'Cause then we will- you will have one person doing it, but we want three people to pitch something they care for in their personal way. What kind of words are they using? What kind of stories are they pulling in? What kind of virkemidler, I don't know what that is in English, ehm, are they eh pulling in. That's the stuff we wanna write down, that's the stuff we wanna use.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;I understand-
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;But we will get that later on as well. I'm thinking. I mean, I'm thinking this- this is not the only time that they'll pitch anything.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;It's true. Yeah, it's true. So we could (.)
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;"So this is also a way to get them started on the day, to find out ""okay, this is what we'll focus in on the rest of the day"". Because it could be als'- I mean, they just need to get used to it as well, that they don't get their way always."
+dtrs-11;05-designing-cocreation-workshops-day-2;David;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Because, it could be that eh this guy is putting all his money on this, this guy is doing the same thing, these two are not. But then they need to continue with this theme. And then, that's just the way it is.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah that's fine, but they were- here they were not given an opportunity, eh they weren't even given an opportunity. It just (.) sends them off in a bad way. This is the guy who gets the theme that he loves and he pitches it in a fantastic way.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;And- but we don't know that.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;How about keeping this open and continue tomorrow?
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Eh I like it. (laughter) No, I think so. I- we're all too- I think cracking this will open up a lot of things, but ehm.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah, yeah. And I think they are- they are equally important points on both eh options and I'm also a little bit torn in which one is the best one, but it's (.) I think just right now I'm too tired to- to wait.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Ah, me too. Let's sleep on it, eh yeah, let's sleep on it and tomorrow I think we will eh we- let's start on this fairly early tomorrow.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah. And also we- I mean, this is (.) they're doing this for one hour, and then we actually just have (.) we have until three and then there's lunch, so we have two and a half hours. In total after this, [where they need to go totally deep].
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;"[But it's very- yeah. It's very- yeah, and this is why it's-] and this is why it's important because if we have- we need as many people in on it as possible, engaged on it, and like ""yes!"" or else, if it's one person that should- or two persons that are just driving it forward and the other one is like ""ah, I never agreed on this"", then it's really really difficult."
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;And then maybe it's a totally different exercise we need to do there. Because this sounds- it's kind of feels like, there will be some losers there. You're pitching an idea, your idea didn't continue, it actually died, what- okay, then eh do you feel down the rest of the day?
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;No no, and I think that is fine, that it's one loser, but I think he will- he needs to have the opportunity at least to pitch it as best as he could. I think if a person comes in there, his team is not- his theme is not winning, and he couldn't even pitch what he wanted, then he- nothing is good for him.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah but, then it- I mean, I'm thinking that the good thing is that, I mean, these are some themes that- I'm thinking it's not (.) li'- I mean it's not so s'-
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;It's not like that you love the one and hated the other one, probably not, you're all- you more or less loved all of them, but just one came as the top one. But let's continue it tomorrow.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah. Because like maybe we need to do something completely different eh yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah maybe there is a third option that needs to-
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;And let's try to look at it tomorrow, but I agree on like, it's not like one is a crocodile and the other one is (an otter?).
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Exactly.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;It's not like that different, they are-
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Exactly.
+dtrs-11;05-designing-cocreation-workshops-day-2;David;But the end of the CC1 eh session, that ends with that they have to divide each person, telling, for the other ones right here.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;The plan there, or one of the plans we have was for them to vote.
+dtrs-11;05-designing-cocreation-workshops-day-2;David;Yeah but it's just- I'm just getting to the- like, because, if they have to like represent something, they will definitely like anchor on that, like, inbetween homework, inbetween the sessions. And they will- it will be personal.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Mhm.
+dtrs-11;05-designing-cocreation-workshops-day-2;David;And they will be stuck like in that theme mind, like in a way of- yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;And that was what we were hoping in WeChat that they should you know still like, or look for things like this eh in the week and probe as much-
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;But what he's saying is that maybe it's better that they don't do it, because they- they don't get so attached to the themes.
+dtrs-11;05-designing-cocreation-workshops-day-2;David;Totally.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah, exactly.
+dtrs-11;05-designing-cocreation-workshops-day-2;David;That they still have the, like the opening, still keep the three themes in mind, eh with the pictures on WeChat and whatever, and then it's the- maybe the first thing on the CC2.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;"That okay, now your group has these three themes, now- and maybe it could also be kind of a joint effort to present them, so it's not kind of a ""I'm representing one company"", ""I'm another one"" ""I'm another one"". Maybe it could be ""we have these three themes, we're going to present them to you and then we're going to decide which ones we should choose""."
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;And I love that idea, but the problem here is, when should they align on that?
+dtrs-11;05-designing-cocreation-workshops-day-2;David;Yeah, yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;And that was (.)
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;"Yeah, but then if it's the top three that we can see that the most votes were on whatever eh on the last day, and then they get the ehm the results there, maybe, then they- and then we'll start to say ""okay, now we have these three themes. Now you need to pitch them to this eh new person, and then you will all together decide which theme should- we should continue with""."
+dtrs-11;05-designing-cocreation-workshops-day-2;David;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Mhm.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;But, yeah, yes. So who are to-
+dtrs-11;05-designing-cocreation-workshops-day-2;David;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;How-
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;To pitch.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;How doesn't it- it will become personal.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah, hm, maybe, or maybe they can see it as a group work thing.
+dtrs-11;05-designing-cocreation-workshops-day-2;David;Yeah, exactly.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah, so then it just- and I agree. Then it will take longer time, but that is maybe fine.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;I'm not sure if it will take longer time because it's still three themes that need to be presented. If it's the one presenting all of them, all three themes it's okay, if it's- if they want to divide it out it's okay, ehm.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah. My experience is that if they are to discuss- if the are days- these are to align (.)
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah, I guess it will take ten more minutes or something like that.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah. These need to align, and should that alignment happen in front of this person? Or should it be (.) and then we come back to-
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;To the name tag eh
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;To the name tag thing. And- because this is what we had to do that other time, we had- you know. We need to use- spend time with eh- these need to align as a company, and then pitch these three ideas. Eh but we are all aligned on that what these represent.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah, or it's- I mean it's- yeah. I don't- if it's a company or if it's three persons who wants to eh (.)
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Let's eh- let's eh save it.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah, let's eh close it.
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah, let's continue tomorrow.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;And maybe as Kenny was saying, there's a comp'- there's a third way.
+dtrs-11;05-designing-cocreation-workshops-day-2;David;Definitely. It (.) like, I'm just considering to actually utilize the incubation inbetween the two co-creation, the two sessions, so you won't leave, like, going very very narrow at the end of eh CC1.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;But then, it will not be very narrow.
+dtrs-11;05-designing-cocreation-workshops-day-2;David;No.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;It will be a general theme.
+dtrs-11;05-designing-cocreation-workshops-day-2;David;But there will be a lot of mind thinking from individual participants. Maybe only on one track because they're in my- or I'm gonna represent this theme, so I might be viewing from this perspective only, forgetting the remaining two.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;And also, do you want to maybe check up online on some information about well being? How does other people perceive it and so on.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah, we kind of don't want that to happen.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;No, we don't want it at all, to happen.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;So that's why, you know, that's why maybe we, you know, they shouldn't even know about the pitching.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;But they should know about their theme, and I think that was kind of our original (.)
+dtrs-11;05-designing-cocreation-workshops-day-2;Kenny;Yeah.
+dtrs-11;05-designing-cocreation-workshops-day-2;Abby;Yes.
+dtrs-11;05-designing-cocreation-workshops-day-2;David;Like, the time inbetween should still be divergent.
+dtrs-11;05-designing-cocreation-workshops-day-2;Ewan;Yeah, yeah.

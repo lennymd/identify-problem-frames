@@ -1,0 +1,872 @@
+dataset;session;speaker;utterance
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;and I- there's also comments to (..) (takes out post-its) so for example the name tag exercise step by step, so (..) I mean my notes here are on very different levels
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;eh mine are also on different levels (laughs)
+dtrs-11;04-iterations-on-cocreation-workshops;All;(everyone laughs)
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;So this is something about name tag exercise (..) having a try out (..) eh about the animal characteristics and write down values which should be used to group the respondents
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;mmm
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;yeah
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;so if we eh for example interview eh you two about the different animals, then maybe she can apply the values
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;the values, the Chinese general values of that or characteristics (..)
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;"and then maybe during the name tag exercise, we should also introduce them to that ""it's okay to fail"" (..)"
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;oh yeah!
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;this mentality
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;that was  the thing yeah (.) and confusions sets, fail often fail early
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;yeah so they feel comfortable eh scrapping things and starting over you know they fell it's not right (.) something goes wrong
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;yeah
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;yeah so this was like to
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;that's not the
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;"be the thing about that (.) if so (..) eh (..) so this thing about, if we actually want to eh for them to cut it out ""thick thick"" (does a scissor noise and movement with her hand) or if we want them to draw it themselves"
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;yeah
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;yeah
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;based on the (.) ah on the icons that
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;yeah so they were kinda forced to scrap something up
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;yeah!
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;putting them in to a situation, where they they fail, but they see that is's okay to fail
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;But maybe (.) And maybe they don't fail. Maybe they do it perfectly the first time. And then it's of course also okay
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;yeah
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;Yeah. And then the big thing I think about this name tag exercise was that she suggested she split it into two session
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;mmm
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Yeah, exactly. The step by step
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;Oh yeah, you already mentioned that already
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;mmm
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;"So I have here ""step by step"", ""step by step"", ""pick the two animals (..) which represents you the most"" (..)"
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;yeah
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;"then ""next step"", ""next introduction"" (.) ""combine them"", and ""glue them in the name tag"""
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;yeah
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;"or ""throw them or whatever we come up with (..) and then number three is ""present yourself"". And of course they need to know that they have to present themselves in the end (..) before we start"
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;yeah
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;But then second one we don't introduce that untill they are actually gonna do it
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;yeah
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;so possibly two to three stages that we are kind of incrementally moving forward with
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;yeah
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;let's ehh of course- I think it's a good idea to mention and we- let's get the- Rose in over it aswell to hear her side of it aswell
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;yeah (..) I I tend to to like this approach
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;yeah
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;splitting it in (.) and especially (.) I think she had a really good argument about (..) that it (.) it might be too much to focus on first
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;mmm
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;so maybe it's better just to focus on the two animals (.) and then after they focus on just combining
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;yeah
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;especially because the (.) it is really quite two different tasks (.) and if they need to focus on both of them they might (..) fail to focus on one of the things
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;yeah, i agree
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;"yeah, and it is the first thing that they are going to do and they are sitting, they're a little bit nervous (..) looking and ""awww""-"
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;So keep it simple in the beginning
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;And we (..) have the time
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;yeah
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;we have one hour, so we have (..) actually a lot of time
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;yeah
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;ehhh yeah
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;I think we can delete all of this (Ewan ereases some parts of the text on the white board)
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;yeah I have written that down
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;So then after lunch we do exercise number 1- I wonder during the lunch (.) if we should- so we are planning- or we had a plan to do some sort of priming during the lunch- at least after lunch. Should that be ehhh
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;I think actually we talked about the last time that-
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;those out?
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;that they should have that half an hour just for their own lunch
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;and for- in general, ehhm group mingling
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;yeah, exactly. Because (.) it (..) if we only have half and hour
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;yeah
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;then i think it's too little toehh go into the introduction
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;I- I- I agree and i think we- they should be more or less free but we should make sure that they stay within the realm of like- where it doesn't totally disconnect
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;yeah (..) they shouldn't be allowed to get their phones for example
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;no no
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;yeah yeah, so we want them to be not talking about (.) some stuff that is too disconnected (.) 'cause then we need to work, to fish them in again
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;yeah, and maybe we can put somethingo n the table that
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;yeah
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;somehow makes them- forces them into- to
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;We are there with them, so we are some sort of ehhm low-burner primer
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;yeah
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;And also- I mean if we have the three pillars- or four whatever- it could be there on the table just for them to look at and just to start thinking and (.) then they will get the introduction afterwards
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;yeah
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;"and understand ""okay, this is what ehm these pillars are actually going to be used for"""
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;yeah
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;here at lunch there is some sort of slow-burner primer
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;yeah
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;yeah
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;but not Rose introducing anything just (.) they have that time to actually eat their lunch, and not (.) think too much
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;but yeah- the point is that we don't want it to stray out
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;mmm
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;loose the connection, 'cause we invest pretty heavily in getting them in to a place, we want then to stay in that zone
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;yeah, we were planning to show them some examples here (point at the white board) to kinda show the range of what health is
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;yeah
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;we can have some features or something (.) lying on the table during the- during the lunch break
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;yeah
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;we don't need to say anything about them- just to- to lie around on the table so they can see them
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;yeah, we can have it on the table we can have it (round on the screen?)- and just like- slowly create this environment
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;yeah
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;"and they should be a little excited- I mean (.) that's the point. We don't say anything so they should start (.) wondering. and if they ask ""what is this?"" it's like (..)"
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;"yeah ""what do you think it is?"" (everybody laughing)"
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;yeah (..) ehh (..) So (..) (Ewan starts writing on the white board)
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;but maybe we could actually- (.) should we- (.) we have actually written all of this and I think we pretty much agree there's some additional stuff that we need to put in there ehh about ehh name tag exercise, but ehhm I think we could just erase this and this (Abby pointing at the white board)
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;so what did we say about lunch 11.30 to 12 approximately
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;yeah. So we find the-
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;is that also
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;(?)
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;health (.) defined
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;yeah, so we start at 12 to 1.45
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Slow bruner (..) slow burner primning with for example (Ewan is writing on the white board) images of full (.) spectrum (..) health
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;and i guess we- yeah and props. Whatever we can come up with. And i think we also need to be careful not to prime them too much because (..) if we prime them too much this is just (.) what they will come up with.
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;yeah
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;"So if they see a picture of a happy family then they will say ""a family!"" (..) ""is really important to me""."
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;"It needs to be- ""what do you call that? Elusive?"""
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Yeah exactly
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;"""what is this liquid?"" (..) so that's a task in itself, to fnd those things"
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;also something that is an environment
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;yes and then after lunch
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;"we start the ""health define"""
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;at twelve-
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;and it could alo be that its a standup lunch and their task within the lunch, is to go around to look whats actually  on the walls
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;yeah
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;and that could ehm also be what they need to, so then they'll get word like the creativity and whatever we can come up with ehm so it's broader than the pillars, because (..)  think we don't want to narrow in too much.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;"""walk around an experience"""
+dtrs-11;04-iterations-on-cocreation-workshops;David;it could work quite a lot in terms- to stand up actually, if they're sitting down quite a lot during the workshop (.) it would make sense a lot
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;yeah, absolutely
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;so what we have is different things that we want them to do on this to experience this, but we also want them to get them a little more acquainted with their teammates
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Mmm
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Maybe that will happen automatically maybe we can do this a little bit on the fly depending.
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;yeah
+dtrs-11;04-iterations-on-cocreation-workshops;David;"But it's also yeah (.) like (.) you put quite an emphasis on not bringing in hierarchy. Conversation have to (?). And like for me, it will be an instant one. If i'm let alone 5 seconds I will say ""hey, so what are you doing?"""
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;yeah
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;yeah
+dtrs-11;04-iterations-on-cocreation-workshops;David;so it's like (.) it really needs to be managed
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;yeah, so (.) we need to be managing what they're talking about (..) yeah
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;"but that's true- but but I think in the introduction we need to tell them- or Rose needs to tell them that ""no talking about titles or what you're doing"". Or maybe it's okay to talk about in what kind of professional area you're working in (.) but no title."
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;yeah
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;"And i think this also puts some ""this thing here"" (Abby pointing at the white board). If this is what we're going to do it- (.)  put some constrains on the food."
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;yeah
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;it needs to be
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;walkable-food
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;yeah (laughing)
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;everything is like a juice (..) like smoothie form. A steak and a sandwhich (Ewan imitates those thing getting blended together) and then a shake.
+dtrs-11;04-iterations-on-cocreation-workshops;All;(everyone laughs)
+dtrs-11;04-iterations-on-cocreation-workshops;David;fast food. Europe style
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;yeah (.) it we didn't want it to be a heavy lunch, anyways
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;it's 45 (points out where to correct the time written on the white board)
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;it's 45 (.) okay
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Okay so we have a little bit of the feel of how's the room, hopefully. And they know a little bit more about each other- at least they have looked each other in the eyes and- and when they sit down they're not complete strangers at least.
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;"And and they have seen something about ""here"" (points at the white board) but we haven't told them anything at that point"
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;To me- I mean, I think it's cool to have some kind of elusive thing, maybe something that feels a little different, smells a little different (slightly laughing). For sure that bag with ehm with eh banana inside
+dtrs-11;04-iterations-on-cocreation-workshops;All;(laughing)
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;"okay, so then we have the ""health define"" session (.) and this is where we introduce the pillars, right?"
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;"yeah, and this should be ""i guess"" one common introduction to all, for both groups. So Rose is kind of zooming out and then she is speaking to both groups."
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;does that create a hierarchy (.) that she's doing it, but go into one of the groups, like that's the important group
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;(exhales) fuck it, i would say. I mean (..) otherwise Will could stand up there together with her and they could co-present it. I think maybe that's just the solution to it. Ehm so that they don't feel that
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;that he is not being (more important?) than our own (..) he's there
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;yeah, exactly
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;can we write that as a small note
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;yeah
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;so maybe from the beginning he is introduced as the co-create moderator with Rose from the first second they enter
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;and maybe we find some small points here and there (eases?) a sentence or two just to feel that there are equality there
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;so if we just tell Rose that they need to from the beginning give the impression that they are equal
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;yeah they signal equality
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;okay, cool (..) here is like mmm (mumbling while writing on the white board)
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;"they say ""pillars"" but im always drawing pyramids"
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;yeah, and let's not look down on three (referring to the number of pillars)
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;no no no
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;yeah, it could be whatever makes sense
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;mmm
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;can't be too many, can't be too few, but whatever we feel we have-
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Yeah exactly, I mean, it could be seven if it's what it takes to to go as broad as as we want to
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;I think eh the cool thing with the mystery pillar i think (..) it gives ud a way- that kind of safety valve into, if there's something else.
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;"but i think also, we could make a point out of that they actually have to put something in there that doesn't exist in other places, to kind of force them a little bit to ""okay, what else could health be?"". Now they have to find that it could be caring, it could be security, it could be all of this. Or the ""good life"" what is the- i guess this is  good life (..)  (pointing at the white board) pillars, right?"
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;mmm
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;yeah
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;if this is what we are going to do- to call it.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;"and i think if the meaning is difficult for them we- that means that ""yes we found some there"" if it is easy for them, clearly there was"
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;exactly
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Yes so there's in introduction of that and then that is kind of narrow (writes on the white board) and then we have one which is- now they are to ehm define it, right? So what was the question we said? (..) Ehm
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;"It was (.) ""what is health to you?"""
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;yeah
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;ehmm yeah
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;"(writing on the white board) ""what. Is."""
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;"or this (points at the white board). ""what is this (..) to you?"""
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;"So, should we call it- instead of health, should we call it ""good life"" just too go away (.) from the narrow- yeah"
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;i think we need to do that
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;mmm
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;good life
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;"yeah (..) so it's ""good life"" pillars, but with a focus"
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;yeah (..) full spectrum good life
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;"(writing on the white board) Ehm ""what is a good life"" (..)"
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;"""to you"""
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;"""to"" (..) ""you"". But it's within these pillars, right?"
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;yeah
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;yeah
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;yeah absolutely
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;plus, this one (points at jeg white board)
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;yeah
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;if we agree on something- if all are coming up with different additional pillars
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;yeah
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;but maybe- i'm thinking that this could be an exercise in the self
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;yeah, i'm thinking that too, but if ehm if all are coming up with different pillars, do we need to to
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;"i think that it's a golden one. That is an insight in itself- yeah so we need to decide ""is that something we take action on or-"""
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;yeah, 'cause it doesn't really show any pattern if everybody saying something different
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;yeah
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;then because they are forced to come up with something different, so it doesn't  show anything
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;but that's also why i'm thinking that maybe three (pillars) will not be enough, maybe we need to broaden it out, so that whatever they are saying will most likely fit under one of these (the pillars) and if it's - if it really really doesn't, then we can create (.) a seperate one ehm.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;"I think it was good what we said around maybe ""forcing them a little into this, 'cause (..) if it's easy- if it's really difficult I think that means that we have covered it."
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;yeah yeah
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;if it's easy for them, it means that there were more
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;yeah, so I'm thinking- because this is something new that we didn't discuss with Amy for example
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;mmm
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;so i'm thinking in the flow (..) maybe we just want to focus on this from the beginning, and in the end of this exercise we'll bring in this one. So that ehm maybe here- i i don't have it all in my head
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;yeah yeah yeah it's fine
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;but ehm so that- okay now we have talked about
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;"we have exhausted all of this, ""is there more?"""
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;"what else- ""now you need to come up with something good life related, that doesn't fit into those pillars"""
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;so we take this one later
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;yeah
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;"typically that is what happen when we do our exercises is that we have some things definitely emerging, but then we have some ""oh this is- where does this fit"" typically it fits in sme sort of miscellaneous"
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;"but i guess they will not have that, because they will just focus on the pillars that we present to them, and then afterward we'll say ""okay, so now you need to put content into this one"""
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;"the only question I have in regard- so that is, that if they feel stuck with this because they don't feel it represents, and then they feel they need to force it in, then this will already then be ""ah okay at least I have this one"""
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;"but then we need to tell them from the beginning that if they have something ""put it on a note, and put it aside"""
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;yeah
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;and then we come back to that point
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;"or, it could be the first exercise that we are saying ""okay. Good life. We have already selected those pillars. It's related to health, it's related to wellbeing, caring, care for the environment. What else could you come up with that's within good life and similar to this but not this?""."
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;And and I think that actually is- it would be make sense to start with that task and ask them wether they feel this is equally important to this, or even less important, more important. Somehow reach an understanding of- of wether they feel this is covering the most important aspects of good life, or if they feel that there are a missing point which is equally or more important.
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Mmm
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Mmm
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;Because I guess that's the point. This is not equally important, this is less important and it really doesn't matter because (.) we are capturing the most important aspects.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;"Yeah (..) they should (..) I guess the question is what- what does this mean to you, ""what does this mean to you?, and what does this mean to you?"". This is kind of the wrong question isn't it? (pointing at the white board). ""What does good life mean to you within these pillars?"". This is good life already"
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;Mmm
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;"""and what does this mean to you?"""
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;yeah, but the pillars are there to examplify what it could be. To say that the good life is for example probably not be anything about money in there. So it's not about the business side and the money and ehhm
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Yeah, but isn't this- I saw this as some pre-defined boxes, for us- for them to putwords within, right?
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;I think they are more- They're a way to contextualize good life
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Yeah, exactly, so exemplify
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;yeah, exemplify (..) good life
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;"what we mean with ""good life"". So that we have narrowed the ""good life"" down a little bit, when we start, so that they don't come in and say ""okay, what is good life to you?"", ""it's money and being  able to spend everything on luxury."
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;"So- So- i think instead of being three different boxes, they are rather-"" This is good life"" and then they're maybe just a little bit narrower."
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Mmm. Cause we want them to- So we want them to (.) This is what I talked about when it come to take-
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;Can I borrow that?
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Yeah, sorry. To gravitate towards something.
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;So this is (..) one pillar. This is pillar two, and pillar three. So the space becomes a little bit smaller.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Yeah, and we want them to gravatize around something. And we want that something to- since we are limited on time we can't start from everything, we need to start from something
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Exactly
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;And we- since we've done the research before, we think that these pillars will represent what they will gravatize around, but we don't know the specifics of it.
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;yeah
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;"And this is what we will find out ""here"". And then of course we will have ""post-it's here, post-it's there, post-it's there"". And then (.) the reason why we have this one is because, it could be other stuff aswell."
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;"yeah, I actually- I think I like better to represent it ""like this"", because we don't want them to gravatize ""here"", and ""here"", and ""here"". But we want to be all the way inside ""this space"", rather than around those pillars."
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;"Okay, yeah, 'cause I see it is gravatizing around ""this"", so we know there is a difference between what ""this"" is and what ""this"" is. ""This"" have different stories and different products."
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;"I guess- I mean, it will be, because ""this""- if you draw it as circles then ""this"" will be- ""these ones here"" will be mostly to ""this one"", and ""these ones"" will be to ""this one"", and so on, and then there is this kind of common place in the middle, so I guess it's just drawing it in different ways."
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;"Yeah yeah, that could happen. Ehm the reason for us to doing this- so I'm clear about it- is of course that we don't wanna start like ""this"", we wanna start (.) like ""this""."
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;A little bit more
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;"Like ""this""."
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;"So the reason is that- before we had the ehm the word help, which was too narrow, we broadened it out to be maybe ""good life"", something like that, and then because ""good life"" could contain too much, then we wanted to be more specific to go in a little bit, but not in- so narrow that it's only about health. Ehm"
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;"Yeah, I agree. This is where we can provoke a little bit aswell because one of them could be- of course one of them should maybe be ""eco"", one should be maybe ""status"" and stuff like that."
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;Mmm
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;"yeah yeah, whatever we have ""over there"""
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;and this is where we're standing on our own shoulders, right?, from- because we hopefully can- need to come at the same profiles, right?, that has these (boundaries?), that we will get through
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;"Exactly. It could be ""physical health"", ""mental health"", yeah."
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;"Okay, so we- we kind of agree on ""this one"", so the question was more should ""this one"" come here, should it be an opportunity from the get-go, or should it be introduced later."
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;Ehhm
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;"So how- if- I don't know why, I just have a feeling that it's better to introduce it later because then they have worked a little bit with this, and they would know if something is not fitting in to ""these"". Whereas, if it's in the first exercise then they can see it, and maybe it will be really hard for them to come up with a new area."
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;And you can say that, if it's something that they feel is really important, then for sure they'll remember in the end of the session
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Yeah.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;If you feel that it's something-
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;"We- we should not tell them, because if it's not really important if its just like a random thought they have, then they'll forget it if it's not important. But if it is something that the really feel ""why is this not here?"", and the keep thinking the same thing, for sure they'll remember it when we reach ""this"" point, and then they get the opportunity in the end to unload the-"
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Yeah
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;"True, let's do it like that. Ehm of course- for example ""money"" could be definitely a thing, ""with money I can buy health, because I can buy a better car, better house, i can move to the countryside"", so that's the enabler. But maybe that- that- that is definitely not where we want to go."
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;No, exactly, because then okay, is it about making all our products really cheap [so they can afford and- and- extra money] (laughs)
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;[Yeah, so they can afford all this stuff] (laughs) Yeah. (..) Eh okay. (writes on whiteboard) So we hide this one and kind of move it down (.) eh as our safety [valve coming down that].
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;[So yeah].
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Eh (..) We can do- yeah of course we do another iteration with this with both Amy and Rose and we can see if this makes sense as we move along.
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Yeah. [Then we have the-]
+dtrs-11;04-iterations-on-cocreation-workshops;David;[Okay. Are you gonna em'-] (.) emphasize (.) like the parking lot for them? Like (.)
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;"Maybe not here, but maybe here we will see the- maybe we will-, when we're kind of done with this exercise, we could ask the question, ""was there something you felt you didn't got- get to say?"""
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Yeah.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;"Or didn't get out, or even though that is typically a question where people say even though they thought of something they typically will say, ""no no, nothing""."
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;"But also when we introduce these pillars (.) we could say, ""these are examples on (.) the direction, we're aiming for"""
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Yeah?
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;"So that they (.) they are not completely fixed, but they can- they can know that okay, I can go, it's this direction, but I can go a little bit, to both sides. (..) I think that would also- then it's also much more easier to open up for this one afterwards and say ""okay, now we have had (.) our examples, do you have anything else?"" or not even, we're not going to ask, we're going to say ""okay, now (.) post-its, (shabis?), what else could health be besides tha'- or good life be, in this direction, besides whatever we have examplified here as well""."
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;So then, of course they are the- (.) are they then asking themselves, like do you mean specifically here, or? Like, are we confusing them with s- showing them something, but still saying that can- they can choose anything?
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Yeah but, I think if- if they understand that it is the direction that we're showing them, it's not the (.) I mean, they can (.) these are examples on (.) whatever we mean with the good life (points to whiteboard)
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Yeah?
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;So it shows them the direction (.) meaning that they can't go in the opposite direction. It's not about (.) something completely different, they can go a little bit to the sides here but.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Yeah but who defines that, what is [ehm the-]
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;[But I think- maybe it's okay] that they define it [themselves], so that we can see okay, do you really (.) why, would you (.) ever think that the this is closely related. And then they can explain it.
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;[Yeah].
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;I'm just afraid that it goes off track.
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;I think Amy had a good point about (.) how to- that- that- that these (.) pillars should be expressed in sentences, and I think we could expand that even to (.) these pillars (points to whiteboard) are expressed as one long sentence, or like eh
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Mhm.
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;So it- sot it doesn't become obvious for the respondents, that there are three pillars.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Yeah?
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;"But it just becomes like one explanation of (.) how we interpret (.) ""good life"", but there might be other interpretations and you might add to it, or chang'- but we don't need to exp'- express that they can change it, this is just our interpretation of it, and if you express it in like one (.) eh bulk of sentence how- or how-, what to say, but if you hide that there are three bullits (.) [or four or five or, how many there might be]."
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;[Yes (.) we- (.) no, I- I agree in this]. I just want them to use this as a starting point.
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Yeah.
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;"But it becomes a starting point even if you express it in just one bulk, so you're hiding that there are X numbers of eh (.) of pillars. Then it becomes like just one interpretation of ""good life""."
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;But don't you want to probe deeper into status of [not improve it from (INAUDIBLE)?]
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;[But we do], but we do (.) if we just [express it] as one bulk.
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;"[And this is-]. And this is what we're going to do here (points to whiteboard), so ""was is it to you?"", and then they can't just say (.) what the- they can't just repeat the sentence (.) within the the definition that we give, they need to think deeper than that."
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Yeah. So typically like I would like to say that (.) for example this one, if this is eco, I want them to, eco is the playing ground, and they can choose different- they can associate different things to eco.
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Yeah.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Yeah? Okay. And this one, let's say this is status (.)
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Yeah.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;And then they can associate different things with status.
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Yeah.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Yeah? Okay.
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;But it's not necessarily in boxes like this.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;No not necessarily, but again, as we, when we- when we do an interview, we have a playing ground that we mark up. And the second they go outside of it, we do efforts to keep them within.
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;"Yeah but, I guess the point is that ""what is good life to you"", then they will choose whatever (.) they will get inspired by these they want to (points to whiteboard), ""ah yeah yeah, it's all about this one for me and a little bit about this one"""
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Yeah.
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;And- but they can't just eh- so this is those two playing grounds, like you're saying here, ehm (.) and they can link them [maybe]?
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;[yeah yeah yeah yeah]
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;It can go [eh (.)]
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;[That's] a little of the old [up there, you know?)] (points to whiteboard)
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;[Yeah], exactly, ehm and because we have these already (points to whiteboard) (.) they need to be linked somehow to these- then (.) we have the defined area that they can (.)
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;"Okay. 'Cause what I misunderstood was that I though you were suggesting that they should come up with there own (.) pillars (writes on whiteboard), which becomes for example ""money"" (.) eh ""grand parents"" (.)"
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;No no.
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;[Yeah, not in the first-]
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;"[No no, not in-] not in this one. And then (.) as eh kind of I don't know when, but (.) later on (.) we can bring this in (points to whiteboard), just to (.) I don't know quality check or something that eh we haven't missed anything important. So if they are sitting there thinking ""ah, I really need to- [this is super important to me"", yeah]."
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;[Yeah. (.) I agree]. Then- then we are like, perfect (erases parts of whiteboard).
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;Yeah.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;"Yeah. But this is what I- I didn't wanna open up for like ""these are just example we have, now you should come up with your own example"""
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Mhm.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;We want to say okay, this is (.)
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;yeah yeah
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;"""What is this to you?"" [""What is this for you? What is this for you?""]"
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;[Yeah yeah (INAUDIBLE)]
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;[Absolutely. (.) Exactly.] And this is also why it should be maybe broader than three because we need to make sure [that it's (.) it's covering more than- everything it could be].
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;[It covers all our different things-]
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;[Of course, yeah, or- (.) either more] or it should be broader.
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Yes.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Fewer, or like this many, but broad or, more options.
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Yeah, exactly.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;So we need to find how good balanced they are. (..) Okay-
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;And then the mystery one is eh (.) to check if we have covered everything, or if they're actually sitting eh (.) with some (.) [pillar they really want to] add.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;[Something that they feel, yeah (.) yeah]. (.) Agreed.
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Yeah.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;"Very good. Ehm and this was why I was wondering, like ""what is good life to you?"" (.) then we are (.) we are suddenly super broad again."
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;But, within these (points to whiteboard).
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Yeah yeah, but within these, so yeah, within these, yeah, yeah.
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;(laughs)
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;"So ""what does this mean to you?"" (points to whiteboard)"
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;Yeah.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;"Very good, we're aligned, perfect, okay, moving on. (everybody laughs) Eh (.) so when they have done this exercise for a little while that was when we said okay, ""now you've done this, and now we are- it's part two of the exercise, this is before (we share back now?), you should think how it- how does it manifest, so what you wrote down there, on the yellow post-it-"""
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;"""Give some examples, in your life (.) during the week, during whatever"" (.) we agree, ""that eh-"""
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Cause we didn't wanna do the share-back, right? We want them to go directly to the next one, so they put these post-its here
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;"Yeah, first they define ""what is it"" [and then we're-]"
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;"[No but didn't we-] I think we wanted to eh the manifestation should come in the second session, so this first one was eh more about eh the ""why"""
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Than what it is.
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;"Eh, yeah exactly and then also go to for example now it's ""to you, what about your families, society"", and then yeah."
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Yeah, but we didn't want them to on the spot say what it is to you, [because that's the second round].
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;[No, not- we don't want] to (.) to- it to be so concrete (.) yet.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Yeah. But- it's 'cause the point here was that we (.) first we were kind of toying around with how is- asking them while they were asking what it is to you- no sorry, what it meant to you, then they should say what it is to you, but then we were afraid of the first one saying something then priming the others. So then they- we do a share-back, or maybe (.) yeah we do a share-back and then we ask the question if is there other stuff we missed. (.) So then there is share-back (writes on whiteboard) (..) share (..) share-back and discussion.
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;Yeah, and then we-
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Why why why.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Yeah?
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;"Yeah, why why why, and then we have them (.) ""now you've defined health, or ""good life"", within our interpretation"" (.) and then we ask them ""you feel there's something in our interpretations missing or is wrong?"""
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;"""Now spend five minutes, eh to eh write down what, what else is missing"""
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;"""In ""good life"""", yeah."
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;In this direction.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;[So why why why-]
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;[What is missing or what is wrong, or].
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Yeah, so maybe we do some clustering here and maybe we add some, some theme headers or something like that.
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Yeah. And remember that (.) we talked about that we are actually not a part of this because, we don't want our [eh exactly, perception of health].
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;[western (.) to pollute it].
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;So in one group there's actually just three people (.) doing this exercise, ehm (..) so I think that's (..) it's also putting eh some kind of pressure one these people (.) that they need to- thre'- three people needs to (.) share back (.) to six people.
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;Yeah. (..)
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;(Writes on whiteboard) Ehm (..) so naming of clusters maybe there's so'- some clusters here in between (points to whiteboard) or
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Yeah.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Something like that, just so we have some concept of what we're- so we can give them some names [to different] things.
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;[Mhm!] (.) And hopefully they will (.) cluster nicely [to (.) to] all of this, and then (.) I guess that's the-
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;"[Hopefully, yeah yeah]. (.) and then we ask question- then they have these already, and they're like ""okay, what's missing from this picture?"""
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Yeah. But, should we- if we have the time, I think it would be good (.) that we do the exact same with the (.) family, or society, or whatever we want so that (.) they [think (.) broader, or- yeah].
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;[Put- put- put the obligations], the modifiers (.) on top of it. Eh (.) so for example we have some clusters and then we ask them (.) [or what do you think?]
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;"[""Now spend] five minutes eh (.) with the same thinking about your family within (.) I don't know all these clusters, or selecting one (points to whiteboard) or what (.) the one that you find the most important."
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Yeah?
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;"And ""is it the same (.) ehm eh theme that you find most important when it comes to your family compared to when it comes to you?"""
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;So we haven't done any voting or any (.) hierarchy of it yet.
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Yeah.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;So should that be afterwards? (.) As of right now it's just clusters but we haven't- there's no waiting on the cluster.
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;I think, we talked about if that should be just before the next session, so that we have some (.)
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Direction [going in].
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;[Yeah, exactly].
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;"What- what are you thinking (.) when you- (.) when you want to expand it for example to your family? So first we're asking ""what is ""good life"" (.) to you?"" [And everything?]"
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;[And we are thinking then] family and then society.
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;"And then (.) if you ask ""what is ""good life"" to your family?"", so you want the respondent to (.) try to (.) take that role (.) [or how do you think? Or- (.) how do provide good life for your family, or]"
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;"[No, not- (.) but (.) so when it- (.) so, what is (.) good- yeah, exactly]. That's what I'm thinking. Because it's- when it comes to you (.) okay, then it's that, ""I'm healthy"", it's that ""I eat right"", ""I do [all these things]."""
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;[Yeah exactly, so I think] it needs to be expressed (.) clearly to them that it's about how you provide (.) [to whatever (.) yeah].
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;[Yeah yeah, absolutely], because you can't, I mean, think (.) what, I mean you shouldn't eh take the role [of, of the (.) kids, or something like that].
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;[No no, because that- that's eh]
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;[Eh it depends] on what kind of- (.) what circle, like this is you, this is you and your family, this is you and society (writes on whiteboard).
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;Yeah, but what I mean is the- that you can see it either as you need to see it from someone else's point of view, or you see it as, still from your own point of view, but (.) providing [to someone else].
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;[It's definitely] the last, also when it comes to society [and it's you (.) related to the society].
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;[yeah yeah, so how you provide it for (.) to society, exactly yeah], yeah yeah it makes total sense to me.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Yeah, eh. Eh and where (.) should that be put in? Should that be on all of them? Or it should be- or is it- is it a repeat of the exercise that we are (letting go-go?)?
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;I would love it to be, if there's enough time, I have no idea how- we need to look into how much time this will take, [ehm].
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;"[Yeah], we- and theres a kind of a half middleway I think, because it is, after you ex'- extort or kind of exhaust them on one angle, you can say okay (.) ""does it change if we look at it from another angle?"" so maybe we don't repeat the exercise, but we pose the question, and we kind of build on the answers."
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Yeah, I agree. And I think it's important that we do this (.) eh with a different eh perspective, so you, family, society or whatever we choose, we should do it before we do the voting (.) thing because that perspective should be on there, ehm.
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;"What I'm thinking is that (.) that most of the ""good life"" definition that they will come up with for your family and for the rest of the society (.) many of them will be the same, but I think the importance of them, will change heavily (..) many of the things that you'll do for you family, or (.) especially for the society will not really change. I want to do the same things, but the importance of it will change a lot, so the things that I will do for me and for my family, of course they have a lot more importance to me than the things that I will do to society."
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Absolutely, absolutely.
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;But- but the things are the same. If I had the (.) mpney, the surplus and so on, of course I wanted to do the same for society that (.) I do for my family.
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Mhm.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Mhm.
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;So I think, of course there are some differences, but I think (.) many of them (.) will be the same, so especially the importance will change, and I think we should try to capture that (.) also in eh [in that-]
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;[And this-]
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;[I'm thinking] that maybe it's (.) I'm thinking that it will be (.) so, for the family it's about ta- taking care of the family, and of course they're taking care of the, eh environment but- but here the- you will get the examples, that relates to the family and you'll get the example that relates to (.) the society, is it about eh not being wasteful for example for the society's sake, for your family it's something different, it's closer to you, it's- it's eh more emotional maybe.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Yeah, and eh- of course yeah it is mo'- and this is what we see to eco for example.
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Mhm.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;It is- it is- they will buy the plastic cup [for (they don't care?)].
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;[But- but if we're] asking specifically for examples then we're asking (.) for things that we don't want to ask for until next (.) [after the break].
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;[Yeah]. This is the manifestation.
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;Yeah. And- and I know that they will probably come up with a mix of examples and high level definitions.
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;But I guess that they- we don't (.) ask how it manifests but we we'd ask them what it is, so if they say that it's about taking care of the environment or if it's about ehm (.) securing your (..) your children eh, keeping them safe or (.) eh whatever it could be, then it's not (.) how it manifests itself. [And then we can think it later].
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;[It become- becomes very high level].
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;[I don't know, but- but I think- (.) Yeah, exactly, yeah yeah], and that's what I mean because, you want to do the same (.) things for everybody, even the people far away from you, but you will most likely put more importance to care for those things, for the people close to you or cater for these things for people close to you. So- so the- the- the- the things- the things- the definitions that they come up with, no matter if they are high level or low level, be very similar, but they- the importance of them, will change a lot and I- and I think it's important, to- to capture the import'- because I think that's what (.) gonna vary a lot (.) when we change the [(.) proximity].
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;[Yeah, yeah, true. I think the importance] is one thing, I think another thing that will be interesting to see is eh (.) is eh how it changes. Right? How it changes when you go from family, or what changes when you go from family to society.
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;And- and- and I'm not saying that it's not- I'm just saying that (.) I think that the importance is the one that changes a lot, and I'm not in doubt that also, the actual things that they want to do is also changing, but I think, many of the things will be the same, but some things will also be [different in-]
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;[Yeah, but I'm wondering] is that interesting, isn't it always like that, you are caring for first yourself, then your family, then and so on and so on.
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;Yeah, exactly, but- but I-
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Is it interesting to probe into, would we learn something new, that I'm not [to be-]
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;[I think that] maybe we'll see it when we eh when we'll do the voting, depending on what we're asking [when we are (.) eh voting].
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;[Yeah].
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;"['Cause I'm] wondering, is that a question we should pose in the very end of this, after we see the manifestation as well (.) like okay now we have the manifestation and what it is (.) and this is for you personally. (..) Or is it? Like, that's where you put ""is it a difference? And when is this happening? Is it for (.) you, your family or is it for society?"" (..) And I- I'm- I'm not eh having a specific thing about mine, I'm just wondering are we confusing it more (.) like how can we (.) how can we get this to be pure? 'Cause I'm hearing what you're saying and I agree on that (.) you know, they want the same for everyone, but then of course you- suddenly you are within this, right? (points to whiteboard) You- first you prioritize here, then there, then [there, there]."
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;"[Yeah, I think typically] you'll prioritize (.) the things that are just you. I think what might be interesting is what links around, because then you'll say ""I prioritize my kids of course, but I need to take care of the environment in order to provide for my kids""."
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Mhm.
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;"Or something like that, then it becomes really (.) complicated but really interesting I think, but it- again I think that's the importance of ""why does the environment become important in that?"", because it's a way for me to take care of my kids."
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;But I think we kind of agree, on eh, on the whole thing here.
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;Yeah yeah.
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Ehm. So it's just (.) whatever results we'll get back I guess we are discussing, whatever they are (.) are saying, [ehm].
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;[Yeah. Ah I'm just- it's just] because we didn't really talk about importance (.) of (.) the different (.) eh how can you say, feedbacks different depending on (.) who you (give the right to look at?) yourself or someone else, and I think it's important to consider the importance (.) of different things.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Yeah. But-
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;Then you get to- to have a link together, for example when you want to cater for your kid, then maybe it means that you need to [pay before, for people far away from you].
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;[And it is a little bit- yeah, is it long term or is it short term].
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;[Yeah. And it's eh] why why why why why, I guess that we'll (.) probe into that.
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;Yeah yeah, exactly.
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;So I think that, I mean, if we kind of keep the structure that okay, first we focus on you (taps on whiteboard), and of course it's also the easiest (.) [thing I guess (.) we're going to here, and then eh]
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;[Yeah yeah, I'm- I'm not questioning that, my point was just that] we need to capture that, because we didn't talk about that [at all].
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;[Yeah, mhm].
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;[Yeah, so maybe] a capturing method there is that of course they provide the main post its here, and the- within the why why why, we are making post its, or (.) whoever- who will do the study is writing post its which is (.) opening the reality here.
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Mhm.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Do- do we- so we put extra content on the post its, but it's from what they tell.
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;Yeah I- I'm totally- (.) I'm just (.) pointing to [how-]
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;[No- no- not] right here. And this is about what you're saying about capturing this, ehm yeah. (..) I- yeah I think we agree, should we move on?
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Yeah.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Eh downwards. Eh and we need to see, when- when all this is finished we need to see okay, is- what is realistic eh timewise and so on.
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Yeah.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;"So, we have a share-back with a discussion, we probe into what it is and we try to probe in, ah we can get- through the probing we can get some of this through a specific question we can get some of that, we'll see how that fits in, we do- then we will be some sort of clustering, some sort of naming of cluster, and then we ask (.) ""is some'- what is missing? Is there something missing?"""
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Yeah.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Yeah?
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;And I think we should eh (.) it should be tha- an exercise and if they don't have [anything], then that's okay, but (.) the exercise should actually be to come up with something. And they need to  (.) really think about it.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;[One point five, yeah]. (writes on whiteboard)
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;(..) Why is- (.) we need to consider (.) if they're- if they have nothing, then what do we put there?
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;(laughs)
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;Because something that takes time, I mean, it can- it's something that can take maybe twenty minutes, half an hour, or it can take zero minutes.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;(Writes on whiteboard)
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;(..) Ehm (.) so I guess the- they will have the (.) three minutes or five minutes or whatever (.) ehm
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;To brainstorm.
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;To- to brainstorm, and then (.) if they don't come up with anything (.) [then maybe] we can have some kind of eh provocation eh
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;[Yeah, so we can have- we can have-] (.) that's what I'm thinking, [we have some tools that we put in], eh
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;[perhaps something, yeah, exactly].
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;But if they don't have anything, do we want to provoke anything?
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;(..) (sighs) I guess maybe just to really make sure that they don't have anything because maybe they can't think of it, because they have been so eh locked in on- on what we have been writing there, eh.
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;But I thought that if they don't think about it is it important then?
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;(..) I think it's good to (.) try to open up, maybe just to make sure that they haven't been (.) locked in to these five pillars or whatever we have, ehm
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;"I- I- I- I get your point, but I- I'm also thinking that, when you hear this, then I feel- I think many people they would immediately think (.) ""something is missing"", if they really feel something is missing. If I feel money is the very most important for a good life, then I would definitely think ""why are they not mentioning money in- in- in these description in good life""."
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Eh yeah, I'm not sure that I would necessarily do that if I was eh coming into (.) a focus group and sitting there and having okay, now I'm introduced to this, I have these eh three or five set of fixed pillars already and (.) [you really need to think eh critical ehm to be able to do that].
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;[If- if you think (.) that (.) they do- if you think that (.) yeah, but- but, I- I don't] necessarily disagree, but then I think we need to do it in the beginning, because otherwise we miss a chance (.) to explore that (.) mystery part.
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;(..) But I guess that's what we're doing there (points to whiteboard).
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;"But we have time to do that, because we are just (.) identifying ""oh, something is missing"", but we don't have time to go through this exercise one more time with a new thing."
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;(..) But maybe we have, and- or maybe we can go through (.) a lit'- I think it's- it's really hard because, just like we talked about, you need to maybe think about these before you know if anything is missing (points to whiteboard), [so the order is- is really eh (.) difficult ehm].
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;[I- I- I- I- I don't what is right and wrong, I'm just questioning, because I think if we] (.) think (.) or, if we want to provoke something (.)
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Mhm?
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;Because we think that m'- they maybe- maybe they're not thinking about it, then we might find (.) something really important, but, do we have the time to explore them?
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;But you- you can [say-]
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;[And-] and then (.) we need to put in time to explore it, and what then if they don't find something important, then what do we do with the time, then?
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;(sighs) yeah, you- you can-
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Yeah but, I think (.) I mean, I think that's just kind of planning, eh then we'll (.) continue to the next bit, and then we'll have some extra time in the end that we'll utilize. [Ehm]
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;[You can say that-], what- when- yeah, and I agree we can- we can- we've- (.) yeah, we can have time in the end, but I- what I think is that this could be actually be a hid'- hidden part of this, this is typically what we do this stuff (points to whiteboard), this hidden stuff comes out (.) as we are probing, if you are a good moderator or a good- have a good team spirit you will always start [creating new stuff].
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;[So- so- so then my point is] just that then we need to put this session in here to explore that thing (points to whiteboard).
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Yeah yeah, so they could be [officially-]
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;[Two- so we have] two- two of these (.)
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Yeah, if we can officially be [part of it].
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;[With] that (.) specific eh new (.) [thing].
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;With the new thing, yeah.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Cause I- I'm- I'm thinking if they talk about it, and (.) when they talk about it, as we probe, they are actually removing themselves from this, into something else (points to whiteboard).
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;I- I totally agree, I tota'- I don't disagree.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;No no but I- I- I- I'm not trying- I'm not trying to just-
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;And I- I- I totally follow you that once you start to- to put words on thing, then suddenly you think about new things, I totally agree that it might open up some new things that they didn't think about. What I- my point is just that (.) then of course we need to explore the new thing, especially if it has importance for them.
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;And then we need to do the whole [exercise again, yeah].
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;[And then we need to do that exercise again], or something else that can- can explore.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;But isn't that part of the exercise? I just feel that I do normal brainstorming with typically landed areas we didn't even predict. And I think it maybe doesn't even need to be its own specific exercise, 'cause true good moderation (.) we will- so many will create new things here.
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;I think, this is what we can hope for (.) but, I'm also (.)
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Cause we will- this is (.) how- this is why we ask why five times. Because we don't take it from- f- for face value, right?
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;But maybe they feel forced to- to (.) put it in here, even though they're thinking it belongs here (points to whiteboard)?
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;But this is- and this is why we ask why. This is typically when you start talking to a person, then you say something and we probe and it becomes something else, and they don't even notice it.
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Or it will go deeper into the same (.) [area].
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;[Yeah, yeah yeah] and then it- so it- the reason to ask why is to see if it goes deeper into it, or if it's actually something else. Like I may- I t'- I buy eco to eh because I wanna save the planet, but it's actually because I wanna save (.) eh money or save my face or whatever. (..) So the question is, should it be an official task, or should it be ah something we eh we hope to, like this is why we ask why.
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Yeah, I think we need to have eh Rose and Amy in on this, because I think it's (.) it's really hard to know if (..) if they, this can- I mean this is (.) how we work, normally.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Yeah?
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;"So and we put down eh these different eh post its and say ""okay, now this is a cluster, this is a cluster, oh! This is something completely new we didn't think of"". I'm just eh not sure if eh Rose and Will"
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Can do it?
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Will be able to do it with untrained (.) eh respondents.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;I think every good moderator is able to do it. This is the thing- this is very close, I think to interview eh skills. If you are able to do good interviews, you are always able to like (.) get into the true meaning- what is it really.
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Yeah.
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;And I think we are there to so, even though we don't fully understand everything
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Yeah.
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;Then we can still ask in to, to some of the questions at least, and (.) try to dig [in to]
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;[Yeah.]
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;the (different- the different?). But I- I- I don't really get away from the point that I think (..) It doesn't need to be the same session- we can do the same [thing]
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;[Yeah.]
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;But maybe in a different way.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Yeah.
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;But I think we need to have a, at least have an opening to explore if there is something new.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Yeah?
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Yeah.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Yeah.
+dtrs-11;04-iterations-on-cocreation-workshops;David;It can be like a like a concrete like a provoking technique (.) itself, like just halfway through, you just draw (.) a new triangle with question mark, and see if something happens.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Yeah. (..) Yeah- And I- and we can choose to have it already here to say the next (.)
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;Yeah.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;To showcase the safety down here, or the the area here, or we can do it through asking the right questions, or you can do it through an additional exercise. (..) So maybe we- we don't know how to solve this right now, maybe we
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;Yeah, but I think there are two things in it. The first thing is this one, in itself.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Yeah?
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;Where we need to figure out if there is something new here.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Yeah.
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;But, if there is a new triangle, or whatever it is (.) then we need to figure out, is there new (.) good life definitions.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Mhm.
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;That they want to add, then (.)
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Mhm. Yeah.
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;Or does [these (cover?)]
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;[and what's the-] what does it mean to you, [family, society.]
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;[Yeah, exactly]. So exactly the same exercises here, or something else but with the same outcome, but with a new one.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;And- but this- this is the discussion we kind of want (.) and I don't think we have to run like, okay, now you go back five minutes to talk about this. [Isn't it part] of the exercise?
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;[But- but- but- there] (.) It might be. It might be completely covered.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Yeah.
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;But it might also not be.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Mhm.
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;So I'm just saying that (.) I think we need to have an opening.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Yeah?
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;Maybe it's not necessary to do it, maybe they feel like no, it's already covered.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Yeah.
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;"But if they feel like (.) ""Oh, we didn't know"" (.)"
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Yeah.
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;Then- then I want to add this, and then (.) all these, I need to add a lot more.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;"Yeah, cause I think again, true good moderation (.) this is like (..) it sounds like there is a new pillar coming here. Yeah, ""I agree"" or ""I don't agree"" or (""agree""?) and then we start drawing that up (.) and then suddenly we are building on this, we are evolving it forward."
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;And then it- it really needs to be eeh kind of a joint effort, eh because if each respondent is sharing back what they [eeh]
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;[Yeah. Yeah.]
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;understand about the good life, and then all of a sudden (.) after the third, or eeh second or third respondent has gone through their process, then all of a sudden there's a new (.) pyramid here.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Mhm.
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;"And then the first one is just thinking ""oh, okay but, (.) no- I didn't give input to this at all."
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Mhm.
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;"Ehm, because the like you are [saying] the- a good moderator will- or interviewer will be able to ask these ""why why why"", but because we have a lot of respondents sitting there, needing to give input, then I'm not sure how it will work out, this kind of one to one."
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;"Yeah, the moderator would then say, ""what about you David? Now is this something you can relate to?"" (..) Like, invite the people in- ""you said- I can see you said here this actually had something to do with your family"" eeh but it was more kind of your grandfather's generation, eeh and of course we have a key here- he talks more about his eeh his daughter, I don't know. [They can-]"
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Mhm.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;A good moderator will then try to link them together (as a test?).
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;Mhm, I agree, but I think maybe it's the way that it's asked then, because I think when you ask, is there something missing, and I think they will (.) try to think away from what they have done.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Yeah yeah. [But with- to disregard]
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;"[To kind of find] something new, but then maybe the question should be (.) ""do you feel like we should apply a different triangle to these groups, does they- do they not belong here anyway?"" Maybe [we need them to cover this-]"
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;"[Yeah I am maybe miss-], I agree, maybe the word ""missing"" is wrong. Like, is there something else, is it something more."
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;Yeah, or is this something different.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Yeah. (..) Eeh yeah. (.) But this is the clusters or?
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;Yeah, whatever we come out with here, we'll have a lot of definitions of what- what could apply this to them, and why it is and so on, and the cluster, and this whole thing (..) our interprets- or our initial goal is to (.) this needs to represent this.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Yeah.
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;But maybe in the process, they realize, actually they don't really feel like it belongs to this, it belongs to something else.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Yes, and this [is where we want-]
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;[And then] we want them to apply a new [label}, but to this content.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;[Yes!]
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;And not adding a new one.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Yeah- 100%, and this is what I think what is the core of co-creation, because (.) we don't like- they write something down, they print it out, that's nothing, that's monologue.
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Mhm.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;We want the dialogue [to house-]
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;[So we can ask] does this still fit this?
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Yeah yeah yeah. And we will- we will feel that, a good moderator will always [feel-]
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;[Yeah], or do you want to give it a new name.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Yeah, should we give a new name, should we like okay- they should be proactively, they should be proactively trying to push them forward, push them [out of it].
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;[Yeah, I can agree with that]. I think that would make sense to do. But I think it's (.) yeah, it's just the way that the- it's framed. I think [this would need to be-]
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;"[I think, yeah] ""is there something missing?"" is the wrong way, it's like ""is there something more, is it bigger, does it look different, does it have another shape?"""
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;But I think the- (.) for me, it's about this matching this.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;"Yeah? Mhm. Yes, this does the- (.) after the fifth ""why"", is it still matching?"
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Mhm.
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;Yeah, because we don't want to, we don't want to expand this.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;No. No no and I agree, and this is the reason why we ask why five times, to see if it matches.
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;So this definition, we want to keep the definition.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Yeah.
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;But we want to know (.) if the definition can be framed in a different way (.) and the triangles we have defined on the (..)
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;"Yeah. And typically in a in an interview session you typically don't see this, and you don't (.) contest them in this straight away, but in a co-creation you can do that, you can kind of challenge them (.) and you can do that in an interview also, of course but eh. But I think it's- I think now we're getting into the core of what it is (.) eh and I think it- (.) we don't have to (.) put it as a official 'nother exercise, I think it will happen through here, but we- (.) okay maybe it's another exercise in a sense that (.) that (.) Rose, who needs to say ""okay, it seems like we're moving a litte bit away from what this is, and it seems like this should have a new name, or an additional one."""
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;And I guess also the, the problem is also that the (.) the pillars there are not (.) super defined. I mean it is (.) a sentence, or word, so whatever meaning they put into that is totally up to them.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Yeah, yeah. It's true, and we want to try to find out (.) will they be coming a long way, do they have to really tweek it to make it fit their- or was it [very much the same]
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;[Yeah]
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;[But I think] that Mia she referred to these as assumptions, and I think that's totally right now, in the- in this way. And they are assumptions, and that's fine, and we need to [verify and validate that assumptions are true or- or not, in the end]
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;[Even provoc- provocations, yeah].
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;[Exactly, absolutely].
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;"Eh yes. (writes on the whiteboard) These ""good life"" assumptions and provokes-"
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;Provocations (laughs)
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;So there's both assumptions, but there's also directions.
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;Yeah.
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;It's the- it's the (.) road that we want to guide them.
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;Yeah.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;"(Writes on whiteboard) (..) Provocations. (..) Yeah. (.) And I think (.) we will solve a lot- this is the asset-test right here (points to whiteboard) through the ""why""s, and if we should keep it as it is or expand it, or tweek it or change it (..) and I think that will happen through here (points at whiteboard) and we will input eh some prompts here (..) that we will do critical thinking around it. They should share back, but then as we share back, more critical approaches will happen."
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;Yeah, ehm. (.) Yeah. (.) This whole thing (points at whiteboard) we agree on, this one (..) ah (exhales) like in practice, I'm a little bit in doubt how to do it. Do you want, I mean, you get asked a question, but is it an exercise, or is it just a question?
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;"I think it's something that should (.) like I- I- I literally trust so much in the ""why-method""."
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;Yeah, so it's basically a question that we need to phrase in the end?
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;(.) (Sighs) No, it is a it's a it's a (.) organic movement. Eh
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;I understand the point with this (points to whiteboard), that this is the proces that confirms this.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Yeah.
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;But- but- but-
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Confirms it, or denies it, or
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Create new (..)
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;Yeah. (.) So, the question in the end, of course it can be an exercise to rename it, or to add a new name to it (.)
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Yeah, or to split it in two, or-
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;Yeah, but it can also be just to confirm, yes, [this is correct, yeah]
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;[Yes, yeah].
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;For me it's basically a question (.) after the excercice, or as to- to sum up- sum up the exercise.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Yeah.
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;And I guess also [if it's the, if we are-]
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;[Or the goal of the exercise, you can say].
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;"The voting thing comes in here so maybe we can just, eh (.) if we (.) will then all these why why why, we (.) Rose is so (.) good that she can see  ""ah okay, like, I see a pattern that there's actually eh a lot of things that (.) doesn't really belong in to these, but it actually maybe belongs in to a new one, and maybe we could call it something like this to cover everything"", and then we have it there, and then in the end (.) we'll do the voting and then we can also see okay, how important was this new one that they came up with."
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;Yeah.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;"Yeah. (..) So they see- so through this (writes on whiteboard) (.) with the ""why"" times (.) fifteen or (.) infinite, it confirm or change or split or new (..) we'll come to this. And of course then you should be- could be very open, it can be posed as a question or it can be posed very much kind of what sums it."
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;They are kind of our (.) output goal. (points to whiteboard)
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Yes. Yeah. (..) Ehm
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;So it is to (.) (points at whiteboard) to get (.) these confirmed or rejected or create new, and go in to depths (.) with (..)
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;yeah yeah yeah.
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;With the input and (.)
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Yeah. (..) Yes. It's clear we need to have that talk. I think it was a good (.) good talk as well and I think it will be easier for Will and Amy to understand- or sorry eh Rose, to understand the importance of (.) what is this, and again this is where it happens (points to bottom of whiteboard), this is just collecting, setting the scene (points to top of whiteboard).
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Mhm.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;This is where it happens.
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Absolutely.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Eh yeah. (..) Ehh, so-
+dtrs-11;04-iterations-on-cocreation-workshops;David;Is it- is it ensuring that the content is exhausted?
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Basically, we want this discussion (points to bottom of whiteboard), this is just a starter (points to top of whiteboard), this is because we need to start from somewhere, stake the ground! (..)
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;[Exactly].
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;[Yeah]. (.) This process (points to bottom of whiteboard) it can ensure that (.) the- it's exhausted.
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Yeah.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Yeah. yeah yeah yeah yeah.
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;And it's the right (.) material that we are continuing (.) with.
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;Yeah.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Yeah.
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;It's never (sent in?) (laughs)
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;And I think it establishes the importance of this part. (points to bottom of whiteboard)
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Yeah.
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;Absolutely.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Eh yeah. (.) This is basically (..) this is a whole new (INAUDIBLE) right here (laughs).
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Yeah.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Eh yeah. And this is- the stake in the ground that gets us started (points to top of whiteboard), this is the weight that's gonna carry us (.) eh forward (points to bottom of whiteboard).
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;And these ones (.) (points to whiteboard) will be based on what we (.) learnt (.) previously, and (.) I don't know. Provocations or whatever it could be.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Yeah, and this- we should bring someone- something forward eh to a discussion we will have with Amy and Rose and Will to- to- to secure that, yes. It is (.) a little provoking, a little based on what we had from before, potential is wide enough, is narrow enough (.)
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Yeah.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;(..) Okay. (.) Yeah I think we landed a (.) good place there.
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Yeah. And then maybe end it with the voting.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Yeah, and then eh (.) yeah, this will go on (points to whiteboard) and we will maybe have few or more or, you know, it could be- go in any direction.
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;But I guess what we have (.) is the clustering of all the definitions.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Yeah. Yeah. So then we have the clustering and some of then can (.) you know, one scenario (.) we only have this (points to whiteboard) and we go deep deep within this.
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Mhm.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Another scenario is we have these (points to whiteboard), and five others.
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Mhm.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;"And so on and so on. (..) So then we do eh (writes on whiteboard) voting (..) on (.) for (erases ""on"" and writes ""for"" on whiteboard) (.) prioritizing the clusters, a hierarchy of clusters, right? What is that called?"
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;Or- or maybe voting because we want each group to work with one of them (.) I guess.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Mhm. Yeah. [But maybe you- maybe you want it-]
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;[Or maybe it's (.) maybe it's the same], the result is the same, yeah.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;One two three (writes on whiteboard), depending on how many you have, then no, then okay, clearly this was the one we should- if we have limited time, this is the only one (points to whiteboard).
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;The result is- yeah.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;(..) One two three and so on (writes on whiteboard) (..) ehm (..) cluster importance.
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;And I think we also really need to (..) let (.) Rose be aware that, of the fact that, for example if ehm (.) in the group with three (.) eh respondents, then the two first respondents they kind of eh they have played within the rules that we set up
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Yeah?
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;"So they have out everything nicely within these pockets that we have pre-defined already, and then the third one is a little bit crazy, goes ""whew"" (gestures with hand up in the air), eh a little wild and then all of these appears (points to whiteboard)."
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Yeah.
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;But then we need to make sure that the other ones are on board in these also, because if it's a shared bag then it's eh one by one by one by one and we really need eh [everyone to agree]
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;[We need- yeah yeah Rose-] we need to pull them back in- pull them back in.
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Exactly!
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Ask provoking questions, link back to what you said, you said this in the beginning, you said this, what did you mean by this, this sounds like this is actually pretty more similar (.) and [yeah-]
+dtrs-11;04-iterations-on-cocreation-workshops;David;[Like the] two groups?
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;No no no [within the group]
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;[One group], yeah, within the group.
+dtrs-11;04-iterations-on-cocreation-workshops;David;Ah, okay.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;"So basically of course it starts out very much like- (writes on whiteboard) so, one two and three, and this is Rose and it's like ""meep meep meep, meep meep meep"", and then the third one- but then we want them (.) of course to be (.) we'll have to go like this (points to whiteboard)"
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Mhm, exactly.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;It's totally okay to go in all directions again.
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;And especially the (.) kind of the last ones (.)
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Yeah.
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Are going out (.)
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Yeah.
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;On a limb here because the (.)
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Yeah. (.) But I think this is (.) this is- Rose knows this. This is (.) I've seen Rose in action so many times in the interviews and she is doing this stuff. [And if-]
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;[Mhm. But] I think it's important still to have in the moderation guide, [you know]
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;[Hundred percent! Hundred percent!]
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;[Yeah!]
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;And she needs to really know that this is (.) what it's about.
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;And Will as well.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;And Will, sure.
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;We haven't seen him in action yet.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;[Yeah yeah.]
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;[Yeah.] Especially for him we need to (.) [to, you know]
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;"[And for us] also to be really aware of the people in our little group that- ""actually I heard you say something differently or maybe this is linked to this"" which is a little bit more challenging for us, but still we can (.) support them [and pulling them in]"
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;[We can (.) support. Yeah.]
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;And pushing them in, and elevating the thoughts, that they have (..)
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;Yeah. We need to try.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Yeah. (..) Okay. I think that makes sense. (..) Alright! (laughs) Thank you! And- and-
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;Then there's a break.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Then there's a break (laughs). Yeah. (..) eh (writes on whiteboard) fifteen [minutes break?]
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;[Eh yeah] fifteen minutes I think until two?
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Two. Yeah.
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;Then we have one hour. (..)
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Yeah. (..)
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Yeah, and we don't actually have the full hour. (looks at laptop)
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;We only have forty five minutes I think, right? (looks at laptop)
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Yeah. (.) Eh yeah.
+dtrs-11;04-iterations-on-cocreation-workshops;David;Can we (.) can we eh (INAUDIBLE)
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Voting?
+dtrs-11;04-iterations-on-cocreation-workshops;David;Yeah.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Yeah.
+dtrs-11;04-iterations-on-cocreation-workshops;David;That's for the individual? The most important-
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Yeah so they all have some dots, maybe three dots or whatever, and they put it on (..)
+dtrs-11;04-iterations-on-cocreation-workshops;David;"Yeah. (..) But it's important ""for me"" (.) not for (.) ""society"""
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;"No I- no I think the plan is ""what is important for me"", I think we need to keep it (.) keep it [personal] (..)"
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;(Takes pictures of whiteboard)
+dtrs-11;04-iterations-on-cocreation-workshops;David;[Yeah]. Have you eh (.) done any thoughts on the specific voting? Like (.) how?
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Yeah-
+dtrs-11;04-iterations-on-cocreation-workshops;David;Are they doing it in rounds, or how many dots each participant has?
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Well but I think they should have more than one, maybe they have three or five or something like that.
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Yeah.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;And of course we could make it (.) even more complex (.) yeah what with your mind and what with your rationality and stuff like that but eh I think in here it should be very simple.
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;"But, I mean it's (.) it's- I guess it's about eh okay (.) okay, ""are you actually putting two dots on this? (points to whiteboard) or- then I also want to put two dots on [this]."""
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;[Yeah]. We could do a se'- secret vote.
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;I think we should do (.) a- a secret eh vote.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Yeah. (..) (writes on whiteboard)
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;"And also not (.) I mean, sometimes people are thinking ""oh this one doesn't have anyone, then I'll just put one there"" it's (.) it's eh"
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Very much like eh what do you call that? Mentality (.) thing. Yeah, so we do a secret vote, I agree.
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;"So just some post-its and then eh, Rose and (.) Will will actually (.) put them on, ""oh okay! So we have the voting list"" chk chk chk (gestures writing in the air her hand)"
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Yeah, we can even do like okay we call this one two three four five (writes on whiteboard) and then you may get a [sheet] with one two three four five, and we don't know how many but that we can decide [again later or put out some-]
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;[Mhm.]
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;[Yeah.] As the clusters create (.) then we just number [them the next-, yeah.]
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;[They- they then-]. (.) And they get eh sheets (.) (writes on whiteboard)
+dtrs-11;04-iterations-on-cocreation-workshops;David;Yeah.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;One, two, three four five and they (.) dot the different things.
+dtrs-11;04-iterations-on-cocreation-workshops;David;Yeah.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;And then we collect them, and then (.) give them their- in the break, we would actually- can do the count tally and they come back and they can see [the winner]. (writes on whiteboard)
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;[Yeah. Yeah.]
+dtrs-11;04-iterations-on-cocreation-workshops;David;You could consider a se- like a second round, like (.) choosing the two having the most votes (.) and then, revote.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;[Ah yeah.]
+dtrs-11;04-iterations-on-cocreation-workshops;David;Since the trouble is, like, depending on how many dots, and (.) like (.) and that- there's only seven participants, avoiding anchoring (.) [on ideas] (..) it's (.)
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;[Mhm. Mhm.] (..) So this is of course a (have all?) session that happens within the little group.
+dtrs-11;04-iterations-on-cocreation-workshops;David;Yeah, yeah yeah yeah yeah exactly.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Yeah. (.) Eh Yeah. Cool. (.) But we can do that. (..) Eh so what were we talking about eh count the votes (writes on whiteboard) (.) during (.) eh fifteen min.
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Yeah.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;And then (.) again- we showcase the result. (..)
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Yeah. (..)
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;"Eh if we should probe more into it, for example a question could be (.) ""is this surprizing?"" (..) like is this expected or surprizing."
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;I guess (.) I mean (.)
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;(laughs)
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;"If there's three (.) persons in the group maybe it's (.) too much (everybody laughs) ""oh this is totally suprizing"""
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Holy shit! I never imagined that part! (laughing)
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;"""Not really, we just talked about it, so, fifteen minutes ago"" (laughing)"
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Yeah (..)
+dtrs-11;04-iterations-on-cocreation-workshops;David;But I think [it's a really-]
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;[But we could-], yeah. Go ahead.
+dtrs-11;04-iterations-on-cocreation-workshops;David;It's a- it's a delicate (plan?), voting, beacuse like some would- (.) might be very- (.) feel it's very personal stuff.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;(sighs) yeah.
+dtrs-11;04-iterations-on-cocreation-workshops;David;So there's-
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;I think- (.) yeah maybe, if we get some people that are super much like going in two different [directions], that's- that- that problem.
+dtrs-11;04-iterations-on-cocreation-workshops;David;[Yeah.]
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;But- but nobody needs to know who is voting first.
+dtrs-11;04-iterations-on-cocreation-workshops;David;No no.
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;[All the votes are secret].
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;[Exactly. I think that's also the-]
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;[Nobody] know who had voted for for what.
+dtrs-11;04-iterations-on-cocreation-workshops;David;Yeah yeah.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;(..) I- I think it's gonna be fun. (.) Eh and of course, the winner here (points to whiteboard) or- you know it's here priority, hopefully it will be not equal but like clear one thing it's- it's floating to the top. Hopefully. (..) Eh yeah. Okay.
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;Are- are we all voting, or it's-?
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Us as well?
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;Yeah?
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;No.
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;Or only the respondents?
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Only the respondents.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;I think so.
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;Alright.
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Otherwise we'll get a kind of western (.) view
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;Yeah yeah (everybody laughs). I was just thinking, because then- then we risk to to- us voting for something, and we are more than they are (.) and it's our- and some of the-
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;We're totally [skewing it] (laughs)
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;[So we can] totally tell the shift (everybody laughs) (.) towards eh what we want it to-
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Yeah that's fun.
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Yeah but I guess it's like we talked about before, does- the whole first co-creation day is (.) not so much co-creation, it's more us listening in [to what-]
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;[yeah, to- to unload] their minds.
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;[Yeah, exactly].
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;[Seeing the direction, yeah].
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;But- but eh, I agree. I don't think that we should be part of the [voting].
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;[No].
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;I think definate'- the- the second thi'- time- the second co-creation I think we should come back strong, of course.
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Yeah yeah, absolutely.
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;We need [to be-]
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;[Cha'- challenge them]
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;We need to challenge [them in the second round].
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;[But I think in the first round I agree totally it is about them. We are there to support them and to really be part of this part (points to whiteboard) (.) really (.) probe into the depths of it.
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;We need to understand them before we can use and abuse them.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Yeah, yeah yeah yeah. (..) And to see where they are strong (.) so we know how to challenge them next time. (.) After the break, should we continue on or should we continue tomorrow or? It is quarter to
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;Quarter to [five].
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;[Five]. I need to be somewhere (.) at five. (laughs)
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Well then I guess that answers right away! (laughs)
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;But- but we can maybe just open it up, and then we can think about it when we go home.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Okay that's [good enough].
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;[Yes].
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;Is it? [Okay].
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;[Yes], absolutely, let's do that.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;That is eh the way of Hemingway, he went over his (.) at the evening, open up for it, and then he would go to bed, so he knows where to start the next day.
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;But only the, I mean eh the last part of the day, right?
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Ah [yeah that was what I-]
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;[Only the last part, not the second day]. (.) Or the (.)
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;So, after the break we showcase the result, and then it's the manifestation part.
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;Yes.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Mhm.
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;So we want them to (.) give some examples.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Yeah. (..)
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;"Yeah. And we wrote here ""how does health manifest?"" ""How do you want it to manifest?"""
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;Yeah. (..) So- so (.) I guess that eh (.) we should use a different word.
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Yeah, than health. Yeah.
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;Yeah. And also a different word than manifestation.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Mhm. (..) I guess we should use the chinese word. (.) (everybody laughs)
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;Yeah, but also so Rose doesn't use manifestation as the word to translate but-
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;"So ""how does it come [alive?"" or-]"
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;"[Yeah] ""how does it come alive"""
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Yeah.
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;Give examples of it, yeah.
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Yeah.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Mhm. (writes on whiteboard)
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;"""How do you see this (.) in your life?"""
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;"Yeah. (.) ""How does"" eh (.) yeah (..)"
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;How does it come alive (..) does it (..) pair (.) in (.) your (.) life?
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;"And ""when?"" (..)"
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Yeah.
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Yeah. (..) How, when. (.)
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;[Where].
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;[Where].
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Yeah.
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;Yeah, just all the (.) w. (..)
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;"""Who is there?"""
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;Yeah.
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Mhm. (..)
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;"""Is (.) there (.) when it appears, in your life""."
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;And then at some point (.) we want to apply some modifiers.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Yeah.
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;But I think also the the point about the aspirations, how do you want (.) to.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Ah yeah.
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;Mhm. Mhm.
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;So not how it is, right now, but how-
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;How you want it to be.
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Yeah, exactly.
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;And I think that's super important. (..) Because there are most likely lots of things that they want to do, but they don't have the time to do, or (.) [for some other reasons] couldn't do.
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;[Yeah. Yeah]. (..)
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;Yeah yeah, and as- eh, I totally agree, I s'- so much agree with you because that's (.) possibly where (.) there are so many hidden things that we [can eh take advantage of-]
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;[Yeah- and- you wanna be part] of their aspirations, we wanna (.) at least give them the dream of (.) of- of this could be reality, that's why you buy a Ferrari key chain because one day you hope to be part of it.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Yeah.
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;"Exactly. And also (.) I'm thinking this could be the (.) maybe a little bit too tangible, ""I eat three times a day, I (.) eat together with my family"", de de de, whereas eh how do you want it to- to- to come alive ""ah! Okay"". [I think it's really- (.) yeah.]"
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;[It really opens up, and does more].
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;"[But again, I think it's- (.) I think what we] cracked (.) here was that (.) this is just a stake in the ground (points at whiteboard), this is where it happens, again, this is the stake in the ground and then we have the discussion around it afterwards, which of course- this is the first very tangible, now it becomes real then now okay, let's move it (.) beyond that. Move it into something else. (.) So ""how would you like (.) it (.) to (.) be?"" (writes on whiteboard) or ""materialize?"" [or]"
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;[Yeah], eh (phone rings, K takes it and leaves the room) (..) Slow (.) would have it? (..)
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;But (..)
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Hmm. (..) Yeah. But I think it's (.) we also need this (.) a lot. (points to whiteboard)
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;yeah yeah yeah yeah
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Ehm. And I think it was a good thing that ehm (.) a good point that (.) Amy made about the- (.) it's about the storytelling here, okay, so, what's going on, it's not- it could be the journey it could be (.) scenarios or whatever, ehm (K enters the room).
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;"And this is also up to the moderator to catch those (.) like ""okay tell me about that, tell me what you mean by that"". And then ""who's there"" (.) ""when did it happen"" ""how did it happen""."
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Yeah. Maybe I don't know if it could be used here, but (.) if it's too early maybe, but the newspaper (.) thing or something similar to that or maybe a cartoon-ish eh with eh some kind of eh
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;These blocks that you have to put something into.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Mhm. Mhm. (..) So of course here the reason why we do this is because you wanna tie it to reality more. Cause here is very much (.) you know, more abstract concepts around it.
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;This is- this is the definition of it, it doesn't have eh context, this is- this is where we put the context and try to put them into the people's lives.
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Exactly, and we'll understand it.
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;Yeah.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;This is where we put it into our world as something that is happening (..) eh yeah. (..) eh is this where we stop? This is where we have started on it?
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;Yeah.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;If you need to be somewhere at five?
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;Yeah!
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;Yeah.
+dtrs-11;04-iterations-on-cocreation-workshops;Abby;It's perfect.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;So now we know that this is where we put it into the world (draws on whiteboard), here's the world (..) and this is where this stuff that- (.) we need to put it in here. (..)
+dtrs-11;04-iterations-on-cocreation-workshops;Kenny;That's China.
+dtrs-11;04-iterations-on-cocreation-workshops;Ewan;Yeah, that is China. (..) Yeah, alright.

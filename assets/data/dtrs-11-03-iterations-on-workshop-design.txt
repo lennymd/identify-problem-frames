@@ -1,0 +1,556 @@
+dataset;session;speaker;utterance
+dtrs-11;03-iterations-on-workshop-design;Ewan;Alright, should we do five minutes? On this one? And it is basically input to screener, which is also, what people do we want. And I'll s'- yeah. Quantity over quality. And, yep, make it happen. (..) And if- if- you know something we have said before, still write it down, just you know duplicate it, it's fine.  (..) (the design team brainstorms on post-its. Notice time stamp) (..)
+dtrs-11;03-iterations-on-workshop-design;Ewan;(Alarm on cell phone rings) That was five minutes, do you need some more time? One more minute?
+dtrs-11;03-iterations-on-workshop-design;Kenny;Ah I don't need more.
+dtrs-11;03-iterations-on-workshop-design;Ewan;David?
+dtrs-11;03-iterations-on-workshop-design;David;Eh, I think I will do some spin-off when it comes, so I don't need more.
+dtrs-11;03-iterations-on-workshop-design;Ewan;Yeah?
+dtrs-11;03-iterations-on-workshop-design;Nina;It's okay.
+dtrs-11;03-iterations-on-workshop-design;Ewan;Yeah? Alright. (..) Then, alright. Let's start with you.
+dtrs-11;03-iterations-on-workshop-design;David;Cool. Sorry for my handwriting first of all (laughter)
+dtrs-11;03-iterations-on-workshop-design;Ewan;Ah, that's eh, let's have a look at it. It's ten times better than mine.
+dtrs-11;03-iterations-on-workshop-design;Kenny;Should we hang it here? (points to wall)
+dtrs-11;03-iterations-on-workshop-design;David;Yeah.
+dtrs-11;03-iterations-on-workshop-design;Ewan;Yeah, we can do that.
+dtrs-11;03-iterations-on-workshop-design;Abby;If it sticks.
+dtrs-11;03-iterations-on-workshop-design;Ewan;Well that's the problem.
+dtrs-11;03-iterations-on-workshop-design;Kenny;Oh yeah, that wall might be- should- we can stick it to the whiteboard?
+dtrs-11;03-iterations-on-workshop-design;Ewan;Yeah let's- let's try that.
+dtrs-11;03-iterations-on-workshop-design;David;Yeah.
+dtrs-11;03-iterations-on-workshop-design;Ewan;You can move that big post-it, that's no problem. Okay, and we do the classic eh rule of if we have something that is kind of similar, than just like add it on eh on top of that, so we- yeah.
+dtrs-11;03-iterations-on-workshop-design;Nina;If we get new ideas.
+dtrs-11;03-iterations-on-workshop-design;Ewan;Yeah.
+dtrs-11;03-iterations-on-workshop-design;David;We talked about it, but I think it's- if possible (..) try and screen for multi-disciplinarity,
+dtrs-11;03-iterations-on-workshop-design;Ewan;Mhm?
+dtrs-11;03-iterations-on-workshop-design;David;In terms of eh profession. Ehm. I noted eh, not too high up the societal ranks in terms of hierarchy,
+dtrs-11;03-iterations-on-workshop-design;Ewan;Yeah I just wanted to add something.
+dtrs-11;03-iterations-on-workshop-design;Abby;Yeah I'm also thinking we should just finish that one.
+dtrs-11;03-iterations-on-workshop-design;David;Okay, yeah.
+dtrs-11;03-iterations-on-workshop-design;Ewan;So I also had- so you had- yeah, screen for different expertise and multi-disciplinarity, and I also had the same thing, which is eh get maybe some people with special areas of expertise. Maybe not everyone needs to have it, but some.
+dtrs-11;03-iterations-on-workshop-design;Kenny;Mhm.
+dtrs-11;03-iterations-on-workshop-design;Abby;Yeah.
+dtrs-11;03-iterations-on-workshop-design;Ewan;And I think we need to just be- we can- afterwards we can talk about what those areas should be.
+dtrs-11;03-iterations-on-workshop-design;Kenny;Yeah I think- I think we should be specific on-
+dtrs-11;03-iterations-on-workshop-design;Ewan;Yeah probably specific, yeah.
+dtrs-11;03-iterations-on-workshop-design;David;Yeah.
+dtrs-11;03-iterations-on-workshop-design;Kenny;Yeah so it doesn't become random different expertises.
+dtrs-11;03-iterations-on-workshop-design;Ewan;Yeah.
+dtrs-11;03-iterations-on-workshop-design;Abby;"And I have kind of the same, ""experts in something?"" So that's (most tied?), question mark. Certain professions, it's kind of eh-"
+dtrs-11;03-iterations-on-workshop-design;Nina;Yeah.
+dtrs-11;03-iterations-on-workshop-design;David;Mhm.
+dtrs-11;03-iterations-on-workshop-design;Ewan;"It would really be cool to- to try to find it- of course it's gonna be difficult to find a lot of them, but finding one or two, eh I think that was actually a good eh, good- eh I think- something, I totally forgot about this, but that was actually one of the keys to why it was so interesting, was how they were actually able to come with some sort of crazy fact that like ""wow!"". Also- yeah."
+dtrs-11;03-iterations-on-workshop-design;Kenny;Yeah.
+dtrs-11;03-iterations-on-workshop-design;Ewan;Eh cool, yeah.
+dtrs-11;03-iterations-on-workshop-design;Abby;And I guess also it means that they have an interest in something, and they are kind of dedicated [to business].
+dtrs-11;03-iterations-on-workshop-design;Ewan;[Yeah yeah, dedicated, yeah].
+dtrs-11;03-iterations-on-workshop-design;Kenny;Another option is to include some internal experts, if we have some specific areas that we want to- like you did with the- with that session.
+dtrs-11;03-iterations-on-workshop-design;Ewan;Yeah, true, yeah. And you can say also, actually building on that idea, eh if health is our thing, maybe some health experts or some sort of- of-
+dtrs-11;03-iterations-on-workshop-design;Abby;Yeah.
+dtrs-11;03-iterations-on-workshop-design;Kenny;Or technical- I'm thinking for example air quality we have lots of eh expertise in China-org, in air quality.
+dtrs-11;03-iterations-on-workshop-design;Ewan;Yeah, definitely.
+dtrs-11;03-iterations-on-workshop-design;Kenny;That could maybe bring some facts or some- some crazy [technology things].
+dtrs-11;03-iterations-on-workshop-design;Ewan;[Yeah, and we need to have counter parts] of course, we can have the really hardcore health eh in a very physical sense, and then you have like the spiritual guru in a way, which is the other type of health.
+dtrs-11;03-iterations-on-workshop-design;Kenny;Yeah, I don't know if- if we should- but I had that, spiritual-lead as well as tech-lead, when we were talking about lead users.
+dtrs-11;03-iterations-on-workshop-design;Ewan;Okay, yeah. So maybe eh, yeah it kind of goes here.
+dtrs-11;03-iterations-on-workshop-design;Kenny;Yeah it- at least it linked- [it linked someone].
+dtrs-11;03-iterations-on-workshop-design;Ewan;[It's kind of an answer element between like the next level of that one (INDUADIBLE). We put it there, yeah. Cool.
+dtrs-11;03-iterations-on-workshop-design;David;I don't know if I quite get that. What do you mean?
+dtrs-11;03-iterations-on-workshop-design;Kenny;The- the lead- I think-
+dtrs-11;03-iterations-on-workshop-design;David;Yeah?
+dtrs-11;03-iterations-on-workshop-design;Kenny;I think just because usually when you talk about lead-users then usually you refer to it in a techy kind of way,
+dtrs-11;03-iterations-on-workshop-design;David;Yeah.
+dtrs-11;03-iterations-on-workshop-design;Kenny;But of course lead-users can also be in a more mindful spiritual way.
+dtrs-11;03-iterations-on-workshop-design;David;Ah, yeah.
+dtrs-11;03-iterations-on-workshop-design;Ewan;Yeah. It's just that they have kind of above the rest knowledge about something, and typically yeah, as you say, it's about mobile phones or something. They'll be definitely (INAUDIBLE) within well-being.
+dtrs-11;03-iterations-on-workshop-design;David;Yeah.
+dtrs-11;03-iterations-on-workshop-design;Ewan;Yeah. But this is kind of- the point was like, experts in something, and this is kind of an answer to that, it's kind of the next level. Ah, for example in a spiritual realm, or the- the tech realm.
+dtrs-11;03-iterations-on-workshop-design;David;Yeah.
+dtrs-11;03-iterations-on-workshop-design;Ewan;Eh yeah, okay, sorry, that was eh just there, and the next one you had was not too-
+dtrs-11;03-iterations-on-workshop-design;David;Yeah yeah, not too high up the societal ranks, eh, compared to each other.
+dtrs-11;03-iterations-on-workshop-design;Ewan;Compared to each other, yeah yeah, it's the same demographic, yeah?
+dtrs-11;03-iterations-on-workshop-design;David;Yeah.
+dtrs-11;03-iterations-on-workshop-design;Kenny;Yeah, so why- that's- there's a king, sitting with his eh, with his, I don't know.
+dtrs-11;03-iterations-on-workshop-design;Ewan;Yeah. Five Teslas.
+dtrs-11;03-iterations-on-workshop-design;Kenny;Yeah.
+dtrs-11;03-iterations-on-workshop-design;David;Exactly.
+dtrs-11;03-iterations-on-workshop-design;Ewan;Or more like the Ferraris and the Bugari, or the castles.
+dtrs-11;03-iterations-on-workshop-design;David;Or if that's not possible then at least be aware of eh how to avoid that conversation.
+dtrs-11;03-iterations-on-workshop-design;Nina;Yeah.
+dtrs-11;03-iterations-on-workshop-design;David;If it's going to rise, eh, during the session.
+dtrs-11;03-iterations-on-workshop-design;Ewan;Yeah.
+dtrs-11;03-iterations-on-workshop-design;Kenny;Yeah.
+dtrs-11;03-iterations-on-workshop-design;Abby;I have average people, no one too high up in the society, so it's kind of the exact- the same.
+dtrs-11;03-iterations-on-workshop-design;Ewan;Yeah. Of course it- they need to be premium car users, which of course dictates something, eh but eh they should at least be on the same level.
+dtrs-11;03-iterations-on-workshop-design;Kenny;Yeah. Same level of premium.
+dtrs-11;03-iterations-on-workshop-design;Ewan;Premium, yeah.
+dtrs-11;03-iterations-on-workshop-design;Abby;So maybe miss Song was too-
+dtrs-11;03-iterations-on-workshop-design;Ewan;Probably borderline [too high up, yeah].
+dtrs-11;03-iterations-on-workshop-design;Abby;[Yeah, exactly, she was too] rich.
+dtrs-11;03-iterations-on-workshop-design;Ewan;Eh yeah, cool. Do you have a
+dtrs-11;03-iterations-on-workshop-design;David;Ehm yeah, eh like we talked about, eh (.) it's- I don't know, but it's kind of a profession and prototyping- 'typing medium alignment?
+dtrs-11;03-iterations-on-workshop-design;Ewan;Mhm?
+dtrs-11;03-iterations-on-workshop-design;David;Ehm-
+dtrs-11;03-iterations-on-workshop-design;Ewan;Yeah what do you mean by that? Interesting.
+dtrs-11;03-iterations-on-workshop-design;David;I mean, if we bring in a physicist, there could be slight things within the tools available that she could recognize and explain.
+dtrs-11;03-iterations-on-workshop-design;Ewan;Mhm. The tools that we bring in?
+dtrs-11;03-iterations-on-workshop-design;David;Yeah.
+dtrs-11;03-iterations-on-workshop-design;Abby;So like we talked about the-
+dtrs-11;03-iterations-on-workshop-design;David;At the actual co-creation.
+dtrs-11;03-iterations-on-workshop-design;Abby;At the kindergarten eh,
+dtrs-11;03-iterations-on-workshop-design;David;Yeah exactly, like-
+dtrs-11;03-iterations-on-workshop-design;Abby;Like it was the scissor and paper they related to, and then it was-
+dtrs-11;03-iterations-on-workshop-design;David;Yeah, exactly. Exactly, their relatedness.
+dtrs-11;03-iterations-on-workshop-design;Ewan;Okay, yeah, cool.
+dtrs-11;03-iterations-on-workshop-design;David;Ehm yeah. Ehm. Then in terms of eh gender and age, eh. Remote or extension of eh the current customers, they're trying to eh-
+dtrs-11;03-iterations-on-workshop-design;Ewan;Remote or extension.
+dtrs-11;03-iterations-on-workshop-design;David;Oh, extending, yeah, eh in that way, are we bringing in people who already know something, a little bit about these things, or people who don't know anything.
+dtrs-11;03-iterations-on-workshop-design;Ewan;"Yeah. So the- it depends on what is ""these things"" and these- we have a very broad general- so, most people should be able to relate. Or, everyone should be able to relate, for example to health or to- so, yes they will know about it, but they- we will not bring in people that are so narrow, maybe, if we had three times four times of doing that we could, you know, go deeper and deeper and we wanna try to do that of course, but eh, it's not within a very specialized field that we're-"
+dtrs-11;03-iterations-on-workshop-design;Abby;No, exactly and it is about the everyday life, so it's- it's very eh general I would say.
+dtrs-11;03-iterations-on-workshop-design;David;Yeah.
+dtrs-11;03-iterations-on-workshop-design;Ewan;Yeah, definitely. Eh, yeah, good.
+dtrs-11;03-iterations-on-workshop-design;David;But in general those thing'- like, having something like remote or extending, what's already there is kind of like that incremental or innovation, which can be entered on all of the variables.
+dtrs-11;03-iterations-on-workshop-design;Ewan;Some cool words you used there, is that a- is that a word- some words you've been- is it like, terminology from eh? Remote and extended.
+dtrs-11;03-iterations-on-workshop-design;David;Ah yeah, it is, ehm. And also because you can choose immediate eh remote or close eh job domains, to whatever you're gonna do.
+dtrs-11;03-iterations-on-workshop-design;Ewan;Yeah so if we talk about health it could be doctors or, yeah.
+dtrs-11;03-iterations-on-workshop-design;David;But that would be very close and so, what- if you bring in some (wool?)-worker, or whatever, it might be a little bit far out, so.
+dtrs-11;03-iterations-on-workshop-design;Ewan;Yeah. Okay, cool.
+dtrs-11;03-iterations-on-workshop-design;David;Pushing for innovation.
+dtrs-11;03-iterations-on-workshop-design;Ewan;Yeah. And it- yeah it's blessing and curses with both of those things of course, we want people that can relate, but not people that are so primed that they can only s'- they can't see it, they can see anything else.
+dtrs-11;03-iterations-on-workshop-design;David;Yeah, exactly.
+dtrs-11;03-iterations-on-workshop-design;Ewan;"Yeah, cool. Ehm I actually think I forgot one here. And that was maybe connected to this one. It's kind of an opposite to this one, I can see I kind of contradict myself a little bit. Maybe not so much, but we might want to go more narrow with our group to make them relate more. Like we, you know, if we're only six people, if they're too far away from each other they might like, you know, ""I don't understand what you're saying""."
+dtrs-11;03-iterations-on-workshop-design;Kenny;It's gonna- and it's gonna be hard to find [some kind of alignment or, yeah common ground in the end, yeah].
+dtrs-11;03-iterations-on-workshop-design;Ewan;[Yeah, the common ground. Common ground, yeah]. Eh. But I don't know, it ki'- this has to do with society of course. But they can still be on the same level in society, but still far away from each other in understanding each other maybe.
+dtrs-11;03-iterations-on-workshop-design;Abby;Yeah, and I have one a little bit related to that. It's kind of the age thing, is it kind of within the same age? Like, we have in it the sa'- in the last screener, twenty-five to eh forty-five, do we want to bring in kids for example? Do we want to bring in grandparents?
+dtrs-11;03-iterations-on-workshop-design;Ewan;Yeah, that could be super fun.
+dtrs-11;03-iterations-on-workshop-design;Abby;Yeah, exactly.
+dtrs-11;03-iterations-on-workshop-design;Nina;I have the- yeah. Basically the same thing.
+dtrs-11;03-iterations-on-workshop-design;Ewan;Yeah this is kind of in the same- this is more like questions we have or we- we're looking at.
+dtrs-11;03-iterations-on-workshop-design;Abby;Yeah, absolutely.
+dtrs-11;03-iterations-on-workshop-design;Ewan;What did you have here?
+dtrs-11;03-iterations-on-workshop-design;Nina;Yeah, the same pretty much, the same thing.
+dtrs-11;03-iterations-on-workshop-design;Ewan;Age, kids, relatives, yeah. Cool. I would really love to- I never tried it, but it would be amazing to have these relations, because they are so different, but so close because they share blood. They share something else than eh-
+dtrs-11;03-iterations-on-workshop-design;Abby;Yeah. And for example, just- I mean, because we are talking about the child seats, it is a kid who is actually using the child seat. What is important for that kid? And probably it will be a very small kid, from maybe three years old or something, maybe he or she can't express herself that much, but still, if it's something that eh she's using every day and she- it's just a hassle to get this- the belts on and stuff. I mean, it's just eh-
+dtrs-11;03-iterations-on-workshop-design;Ewan;That could be very interesting to see. Did you have something else?
+dtrs-11;03-iterations-on-workshop-design;Nina;Ehm, I mean obviously they have to be creative, in some extent, but then I had like introvert versus extrovert,
+dtrs-11;03-iterations-on-workshop-design;Ewan;Mhm?
+dtrs-11;03-iterations-on-workshop-design;Nina;Like, because extroverts are more tend to talk, interpret- they're maybe sometimes more creative but they don't,
+dtrs-11;03-iterations-on-workshop-design;Ewan;[Express themself?]
+dtrs-11;03-iterations-on-workshop-design;Nina;[Express it in] the group so, maybe that was something to consider. And that we want them to be, in a way, creative or, spontaneous and that's kind of all those together, approachable.
+dtrs-11;03-iterations-on-workshop-design;Kenny;I have kind of the same.
+dtrs-11;03-iterations-on-workshop-design;Ewan;On this one?
+dtrs-11;03-iterations-on-workshop-design;Kenny;Yeah. Talkative and listening,
+dtrs-11;03-iterations-on-workshop-design;Ewan;So this is more like [a personality trait?]
+dtrs-11;03-iterations-on-workshop-design;Kenny;[at the same time, but there are some] characteristics of the stuff that people- and I think this is quite tricky, because of course we want to- to recruit people who are I guess in general extrovert, [but the introvert- but the introvert can have some really nice thoughts about it, but if we are-]
+dtrs-11;03-iterations-on-workshop-design;Nina;[but not only, yeah exactly. Exactly they are very important].
+dtrs-11;03-iterations-on-workshop-design;Kenny;If we are recruiting them then we need to be aware of how do we [extract it], how do we get it out of them. Especially if there are extrovert people among the group, because then the introvert tends to be even more pulling back.
+dtrs-11;03-iterations-on-workshop-design;Nina;[Approach them].
+dtrs-11;03-iterations-on-workshop-design;Ewan;Yeah.
+dtrs-11;03-iterations-on-workshop-design;Abby;And I'm thinking about who's actually going to recruit these people. We'll have a really hard job in discovering who is introvert, who is extrovert, just eh by talking to them on the phone, asking questions eh
+dtrs-11;03-iterations-on-workshop-design;Ewan;"I have it really difficult there 'cause I was like ""try to validate if you have humour"". (laughter) 'Cause that's- I think that it could- kind of the only link we can have to them is humour, it's like, yeah, tell a joke and see what happens. (laughter)"
+dtrs-11;03-iterations-on-workshop-design;Nina;And then I have-
+dtrs-11;03-iterations-on-workshop-design;David;"But couldn't a- like a recruiter for instance eh directly ask them or come up with some kind of example, ""if you should rate yourself- imagine you're in a social gathering for the first time. How- on a scale of one to ten, where introvert is the- and the extrovert is the ultimate, how would you rate yourself?"" [Just to get an idea, yeah]."
+dtrs-11;03-iterations-on-workshop-design;Nina;[So this is a valve, in a way].
+dtrs-11;03-iterations-on-workshop-design;Abby;[Absolutely. And it is stuff like that that we need to have in the screening].
+dtrs-11;03-iterations-on-workshop-design;Ewan;[It is- yeah yeah yeah, definitely]. And hopefully we are- we don't have to make this, 'cause there's already some proving systems there, but yeah we need to at least to- to make sure that that is in place.
+dtrs-11;03-iterations-on-workshop-design;Abby;Yeah.
+dtrs-11;03-iterations-on-workshop-design;David;But maybe, yeah. Maybe even able to read that they have ranked themselves prior.
+dtrs-11;03-iterations-on-workshop-design;Abby;And one thing is how they see themself, another thing is how they actually act eh when they come in a [room that (INAUDIBLE) people].
+dtrs-11;03-iterations-on-workshop-design;David;[True].
+dtrs-11;03-iterations-on-workshop-design;Kenny;"[""Rate your sense of humour on scale from (two] to two?)"" (laughter)"
+dtrs-11;03-iterations-on-workshop-design;Nina;Mhm, I have eh dependent versus independent, like how they maybe, regarding to making to making choices maybe?
+dtrs-11;03-iterations-on-workshop-design;Kenny;Mhm.
+dtrs-11;03-iterations-on-workshop-design;Nina;Or if, you know if they even have the close family.
+dtrs-11;03-iterations-on-workshop-design;Ewan;Sorry, I was disconnected, what did you say? Sorry eh,
+dtrs-11;03-iterations-on-workshop-design;Nina;Dependent versus independent, like eh how they make choices, regarding to making choices or how they- even if they-, how often do they communicate with their families?
+dtrs-11;03-iterations-on-workshop-design;Ewan;Yeah.
+dtrs-11;03-iterations-on-workshop-design;Kenny;Mhm. And then, it would be even more interesting if maybe first session we had, and we're talking about this and the second session they're bringing their families and grandparents and things, then you can match it up and see how they- how is it in reality.
+dtrs-11;03-iterations-on-workshop-design;Nina;Who really make the choices. (laughs)
+dtrs-11;03-iterations-on-workshop-design;Kenny;Yeah.
+dtrs-11;03-iterations-on-workshop-design;Ewan;"(Writing post-its) (..) So I call this personal traits, expertise. Is this ""ability to relate""?"
+dtrs-11;03-iterations-on-workshop-design;Nina;Yeah, yeah. You can say that.
+dtrs-11;03-iterations-on-workshop-design;Ewan;"Eh then I have one last one which is called- yeah, this is basically ""make sure they are open to homework, or as we call it, funwork"". (laughter)"
+dtrs-11;03-iterations-on-workshop-design;Kenny;Yeah. And I think this is eh the- my intention is the same. Like, real time to participate.
+dtrs-11;03-iterations-on-workshop-design;Ewan;Yeah.
+dtrs-11;03-iterations-on-workshop-design;Kenny;I'm not really sure how to validate or ensure that.
+dtrs-11;03-iterations-on-workshop-design;Ewan;It's kind of a- a-
+dtrs-11;03-iterations-on-workshop-design;Nina;Invest it.
+dtrs-11;03-iterations-on-workshop-design;Ewan;Yeah, investment.
+dtrs-11;03-iterations-on-workshop-design;Kenny;Yeah. So it's more like a gut feeling. Are they really interested in doing this or, [aren't they?]
+dtrs-11;03-iterations-on-workshop-design;Nina;[Or they just do it] 'cause they- yeah. (..) It's like an interview, you know for a job.
+dtrs-11;03-iterations-on-workshop-design;Kenny;Exactly.
+dtrs-11;03-iterations-on-workshop-design;Nina;Like how much do you want this?
+dtrs-11;03-iterations-on-workshop-design;Kenny;Yeah, do you want it, or do you just need the salary?
+dtrs-11;03-iterations-on-workshop-design;Nina;Yeah, exactly. I mean, it's important to know, in a way.
+dtrs-11;03-iterations-on-workshop-design;Ewan;(..) Okay, level of investment. So we have something around expertise. How do you spell that, expertise? (..) Yeah, so level of investment, personal traits, ability to connect, expertise. These are kind of- yeah this is somewhat connected here. This is just a- a range, right? A specter of, eh profession, profession and prototyping, or what did you mean with this one again?
+dtrs-11;03-iterations-on-workshop-design;David;Kind of alignment with eh-, [it is- it's the-]
+dtrs-11;03-iterations-on-workshop-design;Abby;[The tools that we're using].
+dtrs-11;03-iterations-on-workshop-design;Kenny;[Yeah].
+dtrs-11;03-iterations-on-workshop-design;David;It's in kind of like extending expertise, maybe.
+dtrs-11;03-iterations-on-workshop-design;Ewan;Yeah?
+dtrs-11;03-iterations-on-workshop-design;David;Or inbetween, below the a-,
+dtrs-11;03-iterations-on-workshop-design;Ewan;Somewhere inbetween here?
+dtrs-11;03-iterations-on-workshop-design;David;It's- it's-
+dtrs-11;03-iterations-on-workshop-design;Ewan;Oh yeah, [sorry, this was the point around-, yeah].
+dtrs-11;03-iterations-on-workshop-design;David;[It's more eh targeted towards] the prototyping tools. So it's more-
+dtrs-11;03-iterations-on-workshop-design;Ewan;Yeah it's their ability (.) to use- that was the thing you experienced around the, as you said, yeah the- they could use the scissors, but nothing else, yeah.
+dtrs-11;03-iterations-on-workshop-design;David;Yeah, exactly.
+dtrs-11;03-iterations-on-workshop-design;Ewan;It's kind of also a little bit between this and this, the personal trait. It's more a- yeah maybe- maybe they're-
+dtrs-11;03-iterations-on-workshop-design;Abby;But, it's not anything that we need for the screener, it's something to keep in mind when we do the-
+dtrs-11;03-iterations-on-workshop-design;Kenny;[Creating the tools].
+dtrs-11;03-iterations-on-workshop-design;David;[I'ts more- yeah. Yeah, exactly].
+dtrs-11;03-iterations-on-workshop-design;Abby;[I mean if we are for example focusing on people] within the health eh professions, then we need to think if it affects the- the tools that we're going to use.
+dtrs-11;03-iterations-on-workshop-design;David;Totally, yes. It's usually for designing the actual workshop.
+dtrs-11;03-iterations-on-workshop-design;Abby;Yeah.
+dtrs-11;03-iterations-on-workshop-design;David;Eh and since the-
+dtrs-11;03-iterations-on-workshop-design;Ewan;Yeah?
+dtrs-11;03-iterations-on-workshop-design;David;"Since the whole setting is concerning a tangible THE COMPANY environment, now I've heard you guys say quite some time- I don't know if it's nagging you or something but eh I've- I've written ""what is accepta'- acceptable cars to own, for the people?"""
+dtrs-11;03-iterations-on-workshop-design;Ewan;Mhm? Yeah so we ehm, we're very loose with that. It just needs to be what we could call a premium car, meaning that it should- it's- Mercedes okay, Honda not okay.
+dtrs-11;03-iterations-on-workshop-design;Kenny;[So it's a combination of price level and brand, yeah].
+dtrs-11;03-iterations-on-workshop-design;Abby;[So we have a list that we'll put on the screener], yeah.
+dtrs-11;03-iterations-on-workshop-design;David;It's only because you've mentioned Tesla or something out of the ordinary.
+dtrs-11;03-iterations-on-workshop-design;Ewan;Yeah.
+dtrs-11;03-iterations-on-workshop-design;Kenny;It's a little bit special with the Teslas.
+dtrs-11;03-iterations-on-workshop-design;Ewan;And this is- we basically have to follow the policies of the company here. Eh-
+dtrs-11;03-iterations-on-workshop-design;Nina;What do you compare to.
+dtrs-11;03-iterations-on-workshop-design;Ewan;Yeah, with some variations. For example Land Rover is really big in eh in China not so big necessarily, yeah. But yeah, it's important.
+dtrs-11;03-iterations-on-workshop-design;David;And also, yeah in relation to respondents talking to each other and stuff like that.
+dtrs-11;03-iterations-on-workshop-design;Ewan;Yeah yeah.
+dtrs-11;03-iterations-on-workshop-design;David;Eh, for conversation. Eh and this is also practical matter. It's not- it's kind of over-lighting the screener but, eh I forgot to mention it in the prior session, eh dress code.
+dtrs-11;03-iterations-on-workshop-design;Kenny;For us?
+dtrs-11;03-iterations-on-workshop-design;David;For us and for participants, sometimes people do that as well.
+dtrs-11;03-iterations-on-workshop-design;Nina;Ahuh, that's yeah, that's a good point.
+dtrs-11;03-iterations-on-workshop-design;Ewan;I think- yeah. We probably would follow the regular dress code that we have eh, but we can of course inform them. So, before- yeah. It's a- it's a sensitive question. We would typically wear low, like casual smart, so meaning no big brand name, this is- this is the suit- not necessarily good, this is very much branding, but yeah eh- [regular t-shirt, regular jeans].
+dtrs-11;03-iterations-on-workshop-design;Kenny;[That's not a brand that popular].
+dtrs-11;03-iterations-on-workshop-design;David;[Yeah yeah yeah, exactly].
+dtrs-11;03-iterations-on-workshop-design;Ewan;Kenny would be working with a nice- you are looking very nice, same with you and you. I'm the only one that is kind of stating something with this.
+dtrs-11;03-iterations-on-workshop-design;Abby;Yeah, exactly.
+dtrs-11;03-iterations-on-workshop-design;Ewan;Not too upscale, we don't wanna make them lose face by us looking fabulous and they are [(gutting?) down].
+dtrs-11;03-iterations-on-workshop-design;Kenny;[Less- less formal than they- we want to look less formal than that].
+dtrs-11;03-iterations-on-workshop-design;Abby;"[Yeah but at the same time we could also kind of say to them] ""okay, everyone needs to wear black"" or white or something so that they don't differentiate themselves too much with eh fashion or, eh-"
+dtrs-11;03-iterations-on-workshop-design;Nina;"Not like formal informal so they don't feel from the beginning like ""oh my gosh, this is like something that I need to really prepare"" in a way."
+dtrs-11;03-iterations-on-workshop-design;Ewan;Yeah, it's a very interesting thought, going in all directions there. You could force them into becoming like a-
+dtrs-11;03-iterations-on-workshop-design;Kenny;You need to wear red, everybody (laughs)
+dtrs-11;03-iterations-on-workshop-design;Ewan;Yeah yeah, dress as your favorite animal. (laughter) But there's tons of stuff to do there, it's very interesting. Eh I think I'll put that up here as well, because I- if anything we should use it for something.
+dtrs-11;03-iterations-on-workshop-design;Nina;Or what colours not to wear.
+dtrs-11;03-iterations-on-workshop-design;Abby;"Exactly, so it could be the way to divide the people into groups, eh we'll tell ""okay, you need to wear something blue, you need to wear something green, you need to wear something red"""
+dtrs-11;03-iterations-on-workshop-design;Kenny;That could be quite interesting.
+dtrs-11;03-iterations-on-workshop-design;Abby;And then they need to group according to colours. Something.
+dtrs-11;03-iterations-on-workshop-design;Ewan;You could- it's kind of like you know, in the army, first three months, bootcamp, you're only wearing your uniform and you hook up with people you never would have hooked up with before, because that day, on the first day of the fourth month, you go out for a beer and you just- turns out you've been hanging out with some hip-hoppers. It's the worst! (laughter)
+dtrs-11;03-iterations-on-workshop-design;Nina;And also maybe consider colours, or something- what is inappropriate.
+dtrs-11;03-iterations-on-workshop-design;Ewan;Yeah, I think- yeah. We- it's a very sensitive theme. I have never tried to utilize it, but it could be interesting.
+dtrs-11;03-iterations-on-workshop-design;Kenny;Yeah, you're kind of removing the visual eh-
+dtrs-11;03-iterations-on-workshop-design;Ewan;Yeah. But you kind of- in one way, you want them to come as they are, I mean them as people. We don't want to create them into some- some random cubes. They are special, we want- we wanna make them special.
+dtrs-11;03-iterations-on-workshop-design;Abby;Absolutely.
+dtrs-11;03-iterations-on-workshop-design;Kenny;Yeah.
+dtrs-11;03-iterations-on-workshop-design;Ewan;But it would- the reason we're doing it will be because it's fun, and because they can then reveal something afterwards or hide something, we should use it actively.
+dtrs-11;03-iterations-on-workshop-design;Abby;Yeah, absolutely, I mean if we put come constraints on them, from the beginning, of course we should-
+dtrs-11;03-iterations-on-workshop-design;Kenny;We should have a purpose in-
+dtrs-11;03-iterations-on-workshop-design;Abby;Absolutely.
+dtrs-11;03-iterations-on-workshop-design;Kenny;As a tool.
+dtrs-11;03-iterations-on-workshop-design;Abby;It should express who you are, okay, then they need to present [themselves with that- yeah, exactly].
+dtrs-11;03-iterations-on-workshop-design;Ewan;[So they're over-excited I think it's- for example], that's cool yeah. Yeah. Cool. Eh yeah. Did you have another build?
+dtrs-11;03-iterations-on-workshop-design;David;Yeah but it's on the wrong side. Eh it was more targeted to the- to the workshop as well, an idea about eh, if you end up as having health as a major theme, they could bring an artifact which would relate to that.
+dtrs-11;03-iterations-on-workshop-design;Ewan;Yeah, cool.
+dtrs-11;03-iterations-on-workshop-design;David;Which is important, [for them].
+dtrs-11;03-iterations-on-workshop-design;Nina;[That's like the before homework], the little homework.
+dtrs-11;03-iterations-on-workshop-design;David;What's your prime artifact?
+dtrs-11;03-iterations-on-workshop-design;Ewan;Yeah, so it kind of falls under the homework part of it, yeah.
+dtrs-11;03-iterations-on-workshop-design;Nina;The involvement.
+dtrs-11;03-iterations-on-workshop-design;Ewan;That's cool- sometimes that is cool. Eh again, if we- typically- and, I don't know, I- I've experienced it working really well, and then I've experienced it stealing a lot of time. Eh but I hunt'- I've seen both sides of it. It's a good idea.
+dtrs-11;03-iterations-on-workshop-design;Nina;The involvement down, no?
+dtrs-11;03-iterations-on-workshop-design;Ewan;"Yeah I'm putting it here, 'cause this is more like eh ideas for, kind of stuff for us to do. It's more in the ""what can we do in the workshop"" than the respondents."
+dtrs-11;03-iterations-on-workshop-design;David;Yeah. It could also be take three pictures prior to the workshop eh of health that means a lot to you, yeah.
+dtrs-11;03-iterations-on-workshop-design;Ewan;Yeah what I've done before is actually sometimes sending out like a cultural probe and they are to do something a week before, but it's not so much for them to present it in the workshop, it's more for them to be primed. To come in to the workshop with a prime. Eh but it's also dangerous because then they suddenly are- they are- it's not themself that they're coming with. They have created this castle.
+dtrs-11;03-iterations-on-workshop-design;David;Totally.
+dtrs-11;03-iterations-on-workshop-design;Ewan;"And you want to see their gut reaction, but I think it's a good thing to take into consideration. Eh yeah. And again, it's all about having fun, so how can we make people relax and have fun, as fast as possible. I think we have some good, good eh input for the screener. Definitely within expertise, I think that's a lot of fun. And the- and of course this one is important, ""ability to connect and relate"" and that has to do with what type of people, and this one like, again, more on the personal level. It's really difficult. (laughs) And the level of investment is really important, so these- this one, this one, this one (points to post-its) is basically things we need to prime the recruiter about. This we can ask about and they probably have profiles, right? They have a huge list of what people are doing and stuff like that. They can sort it. The recruitment agency typically have that. These people are doctors, these people are whatever, and this is more- they probably don't have lists of people's ability to relate to a personal trait neces'- a little bit there maybe, that is something that needs to happen during the screening conversation."
+dtrs-11;03-iterations-on-workshop-design;Abby;Mhm.
+dtrs-11;03-iterations-on-workshop-design;Ewan;(..) Everyone wanna s'- you know, are gonna say that they are willing to invest, probably.
+dtrs-11;03-iterations-on-workshop-design;Abby;Exactly, otherwise you won't be there.
+dtrs-11;03-iterations-on-workshop-design;Ewan;Yeah, but they need to listen through that, read between the lines. Are they actually (.) gonna do that? Cool. Eh yeah. So do you wanna push this further- one thing that could be interesting- should we use maybe three minutes on trying to just talk a lit'- or write something down around expertises, what could be fun?
+dtrs-11;03-iterations-on-workshop-design;Abby;Yeah. I just have one extra- the- the thing of the- the English aspect of it. So should the interview for example ehm, from the recruitment guy be in English, when he's talking to these guys? Just to get an idea of the level.
+dtrs-11;03-iterations-on-workshop-design;Ewan;Yeah. Are they able to- so, in one way we can say (.) yeah, that could be interesting okay, first pass, try to get these English people.
+dtrs-11;03-iterations-on-workshop-design;Abby;Yeah, exactly.
+dtrs-11;03-iterations-on-workshop-design;Ewan;If it's totally crashes and burns, then we just need to do it in Chinese. And we need to relate somewhere else. We can be there, but then it has to be through drawings and whatever. Interpret (at a glance?).
+dtrs-11;03-iterations-on-workshop-design;Abby;Exactly.
+dtrs-11;03-iterations-on-workshop-design;Ewan;Then maybe they should at least try to do one pass, try to get at least seven people that has English skills.
+dtrs-11;03-iterations-on-workshop-design;Abby;I think that would be really really good.
+dtrs-11;03-iterations-on-workshop-design;Ewan;It will be the- definitely the best case scenario.
+dtrs-11;03-iterations-on-workshop-design;Abby;"And it's also the only way to- for the- for the recruitment guy to actually be able to test it. They could easily say ""yes, of course I speak English"", but if they don't have to, during the interview, then it's (.)"
+dtrs-11;03-iterations-on-workshop-design;Ewan;Yeah. No no no, that's the thing, yeah. (laughs) Yeah, so I'll write that down, that's more like a message to the recruiter.
+dtrs-11;03-iterations-on-workshop-design;Abby;Yeah.
+dtrs-11;03-iterations-on-workshop-design;Nina;And even if they did like a- worked abroad or something, that doesn't necessarily mean that they can speak English, actually. I had a interview with the guy who did eh like work and travel in EUROPEAN CITY, and he didn't speak English very well.
+dtrs-11;03-iterations-on-workshop-design;Abby;Hm.
+dtrs-11;03-iterations-on-workshop-design;Nina;Yeah. And he was there for like three or four months, but it was awful. So that doesn't necessarily mean that the experience- I mean, you can be picking up quotes and not speak to anyone. [Even if you're in that country, so].
+dtrs-11;03-iterations-on-workshop-design;Abby;[Yeah yeah, of course].
+dtrs-11;03-iterations-on-workshop-design;Kenny;And especially Chinese people, because they're always grouped together, so, I think actually they don't really need to speak Chinese when they go abroad, because they're- I know it's a little bit prejudice, but [they- they are usually in groups, yeah yeah so they basically don't need- need any other language than Chinese].
+dtrs-11;03-iterations-on-workshop-design;Abby;[English, yeah].
+dtrs-11;03-iterations-on-workshop-design;Nina;[English, yeah].
+dtrs-11;03-iterations-on-workshop-design;Ewan;[They're in their own Chinese bubble, you know floating around the world].
+dtrs-11;03-iterations-on-workshop-design;Nina;[So yeah not to base it on their like, experience abroad], but the actual knowledge of English.
+dtrs-11;03-iterations-on-workshop-design;Ewan;Yeah eh-
+dtrs-11;03-iterations-on-workshop-design;Abby;Yeah but- yeah. So their (.)
+dtrs-11;03-iterations-on-workshop-design;Nina;They have to [test they don't just-]
+dtrs-11;03-iterations-on-workshop-design;Abby;"[Their ability] to actually speak English during this recruitment interview. But I think- and if it's- if the recruiter comes back and say ""okay, this is totally impossible, I can't find anyone who can speak any English"", then we need to of course do something about it, and then-"
+dtrs-11;03-iterations-on-workshop-design;Ewan;And it's interesting, because you can actually- one or two people can derail it. We have five people that can speak perfect and two people that can't. So then they are out, auto out.
+dtrs-11;03-iterations-on-workshop-design;Abby;Yeah. (laughs)
+dtrs-11;03-iterations-on-workshop-design;Ewan;So then we have- (laughs) it needs to- either it's everyone, or it's no one. Kind of.
+dtrs-11;03-iterations-on-workshop-design;Abby;Yeah, exactly. I mean, we have the translator.
+dtrs-11;03-iterations-on-workshop-design;Ewan;Yeah yeah yeah.
+dtrs-11;03-iterations-on-workshop-design;Abby;So that tran'- but still, [they would really feel that they are-]
+dtrs-11;03-iterations-on-workshop-design;Ewan;[If they could- yeah].
+dtrs-11;03-iterations-on-workshop-design;Kenny;[If we want to] split out, or, I mean the options are just bigger if they- if they know English just a little bit, so we can communicate with them.
+dtrs-11;03-iterations-on-workshop-design;Ewan;Yeah. So it's more like should we look at it from the other way, it's more like (.) should they be able- is maybe- I'm just thinking out loud, should the Eng'- should Chinese be the main language, but they have English so we can probe in here and there, all the time? But the main stream is happening in Chinese. And we are-
+dtrs-11;03-iterations-on-workshop-design;Abby;I would really, I mean, then everything is on Rose and eh her friend.
+dtrs-11;03-iterations-on-workshop-design;Ewan;"Yeah, but we will be sitting with them and of course they will take us in. It's their way of inviting us in. Like, when I say ""they"", it's the respondents are pulling us in. I'm not saying it's- I've never tried it before, but eh-"
+dtrs-11;03-iterations-on-workshop-design;Abby;And of course, I mean, it will be best for the respondents. They will be able to actually explain exactly what they want to, but, we will just have so much trouble really eh understanding what they're saying, the translator needs to really (.) keep it-
+dtrs-11;03-iterations-on-workshop-design;Ewan;I think we will be able to understand what they say, but we will be always delayed. We will have problems participate- to participate, that's our problem. We will all-
+dtrs-11;03-iterations-on-workshop-design;Abby;"And also if they're speaking eh a little bit fast, and then this one is picking up something and talking and ""dit-dit-dit"" and then (.) the translator can't keep up."
+dtrs-11;03-iterations-on-workshop-design;Nina;It depends on the level of English then. If they cannot express themselves then, that's what this-
+dtrs-11;03-iterations-on-workshop-design;Ewan;Yeah no yeah it's not- it's a balance here.
+dtrs-11;03-iterations-on-workshop-design;Abby;Yeah, absolutely.
+dtrs-11;03-iterations-on-workshop-design;Kenny;As far as I understood from Rose and Amanda then- then I think their suggestion is to run the main part in Chinese.
+dtrs-11;03-iterations-on-workshop-design;Ewan;Yeah that's what I [understood as well].
+dtrs-11;03-iterations-on-workshop-design;Kenny;[That's the whole idea] with having the translator there, because they're thinking that the main part should be in Chinese.
+dtrs-11;03-iterations-on-workshop-design;Ewan;Yeah. That's what I think the recommendation was.
+dtrs-11;03-iterations-on-workshop-design;Kenny;Yeah.
+dtrs-11;03-iterations-on-workshop-design;Abby;But then I think we need an extra translator. If the point is to run it in Chinese then one translator won't be enough. At least for the second day, where act'- eh-
+dtrs-11;03-iterations-on-workshop-design;Kenny;If we're splitting out then we're gonna need a translator, but we knew already that from the beginning.
+dtrs-11;03-iterations-on-workshop-design;Ewan;If we're splitting out-
+dtrs-11;03-iterations-on-workshop-design;Abby;No, but if we are- if it was only kind of to (.) if someone really need to express something that they couldn't do in English, then the translator could be there to help. That was kind of the point in the beginning, but if we're splitting out, ehm and it's- everything is in Chinese, and this one guy, of course, and still I mean, yeah, I'm just thinking that nine respondents and one translator is just- and if everything is going to be in Chinese then (.) it's not going to be enough.
+dtrs-11;03-iterations-on-workshop-design;Ewan;Yeah, so we have of course Amanda, and the other guy.
+dtrs-11;03-iterations-on-workshop-design;Abby;Maybe not so much Amanda she said, maybe more the other guy.
+dtrs-11;03-iterations-on-workshop-design;Ewan;Yeah, the other guy. Yeah the other guy for sure,
+dtrs-11;03-iterations-on-workshop-design;Kenny;Yeah yeah.
+dtrs-11;03-iterations-on-workshop-design;Ewan;Eh Amanda a little bit.
+dtrs-11;03-iterations-on-workshop-design;Abby;Yeah. And Rose some.
+dtrs-11;03-iterations-on-workshop-design;Ewan;Rose- yeah, but she will of course be (.) [running it].
+dtrs-11;03-iterations-on-workshop-design;Kenny;[Yeah, it's really disturbing] if the moderator needs to translate at the same time.
+dtrs-11;03-iterations-on-workshop-design;Abby;Yeah, absolutely.
+dtrs-11;03-iterations-on-workshop-design;Nina;Yeah, I think she should be committed to the group.
+dtrs-11;03-iterations-on-workshop-design;Kenny;It interrupts the whole show.
+dtrs-11;03-iterations-on-workshop-design;Ewan;I think, what we need to do- we need to have a session with Amanda and the new guy and eh Rose when we actually probe into this, what are our options.
+dtrs-11;03-iterations-on-workshop-design;Abby;Absolutely.
+dtrs-11;03-iterations-on-workshop-design;Ewan;And of course, with- maybe the recruiter could be there as well.
+dtrs-11;03-iterations-on-workshop-design;Abby;Yeah. I mean, it is CHINESE CITY, there are so many million people living there.
+dtrs-11;03-iterations-on-workshop-design;Nina;We need to find nine, (INAUDIBLE). (laughs)
+dtrs-11;03-iterations-on-workshop-design;Ewan;The pool of people is huge, so I- that's why I also, when I- we spoke to Rose and them the first time, it needs to be- we need it to be possible, but, then again, last time- yeah we did- we never probed for- that they have to, but we said last time when we were in CHINESE CITY, it would be really good if they could. And I think one or two (.) knew English?
+dtrs-11;03-iterations-on-workshop-design;Abby;"And also we said to Rose ""okay, fourteen"" was the first number, then she said-"
+dtrs-11;03-iterations-on-workshop-design;Ewan;"""Ah, that's gonna be difficult""."
+dtrs-11;03-iterations-on-workshop-design;Abby;"""That's going to be difficult"". And, I guess it's not getting fourteen lead users, but it's about getting fourteen (.)"
+dtrs-11;03-iterations-on-workshop-design;Kenny;Lead users who speaks English.
+dtrs-11;03-iterations-on-workshop-design;Abby;Exactly. And now it's actually almost just half, at least for the first day, and then there's the extra two in the second day. I think-
+dtrs-11;03-iterations-on-workshop-design;Ewan;Best case scenario is that they are lead users, they are comfortable both in English and Chinese and so on.
+dtrs-11;03-iterations-on-workshop-design;Abby;Exactly and I think that- I mean (.) [that should be-]
+dtrs-11;03-iterations-on-workshop-design;Ewan;[That's our- that's our] goal.
+dtrs-11;03-iterations-on-workshop-design;Abby;Yeah, exactly, and that should be what we communicate to the recruiter, and then of course he should have a go at it and then eh and try it out, and if it's impossible of course we also need to inform him that if it's impossible, then (.)
+dtrs-11;03-iterations-on-workshop-design;Ewan;If it's impossible, it is impossible.
+dtrs-11;03-iterations-on-workshop-design;Abby;It's impossible.
+dtrs-11;03-iterations-on-workshop-design;Kenny;I think, if we're thinking that we- I don't think that we will be able to run any sessions in English completely,
+dtrs-11;03-iterations-on-workshop-design;Abby;No, [not completely. Not completely].
+dtrs-11;03-iterations-on-workshop-design;Kenny;[So if we think that's- no, so if we think that's a problem] then I think we should already now consider to have another translator maybe just for the second session.
+dtrs-11;03-iterations-on-workshop-design;Abby;Yeah.
+dtrs-11;03-iterations-on-workshop-design;Kenny;Because I think- as far as I understood from Rose then- then, she doesn't recommend it anyway to even try to run some of it in English. We'll keep it in Chinese and then, maybe they can say a few sentences in English, but even if they're pretty good in English, then there is so many nuances that they won't be able to explain in English.
+dtrs-11;03-iterations-on-workshop-design;Ewan;The challenge is that they can say yes and no and answer a simple question, but to get any creative flow going, it's really difficult.
+dtrs-11;03-iterations-on-workshop-design;Kenny;It really limit them.
+dtrs-11;03-iterations-on-workshop-design;Ewan;It's even challenging for- not necessarily for us, but you know. You don't have to- like even for Tiffany and Hans for example, it would be challenging to run a creative session in a- not their mother tongue.
+dtrs-11;03-iterations-on-workshop-design;Kenny;Yeah, and- and-
+dtrs-11;03-iterations-on-workshop-design;Abby;But I to'- I mean, if it's- we absolutely need more translators. Otherwise we'll lost in it.
+dtrs-11;03-iterations-on-workshop-design;Kenny;Then I think we should consider, at least for the second session, to have another translator.
+dtrs-11;03-iterations-on-workshop-design;Abby;Yeah, I absolutely agree.
+dtrs-11;03-iterations-on-workshop-design;Ewan;Yeah. Perhaps-
+dtrs-11;03-iterations-on-workshop-design;Kenny;And then we need to figure out how it works with the equipment in the room, if they're able to handle to translators in the- in the room. Because I guess the trans'- usually the equipment is just hooked up to like one translator, so for example the observers will hear only one translator in the observer's room.
+dtrs-11;03-iterations-on-workshop-design;Ewan;Typical we have one conversation at a time, eh-
+dtrs-11;03-iterations-on-workshop-design;Kenny;Unless we split up in two groups. And that's-
+dtrs-11;03-iterations-on-workshop-design;Ewan;Yeah, if we split up, it's still one conversation at a time, but in their individual groups, but then that's when we need two translators of course.
+dtrs-11;03-iterations-on-workshop-design;Kenny;Yeah, and that will be an issue if the system doesn't eh
+dtrs-11;03-iterations-on-workshop-design;Ewan;Allow it, yeah.
+dtrs-11;03-iterations-on-workshop-design;Kenny;Support it somehow, two eh different conversations.
+dtrs-11;03-iterations-on-workshop-design;Abby;And I guess if we think of who is going to sit outside then it's maybe Tiffany and Hans, but then it's actually going to be some of the China-org people, who does speak Chinese, so maybe they can actually be the translators to Tiffany and Hans.
+dtrs-11;03-iterations-on-workshop-design;Ewan;That's- yeah.
+dtrs-11;03-iterations-on-workshop-design;Kenny;That's maybe, I think that it would (.) they will lose a lot of the content I think.
+dtrs-11;03-iterations-on-workshop-design;Abby;And actually we also talked about that the guy sitting behind the mirror should not just sit there, drinking coffee, relaxing, just listening in. They should also do some exercises, because we want to- if it's China-org for example, maybe it's too much to bring them in together with the respondents, but, we want their input as well, so if we go through some eh creative eh sessions they need to participate as well.
+dtrs-11;03-iterations-on-workshop-design;Kenny;Mhm.
+dtrs-11;03-iterations-on-workshop-design;Abby;So it's a little bit observation, but it's actually more participation.
+dtrs-11;03-iterations-on-workshop-design;Ewan;"Yeah yeah. They will have to kind of report afterwards as well. Yeah yeah, it's- task needs to be- to be made. But yeah extra translators I think in general is ehm important, we can put that- putting it ""extra translators"" up."
+dtrs-11;03-iterations-on-workshop-design;Kenny;(..) Yeah. If possible I think we should try to keep it to the second session.
+dtrs-11;03-iterations-on-workshop-design;Ewan;Ah yeah, the sp'- yeah, the break out?
+dtrs-11;03-iterations-on-workshop-design;Kenny;Yeah get- have the extra translator.
+dtrs-11;03-iterations-on-workshop-design;Ewan;Okay, I think it's- it's cool, then we need to have a talk with eh Rose and Amanda about eh more into detail about the reality of this. What's feasible, what's not feasible, how we can solve it. But we have-
+dtrs-11;03-iterations-on-workshop-design;Kenny;Mhm, yeah. I think she said pretty clear that her recommendation is to- to run in Chinese with a translator.
+dtrs-11;03-iterations-on-workshop-design;Ewan;I agree.
+dtrs-11;03-iterations-on-workshop-design;Nina;And Amanda said that too.
+dtrs-11;03-iterations-on-workshop-design;Abby;But I think we need a sec'- I mean, also for the first session. We'll be seven people, seven respondents and then we will be mingled in there as well, so we'll be almost too many to just be in one group the whole day, so we'll- we will be- we will be split out, I foresee. And then of course Amanda and the other guy will be the moderators of each group, so they can't be the translators as well, so I'm thinking-
+dtrs-11;03-iterations-on-workshop-design;Kenny;No no, but what we talked about before was then the translator must somehow mingle back and forth between the two groups.
+dtrs-11;03-iterations-on-workshop-design;Abby;Yeah I don't think that's realistic.
+dtrs-11;03-iterations-on-workshop-design;Kenny;No no, but that's what we talked about before.
+dtrs-11;03-iterations-on-workshop-design;Abby;Yeah.
+dtrs-11;03-iterations-on-workshop-design;Kenny;But I agree, it's not optimal in any way. But if we have two translators, then we have the technical issue, how do we make sure then- then eh (.) the system supports two translators at the same time.
+dtrs-11;03-iterations-on-workshop-design;Ewan;I guess, yeah. But that I guess- that is just the- they need to choose, with the channel. Channel one, channel two, they can't listen to both at the same time. Or, if it's several people in the back, someone can listen to channel one-
+dtrs-11;03-iterations-on-workshop-design;Kenny;Yeah, but then the one translator kind of loses effect, and then you don't get any value out of having two translators.
+dtrs-11;03-iterations-on-workshop-design;Ewan;Except for us that are in the room.
+dtrs-11;03-iterations-on-workshop-design;Abby;Yeah because I'm also thinking that, I mean, most of us will be in the room, anyway. So people will- I mean the people sitting out- outside could be the China-org for example, ehm.
+dtrs-11;03-iterations-on-workshop-design;Ewan;Yeah, so it will be- oh sorry. Yeah so okay, this is the scenario for break out, right? Here's the behind the scenes.
+dtrs-11;03-iterations-on-workshop-design;Nina;Mhm.
+dtrs-11;03-iterations-on-workshop-design;Ewan;So we have then (draws on whiteboard) (..) these are respondents. Let's say one two three, eh one two three four respondents, right?
+dtrs-11;03-iterations-on-workshop-design;Abby;Yeah.
+dtrs-11;03-iterations-on-workshop-design;Ewan;And then we have-
+dtrs-11;03-iterations-on-workshop-design;Abby;And one Amanda and one Rose's friend?
+dtrs-11;03-iterations-on-workshop-design;Ewan;Eh yeah. This is ehm (.) Amanda, and Rose's friend. And this is eh-
+dtrs-11;03-iterations-on-workshop-design;Abby;Rose.
+dtrs-11;03-iterations-on-workshop-design;Ewan;Rose. And then we have us. One of us, two of us, one of us, two of us, for example something like this, I don't know.
+dtrs-11;03-iterations-on-workshop-design;Abby;Mhm.
+dtrs-11;03-iterations-on-workshop-design;Ewan;Ehm. And then we have (.) this is translator one, and translator two, right? Okay, so far, so good. This will be the setup.
+dtrs-11;03-iterations-on-workshop-design;Kenny;Yeah. I- but I agree in the setup. I just eh- I'm just a little bit disappointed that we did not eh agree on that before, because we knew this from the beginning.
+dtrs-11;03-iterations-on-workshop-design;Ewan;Yeah.
+dtrs-11;03-iterations-on-workshop-design;Kenny;Because it's just- it's not like a big issue, but it's still like twelve thousand more, on the budget and-
+dtrs-11;03-iterations-on-workshop-design;Ewan;Yeah and I know, I agree. So let's look at different options here, 'cause my idea from the beginning was that when we do our break out group, ehm the translator is just joining of the sessions, and Rose's friend is acting like a translator eh for example.
+dtrs-11;03-iterations-on-workshop-design;Abby;Or Rose, because if it's the friend who's actually running the break out group, [then Rose could run the-]
+dtrs-11;03-iterations-on-workshop-design;Kenny;[Yeah 'cause I- 'cause I thought Rose] would run one group and the friend would run another group,
+dtrs-11;03-iterations-on-workshop-design;Nina;That's what I was-
+dtrs-11;03-iterations-on-workshop-design;Kenny;Because I think Amanda was not comfortable running a-
+dtrs-11;03-iterations-on-workshop-design;Nina;That's what she said.
+dtrs-11;03-iterations-on-workshop-design;Kenny;Or moderating a session, or a group.
+dtrs-11;03-iterations-on-workshop-design;Ewan;Yeah yeah, that is true.
+dtrs-11;03-iterations-on-workshop-design;Kenny;Yeah.
+dtrs-11;03-iterations-on-workshop-design;Nina;But she can still translate.
+dtrs-11;03-iterations-on-workshop-design;Ewan;[Translate somewhat, not s'- not s'- yeah].
+dtrs-11;03-iterations-on-workshop-design;Kenny;[She can still translate but I think she-] she cannot simultaneously translate, but she can kind of translate some of it on the go.
+dtrs-11;03-iterations-on-workshop-design;Ewan;I think it is- I think it's possible to run it like that.
+dtrs-11;03-iterations-on-workshop-design;Kenny;Yeah. But I agree, the optimal situation is to have two translators and I think we can go for it if we feel that that's essential.
+dtrs-11;03-iterations-on-workshop-design;Abby;And the optimal- even more optimal solution would be that they actually speak English. (laughs)
+dtrs-11;03-iterations-on-workshop-design;Ewan;Yeah.
+dtrs-11;03-iterations-on-workshop-design;Kenny;Also if possible, because we will start together, then we can hire the second translator only maybe for two hours, three hours, to save some money. So he or she doesn't take part of the full session. It's not a lot, but it's a little bit we save and eh
+dtrs-11;03-iterations-on-workshop-design;Ewan;Yeah a little bit here a little bit there.
+dtrs-11;03-iterations-on-workshop-design;Kenny;Yeah it all adds up.
+dtrs-11;03-iterations-on-workshop-design;Abby;Yeah it absolutely all adds up. I mean, just Tiffany and Hans now joining for two more days and I mean everything just eh
+dtrs-11;03-iterations-on-workshop-design;Kenny;Yeah yeah, everything adds up.
+dtrs-11;03-iterations-on-workshop-design;Abby;Adds up.
+dtrs-11;03-iterations-on-workshop-design;Kenny;Yeah. So it's eh- I feel uncomfortable adding more to the budget,
+dtrs-11;03-iterations-on-workshop-design;Ewan;[I agree].
+dtrs-11;03-iterations-on-workshop-design;Abby;[Yeah yeah, I totally agree].
+dtrs-11;03-iterations-on-workshop-design;Kenny;[So we should try to] keep it to a minimum.
+dtrs-11;03-iterations-on-workshop-design;Ewan;And of course you have yeah the- you have the dream, and you have the realistic part of it, and- but of course we should always push for the best scenario, eh but we are pretty dynamic in the- the way we're doing stuff, so now we're just exploring of course what's possible. What I wanted to say here is that, typically they have eh (.) they probably- I think I saw on the image they have different- then they have headphones behind here. And the headphones have probably channels on them, they can switch between channel one and channel two.
+dtrs-11;03-iterations-on-workshop-design;Kenny;Yeah but that's the thing that we need to figure out. If it does support something like that, or if they just have like one channel. So, but I think it's- for that group maybe it's fine just to cont'- continuously listen to one group. It's not necessarily important for them to hear both groups, I don't think so.
+dtrs-11;03-iterations-on-workshop-design;Ewan;I agree.
+dtrs-11;03-iterations-on-workshop-design;Abby;That would be really eh confusing I think. [Jump in and out. Absolutely].
+dtrs-11;03-iterations-on-workshop-design;Kenny;[And maybe it has more value to follow one session for a different flow].
+dtrs-11;03-iterations-on-workshop-design;Ewan;[It's not the type of ethnography] hardcore shit we're running here.
+dtrs-11;03-iterations-on-workshop-design;Abby;No. And also, like we talked about, that they also need to do (.)
+dtrs-11;03-iterations-on-workshop-design;Ewan;Their own thing.
+dtrs-11;03-iterations-on-workshop-design;Abby;Their own thing. So I think it's eh (.) yeah.
+dtrs-11;03-iterations-on-workshop-design;David;But isn't that a topic also to discuss with eh Leary?
+dtrs-11;03-iterations-on-workshop-design;Ewan;Dennis Leary? What they have been doing?
+dtrs-11;03-iterations-on-workshop-design;David;Yeah, like his experiences with it.
+dtrs-11;03-iterations-on-workshop-design;Ewan;Yeah, his experience, but I think he was running it in English.
+dtrs-11;03-iterations-on-workshop-design;David;Yeah?
+dtrs-11;03-iterations-on-workshop-design;Ewan;Because- but he was running it with people that was, eh was more internally in companies I think. It was co-creation, but with the people that-
+dtrs-11;03-iterations-on-workshop-design;David;But he might be able to confirm or de-confirm some of the worries.
+dtrs-11;03-iterations-on-workshop-design;Kenny;Yeah, that's true.
+dtrs-11;03-iterations-on-workshop-design;Ewan;Yeah, that's true. Let's have a listen to what he- and also what eh, yeah for sure I know that Maggie and eh [Emma, they ran it in English].
+dtrs-11;03-iterations-on-workshop-design;Kenny;[Emma they- they did it in English]. Yeah.
+dtrs-11;03-iterations-on-workshop-design;Ewan;But that's very- listen to their experience as well.
+dtrs-11;03-iterations-on-workshop-design;Abby;Mhm, exactly.
+dtrs-11;03-iterations-on-workshop-design;Ewan;Eh another thing is that okay, let's imagine we only get one translator, let's- and then we run this in English, let's imagine that is the scenario. When there is a share back session, which we will have, continuously, then of course there will be one speaking at a time, one group at a time, and then we will get the story, even though we would love of course to be part of the full flow for both groups. Eh we will be part of at least one group's flow. Eh and maybe only twenty percent here. We will understand a lot by observing, not to make it into something positive, but still, we could say okay, that is a constraint that we have. Now you participate on an observation level and what do you get out of that? And that could be cool as well, not that that is the optimal thing, but you know we could turn it into something like that as well.
+dtrs-11;03-iterations-on-workshop-design;Abby;Yeah. So we discussed also ehm, it's just to-, if we need the extra translator or not, we talked about if we're going to split out, ehm then (.) apparently Amanda is not comfortable with- by taking one group, so it has to be Rose taking one group, even though we actually talked about it wouldn't be optimal for the overall moderator to go into one group, because she has to kind of prepare the next eh thing.
+dtrs-11;03-iterations-on-workshop-design;Ewan;Yeah, she's got a whole [trunk containing the whole thing].
+dtrs-11;03-iterations-on-workshop-design;Abby;[Yeah, exactly]. Exactly.
+dtrs-11;03-iterations-on-workshop-design;Ewan;Eh, it depends a little bit on the group and the group dynamic. If we're unlucky you need that, if you're lucky or, if everything goes as planned, the groups are very self-organizy and will work out.
+dtrs-11;03-iterations-on-workshop-design;Kenny;I think we could convince Amanda to take a group but the question is do we want her to take a group, because [(.) the quality will be less, yeah].
+dtrs-11;03-iterations-on-workshop-design;Ewan;[Yeah but quality- quality (INAUDIBLE) to that].
+dtrs-11;03-iterations-on-workshop-design;Abby;[Yeah yeah because, if it's in- if it's in Chinese], then eh there will be problems.
+dtrs-11;03-iterations-on-workshop-design;Kenny;Yeah she is not able to communicate everything and she is not able to understand everything either.
+dtrs-11;03-iterations-on-workshop-design;Abby;But will she be able to translate? Because she- I guess, I mean a translator has translation skills, really know that-
+dtrs-11;03-iterations-on-workshop-design;Kenny;Exactly. I think she can translate the overall meaning, but she doesn't get all [everyone- so then, she can't translate eh yeah yeah, simultaneously either].
+dtrs-11;03-iterations-on-workshop-design;Nina;[That's what she said that day when we were talking to her, that simultaneous translating is not her thing].
+dtrs-11;03-iterations-on-workshop-design;Ewan;But it's like if we get a hundred percent here, forty percent there, it's still forty percent.
+dtrs-11;03-iterations-on-workshop-design;Kenny;Yeah, it's better than zero.
+dtrs-11;03-iterations-on-workshop-design;Ewan;It's still better, and then we include some of our intuition and observation abilities and stuff like that. And again, yeah we already know that this is a challenge and we- the sacrifice needs to be made and this is maybe one of them, eh
+dtrs-11;03-iterations-on-workshop-design;Abby;Yeah. So in one group for example it could be that it's ehm Rose's friend who's running it-
+dtrs-11;03-iterations-on-workshop-design;Ewan;What- what is his real- he has a name? (..)
+dtrs-11;03-iterations-on-workshop-design;Abby;So, Will and the translator in one group,
+dtrs-11;03-iterations-on-workshop-design;Ewan;In one group, for example this group, so. (..) Will and eh
+dtrs-11;03-iterations-on-workshop-design;Abby;And then Rose, moderator.
+dtrs-11;03-iterations-on-workshop-design;Ewan;And translator two, and then- What's Rose's last name? (..)
+dtrs-11;03-iterations-on-workshop-design;Abby;And then Amanda. Then Amanda is the translator in that group. For example.
+dtrs-11;03-iterations-on-workshop-design;Ewan;Yeah translator one is then-
+dtrs-11;03-iterations-on-workshop-design;Abby;Amanda.
+dtrs-11;03-iterations-on-workshop-design;Ewan;Amanda, what's her last name? (..)
+dtrs-11;03-iterations-on-workshop-design;Abby;And at the same time we also (.) want her to do more than just being the translator.
+dtrs-11;03-iterations-on-workshop-design;Ewan;Yeah she's kind of the CEO of the process.
+dtrs-11;03-iterations-on-workshop-design;Abby;Yeah exactly, so she shouldn't be one hundred percent occupied eh translating stuff.
+dtrs-11;03-iterations-on-workshop-design;Ewan;Mhm mhm. But then again, she should also be in both groups in theory then because- but then it's like- yeah. It is what it is. So we just need to use their strength for what they're good at, in the group that they have.
+dtrs-11;03-iterations-on-workshop-design;Abby;Absolutely.
+dtrs-11;03-iterations-on-workshop-design;Ewan;And there will be unbalanceness between them, we will just make sure that okay, they have the translatotion, but not Amanda to drive the process. They- we don't have the translation, but we have Amanda to drive the process. So it's kind of- both things have some- some things going for it and not going for it.
+dtrs-11;03-iterations-on-workshop-design;Abby;Yeah. Yeah but that's the thing, if we have Amanda to eh to really drive the process forward, then she will not be able to translate.
+dtrs-11;03-iterations-on-workshop-design;Kenny;No.
+dtrs-11;03-iterations-on-workshop-design;Abby;So she can't take both roles I would say.
+dtrs-11;03-iterations-on-workshop-design;Kenny;Mhm.
+dtrs-11;03-iterations-on-workshop-design;Ewan;Yeah, no. It depends a little bit- so, I can relate to it a little bit, 'cause one of the sessions you actually saw there today was in CANADIAN CITY, they were speaking french. Eh I didn't know- I don't know anything French. Eh but eh the moderator, the first moderator that was driving it, eh was explaining to me here and there what was going on, and I could ask- I could be the stupid guy asking, and it- kind of in a way supported eh the group, because they needed then to verbalize stuff and to explain among each other and. It wasn't- it was kind of positive in a- like, it wasn't optimal, but it just took another path. And it gave them- while he was translating to me, they had time, they spoke within themself and were pushing stuff forward. Ehm. So I'm just saying that it's not all (.) yeah, it's not like we're losing- we're losing something out here but we're gaining something in there, possibly.
+dtrs-11;03-iterations-on-workshop-design;Kenny;I think the loss is bigger than what we can gain from it.
+dtrs-11;03-iterations-on-workshop-design;Ewan;From having an extra-
+dtrs-11;03-iterations-on-workshop-design;Kenny;Yeah from having an extra translator.
+dtrs-11;03-iterations-on-workshop-design;Ewan;I agree. I agree a hundred percent. I'm just- I'm just trying to say that it's not-
+dtrs-11;03-iterations-on-workshop-design;Kenny;But if we are to have something good out of it, of course we can turn it and be vigilant about what we can gain from it, but eh I'm-
+dtrs-11;03-iterations-on-workshop-design;Ewan;Yeah I'm just trying to say it's not all loss. It is also-
+dtrs-11;03-iterations-on-workshop-design;Kenny;Yeah yeah, we can gain something, for sure.
+dtrs-11;03-iterations-on-workshop-design;Ewan;We gain another angle, but yeah, best case, two translators, no doubt. I completely agree. Ehm but, I think it's not like we have to be super sad about not having it, because I think other stuff will come out of it as well.
+dtrs-11;03-iterations-on-workshop-design;Kenny;But a little bit sad.
+dtrs-11;03-iterations-on-workshop-design;Ewan;But a little bit sad, yeah, just a feeling of sadness.
+dtrs-11;03-iterations-on-workshop-design;Kenny;Yeah, I had this- I had the interview with Amanda, with the- with the guy in OTHER COMPANY, and there she was moderating and translating for me too at the same time. And you can say it worked okay, but I got like maybe only like ten- twenty percent of what they were talking about.
+dtrs-11;03-iterations-on-workshop-design;Ewan;But she were moderating there, and we're not asking her to moderate this time around. She will have the role of eh fifty percent moderating- no sorry, fifty percent driving process, fifty percent of translation, 'cause we have our CEO or VC eh translate-
+dtrs-11;03-iterations-on-workshop-design;Kenny;Moderator.
+dtrs-11;03-iterations-on-workshop-design;Ewan;Yeah sorry, moderating. So her communicative load will be eh shifted.
+dtrs-11;03-iterations-on-workshop-design;Kenny;Mhm.
+dtrs-11;03-iterations-on-workshop-design;Abby;What did we write in the RFQ for her? Or even the one she is-
+dtrs-11;03-iterations-on-workshop-design;Ewan;The profile thing?
+dtrs-11;03-iterations-on-workshop-design;Abby;Yeah, exactly. Did we write co-
+dtrs-11;03-iterations-on-workshop-design;Kenny;Co-leading co-creation.
+dtrs-11;03-iterations-on-workshop-design;Abby;Yeah, and support, something like moderator support, or-
+dtrs-11;03-iterations-on-workshop-design;Ewan;We had that in there, but I don't know if that was in there in the very end.
+dtrs-11;03-iterations-on-workshop-design;Abby;Maybe we deleted it. Yeah.
+dtrs-11;03-iterations-on-workshop-design;Ewan;She can understand-
+dtrs-11;03-iterations-on-workshop-design;Abby;But it was more if she kind of feels that she has to (.) only the support role during the co-creation sessions, and then in the workshops afterwards, in the other days, she will be lead, co-lead, together with us. Ehm. Yeah, I can't remember, what we actually wrote there.
+dtrs-11;03-iterations-on-workshop-design;Ewan;Yeah. It's a challenge we need to solve. If we can get an extra translator, fantastic, if we can't then we need to run with what we have which I think is okay. I think it's a challenge, but I think it's okay. I think- don't think we have to (.) it's not crashing and burning. It's just a different setup we need to cater for. (..) That's my general-
+dtrs-11;03-iterations-on-workshop-design;Abby;Yeah, I think it's-
+dtrs-11;03-iterations-on-workshop-design;Ewan;Also because we have no other options so it's not like we can cancel the thing. (laughter)
+dtrs-11;03-iterations-on-workshop-design;Kenny;Cancel.
+dtrs-11;03-iterations-on-workshop-design;Ewan;"""It's over, go home"". (laughter)"
+dtrs-11;03-iterations-on-workshop-design;Abby;But I mean there's hundreds of different configurations here, it could be that we don't split out and it's only the respondents together with eh Amanda, Will eh whatever his name is. (laughs)
+dtrs-11;03-iterations-on-workshop-design;Kenny;Will. I just checked. (laughs)
+dtrs-11;03-iterations-on-workshop-design;Abby;Will. (..) So it could be that they're the only one in there, with one translator and then we're all outside, not taking part of everything, yeah and I don't think that's the optimal either at all, because-
+dtrs-11;03-iterations-on-workshop-design;Ewan;"When I did that thing in CANADIAN CITY I didn't understand much, but eh still, I got a lot out of it. It wasn't a problem. And we had the debrief session, an analysis with the moderator and everything so it wasn't like I felt I lost anything, eh. It worked- it worked fine. Eh you can say I also had sessions in English, I was on- I was on board in one hundred percent, eh but, yeah. So it was a little different, but it wasn't- it wasn't like I felt like ""oh, this was a waste of time, I shouldn't even have been there""."
+dtrs-11;03-iterations-on-workshop-design;Abby;"Yeah. I just would hate for the following sessions eh, for the workshops, that it's- because we have only been hearing fractions here and there, that it's Amanda and eh Rose and Will who is (.) who can say ""oh yeah, but this guy also said this, oh yeah and this guy said this"" and we're sitting there, ""okay. We- yeah they spoke Chinese, we have no idea what they actually said""."
+dtrs-11;03-iterations-on-workshop-design;Ewan;Yeah, we have a translator here, for sure.
+dtrs-11;03-iterations-on-workshop-design;Abby;Yeah yeah.
+dtrs-11;03-iterations-on-workshop-design;Ewan;And we can even be- do a swap- swap them between there, so, it will work. So, in any case, we do have hundred percent here and maybe, let's say we can go at lowest twenty percent here, and the translation there.
+dtrs-11;03-iterations-on-workshop-design;Kenny;I think actually (.) this is the whole essence of why we're going. I think we should just go for another translator. Honestly.
+dtrs-11;03-iterations-on-workshop-design;David;Exactly, yeah yeah.
+dtrs-11;03-iterations-on-workshop-design;Ewan;Mhm?
+dtrs-11;03-iterations-on-workshop-design;David;It's really a-
+dtrs-11;03-iterations-on-workshop-design;Kenny;Yeah, and it's- I think, we can hire him or her for just three hours and then the other one for five hours. And then eh.
+dtrs-11;03-iterations-on-workshop-design;Abby;Yeah, I agree. [I think it will be totally a shame afterwards, we'll just not really know what we, yeah].
+dtrs-11;03-iterations-on-workshop-design;Kenny;[Then we get the full- yeah. Yeah, I think we- we really need to optimize the- the output of] especially this, so I think eh-
+dtrs-11;03-iterations-on-workshop-design;Nina;(INAUDIBLE)
+dtrs-11;03-iterations-on-workshop-design;Kenny;Yeah.
+dtrs-11;03-iterations-on-workshop-design;Ewan;I think- yeah it's just like, this is it. This is it. (laughs)
+dtrs-11;03-iterations-on-workshop-design;Kenny;Yeah, this is it. We're waste- we're not wasting- I would feel like we're almost wasting two point five million, if we're missing some value in this one.
+dtrs-11;03-iterations-on-workshop-design;Ewan;Yeah, agree.
+dtrs-11;03-iterations-on-workshop-design;David;Totally.
+dtrs-11;03-iterations-on-workshop-design;Ewan;If it's- if we have the money, if we prioritize it- if we can prioritize like that, yes this is something to prioritize.
+dtrs-11;03-iterations-on-workshop-design;Kenny;I think we can (.) we can squeeze it in. [I mean, the budget is-]
+dtrs-11;03-iterations-on-workshop-design;Abby;[Yeah].
+dtrs-11;03-iterations-on-workshop-design;Ewan;[Let's run the- let's] run the numbers again.
+dtrs-11;03-iterations-on-workshop-design;David;Can't afford not to.
+dtrs-11;03-iterations-on-workshop-design;Kenny;Yeah, I think we should not (.) we should just not put it in anywhere. We should just do it.
+dtrs-11;03-iterations-on-workshop-design;Ewan;(Off task) (..) But then eh that becomes a task, right now, I'm writing in as a task. (Off task) (..) It's not crazy, but again, money stacks.
+dtrs-11;03-iterations-on-workshop-design;Kenny;Money stacks, yeah.   (..) (Off task. The design team talks shortly about practical details for booking the extra translator) (..)
+dtrs-11;03-iterations-on-workshop-design;Abby;Yeah, and that's also- no it doesn't actually, then Rose will still be- she still have to run one of the groups, because Amanda will not do it. So Amanda will actually just be a- just a member, of one group.
+dtrs-11;03-iterations-on-workshop-design;Kenny;Yeah, a member. She can of course support.
+dtrs-11;03-iterations-on-workshop-design;Ewan;She will support, but then of course her role will be, she will have much broader understanding than we have, eh directly from the people, so when we come to analysis and concepting, that's where she should shine. This is why we pay her the big bucks.
+dtrs-11;03-iterations-on-workshop-design;Abby;Mhm, I agree.
+dtrs-11;03-iterations-on-workshop-design;Ewan;(..) Ehm yeah. And that means her communicative load is pure- eh purely driving concept and-
+dtrs-11;03-iterations-on-workshop-design;Abby;Exactly that, she doesn't have to think about us understanding anything, [I think it's eh-]
+dtrs-11;03-iterations-on-workshop-design;Ewan;[I'm pretty sure she will translate] a word or two here and there and make sure we're in the loop, but you know that is not her main task. Or anyways not-
+dtrs-11;03-iterations-on-workshop-design;Abby;Yeah, and if there's actually a translator doing that, then she shouldn't even do it.
+dtrs-11;03-iterations-on-workshop-design;Ewan;No no no. But it can happen that, you know, she does because we have the conversation, but of course- and I expect that to happen. Eh so extra trans'- eh three hours times two. Eh
+dtrs-11;03-iterations-on-workshop-design;Abby;"And it is just these small things. ""An extra translator, an extra few days"" eh extra extra extra."

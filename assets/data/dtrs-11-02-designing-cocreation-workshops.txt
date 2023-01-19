@@ -1,0 +1,152 @@
+dataset;session;speaker;utterance
+dtrs-11;02-designing-cocreation-workshops;Ewan;We're gonna have a- as of right now we can hopefully start a more eh creative part of eh, of phase two, which of course will include lots of different things, but the first thing we can have a look at is the co-creation. And eh the video in the back of this is actually eh a video I made many years ago before a co-creation session, creating a co-creation tool, eh that we used in one of the sessions I was running, to have like you know, to kind of role play stuff using eh stuff like this. And this is kind of the playful approach I feel we should have, but then again that's up to us what- which direction we choose.
+dtrs-11;02-designing-cocreation-workshops;Kenny;Is this on purpose? That you put [it like this?]
+dtrs-11;02-designing-cocreation-workshops;Ewan;[That is a hundred percent] on purpose, and that old guy coming of the-
+dtrs-11;02-designing-cocreation-workshops;Kenny;Yeah (laughs)
+dtrs-11;02-designing-cocreation-workshops;Ewan;Eh but there is so many different approaches, and some are super effective one place, but not effective another place and so on, so. So the purpose of this meeting, which maybe will take an hour, two hours, let's see how long we have steam for, and it's basically to crack open the area, just co-creation in general and then maybe calibrate our expectations, and by that I mean maybe we can go one by one and just spend half a minute to talk about what we think it should be.
+dtrs-11;02-designing-cocreation-workshops;Kenny;Mhm.
+dtrs-11;02-designing-cocreation-workshops;Ewan;Then maybe get a little inspiration, so a share back session and I brought some of the stuff I had from before and maybe you have some experience from before that you wanna share, maybe you didn't prepare anything but maybe eh, no, but maybe you have something that you wanna speak about, in regards to it. And then, maybe start to shape our sessions a little bit. Write some post-its, you know, what's gonna happen and- and then, maybe we will get an initial understanding of what and how and when and stuff like that, so we can (.) plan for the next steps. So, the first thing I wanted to do (.) ah, that's the second I wanted to do, the first thing I wanted to do was to maybe, if we can do a round table, where we talk about our expectations for the co-creation session? We can start with you, Kenny?
+dtrs-11;02-designing-cocreation-workshops;Kenny;Yeah. I expect that we are going to create something together. (laughs)
+dtrs-11;02-designing-cocreation-workshops;Ewan;Yeah, okay. That's great, yeah, that's very nice.
+dtrs-11;02-designing-cocreation-workshops;Kenny;No, I- I think eh, of course my- I'm thi'- what I'm thinking is that I really want to have something physical, but I think I also realize that, in order to have it physical, then it becomes more complex and harder to work with, and if you want to be fast and do some iterations really quickly with the users, while you're in the same room, then it has to be as simple as possible, but still on of course on a material level or on a fidelity level, which is high enough for them to- to focus on what it actually is rather than what they see, like, piece of paper or something, but focus on the concept instead.
+dtrs-11;02-designing-cocreation-workshops;Ewan;Yeah, yeah.
+dtrs-11;02-designing-cocreation-workshops;Kenny;I think that balance might be quite hard to- to slide actually. Ehm of course really depending on the people that you work with. I guess that you need to somehow calibrate the users before you can calibrate the method.
+dtrs-11;02-designing-cocreation-workshops;Ewan;Yeah, yeah.
+dtrs-11;02-designing-cocreation-workshops;Kenny;And I guess that that's maybe gonna be the hardest part, because I think we're gonna do some really good eh preparations here, but in the end, when we're sitting there with the people, then we really need to calibrate it against them, and I feel that's where- where at least I really don't have any experience, what- what do you do in that situation. It's so easy for you to slip in the wrong direction or think that they think something or know something that they really doesn't or, maybe they can't abstract away from what they see in the paper or in the label or whatever. So how do you come over that bump, and make them see the content rather than the paper.
+dtrs-11;02-designing-cocreation-workshops;Ewan;Yeah, very good. Okay yeah, cool. So, to sum that up, definitely going physical eh
+dtrs-11;02-designing-cocreation-workshops;Kenny;Mhm, yeah.
+dtrs-11;02-designing-cocreation-workshops;Ewan;Yeah, and definitely, you know, get a group of people that is ready to open up.
+dtrs-11;02-designing-cocreation-workshops;Kenny;Mhm.
+dtrs-11;02-designing-cocreation-workshops;Abby;Mhm.
+dtrs-11;02-designing-cocreation-workshops;Ewan;And embrace it and I think it's- it's very correct what you said around this, you know we need to create these tools and this session to match with the people we get in, but it's really difficult to know what people we get in.
+dtrs-11;02-designing-cocreation-workshops;Abby;Yeah.
+dtrs-11;02-designing-cocreation-workshops;Kenny;Yeah.
+dtrs-11;02-designing-cocreation-workshops;Ewan;So that is maybe putting more strain on us and the tools because they need to be super broad, and then we need to go super narrow, depending on the people kind of on the fly, for that.
+dtrs-11;02-designing-cocreation-workshops;Abby;But also on the screener, beforehand.
+dtrs-11;02-designing-cocreation-workshops;Ewan;On the screener, yeah.
+dtrs-11;02-designing-cocreation-workshops;Abby;So we really need to work on that as well.
+dtrs-11;02-designing-cocreation-workshops;Kenny;So maybe my other, not necessarily conclusion, but maybe at least one of- what I'm thinking is that we need to make it as flexible as possible.
+dtrs-11;02-designing-cocreation-workshops;Ewan;Yeah, yeah, very good.
+dtrs-11;02-designing-cocreation-workshops;Abby;Mhm.
+dtrs-11;02-designing-cocreation-workshops;Kenny;Both the fidelity level, but also how we use the tool'- the methods, as flexible as possible.
+dtrs-11;02-designing-cocreation-workshops;Ewan;Very good. Eh you Nina? Do you- what's your expectations around co-creation, the sessions, of course we- I know that you have [a different background, but then again, you s'- probably have some sort of expectation on some sort of level].
+dtrs-11;02-designing-cocreation-workshops;Nina;[Yeah I've never done this, yeah. Yes], yes of course, so ah yeah, I expect it to be like physicals like something we are going to be using with the- with the people, so we can get the information we need, but not in the direct way, like we cannot be asking them, like what do you want and stuff like that, so, yeah we need to really make them to play the role, and understand, but as Kenny said like it cannot be- it's not gonna be in the exact situation like it's not gonna be in the car or like whatever we gonna have the setup, but it's gonna be on the like a higher mental level kind of thing, that they really need to feel the position so that's gonna be, as Kenny said, the hard part.
+dtrs-11;02-designing-cocreation-workshops;Ewan;Yeah?
+dtrs-11;02-designing-cocreation-workshops;Nina;So that would- yeah, I think it's gonna be very interesting to see how that we can match that, together.
+dtrs-11;02-designing-cocreation-workshops;Ewan;Yeah, mhm. Have you been close to this in any way in- before in your-
+dtrs-11;02-designing-cocreation-workshops;Nina;Hm no, no. No.
+dtrs-11;02-designing-cocreation-workshops;Ewan;Have you- but you have probably been sitting with friends, and talking about stuff. (laughter)
+dtrs-11;02-designing-cocreation-workshops;Nina;But in- more in like- (laughter)
+dtrs-11;02-designing-cocreation-workshops;Kenny;No, we never talk (laughter)
+dtrs-11;02-designing-cocreation-workshops;Nina;No, yeah I mean, we talk about stuff, but not maybe in this ehm purpose, in this purpose way.
+dtrs-11;02-designing-cocreation-workshops;Ewan;"It's interesting because it's- for me in many ways like, oh this is kind of like just hanging out with your friends and you decide on do stuff and you dream with your friends, ""ah let's go to London, let's go to-"" and then you ""ah, we're gonna do this and this"","
+dtrs-11;02-designing-cocreation-workshops;Kenny;Yeah, that's true.
+dtrs-11;02-designing-cocreation-workshops;Ewan;So in many ways, if you use that analogy, it's easy. But the problem is that this is completely eh structured, and it's new people, we don't know them, now we don't even know the language and stuff like that.
+dtrs-11;02-designing-cocreation-workshops;Abby;And you're setting the scene, I think-
+dtrs-11;02-designing-cocreation-workshops;Ewan;"And we're setting the scene, it's very artificial, super artificial. And stuff that you're not necessarily super interested in, it becomes very- but, then again, I think that is my analogy very often, to say ""okay. Imagine these people are your friends, and you're doing something awesome together""."
+dtrs-11;02-designing-cocreation-workshops;Kenny;That's a really good analogy actually.
+dtrs-11;02-designing-cocreation-workshops;Ewan;Yeah and it's that- that's what we want to make people feel like, at least in the end.
+dtrs-11;02-designing-cocreation-workshops;Kenny;Cause that's like, what I do every weekend with my friends.
+dtrs-11;02-designing-cocreation-workshops;Ewan;Yeah!
+dtrs-11;02-designing-cocreation-workshops;Kenny;"Just sitting there, imagining ""what can we do with a car?"""
+dtrs-11;02-designing-cocreation-workshops;Ewan;Yeah yeah, for example, for example (laughter). Eh, Abby, what's your expectations?
+dtrs-11;02-designing-cocreation-workshops;Abby;I mean, of course they're similar to what has been said already,
+dtrs-11;02-designing-cocreation-workshops;Ewan;Yeah yeah, for sure.
+dtrs-11;02-designing-cocreation-workshops;Abby;"But eh I think also the fact that it's all these diff'- I mean, if it was only about concepting, on a product or service, it would be so much easier. But we have the different layers that we just really need to remember to focus almost equally on. Eh so the sales channels and the communication as well, and to make sure that, it's not one group that split out and talk about the product and another group about the communication, it- everything needs to be eh, everyone needs to be involved to actually give input on all the layers there. So I think that's eh going to be a challenge, but also eh I'm looking forward to it and see how we can actually make sure that we get the input we need on these different layers. Eh, and also, how we- I mean on a- a product or service is so tangible, it's something you need, but (.) will the users or respondents even be able to give input on the way that we should communicate to them? I mean because it's so abstract. ""Yeah, I like ehm, I don't know, I'm kind of an emotional person so,"""
+dtrs-11;02-designing-cocreation-workshops;Ewan;Yeah, how can you make it real, [not only- not only project. Yeah, so how to change it real].
+dtrs-11;02-designing-cocreation-workshops;Abby;[Yeah, exactly. Exactly. Ehm so I think the- the communication] is going to be really really interesting to- to see what kind of input we get, for the- what stories will actually,
+dtrs-11;02-designing-cocreation-workshops;Ewan;Emerge.
+dtrs-11;02-designing-cocreation-workshops;Nina;Impact.
+dtrs-11;02-designing-cocreation-workshops;Abby;Impact them and- and kind of eh set their emotions on fire ehm.
+dtrs-11;02-designing-cocreation-workshops;Ewan;"It's interesting because yeah, you want them to dream, but then you want to have tools in place that pull them down, and say ""okay, now you said this, but how can you- how do you imagine that happening?"""
+dtrs-11;02-designing-cocreation-workshops;Abby;Exactly and also all the emotions should be set on fire or whatever you say. When they're actually in this situation afterwards, in a couple of years when all of this is out in the market, then they should-
+dtrs-11;02-designing-cocreation-workshops;Ewan;Feel that.
+dtrs-11;02-designing-cocreation-workshops;Abby;"Get totally emotional when they see it and really understand, ""oh this THE COMPANY product is totally talking to me, I need to buy it, even though it's expensive and everything, I need- it's what I want to show off""."
+dtrs-11;02-designing-cocreation-workshops;Ewan;True yeah, to link their reality with what they will say in these ten hours.
+dtrs-11;02-designing-cocreation-workshops;Abby;Exactly. And then also I think (.) because for me it's not about talking to my friends. I mean it's eh- it's what we want them to feel, definitely, but we have all the constraints that we're going to put on the table all the time, and that's kind of what differs the normal conversation.
+dtrs-11;02-designing-cocreation-workshops;Ewan;Yeah, I agree.
+dtrs-11;02-designing-cocreation-workshops;Abby;[Yeah yeah, I know that you don't think ehm-]
+dtrs-11;02-designing-cocreation-workshops;Ewan;"[The analogy works, but it only- it's like], you know, when you talk to your friends typically it's ""oh I can't do it that weekend"" or ""I don't have the money for that"" so you have constraints there as well, but it is- it's not one to one for sure."
+dtrs-11;02-designing-cocreation-workshops;Abby;Yeah, exactly.
+dtrs-11;02-designing-cocreation-workshops;Ewan;Eh are you invisible in this room, or can we talk to you?  I- I'm totally invisible. No, definitely. Eh I'm pretty numb now. I don't know what to say.
+dtrs-11;02-designing-cocreation-workshops;Ewan;Yeah it's a little bit difficult to be the last one.  Yeah, exactly. Ehm. I don't know if this is an expectation or so, but- or if you've already talked about it in terms of the mediums you're gonna use, [for the prototyping?]
+dtrs-11;02-designing-cocreation-workshops;Ewan;[That doesn't matter, just- yeah, just-]  Eh you mentioned LEGO for an example, and I just know- I've tried eh LEGO-prototyping before,
+dtrs-11;02-designing-cocreation-workshops;Ewan;Mhm?  Where it was much of a game and fun, like it's supposed to be, but it also became too fun, and too LEGO, and not about the prototype actual building. So we really need to seriously consider the format and the mediums used.
+dtrs-11;02-designing-cocreation-workshops;Ewan;And also the constraints and the facilitation of it, you know?  Yeah. And eh that said, also eh, now that you've already got a screener obviously, but really be aware of the- who might have characteristics that would be suitable for helping a lot in parts of the- actually co-creating the prototype.
+dtrs-11;02-designing-cocreation-workshops;Abby;Mhm.
+dtrs-11;02-designing-cocreation-workshops;Ewan;For sure.  Eh because, not everybody does that. I've a, yeah, tried some really simple things with a psychologist and pedagogs. They were really not capable of it, so it's really- it's really-
+dtrs-11;02-designing-cocreation-workshops;Ewan;Know your audience.  Yeah.
+dtrs-11;02-designing-cocreation-workshops;Abby;Yeah. Absolutely.
+dtrs-11;02-designing-cocreation-workshops;Kenny;That's interesting actually, adding the- the tools that you use as part of the screener, to- to screen even more specific.
+dtrs-11;02-designing-cocreation-workshops;Abby;Yeah.
+dtrs-11;02-designing-cocreation-workshops;Kenny;But, of course we can't do that, but it's an interesting thought.  No, but you can- yeah yeah yeah kind of eh-
+dtrs-11;02-designing-cocreation-workshops;Abby;"[And that's what I mean-]  [Think of-] think of the, yeah, professions- did you? Because eh, pedagogs, they were pretty handy with the papers and scissors, eh but, as soon as it came to LEGO they just ""wow"", they didn't knew how to do this."
+dtrs-11;02-designing-cocreation-workshops;Abby;"Yeah. And I think it's absolutely something that we need to take into considerations about all the tools that we're going to use, that it's, I mean. We would know what to do with it because we- this is kind of what we work with and we are not kind of afraid of new challenges and stuff like this, but, exactly what you're saying, if it's someone that has a profession where they are, for example (.) I mean, never think like this. ""I don't know- what should I build? A- what, in LEGO?! Should I build my idea in LEGO? I couldn't- I can't do that, it's eh, it's way too hard for me"" ehm, so that's definitely something we should think about. And also when we bring all these tools in, because we have the first session with the seven people and then they will actually come again in the second session, the same people, plus two extra.  Yeah yeah."
+dtrs-11;02-designing-cocreation-workshops;Abby;So also, is it actually,
+dtrs-11;02-designing-cocreation-workshops;Ewan;How do we [ramp it up?]
+dtrs-11;02-designing-cocreation-workshops;Abby;[Prototyping] first time around, or is it more loose talk and then maybe a couple of these eh exercises and then on the second one it's more about building something.
+dtrs-11;02-designing-cocreation-workshops;Kenny;Yeah how do you prototype communication and marketing?
+dtrs-11;02-designing-cocreation-workshops;Abby;Yeah exactly, exactly.  Exactly.
+dtrs-11;02-designing-cocreation-workshops;Abby;Because it is kind of the abstract thing that you can't-
+dtrs-11;02-designing-cocreation-workshops;Ewan;Yeah.
+dtrs-11;02-designing-cocreation-workshops;Kenny;It's- at least not physically, then we'll have a role play or, I don't know.
+dtrs-11;02-designing-cocreation-workshops;Ewan;Yeah. It's true.
+dtrs-11;02-designing-cocreation-workshops;Abby;"Or maybe you can- by selecting ""oh, but the communication is blue"", for example, ""choose a colour. It's eh"", I mean, there's all kinds of eh-"
+dtrs-11;02-designing-cocreation-workshops;Kenny;"Yeah yeah, ""what animal do you think this part is?"""
+dtrs-11;02-designing-cocreation-workshops;Abby;Yeah, exactly (laughter)
+dtrs-11;02-designing-cocreation-workshops;Ewan;Very good. That's very nice expectations and I think you are- we're touching up on all the stuff that is cool, but all this enormous amount of stuff that is difficult as well.
+dtrs-11;02-designing-cocreation-workshops;Abby;Absolutely.
+dtrs-11;02-designing-cocreation-workshops;Ewan;"And I, you know, what you talked about right now, Abby, around how do you introduce the tools? What level- like how can you make them- maybe something is difficult. If they get like just ""here's some LEGO, build something"" it's really difficult, but if you slowly kind of trick them in to it, then suddenly they're building without even knowing. And of course this is, you know, how- and we on'- we have a limited amount of time, we have those five hours, how we spend those five hours."
+dtrs-11;02-designing-cocreation-workshops;Abby;And we don't want to force, I mean, [LEGO into it for example] or anything I- we just really need to-
+dtrs-11;02-designing-cocreation-workshops;Ewan;[We don't wanna force it, and we can't- no no no]. And this is connected to what you said Kenny, it's depending on which people we get in, and we can control it somewhat, but then again it's really difficult to filter it, because we don't have time for what is, you know, if we do luxury co-creation we can screen- then we have a screening session with them or something, we can't do that.
+dtrs-11;02-designing-cocreation-workshops;Abby;They come directly [from the streets, I mean].
+dtrs-11;02-designing-cocreation-workshops;Ewan;[They come directly, what you have] is what you get, it's like, this is what we- I got on the market, now cook a dinner. Eh yeah. So. Eh I have done semi-amounts of co-creation, only one, one and a half time in Asia, in Japan, which is still different and it was with people eh I knew fairly well, so I don't think- it's not a really good analogy, but I've done a lot in the US. A little bit in Europe, but a lot in the US, and the US is maybe the simplest place to do co-creation 'cause everyone is very very open and some of that, but it has- it typically goes in the other ditch, as you talked about, I don't know who talked about it, but they become too creative and too- yeah, you said it, too much fun. It disconnects from reality, becomes a fantasy world completely and it was difficult to pull them back into reality. So I-  That also said- because it made me think when Abby said about the conversation, and when they- when somebody says it's emotional or whatever, really needs to make sure that you- you question again what does emotion mean for you,
+dtrs-11;02-designing-cocreation-workshops;Abby;Absolutely.  Because it's- like, we're talking very different languages both physically and mentally, so.
+dtrs-11;02-designing-cocreation-workshops;Abby;"Absolutely. And this eh puts a big pressure on the moderator, because, I mean, it is not an interview one to one, so it's- there will be seven respondents at the table, and if Rose or whoever is moderating, she really needs to dig in to all these eh [emotions for example, ""okay, oh, so what do you mean?""]  [Yeah exactly, like al'- always trying- yeah, exactly]."
+dtrs-11;02-designing-cocreation-workshops;Abby;And then all the other ones just need to sit and wait, and it is kind of eh-
+dtrs-11;02-designing-cocreation-workshops;Ewan;Yeah, I think- yes. Yeah, that could happen. We- and for [sure we will totally have it in the beginning],
+dtrs-11;02-designing-cocreation-workshops;Abby;[Unless we of course split out and everything, because-]
+dtrs-11;02-designing-cocreation-workshops;Ewan;Yeah, you can say, they will maybe wait, but it will be- as we are doing now, we are building something together as right now, and even though you're not talking it's not like you're waiting, it's- you are just taking part of it and sometimes you're active and sometimes you're passive, but we are all pulling in the same direction. And that is the feeling we would like to have.
+dtrs-11;02-designing-cocreation-workshops;Abby;"Absolutely. That is- it is just- I mean, when they are seven people-, I mean now we feel like we- everyone of us own this. The seven people that comes in to that room, all the respondents, will maybe just kind of sit there and think ""okay, so. Maybe I'll get a question soon, or maybe I need to do something""."
+dtrs-11;02-designing-cocreation-workshops;Ewan;In the beginning it will be like that for sure.
+dtrs-11;02-designing-cocreation-workshops;Abby;Absolutely.
+dtrs-11;02-designing-cocreation-workshops;Ewan;This is of course the first task.
+dtrs-11;02-designing-cocreation-workshops;Abby;Yeah exactly. [That we need to get the-]
+dtrs-11;02-designing-cocreation-workshops;Nina;[Bond them together, yeah].
+dtrs-11;02-designing-cocreation-workshops;Kenny;[Open up everybody].
+dtrs-11;02-designing-cocreation-workshops;Ewan;[The first exercise is about to get it- yeah]. Open up, warm up exercises, literally like going [to the gym together].
+dtrs-11;02-designing-cocreation-workshops;Nina;[You need to connect].
+dtrs-11;02-designing-cocreation-workshops;Ewan;It's a muscle. You need to flex it and it's warm, and of course that is our first step into it. And I typically see it as a pyramid. I didn't bring that here, but it's with three steps, and the first eh part of the pyramid is literally willingnes to participate. We need to make sure people have a willingness to participate. If they don't, they shouldn't be there. And then, number two is of course a willingness to co-create, so they are- they want to create, they wanna- they wanna participate, but they also want to push something forward. And the last one, the most luxury one, is that- their ability to communicate.
+dtrs-11;02-designing-cocreation-workshops;Abby;Yeah, exactly. What they're actually able to do.
+dtrs-11;02-designing-cocreation-workshops;Ewan;They're actually able to do.
+dtrs-11;02-designing-cocreation-workshops;Kenny;Yeah. And I think we have a constraint because we cannot really replace people.
+dtrs-11;02-designing-cocreation-workshops;Abby;Yeah.
+dtrs-11;02-designing-cocreation-workshops;Kenny;Because we don't have a filtering session first.
+dtrs-11;02-designing-cocreation-workshops;Ewan;It's true.
+dtrs-11;02-designing-cocreation-workshops;Kenny;So- so, if they're not really eh willing or able, to participate actively, then- then maybe we need to prepare some way that we can- not necessarily force them, but in a way encourage them trying to participate or allow them to participate on their premises or their terms, maybe.
+dtrs-11;02-designing-cocreation-workshops;Ewan;Yeah. And most people will eventually do it, it's just how many hours will it take.
+dtrs-11;02-designing-cocreation-workshops;Abby;Yeah, and also, I mean last time around, there was some, maybe just one, but, he didn't- almost didn't even know he was going to have this interview because his wife was- eh had signed him up for it.
+dtrs-11;02-designing-cocreation-workshops;Kenny;Wow (laughs)
+dtrs-11;02-designing-cocreation-workshops;Abby;So if-, I mean we really need to make sure this will not happen because, if [it's someone wife- exactly].
+dtrs-11;02-designing-cocreation-workshops;Kenny;[Yeah yeah. They need to know the purpose before they come].
+dtrs-11;02-designing-cocreation-workshops;Ewan;And that comes definitely- we can do it as much as we can in the screener, but eh we also have to rely on some luck and some really good tools, and eh-  Are you- are you going to prime them or are you allowed to prime them? Or what can-
+dtrs-11;02-designing-cocreation-workshops;Ewan;We're allowed to do whatever we want  Okay.
+dtrs-11;02-designing-cocreation-workshops;Ewan;Within certain boundaries, but-  No no.
+dtrs-11;02-designing-cocreation-workshops;Ewan;So, we will prime them, yeah. They will know it's a creative session, they will know that and so on and we- we need to put that into the screener, the reactions around that and so on and so on.  Yeah.
+dtrs-11;02-designing-cocreation-workshops;Kenny;But maybe we need to be a little bit more spe'- clear with it, because last time we also thought that everybody was primed and knew what [they were going into. And apparently they- yeah].
+dtrs-11;02-designing-cocreation-workshops;Abby;[Exactly. And that's also what was my point], that- exactly that. It's no good that someone just- someone's wife signed then up- them up and, I mean, we really need to make sure that Rose or whoever is doing the recruitment is talking to the [persons who is actually coming].
+dtrs-11;02-designing-cocreation-workshops;Kenny;[To- to the actual person who is going, yeah].
+dtrs-11;02-designing-cocreation-workshops;Ewan;So, this is of course also why we over-recruit, eh because we will always, most always have someone that will fall out of it, in some way or another. Either they will be there physically, but they will- as you said they weren't prepared or something, and we- this time around we have a very little over-recruit, only one person over-recruited, eh. And, the main challenge I think, always with co-creation is ehm, you know when you go in to the interviews it's one one one one, you can control the situation pretty well, but here we are- you have seven people in a room. If they don't play well together it's really really difficult- it's like hurting- hurting cats.
+dtrs-11;02-designing-cocreation-workshops;Nina;Sometimes- I was in the focus group when I was actually the respondent and it's like- because we don't know each other, like the group, they are- like it's hard to open. Like, you don't wanna say or you repeat what other people say just in a different words, so you don't really wanna express yourself.
+dtrs-11;02-designing-cocreation-workshops;Kenny;Yeah.
+dtrs-11;02-designing-cocreation-workshops;Ewan;And it's- yeah.
+dtrs-11;02-designing-cocreation-workshops;Nina;We need to be open for- about that too, so they- so we don't get the homogenous opinion just because one or two person said that.
+dtrs-11;02-designing-cocreation-workshops;Ewan;"Are driving it forward yeah, and the other ones are just ""yeah yeah yeah"", confirming. Alright, okay, so now we talked a little bit about expectations and I think eh we're pretty much aligned when it comes to both the joy of it, but also the challenges, for sure there are challenges."
+dtrs-11;02-designing-cocreation-workshops;Abby;"Yeah, and just a comment to what you said, I mean, when it is China it's even more eh (.) something that we really need to consider, if- if they're going to present themself with a title and everything, and someone is thinking ""oh wow, he is eh totally [higher up in society, I don't want to eh-""]"
+dtrs-11;02-designing-cocreation-workshops;Nina;[Yeah, totally higher up].
+dtrs-11;02-designing-cocreation-workshops;Ewan;"[Yeah ""it's a- good name, I need to] behave in a special [way"" and so on]."
+dtrs-11;02-designing-cocreation-workshops;Abby;[Exactly], and make myself noticed maybe, maybe I'll actually act something up because I want to impress him, or maybe
+dtrs-11;02-designing-cocreation-workshops;Nina;[Maybe they should meet and introduce on that level, just-]
+dtrs-11;02-designing-cocreation-workshops;Kenny;[Yeah that's true. Maybe we need to have some play-] playing rules?
+dtrs-11;02-designing-cocreation-workshops;Abby;Yeah, exactly.
+dtrs-11;02-designing-cocreation-workshops;Ewan;And the point is that we need to make them forget all about this. And in the beginning it will be like that, but we are aware, and the awareness makes us strong and makes us design tools and exercises and the first half an hour is typically only spent on getting people to relax and trust each other and then so on. Eh even though they- it might seem for them that we already started on the co-creation part, and we kind of are but we're warming up, we're getting people on board.

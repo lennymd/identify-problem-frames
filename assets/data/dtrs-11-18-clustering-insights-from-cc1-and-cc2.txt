@@ -1,0 +1,525 @@
+dataset;session;speaker;utterance
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;What was that?
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;Eh that was that in China, you can never separate that like you as an individual
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;Mhm.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;Eh it is you, and it is the ten thousand.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;(Wipes out parts of center magic chart and starts writing on it)
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;I think the nice thing about that is it somehow reflects the way the Chinese- or Asian people in general are thinking that they're not just that person. Everything that you do is always based on all of the people around you. And I think these videos that always refer to the documentary about East and West, they're trying to explain that thing about how they think of themselves in relation to other people, which is just fundamentally different from Western people.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;Mhm.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;And I think these one plus ten thousand is actually, some way (.) reflecting that.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;I agree, and I think we can really be inspired by the Adidas eh approach.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;It was super, super good.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;Yeah.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;I really thought that- they really caught (.) some of the ways that- that- that Asian people are thinking. [Genious].
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;[And again] very close to THE COMPANY values in many ways.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;Mhm. Yeah.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;Even though that we have seen a push towards the more kind of Nike, like you overwinning nature with your THE COMPANY BRAND, alone.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;And plus, I think they caught some of the things that are generic across China and across Asia so they were not just (.) pointing or addressing the people of CHINESE CITY or CHINESE CITY or CHINESE CITY but actually ca- catching some of the things that are generic, in the entire China- which I think is quite hard. Because it is like basically ten different countries.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;Yeah, yeah. (.) Wh- what are you referring to now? The
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;[Nike].
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;[The mindset] of how they relate themself in- in the or, to other people, how they see themself in relation to other people around them, [society, and the-].
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;[And the one plus ten thousand. Did- you are referring] to Adidas?
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;Yes, Adidas and the one [plus ten thousand, I think it's the same kind of thing that they're] (.) that it's reflecting.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;[Yeah, for sure, yeah yeah yeah].
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;(..) (looking at a laptop) Maybe that should be an opening slide to show (.) the focus analogy.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;(..) Mhm.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;So, the Nike olympic is all about (.) this kind of performance basically. (Everyone gathers at and looks at laptop) Like one person (..) Hm yeah. (..) Where is the (..) like, the athletes. This is the Chinese runner. So it's him, it's the shoes, it's the performance. And then we could have a series of (..)
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;It's all about the little- all about this, right? (points to laptop screen)
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;Yeah yeah yeah. And then the (.) and then this is still about that, so there's a star, in the product.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;But I think that this is it, with one plus ten thousand.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;Yeah yeah.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;Yeah.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;(..) I think it's a beautiful way of looking at it, and you know one way, ah it feels obvious, but, we just need to- to keep that focus and I think they solved it in a- in a beautiful way there.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;(..) So the way I was thinking, well actually, you have the story, which is the overarching (.) storyline (turns and points to center magic chart)
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;Mhm?
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;And then you have the product service experience which is the opportunity areas. Or for example one plus ten thousand is part of that and there should be three or four or five more (taps on center magic chart). And then, there should be something around ch'- sub-channel arou'- and communication messaging.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;Mhm. And I'm pretty sure that these opportunity areas will need different types of- of way of selling it.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;And then there is a comms and messaging, there is that. So what- how does- how does this relate back to that, how does this relate back to that. (points to magic chart) So then you have the (.) different layers.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;And I think we could-, we could even tear (.) these packages, we have something which is more adequate for products and sales and it's not that you have something that is like, bread and butter, like everyday story, everyday-
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;Yeah. (..) Uhm. The question is, I actually like the concept of mobility, but I don't know whether it sits on this level or on that level. (points to magic chart) 'Cause they- they talk about transition, of activities, so, maybe they could in either one. (writes on magic chart)
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;(..) And accessibility.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;Hm?
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;And accessibility.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;Do you wanna
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;To (.) so that's, I mean, the account- the mobility aspect of it, if you- if you want to be able to access whatever you have, in different (.) parts of (.) your everyday.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;So is that (.) [kind of similar on this?]
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;[So I don't know if it's eh t'-], I guess the transitions are more when you go from one thing to another.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;The inbetween.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;Yeah. And the accessibility is something that kind of (.) lay as an- like an overlay for the whole day.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;So is that the message, you think, actually? Or for this? (taps on magic chart) Or is that a diff- a different opportunity area?
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;(..) Hm but I guess in the message, it- I mean (..)
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;Or it could be the other way too, this could be a message (points to magic chart).
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;I see this (.) like a matrix, then it should be here, so this one transcends this this this (points to magic chart), [or maybe the all] three of them, so maybe there are only two, so I see it as a matrix.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;[Ah. Mhm]. (..) Interesting. Let's try again. (wipes out part of magic chart)
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;Yeah so I was thinking the different, I mean, whatever we focus on will have different (.) messages and different eh-
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;Yeah on- on a different stream.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;Yeah, exactly.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;And usually I exemplify it, so you don't (.) [we do-] (writes on magic chart)
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;[Let me just] take off my shoes, sorry. (A, K and E laughs) They are really really warm (A takes off her shoes)
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;Warm?
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;Yeah! (laughs)
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;Are they polstered or patted inside?
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;No, I don't think they are.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;It is- it's the same version as these are (points to his own shoes). It's the same shoes, I just have a an end cushion.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;Yes. Maybe it is, yeah.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;(..) With all the chemicals that (.) creates a reaction in the shoes (laughs).
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;It's also- it's so cozy when you- and you don't have shoes she's like we're in a living room (A, K and E laughs)
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;(..) Oh sorry I did one wrong here. (writes on magic chart)
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;(..) But I'm thinking the exemplifications we should have should be kind of representing different (.) parts, also what I meant with the bread and butter and the catwalk (writes on magic chart) (..) So it's something representing here and here and here and maybe there with the overlap, we exemplify within each area, to show a specter (..) or a pendulum.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;Yes. (..) Yeah, I think that's how I see it.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;Mhm.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;I still think that this transition between activity, I think it's (.) it could easily be (.) I- I think- I guess that's kind of an obvious thing, when we are (.) thinking cars, or accessories to cars.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;Hm. (..) yeah, but only if you (.) will bring it out of the car, or bring it, I mean, if the- if there is a transition, of course you will get into the car and out of the car, but, but if you don't bring whatever service or accessory with you (.) to the next state, then I guess they'll be- that will be (.) a transition besides (.) closing down, opening up.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;I guess they could (.) I guess the transition doesn't need to depend on you carrying devices, it can also be (.) the next state preparing for you to come or the last state (.) saying goodbye to you. So the transition is I guess leaving something, in between? And entering something.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;Yeah.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;And then it can include you carrying something, or (.) you not carrying something I guess. I'm just-, my in'-, what I wanted to say is just that I think that (.) we need to-, I think it's a good thing to include, because I think it's an obvious thing to include when you are talking about transportation. That you have transitions between different things. That's usually [that period where you (.) transport yourself].
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;[Yeah (.) yeah (.) yeah], [but-]
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;[So maybe] that's the more criteria level?
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;I think that should not-
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;But only if- if the transition is (..) I'm thinking (.) it is a transition, but it could just be that it's, just like you're saying (looks at K) I mean opening (.) entering the car, maybe it has been preparing a little bit before and then, leaving, saying goodbye, and that's (.) it is a tran'- maybe it is a transition, I most see the transitions where you actually (.) bring something out fr'- I mean, you take the product, and then you bring it into a different eh context. So that's the [(.) transition there].
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;[Slightly (.) or be typically at halt], yeah yeah yeah, and in no matter what, there is just a change of scenery, a change of focus, we- we-, sometimes before we called it life-car-bridging has been one of them, but that's very car-specific.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;Yeah yeah it doesn't need to be between [car and human, it can be between (.) other things].
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;[No, no no no, yeah yeah]. Like being eh family man and being individual.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;Mhm.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;Eh. [And being business man and being]
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;[I guess it's things like] (.) when the person maybe change location, or change mind of state, or change from, eating breakfeast to something else, or changing activities, or when something changes I think that's just the way that I see the transitions.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;Yeah.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;So maybe it is (.) the story of enjoying life is about transitions. It could be a more emotional transitions, it could be a very practical transitions? It could be a more (.) [social] (.) transition.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;[Mhm. Mhm]. (..) That's very generic, or very general I think.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;Yeah but I think that, I mean I don't (.) think that we should have it as a criteria, at least. I think it's- it's something that we should look into, but not as a criteria for the whole thing because I think it could also be something static (.) that, I mean (.) something (.) that just happens in the car without changing state of mind, without changing eh something, just so that we don't lock into (.) that it has to do with transitions.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;Mhm.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;Okay. Well let's park it there.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;Yeah, maybe do that, ehm. I think we shou'- I (.) I think the main driver for a lot of this stuff we do needs to be the story, but what should we focus in on.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;Yeah.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;'Cause it's better to come from story.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;I think in a way we can (.) because I feel like we are first strong in here, right? (points to magic chart) We got tons and tons of story around here, so we can start from here or start from here, because we already have some of them. So for example one plus ten thousand, the insights or the causes around me and family were not so priority, just part of it. And then the messaging, is about pockets of enjoyment.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;Yeah.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;Mhm.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;And then what is, then what the- how does that- that (.) feel.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;And this is where we should eh be, we don't have put a lot of energy right now, eh I think we can- we for sure should have fun and brainstorm a little bit, but I think this is what we need to really get in place (points to magic chart).
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;Yeah, exactly.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;So it's (.) heavy here, and a little heavy here, and then lighter and lighter and lighter here (points across magic chart, left to right). 'Cause in the end we want this to be open. Eh of course as designers we love to work here on this base (points to right side of magic chart)
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;But I think having one or two examples
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;[I- I completely agree. I- I completely agree, but I think we-]
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;[Yeah, I think we need to have that].
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;[Yeah, yeah, yeah. I agree. Also to (.) get into] the sales channels. And eh
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;Yeah. I definit'- I s'-, yeah, I definit'- I can see sales channels being here, but I can also see (.) sales channels kind of being in- with the same level as here (points to magic chart).
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;Yeah, so we have like five ideas for that.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;Yeah.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;We should have at least one (.) to show them how it- (.) to explain this, through this. (points to magic chart)
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;Mhm. Yeah, so what we need to show- we need to show this spectrum here, right? (points to other magic chart) We have, I c'- I called (.) one here, one there one there one there one there, becomes an opportunity package. Eh and we need to show (.) difference, either we show three difference, or we show one in this very standard realm, and one in the more postmodern art project realm. To show how far we could go.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;You know the other framework for innovation (.) the- the (.) so this is existing (draws on other magic chart) (.) this is new (.) this is eh customer (.) this is product (.) and this is you. So you actually have four quarter. You can (.) pamper current ones with some incremental, smaller offers, or you can (.) have a new product for existing customer based on whatever needs we find. For example the family one is very under-served at the moment. Or you can come up with a (.) create a new pool of customers, with existing product but (.) label it or brand it differently, or this is like completely, postmodern art.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;So I think we wanna push it to be mor'- we wanna do a conquest, right? We wanna- of course we wanna not forget (.) our old customer, but we wanna definitely try to do conquests.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;Well I guess, in a way (.) as the portfolio you should have (writes on other magic chart) (.) kind of like spread it around, so this should be like in a pipe line, right?
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;Yeah,  yeah.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;But then is the question of- and this is something maybe you guys can talk with the team like how realistic for this to happen, and then you have some kind of time line brought back, if even it's three years or five years or whatever. Where do they sit? Maybe this one is here, this one is here, this one is there, and so on. (points to other magic chart)
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;Mhm.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;Mhm. I think that's interesting, because (.) it depends on what the goal is, what do you want to do. Is it to (.) and the stakeholders are all about eh bigger ash trays or like cup holders, right?
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;"Yeah, so then, highlighting this, can illustrate, well, all you think about is here. How would the blue ocean here? Then you can use it as a conversation starter. ""All you think about is here. What about this?"""
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;Yeah, yeah.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;I think this is a good way.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;I think it's a very good way for them.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;For them. I think they see it very (.) I think they just see this like-
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;"[They have zero idea], they don't even know that there's another world. It's kind of like, I don't know if you've read that book eh called ""Flatland""? It's an amazing book, wrote in the 1800s, it's- (.) it's a journey, where you will meet people in different dimensions, so first you encounter one image. It's just one guy, a dot, he's like me me me me me me me he doesn't [know anything about anything]."
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;[Ah yeah, I think I saw something].
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;Yeah, and then you go to the second dimension-
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;And there's a light [and then you see only a shadow].
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;[Yeah they only see different-], yeah they only see different lines. So they see people moving around, they're just lines. And then they bring all these people into the other dimension to take the one dimensional guy into three dimension and they're super scared and have no idea what's going on (laughs). Eh but I think the stakeholders is a little bit like that now. They're coming from this one dimensional world (.) in two dimension- into this three dimension so they're super scared so, but I think a framework like this, or some sort of spectrum where we s'- we widen out the spectrum so it's basically the same. We have yes, you're safe over here, this is where we're coming from but then, imagine us pushing it further, and they're still connected. (..) And I don't know maybe that's a dream scenario, but eh hopefully (.) [I don't know]
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;[But ideally], within this, we're supposed to have (.) one and one thousand so there should be something here (writes on other magic chart)
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;Yeah?
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;If the concept fits, on the inside. So we little bit here, maybe a little bit here, and maybe a little bit here. Maybe not there. And then you have the second one, the second opportunity area which is more (.) here, or maybe here (.) or maybe here. And they have (INAUDIBLE) lines, so they don't all sit in the same.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;And I think today, it looks like this (draws on other magic chart), so we have the minus existing, because I think many of their products, are not (.) meant to be used [by Chinese people].
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;[It's very low in here].
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;Yeah. So they are actually making new products that doesn't even address the Chinese customers.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;[Ah], that's very interesting.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;So I think many of their products are actually existing in this eh place, where we want to move it into here, [to begin with].
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;[Mhm].
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;Then we want to maybe start to go in to this field at some point but we are far away from these areas. This is the- we just want to cross this line [first].
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;[Yep]. [Very good].
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;[I think] that's interesting to me because this would also show them, this is where you are.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;Yeah (laughs)
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;And to kind of acknowledge (.) that, and- and they need to acknowledge that.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;Yeah.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;Yeah.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;No- yeah. But I think, not for the product I think maybe it's for the story because a lot- I mean-
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;It is the internal vocal story, [to make you get them more].
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;[This is not- this is not] to reflect their whole portfolio. They have products here (points to other magic chart), for sure, and they're making products maybe here, but they have products that are in this area, for sure.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;Yeah-
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;But I guess this is- sorry, go ahead.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;I'm just thinking that it's especially (.) for the, I mean (.) the Chinese eh premium users eh are buying maybe these kind of things, but, they don't know about the THE COMPANY brand, they don't know about the story so, I'm just [thinking-]
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;[But they do] have products here. They have for example a trailer hook. I've never seen a car here or, like, private car, with a trailer hook on a car here. They don't buy that kind of things. They do maybe [on the countryside-]
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;[Is it sold here?]
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;I think it is, I think you can buy all their accessories. I don't know how much they present (.) [but I think you can get most of it].
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;"[Yeah, I think- I'm-] I think they said that you couldn't actually buy (.) all their accessories here, so, yeah, but I'm just- (.) I'm just thinking that we shouldn't show anything like this, because that would just make them say (.) ""no no, you are totally wrong"". I'm- I'm just thinking, I mean, this is kind of an (.) [they take, on them, that eh]"
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;[it's an argument with- yeah].
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;"You're totally wrong here and- and saying ""okay, we didn't do our homework good enough because we don't actually sell the trailer hook (.) [eh in China]""."
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;[I think-]. I think we can (.) we don't need to detail this is the way it is and it isn't- it isn't. This is just a way for us to (.) kinda estimate or guess, where are we right now.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;Yeah.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;And of course, they will claim that maybe they have some products here, some products here (points to other magic chart)
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;But [I think-, I think that we should make it (.) with them].
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;[But I think they agree, that they have- they have-], the- (.) yeah, because I don't think that they have done (.) a lot of research finding out (.) who are those people, what kind of products do they need. They are doing some of course, [or, they have marketing research and stuff like that].
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;[We- we are really- we are the spear head on doing that].
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;I [don't know (.) they have their own China-org, with accessories, so that's something].
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;"[Well maybe- (..) we can call this a] (.) product (.) parking lot. This is their pipe line, they do have something in their pipe line. But I think- this is where I think David and Nina could help, right? ""Okay, you wanna bring this in? Tell us the business case. Is it for existing customer? Is it for new customer? Do we just brand it differently?"" So I think that's where the busine'- like the- the- the, what do you call that, the grill?"
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;Yeah. The one in front?
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;The skit plate.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;The plate-
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;Under, [the- the end plate?]
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;[Yeah, under (.) yeah]. So maybe it's eh actually it's a existing product? But it's- you should brand it differently, and move it towards this square (points to other magic chart). So then it's about finding customer who is very active, would like to do offroad or longer distance, and then, for that area I think then the job is to specify who is it for, what is value proposition, what is the messaging and so on.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;And also, I think it's important that, we (.) we find an area we wanna focus on, because we can't do everything. This is a mere suggestion of how we could like the in ideal world could be, right? Maybe you wanna say, you know, with the time we have like we should focus- I really enjoy this. New and conquest. We're conquesting new people. Like the people in the moon.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;And when we are talking about new customers, are we talking about (.) our non-THE COMPANY drivers, so we want to convince them also to buy the car, or is it just new accessories, or it could be existing THE COMPANY-owners, who doesn't buy accessories. [There are two, levels of new].
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;[It's true. I- in my head I was thinking actually new, I was thinking] actually new THE COMPANY, and then the people who hasn't had THE COMPANY before, so (.) we- we're expanding.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;Exactly.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;Conquest'- conquesting.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;Yeah, so therein (.) then, a good reminder, then you guys need to define what- what- what does this. (points to other magic chart)
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;Yeah what is new. And how do you, Hans and Tiffany define, [the new customer, is it-]
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;[How do you kind of, yeah,] put a boundary on it.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;Yeah, mhm, mhm.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;But I think that's real'-, you know, it's the classic if you, you know, aim for the stars, you hit the roof type of thinking, 'cause if we, aim for something here they will not even (.) get off the lawn.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;What I think is interesting about this is we take car completely out of the picture. So when you talk about new, [it doesn't need to be anything] related to cars, they could buy THE COMPANY-products even without having to own the car.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;[Yeah, lifestyle, yeah].
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;We- we air that a little bit in one of the meetings, that you know, we have a dream of having a Mercedes-guy (.) go (.) [into a THE COMPANY-showroom], and buy that.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;[And they- they're so excited about that idea].
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;(..) Okay, I think that this is starting to make sense. Eh here.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;So in order for that, then we just need to look into (.) I think it would be easier to start here, so this would actually go like that. (points to first magic chart) (..) So you start with the stories, and the insights, to identify the needs, and then you come up with (.) a concept or opportunity areas.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;It is a- kind of a (.) little bit invisible overlap between for example one plus ten thousand, as an opportunity area or as a- as the story, carrier for the story.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;Well this is where actually it- (.) the concept, so this is the what do you call, opportunity area. (Writes on magic chart) (..) This is where the raw part is, and then you package it in a way, that become the messaging like, one plus ten thousand (.) is it, I don't know, is it, actually, around pocket of enjoyment, is the core of one plus ten thousand around this? Or is this actually on this level? So then, we are gonna use this to- to find out right.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;Yeah. And I- I feel this is what today should be about. Finding these kind of names, (points to magic chart, bumps into AM) oh sorry, finding these (.) names and what they mean, which level they are on, are they further down or further up. We need (.) couple of these, right, so we don't need a million, we need just a couple that we feel are right and we feel can represent (.) can, at least now give us, yes this seems to be right here this seems to be right there (points to other magic chart), even though they can all exist, in all ways, so you can (.) for sure find boring stuff or (.) disconnections here, but also here.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;Yeah, I think many of them are a matter of, where we want them to be, so we need to take a decision of that.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;Yeah, exactly. And I really like, I mean (.) because this (points to magic chart), opportunity area is (.) much lower I feel, than the ones that we had before.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;Yeah yeah yeah, yeah.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;Yeah, yeah.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;"(..) And I think only we (.) are able to identify this, then we'll look back ""is this, becoming their story"". So this is a question mark right now."
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;Mhm.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;Mhm.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;Yeah. Or, yeah, or, we-
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;It's a good way to check, right? So every time we come up with this, how does it relate there, what do people say, around here. (points to magic chart) So if everything kind of map, then that is probably (.) the one.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;And I don't think we are holy at all about (.) having to- needing to keep it on that level, we can change it up and down depending, 'cause this- this is the- this is the bleeding edge of our insights. And where this was eh (.) understanding we had (.) gotten into it. (..) Ehm
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;So should we start here? (Points to magic chart) What is it, what are some of the quotes we can remember?
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;Yeah, eh. We want to work with-
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;Should we put (.) we have all these on the walls here, maybe we can (.) put them up on. (Everybody goes to other side of the room to get and set up post-it cardboards) (..) (..) (Organizing post-it cardboards) (..)
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;So maybe this can help remind us (.) some of the stories we've heard to fit into some of this.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;Mhm.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;Yeah. (..) But I'm wondering if we should try to aggregate a couple of more of these (points to magic chart) eh before we start (.) going in 'cause that's one level down. So let's maybe find two or three more or something like this.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;Yeah, I think pockets of enjoyment belong (.) there (points to magic chart).
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;Yeah, let's- let's try it like that, yeah? Move it over now and suddenly we see if we- if we'll-
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;Yeah. Should we put it as post-its? [It's easier to, yeah].
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;[That we can do, yeah].
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;(..) Is the table not big enough? (K writes post-its, A and AM organize phase 1 report-papers on main table, E writes on magic chart)
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;"(..) I have a little bit of eh, kind of fear that (.) the rest of the organization is- will just say (.) ""what's new here?"", again."
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;But they always say that.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;Yeah they say that, always, but (.) because, a lot of this will be, I mean, we did a lot of work here, and we will, I think, if we kind of just eh (.) I'm just thinking what el'-, what have we learned, now, [let's-, that we didn't eh learn] here, for example. 'Cause here we already have the recommendations about, creating ambassadors, eh
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;[What's the next level after this?]
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;"Yeah yeah yeah. But I think this is like ""how do we do it, how do [we create ambassadors""]."
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;[Yeah, I think that's the key], I think these (points to magic chart) (.) are gonna be different.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;This is the new one, yeah. [Back then] (.) is this, and this is that (points to different parts of magic chart)
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;We are much more sharp- we can be sharper on this, and more focused, at these three. (Points to magic chart)
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;And a very firm grouping.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;Yeah, and I'm thinking that hopefully this can- and that's also why I like these that these are much more concrete than eh these ones that, that this can hopefully be the, the portfolio line, so the theme kind of eh [going directly into-]
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;[Exactly]
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;[That's how I see it] as well. These are just working titles now for our portfolio.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;And I think these things, they know them, but on a different level, the way that we understand these things, are much more detailed, and maybe even much mor'-, it makes maybe even different, than their understanding. I think many of the people they have a, kind of a wrong understanding of some of the concepts and some of the problems or opportunitites that- that are in China, because everything is moving so fast as we started out with, so they have like old school, or they have a lot of prejudice, or whatever.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;So for example, me-time. Now this is how the the advert of one guy, alone, up in the mountain or whatever, the new insight is then do a illustration sketch of how, we want to portray me-time. [So I think that-]
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;[Yeah, and I think,] and I think this in the final report I think, this is really important, to actually (.) show that in the report [to say okay this is actually]
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;[This is where we are, this is where we're going].
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;Because, I guess most people, I mean they know that it's the wrong way it's done, people agree on that, but, we don't, no one has, or that what we have seen at least [has shown the-]
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;[And this is how] the research project comes together. Like the whole family phase, and year later whatever, China-contacts come in.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;Ehm, I think we're maybe missing one thing here, or maybe we can (.) there's an opportunity area which is directly towards the customers, which are these, and then there are some opportunity areas which is, tools for us (.) to get (.) eh a foothold, and that [is for example-]
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;[To get a] what?
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;To get a foothold, into China. And one of them is for example, the wolf, or the zebra. There's a tool for us-
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;The ambassador?
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;The ambassador-thing.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;That's here, no?
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;Which is actually exist here, but it's kind of on this level or it's eh, a parallel dimension here. It's like how can we (.) how-
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;So then within (INAUDIBLE) sales channel, maybe it's not just one, right? So you have actually (.) (draws and writes on magic chart) so this is the wolf. So with the wolf, if you wanna talk about this, maybe it's here, maybe this one doesn't, maybe this one is.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;For example, yeah.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;Yeah, exactly.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;So we will- we will just need to- we need to exaplin this and flesh this out, how that can be done as well.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;And I think we also need to (.) create some kind of solution on how, these are created.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;Yes, yeah.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;Because we can't just say, oh we just need some ambassadors.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;No a hundred percent and I think that this is part- this is much more part of our job than to create a perfect product, or something like that.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;Exactly, I absolutely agree.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;Cause this is what the stakeholders, they have zero- this is their Flatland again, this is like one dimension, they have zero idea that these even exist, eh [on an advanced level].
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;[Our challenge] is that people are working on this, and they think that they are on top of it.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;Yeah, exactly, and that, that's-
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;And that's our challenge I think. We need to somehow show them what to do without telling them what to do.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;Yeah, so then when you, how to do it, is this not this, is this not this (points to magic chart)
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;Mhm. And I [think these-]
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;"[And show that] there's actually real research behind this, not just someone thinking that, ""well we though of that as well"". Well, now you actually have a lot of arguments for actually doing it."
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;"Yeah. 'Cause they have- yeah, they have a very, wrong version of what for example the wolf is like ""oh it's just, it's using WeChat, it's getting people to say- use hashtag THE COMPANY on WeChat""."
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;I think they have a wrong or sometimes just a simplified understanding of- of- of-
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;Or and out- or an outdated typically.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;Yeah, or outdated, yeah.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;But I think they are going in the right direction, at least. Just (.) it's just way too slow and maybe not, really focusing on anything. It's just really, shooting out their- I mean, what they said about the China-org that, eh they were sitting in two different floors, just, on top of each other, and they created two different, was it websites or WeChat [eh]
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;[WeChat-groups or whatever, yeah].
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;[WeChat-groups, yeah].
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;Exactly. WeChat-campaigns or something bigger than just a group so it was just eh, not aligned, at all.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;And what kind of information do they show there, what do they tell the users through these groups? Is that aligned, or?
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;I'm pretty sure that [the information- the information they show there is-]
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;[For sure it's not, because when they don't even know] the existence, I mean they can't.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;The information they show there is probably a link to a photo of eh of eh one. Not one plus thousand but one. Zlatan in the forest.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;It could actually be really cool to (.) really gather all the material that we could get. And show, okay.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;This is what the customer actually is exposed to, [this is the story].
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;[Exactly, it's], it's diff'- it's thousands of different stories, impressions eh, and so on and then to really make people understand in the organization, this can't work, I mean. And then, I don't know take Apple as an example. One story. One, aligned way of doing it. And it, I mean, it's totally obvious, but it's just eh not done.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;Yeah I think actually in this case Apple is a really good example that really, simplifies the view and you can, as you say, it's so obvious to see the difference.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;Especially early Apple. Apple 2005 for example.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;Yeah, what did they do.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;Yeah they cut away, they cut away all their products that is not- yeah, so focused, [so focused].
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;[And one product].
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;"One product. Or at least- and one product and the- they even sacrifice enormous in the professional like eh all the professional tools and stuff like that. They say ""no, we need to have one message""."
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;I'll just write some of this down. Maybe we are talking about just (.) to- (gets notepad and writes on it, AM replaces one of the magic charts)
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;Let's make a board where it's like, stuff to do, or like, stuff to think of or something like that.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;Yeah I'm thinking writing it, kind of (.) in the raw text.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;Is this actually eraseable? (points to magic chart)
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;This is [eraseable].
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;[Yes, it is]. (..) But I think actally our experience is that it's like, hard to erase a little, the-
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;Yeah, the full, full clean.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;Yeah. (..) In theory they are.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;(Talks in Danish) Jeg tænker bare lige at få det skrevet ned.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;Yeah, gør det. I was also thinking maybe you could make a, a board for it as well. You write- that you can write down, but I was like-, collect all the material that the customer sees, and then- 'cause then it's easier for everyone to, to add to that.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;Yeah, okay. (..) Okay, you have that one? (laughs)
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;Yeah. I have the other one as well, it was like how might we ehm, how might we educate the organization on the current state of, what they're doing.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;Yeah. Should- should we just write, I don't know how to structure it, but we have a lot of thoughts like, problems we see, challenges we need to overcome, things we need to do, information we need to gather.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;So maybe make some categories, for that.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;Yeah. I'm thinking maybe we should just get the thoughts up now, and then as soon as we see patterns then start to categorize that. It's always hard to, start the other way.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;Yeah, yeah.  (..) (AM writes on flip chart, E, K, and A write on post-its)
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;(..) So I'm thinking it could be really cool to actually add all the accessories that they have, in to ehm
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;Is that the matrix?
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;Yeah, exactly, and then and- and get them to actually help us, doing it.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;Place them, where they feel they are, yeah.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;"Exactly. Because I think that's really important to get them to do it so that they actually feel like, ""okay this is how we see the world"", and then maybe we can kind of (.) discuss a little bit, change it a little bit, but then we can also see okay, where are the opportunity areas within accessories."
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;I totally agree I think that's a, it's the way it should be done.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;Exactly, so that we don't come and pu'-, just-
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;Yeah we don't, put them somewhere, [I totally agree].
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;[I think this is a-] is a workshop first, with the stakeholders only, and then the stakeholders can (dry?) that.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;Yeah, eh for the rest [of the accessory-group].
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;"[For the rest]. Eh and I think it will be- it's good that I actually wrote that eh in there, 'cause this is- that's also part of the education kind of the Flatland-education, they need to be taken into this three dimensional world. And this is how they think it is, and then they need to realize themself, have that epiphany ""wow, maybe there is other areas that we didn't even see""."
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;Exactly.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;And then, the result of that will be they understanding but also us (.) be able to see, what we currently have, and where we need to expand.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;And where- which areas which are not (.) eh touched upon yet, so that we can actually go in and- and focus maybe on- on those areas instead.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;Mhm. And also for us to see for example if you wanna be up here, we need to use the wolf, if you wanna be down here we can use WeChat (gestures with hand in air).
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;Mhm.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;(..) Does it have a name, this eh (.) Amelia.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;Hm?
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;Does it have a name?
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;It's an innovation matrix.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;Innovation matrix?
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;Or I typically call it that, what do you call it?
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;Yeah, yeah. Portfolio innovation.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;Yeah. (..) (Everybody writing on charts andor post-its) (..) Where we of course look at it from a Chinese perspective. We don't wanna do the global thing there.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;Yeah, in the context of Chinese.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;Yeah, we need that or else it will become crazy.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;(..) You are on the pink, I'm on the green (K and E laughs). (..) I think, this is not the best eh
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;No. It looks like wood, but it's not (K, E and A laughs), some kind of fabrics, yeah. But I think eh, it sticks. At least for a while.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;(..) (laughs) Erlend Erlend Erlend, is this really a post-it?
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;No, it's not (K, E and A laughs). It's the best that we have right now, sort of. I try writing several.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;(Laughs)
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;(..) I'll put, the readable post-it on there.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;(Laughs)
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;Alright.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;(..) I think they only stick once. (..) This is eh, really good. And now we also know what to actually do in January and February (K and A laughs)
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;Yeah, this is eh, the plan.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;Yeah but I mean, it's something like this that we should definitely show to Tiffany and Hans tomorrow when we have the meeting that, okay, this is eh what we do, and of course also, ask them, does this eh comparison exist, for example. Does anyone have the overview of what is actually out there of communication material, [and so on].
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;[And this is the] unification we've been talking about, this is kind of historical unification, what has been there we need to (.) unify, and then move forward.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;Yeah. (..) Because when I talked to them, in there eh, Hans was also about, a little bit concerned about the, the new part and that's also why I've been a little bit-, 'cause I could (.) really see that, he-
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;And that's because he hears it all the time, or he knew this from before, he knew this from before.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;"Yeah yeah, exactly, but that's also why we also need to give them some, eh tools to actually say that to the organization, ""no, but this is actually new"", because it's not just to convince them. They need to, feel it so that they can convince the rest of the organization."
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;"Yeah. And the problem has been that they haven't- they are ne'- they are never (.) managed to elevate any of this up to a layer where I- 'cause I thought we would come to a place where you say ""yes, we heard this before we've seen it before, but now instead of having hundred things that you need to focus on, you can focus on four things"". That's the new part of it."
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;Yeah exactly.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;"But they of course were not able kind of to push that message forward. But this I think is more in a shape of what they expect as new, 'cause this is actually some- actions going forward, but everyone can still say ""oh we knew this from before, we knew this from before"", but, the question is, ""ah did you take action on it? Did you make a plan for it?"""
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;"And just to, exactly, to put that stick in the ground and just say ""okay, this is the current situation. Everyone knows that it doesn't work. What have been done? Nothing, okay.  This is our solution to how it- we could move on""."
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;Yeah.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;"(..) And of course the CHINESE ACCESSORY DEPARTMENT-lady will say (.) [""yeah yeah""]."
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;"[Yeah, ""we're] already doing it""."
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;"""We're doing it"". (..) So maybe that's also a part of it, getting maybe a little bit closer contact to that, to the CHINESE ACCESSORY DEPARTMENT-lady."
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;"[Yeah, I was thinking the] same, that not only their communication strategy but what is their strategy, what is their mission, how do they (.) where does everything come from? Why do they do what they're doing? Because I think, they have some basic insights, but I think many of the actions that they do there are like based on their Western understanding or maybe just random solutions that they- ""we just need to do something"". [They're just using different-, yeah]"
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;[Yeah, same old same old, let's use] the old machine, grind it out, grrrrh (makes grinding sound). Pamflets.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;"(Laughs) yeah. ""We need eh exposure""."
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;"Yeah, ""we need [some posters, some flyers here]"
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;"[""Flyers, flyers, flyers. WeChat] does (INAUDIBLE) there"". Yeah, ""now we got the exposure, then what's next?"" (laughs)"
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;Yeah (laughs). Baking a cake.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;Yeah (laughs).
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;(..) How to deal with (taps on a post-it, laughs)
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;I think it can be probably expanded into some more specific and- and better questions. But I think overall, we just need to find a way to (.) cooperate with them.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;Yeah (K and A laughs). To deal with them.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;(..) So this is the workshops. We can push the eh the innovation matrix some- where we educate them, and we  them and then, for them to take that further.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;Did it fall down?
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;No I- no no, I think they just keep it up there, or press themself up.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;No but there was one here.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;Oh was there one there?
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;(..) Hit puberty right away! (everybody laughs) (..) Should we continue here?
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;Yeah.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;Yeah.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;"Okay, so I quickly sketched up the opportunity area template that I'm more used to, but feel free to just make one. So usually we do this like, okay one plus one thousand is an opportunity area, and then there's like an insight statement, right? Like, currently there's a tension. For example like ""I only do it when others do it"". Ah but for the first mover, they do it intrinsically, they they are the role model they believe, in the value in itself whether or not other people are doing it, but, for this to happen, they need other people to achieve, to- to get into the movement to achieve the final goal together, right? So the good life can be achieved when the whole society kind of move forward together. I don't know the- the wording of course is raw, but the idea is there, right? Ah there's a collective mentality in China, it's all about progressing together. So that's what one plus one thousand is about. So some of the stories around there is that, ehm when- about recycling. ""We'll do it if others are do it"", but then some people are like ""no, we should do it whether or not other people are"". And then how does this fit into the past research, I think there's something around eco-ego, that kind of go around it? And some analogies we can think about, is that the hunter-gatherer, for the safe food and (INAUDIBLE), like knowing from the source, ehm. There's some kind of value proposition, for here, like ""why is this an opportunity area"" that I haven't managed to, but also I think it's important to have like ""how does this fit into the THE COMPANY-brand value"". And then, there should be tons of ideas around here, right? So for example the first idea is around parts and materials from non-conflict areas. Ah on the cause-level, maybe we can do like a short video behind the scene on the sourcing, and then on the tangible side it could be some kind of response of the source-sticker at the back of the car or on the dashboard. So it's kind of, a link back into okay, ""I buy this because I believe in this value. If you wanna follow me, you can, you can too, you can do your part""."
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;And I think that is connected to, if you take it all the way it could be (.) a Mercedes-guy having a THE COMPANY air purifier in their car for example.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;Exactly, yeah.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;"He didn't want the one from Mercedes- maybe it works as well, but it's not made from materials that is sustainable or something like that. And he has the option to go to the other store and buy it, and that says something about him, eh like ""oh, I thought you were a Mercedes-guy"", ""yes, but over that, I am a responsible guy""."
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;Yeah, the value, yeah. So this is where this come in, right? (points to flip chart)
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;Yeah, that's the value proposition.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;So, I don't know whether or not this (.) could work, we can give it a try. I don't even know whether or not this is what one and ten thousand is about (laughs)
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;It can be one edge of what it is.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;Yeah, so let's come up with some kind of template like this I think, for the opportunity area?
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;And I think we should be open to think that some of these opportunity areas are heavy on the story-side, some are maybe heavy on the product-side, and some is maybe inbetween.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;Yeah. And this could probably go for existing products, just the way it's actually eh, yeah, exactly.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;Yeah. So maybe the existing product could be here (points to flip chart)
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;Yeah, [something that could fit in]
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;[And then we just need to find out], what is this, to make this product stronger.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;Yeah.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;(..) Yeah.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;So that's one way to- to look- whether or not this actually lies in this level, or a good way to kind of test it (points to magic chart)
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;Mhm. But should we come up with some more opportunity areas?
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;I think it's kind of simultaneous, like, whether or not we list this up, if that's easy to do we can, if we get stuck then we move over to that.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;Mhm. Do you wanna do like a three minute, four minute session where we think about it individually, and then write it down, and then try to put it out, or you wanna have it as more [as an-?]
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;[I feel like] we should discuss, 'cause right now, just having this is not enough, right?
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;"No not at all. We wanna collect on all of them and probably, that was what I was thinking if we write it down, maybe we can get some sort of an ""ah, this actually do fit in one, this becomes one""."
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;Yeah. Yeah, for example if we take as an example I think that it transcends a lot of different things, I think it's more about how they see themselves, and it transcends of course many different opportuni'- opportunity areas. I think that's an insight, rather than an opportunity area.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;Ah. Okay.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;And then it would create some opportunity areas, X amount.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;So I think we should do it together, 'cause we are in a different groups and then we need to cross, but, we can write it on our own, before we put it out we just share, to see if anyone- anything spark other thoughts, [and we'll let it].
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;[Yeah, that was-], yeah.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;(..) So, what are the others, around there you think?
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;I guess we can- you already kind of, eh, structured it.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;Yeah we haven't really
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;We did not really structure ours, so we don't have any titles on it, but eh some of them are of course the same, [some of them are (.) different].
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;[Maybe we should just eh]
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;[So is-, is the core?]
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;I would really like to if we can spend like, fifteen minutes, [going through this].
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;[I think that's a good idea actually].
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;Yeah. Just to, cluster it.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;And maybe me and you, Amelia, we can think of eh if we can find some other- 'cause a lot of these things here are just kind of, edge for example is just like a hint for us to take. We need some edge, but what is it really, what could that edge be.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;"I think we should have a category called ""edge"", just because eh (everybody laughs)"
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;What does it really mean? (laughter) (..) (They split up in two groups AM with E, A with K) (..)
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;We have fifteen more minutes supposedly (laughs)
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;We have what?
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;Forty- no, how to say, fortyfive?
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;Before shareback?
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;Yeah.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;Oh fortyfive.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;Fortyfive minutes.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;"Ah we're (.) getting somewhere. (..) So I really like that ""ah, I thought you were a Mercedes-guy"", ""Yes. Just, I'm more (.) [of an-]"""
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;[Yeah, so I think] then, in that scen'-, we should have like a scenario. (starts writing on flip chart)
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;Yeah. (..) And create, create kind of eh, simulated eh, eh quotes. Like what could a conversation be, what would [a conversation be].
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;[Yeah, what would it look like].
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;Yeah. And I don't think it needs to be on a very advanced level, necessarily, it just needs to be
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;Yeah, like a comic strip or whatever.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;The comic st'- eh yeah, and maybe only even a conversation, like a- writing down what is the conversation.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;(..) Mercedes-guy buying what do you call that thing? Air-[purifier].
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;[Air-purifier] for example. (Writes on post-it)
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;(..) What did he respond?
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;"So he responds ""yes I am-, of course I'm a Mercedes-guy, but above that, I'm a aware and (.) responsible guy. And that's who I really am. And when it comes to this, [it's really important to take-]"
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;[But I am also]. I also [care about-]
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;[I'm not-], but above that. So it's kind of, he's taking a stand, he's (.) he's releasing himself from the materials, and more into the values. (..) And it's not so much- and it's-, you know that air-purifier from THE COMPANY, needs to have the THE COMPANY logo, because it needs to showcase that it's not Mercedes, that is the whole point of- or that's kind of the understated humbleness in a way or whatever or somebody
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;Yeah, real humbleness is maybe like a different brand by THE COMPANY, or whatever by THE COMPANY.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;Yeah, I would love to have sub-branding, or eh
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;Yeah, 'cause that's not the core, so it shouldn't be just THE COMPANY.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;No no no. Maybe that's where the cross-over comes in as well.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;Yeah. Yeah! Or approv'- THE COMPANY approved. Yeah, it should. (..) And I think it should highlight the implications. If this is the way to do it, what are some of the implications.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;(..) Yeah. Can you (.) elaborate on that a little bit?
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;"So for example ""well then your brands might be diluted, is that okay, can you handle that?"""
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;Yeah, oh like that, yeah.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;"Yeah. ""What ehm if, you know, if this other brand, ehm (.) at some point, doesn't have the credibility anymore, what do we do?"" So, just so they start some of those questions to think about."
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;Yeah. (..) Yeah, and this- oh sorry. This goes very much into the meta stage (.) of understanding the different dimensions. If you wanna move up here, you need to con'- seriously consider cross-over and brand-dilution, so that goes in what we wrote here around the education of what it is, [but in the end we use that-]
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;[So sometimes], we also have like a measure like that, so implication for example on brand-level, and then you can have like eh the risk- high, so on brand-risk, so for example this is pretty high. Eh, unawareness. (..) It could be really strong, to support the brand.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;(Writes on other magic chart) (..) You can see, one of these, I don't know if we- if I wrote it here, or I wrote it in the final conclusion, but let these be (INAUDIBLE) about sub-brands, or a-
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;It's in the recommendation, maybe?
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;(Sneezes) I think it's in the main recommendation, did you print it? Or final recommendation. When did we print it out? No one pay attention to it. But I truly believe in that.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;Which is co-branding?
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;Coo'- either we create a sub-brand, or we associate ourself with another brand. It's like eh, all the time I worked with- with eh MULTINATIONAL COMPANY, which- that was (.) very often the only solution.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Amanda;But their brand-strategy is (.) house of brands, they have many different brands under it.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Ewan;"It's true, but it was so- it was so easy to do stuff with the MULTINATIONAL COMPANY brand, you can- you can't do it here it's impossible, and even this- the structure in the mental model of that, oh we can't do it with MULTINATIONAL COMPANY 'cause then we need to talk to Bob, and Bob is not- he's on paternity leave, and they said ""okay, we create a sub-brand, one more, okay"", and clean slate, it's just the same structure that are there. The mindset is different. Eh I need to use the restroom. (Leaves room) (..)"
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;I think I'm almost there, I haven't formulated the titles, I just read through them. (..) I don't know what your (.) thoughts are?
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;Yeah, I just think right now they're placed so fine, in those three. It's almost a shame to divide them up, on the other hand it could also, if they each had their own colour you could kind of see it better.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;"Yeah. But we can start by just listing the categories that we agreed on, and then work on it, and then we can maybe divide them up in eh, sort them at the right time. But I can already see that you have ""trust the local"", which is a little bit the same as my ""global vs. local"", ehm. Mine are not titles at all."
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;No, neither are mine necessarily, they could be maybe, but. But, it's a little, I mean the problem is that they don't (.) trust the local, and I thought that could just be (.) very cool that they sort of got a little more, I mean also especially when THE COMPANY-cars start being made in eh China, so they know that they actually-
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;That they take pride in knowing that it works (INAUDIBLE)-feeling, if we also this way can have that in THE COMPANY, tell them, this is actually the same. We're trying to- we don't have an office in China to build cheap cars, we have an office in China, to understand you and make some cars that actually, eh match your needs.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;Exactly.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;To think big, and that's what I'm thinking here, too, with this.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;Yeah, okay. (..) (laughs)
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;Yes.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;Then I have one here that is very, and I actually have very few, eh I can see, ehm
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;I probably have too many.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;Then I have one that has become very messy all of a sudden because I kept on writing on it (K laughs), but it is kind of three in one, I mean it's kind of eh
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;Yes?
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;I mean, I just think they talked a lot about this here- I mean this here that- that it's not one product there and one product there, one wristband, [one eh]
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;[That] the system, [that eh, there has to be something-]
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;"[Yeah exactly that it kind of brings it all together], it's a little ""life companion"", it's a little eh. Ehm, that everything kind of, is in one system. It's always a little dangerous of course, but I mean."
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;"Maybe we can tweak a title about ""life time companion"""
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;"Yeah. And ""personalization"" and, I mean, it's the three right ones that are (.) in, [this]."
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;"['Cause I can see] like a ""life time companion"", that then it has to be something personal, or else it won't be a ""companion"", and then you don't want to have it ""life time"". And of course there has to be a link, to make it something ""life""-ish, which is some kind of bigger connection where everything is connected."
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;Yeah. (..) Should we-
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;"Maybe we can wr'-, I know-, write something with ""life time companion"", but eh, like with some sub-note."
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;"Yeah. (writes on post-it) (..) I'll just write ""three in one""."
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;Yeah, three in one, yeah. Kinder-surprise.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;Yeah. (both laugh)
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;(..) Life time kinder surprise. (both laugh)
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;(..) So the three in one is that a lot of different things are gathered in (.) [one place].
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;[So it divides] into four, or five.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;Yeah, yeah, exactly. But that it's- and that it's some particular ones.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;Yeah. (..) And in reality it could maybe also cover this dynamic between service and products. I'm thinking, we kind of implied, maybe, that it had to be some service, and then I think they got onto this course. Eh maybe not so much, but still I mean, somehow. I think you could have (.) approached it differently, where the product had gotten- gotten more eh focus than the service, so I think it also depends on kind of what type it is and such things, right?
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;Yeah, definitely. And what we just primed them with up until and what they remember from, I mean everything they came up with, yeah.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;"Yeah, so I think my overall ""take out"" on it is just, that there is some dynamic between it,"
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;I think so too.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;"Yeah, that you have to understand and that's definitely a part of ""three in one""."
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;Yeah. But also like all story-wise and in relation to THE COMPANY and so on and so on, I mean Tiffany and Hans eh, also sounded like eh, I mean they also totally bought that one, and exactly with, how, I mean, can this really help you to buy a THE COMPANY again, eh. I mean, that accessories actually are- are the ones that make the sales of the THE COMPANY-cars go up, that's pretty (laughs)
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;Yeah. To them it's also fantastic marketing we've done.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;Yes, it is, exactly. (..) And it, I mean, it's also-, it's just very good to storytell about, I mean, then THE COMPANY-car becomes a part of the family, it's something you have with you all the time, it's like your little child, and it changes over time and, I mean it's a, it's a pretty eh, and it's also a lot what THE COMPANY stands for.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;"Yes, I'll erase this one, ""Service or production"", or ""products""."
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;"Yeah. Then I have ""smart living, tech as improvement of life""."
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;Yes?
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;"And that's, how to say, that's what is really, I mean, expressed, but it's kind of this that's the secondary, that their-, it is ""improvement of life""."
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;Yeah. Their understanding of tech, what tech is and why it is
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;It's- it ends in freedom, you could say, ehm
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;Yeah. But also the picture of how they have, that technology, because they have developed in such short time and that technology has always been there to lift all of society in a short period of time, then technology gets a completely different status and a completely different meaning for them than it has for us, in the West.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;"Yeah. But yeah, exactly, I mean that, they talked about all this with high tech and as if it was just ""erh"", it was just exactly"
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;Yeah, the new technology was a quality in itself. And not because it's good, not because it's better, but they have the understanding that it's good, it's just better because that, that since they got technology in, their lives have become better.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;(..) (Writing on post-it) New tech equals quality.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;Yeah
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;A little (.) not necessaritly, but ehm
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;Yeah, I don't know-
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;Should I put this up?
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;Yes.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;(..) Ehm (..) What else do you have?
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;"Then I have (.) eh, ""product life cycle"". It was in relation to ""environement"". And ""recycling"". But like all of the cycle."
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;Yeah. That one-
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;"Yeah. That one. And maybe it should be called something with ""environment"", but what I mostly saw in it was this thing with this ""product life cycle"". (..) I don't know what we should call- if it deserves its own, but I- but we don't really have anything with ""environment""."
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;No. Maybe it's good to bring in. Definitely, I mean, yes, bring it in, but I think it definitely belongs underneath something, I mean it's the way- there just so many many annoying dust mice everywhere here!
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;"Yeah. Maybe we can just call it ""environment or recycling"", and then we can always come up with a cool catchy title."
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;Yeah. Also, I mean, with it- I think so too, something goes (.) I mean it might go underneath that one for example, that's something with, I mean, and that one it might also go underneath.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;"Mhm. Then we have the one that exists in a thousand alternatives and already exists, but ""unspoken"" has ""T"", which is ""understated"", ""premium"" or-"
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;Yes.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;It's just a new title, but it's still just as important, I think. It's maybe mostly about brand and how we express ourselves, how the product- what the product expresses, and how they relate to that. Ehm I don't know, it's probably not an opportunity area, it's more of a- something you should have in your head, a modifier, how to [do it-]
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;[A cultural backdrop].
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;"Yeah, cultural backdrop, yeah. So I don't know, it doesn't really belong, I think, in opportunity areas, but is still super important. And then this one ""product is the face""."
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;Yeah?
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;And that one I think is important in storytelling. (..) Not so much in the product itself, because the product is the product, but eh. The way everything is put together, in that we must definitely somehow make the product look like-, I mean that's what they notice.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;Mhm. (..) Yeah. (..) And at the same time there has to be some backup history on the entire firm, I mean on all of THE COMPANY, and so on. I mean of course it has to represent the values of THE COMPANY and so on, but there must also, I mean, it's the face, but there isn't just an empty shell.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;"Yes, so there's like THE COMPANY as a firm, ""where are we coming from, what are we, and what do we actually do for you""."
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;"""This product, you know, it can help you with"", yeah."
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;"""How will it be realized for you"". (..) I think it might be fine as a title, ""product is the face"". Can we put it on?"
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;You want to write it on? Yeah.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;"(..) Then I have ""respect human as the source"". Put that together with the one with, where was it, something-"
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;Ah yeah, there.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;"Yes. And it's a little tied together with this ""natural vs. artificial"", ""human is superior to machine"", all these things (.) about this relation between the artificial human creation, and- I mean everything comes from us, we built it, we made it, and therefore we will always be better than it. That's maybe more of a, that's maybe also a cultural backdrop, but it's of course also a way, or it's of course also something we must have in mind when we communicate this product, that we don't try to present it as too intelligent."
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;Yes, and make tech, I mean, I mean-
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;It's a remedy, it's something that helps you make your everyday easier, or helps you perform better.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;It's not a machine in itself.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;It's not a machine in itself that does it better, or can replace you as a human, or replace you and the attributes you have.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;"(..) So ""tech as the enabler"" (both laugh)"
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;"Yeah. I actually really liked that translation, ""human as the source"", actually."
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;"(..) Yeah. (..) But yeah, but not like ""option-(INAUDIBLE)"", right? I mean more like, I mean maybe we should take some of these backdrops that we need to remember, so there I believe this is one of them, and the one we had, should we take another colour maybe?"
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;"(..) We are out of colours. We don't have any new colours. (..) Okay, I think, ehm. (..) I think we should try to talk a little about, what, what oppositions are there that create the opportunity area we see. ""Trust the local"" for example is, there you have on the one hand some history, where they have a hard time believing, or trusting the local firm because there are a lot of bad experiences. On the other hand they have this national feeling of the Chinese firms, of course they have to support them and of course they, how do you say, yeah, but there is this-. (..) Because I think it may be what makes the difference in a cultural backdrop in this direction, when we sit and talk about this, opportunity areas. (..) And then maybe not, ""life time companion"" is definitely an opportunity area, but I have a hard time defining the oppositions."
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;(..) Yes, but (..) You could say there's just something that-, I mean it's something that came up without us hearing, but what did they do before, what happens if you don't have it?
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;But why are they talking about it? Do you remember the context?
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;Hm yes I believe it was something about, I mean it was mostly about that there were all these different (.) heck, I'm not sure, I believe it had something to do with that there were all these different products, and it's so incalculable, then you have a wristband, then you have a telephone, then you have an air purifier, then you have a- then you have to go to the doctor, then you have to this and that and this.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;Is it because you have a need for somehow getting some help to gather all these threads, you have a lot of stuff in the air at the same time.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;"Yes, exactly. And then I think it was a ""life time companion"", this was also based on all this data it then collects over time, so it's not, when you go to the doctor the next time, oh but then the journal got lost, or when you- something, whatever, and that it sort of stays with you. And it's not something- and the service itself stays with you, but eh the product, if it's a watch, or if it's a ring, or what did they talk about, it is replaced because it's renewed when tech and the product is renewed."
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;Because it's just a carrier.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;Mhm, exactly.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;And, there's like several- there are so many aspects in it. That it stays with you all your life, that's for example, we have a problem now, for example with the doctors, that they don't have a personal doctor, so they change doctor every time they go and- they have different doctors depending on what their ailment is and things like that, so they have a relationship with their doctors that starts over every time, and that was one of the things they concretely said, that they would like to have some, regular relationship, right? That can help find a solution.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;Exactly, and if you bring that over on THE COMPANY then it's also with THE COMPANY-call, and so on, and what else you could come up with in terms of these kinds of services or products, that you just take directly over into the other, new-THE COMPANY, and then it's just easy to-
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;"Yeah. I'll just quickly write. ""Trust the local"". (..) What do you call- ""national pride""?"
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;"Yes. (..) I think we'll continue working with this in the afternoon of course, but Tiffany and Hans are coming in for a debrief, we have a shareback here at, in almost an hour. (..) And maybe ""scattered services linked to different devices"", I mean that, that there are some on their telephone of course, but I mean, but that they are not linked to the same device. It might be good enough that it's ""scattered services"", but it's really that they are- they don't belong to the same, because in the ""life time companion"" you can probably most likely have all kinds of different services they would like to use, but which are just linked in some smart way."
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;(..) Yeah, then the oppositions are just the opposite. (both laugh)
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Abby;But the opposite is then the solution.
+dtrs-11;18-clustering-insights-from-cc1-and-cc2;Kenny;Yeah.

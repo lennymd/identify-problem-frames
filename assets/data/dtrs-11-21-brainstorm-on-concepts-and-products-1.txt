@@ -1,0 +1,691 @@
+dataset;session;speaker;utterance
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;"So if you are comfortable with that, and I guess you are still comfortable with [that] eh the purpose of what we will do now is to eh have you guys get a small introduction to what we've been doing for the last half a year or ""slash"" a year (..)"
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;[yes]
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;"and we are now moving in to the more innovative, creative phase eh in the realm of accessories but mostly in the realm of our main theme, which is ""good life""- Chinese good life, whatever that is (.) and we would like to to start out with going broader with what we are already. we've been kind of institutionalized be- by it of course so we need you guys to help so kind of look at new angles and stuff like that so we would quickly do a short introduction of this (.) and you can also read a little if you want ,but it will take no longer that half an hour (coughs) an hour (laughs) an half an hour"
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;(coughs, laughs) an- an hour if you are only counting one person then of [course it's] double time (laughs)
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;[then it's one hour]
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;Eh yeah (off task behaviour)
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;but I think you should get up on your feet's
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Nina;well you have a chair, but you cannot use it (laughs)
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;ehm
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;and I don't know if you want to start with [the]
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Nina;[yeah I can] start with that
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;uh watch out
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;ehm (..) so how should we do this in the most efficient way? Should we explain a little or you? (..) yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Kenny;"I was thinking we should go through yeah ""good life"" I'm not sure if we should go through all the cultural backdrops, but the themes for sure"
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;mmh
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;eh yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;So I think (..) should we just try to make like an explanation of what this is without you reading it all, yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;(laughs)
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;so try to eh try to take in some of  the stuff we will tell you now and use it in the (.) following-
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;in our brains
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;I'm your- in your brains (laughs) but sorry excuses for brains
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Steven;I will use it for only good things
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;yeah yeah yes
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;"so we have this project with ""Accessory"", and Accessory of course came to us and said ""we sell a lot of cars in China, but we don't sell any- we- or take rates for accessories is really low. Why is that?"" (.) and we have in many ways boiled it down to eh to it- to that our brand penetration and brand values will not shine through in China enough for us to sell any ehm (.) accessories at all. they don't really (.) care about what we sell outside of the car (.)"
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Kenny;by the way if you have any ideas meanwhile just-
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;exactly
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Kenny;just type them down, put them on the wall
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;yeah yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;So this is a brainstorming session just to the overall thing
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Steven;thank you
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;we just really want to get your (.) whatever ideas accessories related ideas you have, product, services, whatever it could be
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;communication, whatever
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;so it's concrete ideas?[ Like] walnuts that glows
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;[or-] wherever [yeah] yeah quantity quantity
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;like that? (laughs) or it could be eh how to communicate it, eh
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Kenny;anything
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;think-
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;campaigns [it could be- it could be kits] like combined the different accessories combined in a (.) spring campaign kit or like single products or (.) services, whatever
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;how to sell it [how to communicate it]
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Kenny;yeah whatever [is the word]
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;[quantity]
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;"eh we have singled it in to that our theme needs to be in the realm of kind of ""good life"" and ""good life"" mostly because we wanna come from a more emotional angle instead of coming from a very practical angle which most accessories is right now"
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Kenny;"yeah and maybe we should add that actually from the first research we came out with ""health"" as one of the  themes and we wanted to continue with health, but health is a little bit to narrow for us. We wanted it to embrace also environmental issues, more wellbeing, a lot of things (.) more than just like the typical traditional perception of what health is, so we tried to look for a different word for health that could be an umbrella for more than just the traditional perception of health. which lead us to the word ""good life""."
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;yeah and we are of course looking for enablers that enables a good life for the Chinese premium consumer (.) and our consumer is kind of like us, so young, progressive (laughs), young, progressive, and
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;bearded (laughs)
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;"bearded, filthy rich (laughs) filthy rich (laughs) and eh these are people who has grown up in a China ah without any scarcity, they you know they are probably the last generation that somewhat can remember a China that was closed but like as we move forward in this it will be a thing of the past. They are fairly international, they are Taiwan people, Shanghai, Beijing, Shenzhen and so on, they mostly own or are co-owner in some sort of company eh they have several cars and they are definitely eh you know purchasing premium products. eh, but they are much more sceptical than their parents generation, which is basically just like ""ah if it's from the west it's gold or whatever, I'll take it"" our-"
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;and they are also super (.) eh opportunistic so also to be able to break free of the, the their parents way of living. They really go for every opportunity to earn-
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Kenny;differentiate
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;extra money, to be able to differentiate them selves or built up their living standards
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;mmh that's a little bit about the people and the theme. Now we can talk a little bit about some of the sub themes that we were focusing on. There's hundreds of these, we are- have chosen the one that make sense for THE COMPANY and THE COMPANY's brand value in regards to caring and safety and so on for having integrity th-
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Steven;that the Chinese don't know about, right?
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;correct (.) they know about safety, but in a very practical form, but they don't know so much about what it actually means that when I'm in THE COMPANY PRODUCT then I'm in the safety bubble eh but I'm still- as long as I'm in the car I can still hold my baby like this and they think that they are safe of- and you remember that from some of  the research
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;"""One of the main s- cultural backdrops eh we have seen, eh is what we call """"progress together"""" and """"progress together"""" is (.) kind deeply rooted in Chinese Confusism  eh one of the good quotes is here is that the core value of many of Chinese is """"an individual does not work to accumulate wealth for himself but rather for his family and for his community"""" (.) that's a core value that they have. It's kind of on the coalition course of the individualistic approach that we- they have inherited from the Western way (.) but """"progress together"""" is still- is really valid especially within their mind-set you know """"if I make a lot of money, is not good news to spend it all on myself and do openly things for myself. I am- it is expected from me, from society to reinvest time and money directly and indirectly in the society again"""" but society could only me your local community, of course your family and that, but also a couple of (suburbs?) out side, your neigbourgh for example (.) and a lot of the people, mostly the people we. spoke- speak to, they have the resources and the time to actually invest back in society. So """"progress together"""" is about you know that, it's not all about your self, it's about others as well and we think like this in Scandinavia of course and the Western world in general, but in China this is much more deeply embedded and very much expected by society as well. """
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Kenny;"I think- I think it's (.) in many cases it's not something that you see directly. It's not like everybody needs to invest into their neighbors and their community. It's more like a very basic way of thinking that (.) how can you say (.) build up all the other things .so they feel like they are part of everything. they are a part of the people around them, they are a part of nature, they are a part of every thing, so everything, the whole universe is just network of all the elements in the world. and that is kind of the basic thoughts  of ""progress together"". And then you can say ""progress together"" is maybe one way it can manifest, but it can - it can come to live in all these themes or cultural backdrops or whatever it is. So it's - I think it's sometimes really hard actually to see this because it's hidden behind all the other themes or activities or whatever they are doing."
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;hem (.) one of the good examples here, not to do a too long of this one, is here is, if you come a little closer here, you can-
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;I think we should-
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;eh that we will not
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;You, because [we have]
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;[we would go closer]
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;[please] stay where you are
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Kenny;and actually I think we should discuss if we need to go through all the- [because I was thinking we shouldn't go through all the backdrops]
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;[exactly we- (.) no (.) no, no]
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;"you wanna talk about ""evolving status symbols"" example? You wanna go straight to this one?"
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Kenny;"I think ""conscious commitment"" is important-[""evolving status symbol's is important]"
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;"[a few words about] ""conscious commitment"" and then move to eh eh the ""opportunity areas"""
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;yeah let's do that
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;It's exactly the same in (INAUDIBLE) (laughs)
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;so don't come any closer (laughs)
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;"""conscious commitment"" is eh previously know- and had a really nice working title, which was ""sexy commitment"" and know"
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;Actually that from Kenny's table
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;"yeah yeah and true and ""conscious commitment"""
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;it was something else (laughs)
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;"eh ""sexy commitment"" or ""conscious commitment"" is about this dual effect eh of being really dedicated to eh a more eh collectivisms value that you are reinvesting in society and doing the right thing, bot only for you, your family, but also other people eh but you are as a return, as you do this, you get social recognition that would elevate your status, this comes to life in the sense that you are now, suddenly you're having questions around ""where does the you know the food that I eat, where does that come from?"" ""what do they feed the chicken and the pig that I eat"" and then even further ""what about the people that take care of the the pig eh that I eat"" and so on. So probably, it suddenly becomes much more kind of triple bottom line thinking that it has ever been before, and your investment there, and the values that you are suddenly advertised to that or admit, will eh come back to you in the form of social recognition and social elevation."
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;and you have that thought when you are doing it as well
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;you know that this is something that you will get recognition for
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;okay
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;so it is not just because you are- have a really big heart, and just the-
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;Tree hugger type of [approach]
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;[exactly] is- it is because you you know that this is actually something that you can use eh to brand your self on afterwards
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Kenny;"so this is an ""evolving status symbol"""
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;"it's definitely an ""evolving status symbol"" and it's used to differentiate themselves in from their parents and from their other peers- you know you can wear a Rolex, you can wear gold and diamonds and have a fantastic amazing car, but now everyone can have that almost. how do you then differentiate your self? yeah you need to come up to a much more sophisticated level of what value is and suddenly value become something that is about giving back to society and making sure that everyone in the eh the value chain is treated fairly and so on. A very sophisticated way of thinking"
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Kenny;that requires more than just money- it requires knowledge, awareness eh time, investment- a lot of things, so it becomes a much more complicated- [complex chain]
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;[and it's] it's very sexy subtle, so and you can't mention it your self, so it's something [that you]
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;[yeah that's] what I was thinking
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;yes it can be too explicit
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;yeah exactly
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;yeah yeah the second you mention it, it collapses
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;exactly
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;"so your motivation truly has to be that you really want to do this because of you believe in it, but you are a conscious enough to know that if I play my cards right and really  believe in it and I really sincerely do it, I will real the benefits of what that means. so that's why it's called ""conscious commitment"". and you can say there it starts here with hard work, you get money, you get time, you get awareness and so on, and then suddenly it splits out in to too, so the actions you do here, which you are committed to a cause to talk of bottom line, repays you in value recognition and social elevation and something of eh stuff"
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;and is there no links to where you come from? Because I imagine a lot of people move into the cities and it is then pay a tribute to the small city or (INAUDIBLE)
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;for example. You can go buy- you live in Shanghai and you came from this little city. You go back there, invest time, building their schools, and building their roads and stuff like that-
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;but it could also be in just you own neighborhood or (.) sorting waste eh very concrete. So (..) it can be small things and it could be eh giving a lot of money to rebuild eh whatever eh I don't know what it could be actually! But, yeah (.) but it could be just within your small community or going back to your eh village
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;"or even totally disconnected. Like I don't know the people that makes the farm, that my- the pig is living on that I'm eating, but it is important for me that no one is suffering. Like ""I enjoy this pig, but the person hurting that pig should not be suffering, so I can enjoy it"", It's kind of that whole thing. and that says something about you. And that is the value that they want to emit, and what differentiate them from their friends that has this same possibilities, but he just buys Rolex's for himself. cause that also says something about him."
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Kenny;I think also the- the the recognition that you get is also a confirmation that you are climbing up the social latter because in order for them to recognize you then they must have the same level of sophistication and intellect to  to understand the values that you have
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;exactly
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Kenny;so so when they recognize you it a confirmation that you are actually climbing up the social latter at the same time
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;mmh this is one of the challenges for THE COMPANY. A lot of these values are already incorporated into the way THE COMPANY thinks and operates, however we do leverage it in a way that for these people to see. So we can say we have a communication and a brand level challenge there, to actually promote this
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;mmh
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;And now we have ten minutes left so we- yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Kenny;maybe we just need [to go straight into the thing] opportunity areas
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;yeah [I think we need to go] yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;we can aim for quarter of two then maybe
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;yeah okay let's do that
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Kenny;sure
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;"ehm ""health as the enabler"" this is a classic one. We have been working on that in one form or another way back into the commutes stuff and it has to do with- fundamentally in China, Health is something that is supporting everything. Your health, mental and physical and all ying yang is a balance that everyone is living upon. You can see it as kind of this balance thing This is health and you have work and family or community here and you kind of- you need to balance it on that, but health is the one that makes both of these things."
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;And they really believe that if they don't have a good health then they will not reach their goal in life
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;okay
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;"so it is- I mean they are really focusing in on- ""I really need my health other vise I don't have anything, and I will not be able to achieve anything, I will not be able to enjoy my life, I will not be able to take care of my family"" all the things that, that's actually important for them will not- they will not be able to do that if they don't have a good health, so they take of them self, eating right, exercising a little bit, doing all these eh not super much, but [in a way]"
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;[In our] in our eyes sometimes it's really weird to look at the stuff they do, but in their eyes it's the right thing. Drinking warm water  in the winter. Drinking this thing here, and this thing there like it all goes into the health thing.
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;mmm
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;"Ehm (.) moving over here to ""in control and self-reliant"" eh that is connected to of course that they (.) they need to be eh they don't have the same state system as we have, so no one will take of them unless they themselves take responsibility for it. So the self-reliant part is that you know everything- when shit hits the fan in the very end it is only me I can rely on. So they want to ""control the controllable"" meaning that they can take control of se- things they really can control, but stuff like traffic jams and the weather and stuff like that, they can't do anything with it, it's just the way it is."
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Kenny;So don't waste you time
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;Don't waster your time
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Kenny;worrying about it concerning that
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;exactly
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Kenny;"just leave it, put it away,"" I don't mind"""
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;So here [for example]
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;"[for example] food safety why- which was a really big issue, something that they actually can do something about. They can make sure that ""okay"" the food that they are buying is safe for them to eat and they can even start to trace it back to see ""okay it was actually this pig"" or ""it was the- these rice, from this rice field that I am now eating and I know that the water, or the food the pig ate or something like that, is actually safe, which means that this is okay to be- to give to my family"""
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Steven;did you have a lot of information about pigs?
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;I was thinking the same thing (laughs) we can maybe picky back on
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;Arh yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;May I sit down?
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;Yes you may
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;yeah also you
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;Yes you may as well (laughs)
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;"So ""endure and enjoy"" eh is something we we- before this one used to be named ""endure now, benefit later"", but now we renamed to ""endure and enjoy"" and this is connected to how (.) it's kind of their work morale, how they see the different life- how they work, so these people are in a stage now where they know ""okay, I need to work really hard now (.) probably have kids, but that my kids are being taken care of by my grandparents and I can really push it now, workwise. So I am enduring now"". and before we've had a feeling that ah it's ""ah then I can benefit later"", ""then I would retire as fifty or forty-five or whatever. I retire and I will live like a king for the rest of my life"", however that was in (Chinese City from Phase I), this is maybe a taboo , a  (Chinese City from Phase I) silicon valley thinking, but after going to CHINESE CITY (.) we do know that ""yes"" they also would like to enjoy now, so but maybe not"
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;very much like the Western
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;"very much like the Western, but still a bit, other things also that they are still Chinese eh but they are looking for what we have called eh ""pockets of enjoyment"" for example. So they are looking for- it could be everything from micropause to a full day or even a vacation, so  they are working really hard, but then of course they will take vacation just for a fact as well so kind of more like a Western approach"
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Kenny;mmm I think the grand plan is still the same. They don't have the same social security system, so they still need to accumulate this- this eh wealth so they can retire at some point maybe not fifty maybe sixty, I don't know, but eh at some point they need to retire and they need to have enough money to retire and to support their family at the same time
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;yeah yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Kenny;so the goal is still the same, but I think it's more a (Chinese City from Phase I) specific thing that they will maybe sacrifice a little more, work a little bit harder eh and especially sacrifice maybe some of the enjoyments, where I think, especially in CHINISE CITY we saw that they don't sacrifice the same about of enjoyment. They want to have those eh little pockets of enjoyment and maybe now and then
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Kenny;and much more extended that in (Chinese City from Phase I)
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;"yeah so you can say that their investment in their kids is also an investment in them, because they know when they are old it's the kids that will take care of them, if they didn't have a good enough education eh they will not be able to reel in the money that will take care of them and so on and so on. In the Western world however we typically say we typically want to love what we do . ""This is what I want to do- is my life goals and my work goals are kind of merged in a way"". Where here is much more rational in a way."" I can make money here here and here, and then I make I don't necessary enjoy it too much, but it makes sense money wise or carrier wise. And then I can retire. And then I can enjoy it"". Where here ""we want to work until we are eighty"" but they don't want to work until they are eighty unless like, maybe their fifty or something like that."
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Kenny;mmm
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;mmh yes maybe that's it?
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;yeah (.) so thinking of that and thinking of (.) yeah whatever ideas we can come up with. And we have been focusing on both how to sell, so the sales channels, we been focusing on how to communicate, what to communicate, and of course product and services that can fit in to it. And remember that Accessory right now typical sells the the classic accessories like roof boxes and (.) roofs rails and bike racks and (.) also lifestyle products like bags with THE COMPANY logo or some
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Kenny;key chains
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;yeah this is totally okay, everyone is doing it, but why should they by THE COMPANY ,there is no reason for it as of right now. Could there be other products? Or ways to do it? Or how can we make that happen? How can we (.) how can we sell other stuff that just cars?
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;Or yeah or - and if you can't come up with anything related to this, if you had had any experiences eh in your own everyday life where you thought of something that you really needed just- whatever idea comes up- just-
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;yeah I have many bad ideas
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Kenny;as they would [say in THE COMPANY] think out of the box
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;[many bad ideas]
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;or to a slightly larger box (laughs)
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;it should fit a little bit better
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;oh eh yeah ehm
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;Let's spend maybe five minutes individually and then we start eh kind of a posting it up and maybe more ideas, we could do that
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Kenny;yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;and if you have any questions yeah-
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;it's
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;(opens a window)
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Steven;I can only think of like air conditioning accessories
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;yes (laughs) exactly
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;And we are specifically talking about accessories made from pigs or part of pigs (laughs)
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;yeah yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;[pigs are very important]
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Steven;[or people that take care of pigs]
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Kenny;yes no people work
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;yeah yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;that is also our conclusion
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;and feel free to ehm explore if you feel that you are missing some information
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Steven;but isn't there a different between like eh a key chain with THE COMPANY logo on it and then something that you can actually use in the car context?
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;yeah true
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Steven;you don't buy the t-shirt or the key chain unless you have some kind of emotional relationship
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;true there you go, now your are getting in to this
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;and pigs
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;yeah (laughs) yes
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;the solution! (laughs)
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;Pigs with THE COMPANY logos
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;So one of the things we also look into in this project is to try to (.) we're looking to the full portfolio and maybe give some recommendations on where to cut away some accessories. There are so many accessories as it is today. Just within lifestyle products there are four different vases, there are (..)
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Kenny;we just saw they had a pop-up store, they have like a complete store only with [merchandise]
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;[just full of merchandise]
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;hundreds!
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;it was like really crazy. Just what what we saw just four, just three or four different memory sticks
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Kenny;one of them was like 400
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;in leather [one in glass]
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;[usb, micro usb] (laughs) micro usb with cover
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;yeah yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;okay yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;and that was just within lifestyle products so (. ) they have a lot (.. ) do we have the number?
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;(..) of the actual amount?
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;how many all in all?
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Kenny;no (..) but there were at least fifteen different eh shirts, sweatshirts and t-shirts
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;yeah (.) hopefully that count as one t-shirt (laughs) one sweatshirt, one
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;"so try to eh think ""how can we elevate ""progress together"" "" for example. This is stuff that seam important to them. Can we make something to elevate or to support them in their ""progress together thinking""? And the same goes for ""conscious commitment"". How can we support them, thinking about what- or exposing triple bottom line for example, sustainability eh social commitment eh how can they showcase this? eh the same with of course ""evolving status symbols"". How can they differentiate themselves from their parents and their other peers which normally buys you know diamonds, gold and Rolex? What can we do to make them look different? (..) eh Health for example, how can we promote (Abby whispers to Kenny meanwhile) health? Can we done in a very practical way or in a more- kind of a emotional way?"
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Kenny;yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;ehm yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Steven;yeah?
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;"for example when we we've done a lot of work with ""healthy right"" for example. That was kind of the definitely connected to ""health as the enabler"" eh but from a more practical point of view. But we tried to have philosophical input there. We counted statistics over time and stuff like that to-"
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;eh yeah should we start sharing a little bit maybe other stuff will come up?
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Kenny;are you ready [or you need more time?]
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;[I was writing] things as you presented
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;eh and I think there are probably many stupid things [but I guess you wanted]
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;[ah it's fine, yeah I noticed] (laughs)
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;I'm going to leave now, this is not what I am payed for (laughs)
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;okay so eh yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;okay I'll start with an obvious one
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;and like eh which is connected with health alright, but I couldn't really let this thought about cleaning the air around the car [go]
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;yeah [true true]
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;so I thought could you buy this- another laugh
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;no, sorry
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;but this eco-box
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;eco-box, yeah I remember we talked about that
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;actually you slap under a car or maybe you don't see the box, maybe you see like a small post, badge or something, this is a car that cleans
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;through
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;so you give back in the sense that you [are rich, you have a nice car] but you remember that
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;[yeah yeah mmh] yeah yeah part of the solution is that a part of the problem
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;yes exactly
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Kenny;(INAUDIBLE) the box
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;And I have been so stupid so I wrote more than one of each, should I just translate here
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Kenny;no it's good
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;if you could only
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;because I have different ones, yeah maybe you can eh
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;yeah, so say that maybe you-
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;it's not so much inside, but it- because I thought that's taken care [of in this road] but more show so plus, but also through that I'm feeling like
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;[yeah (..) yeah] so it's yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Kenny;[outside]
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Steven;yeah I think another concept is that you clean the air as drive, you clean the outside air
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;yeah, yeah yeah yeah [so it's at least]
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;[yeah a little bit]
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;so in one way you are at least neutral or even on the plus side
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;mmh mmh
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;could you just eh put your post-it up there, just underneath so, so we have it
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;soon, because I have more on one
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;ah yes yes
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;yeah ah okay
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;and then you can have different subtle indications of course that the car is cleaning it or something
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;so it's  the action of doing it, but it's also the- the signal or what we call a value beacon, also called a value bacon
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;uh yeah (laughs)
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Kenny;bacon makes everything better
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;"another value beacon, that ""yes I'm doing it"" and suddenly you expose that"
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;"yeah exactly and people (..) if it's packed for example, then people will know ""ah this is actually blinking green [or something, I know because I am also aware]"
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;[you'll have homeless people sleeping over under the car]
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;no no because they will not be aware of this, because you need the awareness, you need the education, and so on before you actually know this
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;yes
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;and this is where [these things  come, the doubleness there]
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;so it will be people similar to (..) yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;"yes, it should be flashing ""cleaning the air bla bla"""
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;exactly
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;Because then it collapses. But you are doing it here, and you are getting the - the social elevation there, but it need, then we need to have a marketing campaign educating the public
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;Yes
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;in regards to this (..) eh yeah cool
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;should I take the ones I have on this post-it and then you
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;yes
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;"and then I had a very vague, but - rent out ""parts"" of your car"
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;okay
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;so while you don't use it. It can be electricity, because you probably have the (vector?) car or something.
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;eh eh
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;It can be using the trunk space, whatever. But basically the left to others to utilize your car while it's parked
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;oh that's a good idea, so parts of your car
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;yes!
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;not using the car as such, but
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;yeah yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Kenny;so the mafia can rent the trunk for the people they kill
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;yeah yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Kenny;just the temporally
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;while the kindergarten use the front
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Kenny;yeah (laughs)
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;or people cleaning cars can practice on your car for example
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Steven;homeless guys can sleep in the car
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;yeah yeah okay
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;"I pro- it's regarded more with the electricity thing, like renting out the- it's basically a battery, it's on a electric car, it's just standing there so- and it's maybe it's ""clean"" [energy, so you can utilize] that  it's clean and from your car"
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;[so that thing is just]
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Kenny;and you could even combine it with a truck
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;rather than cold energy from a wall plug
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;so what I'm hearing here is more it's a community service, a community hub
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;it's not for the world necessary ,but it is for your neighborhood
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Steven;so you have like a spoon on your car where you can place your phone
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;for example yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Steven;where you could charge
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;like a yeah- like an induction- charger
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;yeah like maybe you can't like stand for an hour but maybe you can just a bit of juicer to make a phone call
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;yeah  eh yeah (.) I just wanted to write
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;I don't know it's an accessory, but eh the [service part can be an accessory]
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;[the service part of course]
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;yeah absolutely (..) and they have this eh (..) delivery, what do they call - [in car delivery]
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Kenny;[in car delivery]
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;which is something that they are driving apparently
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Kenny;yeah they are driving and actually they said
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;roaming delivery or what?
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Kenny;yeah  and they said that China is actually eh requesting [that] service
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;[yes] exactly
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Kenny;say it's very likely that I guess it will come there-
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;so it could be renting a truck just - (.) pick up stuff in any random truck
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Kenny;yeah and electricity could come through
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;get the yeah exactly
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;then I have the last thing on this note. (jet valner?) we talked about this before
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;ah ah ah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;the old, the Swedish table tennis player he's like a god in China still
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Kenny;yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;and if we do something
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;what was his name?
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;(Jeu Walner?)
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;okay
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;and it's just a- it's the perfect guy to be associated with in eh in China (laughs) I had to mention it. It's like Zlatan here, but
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;yeah yeah It's Chinas Zlatan
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;It is! Even better
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;but also for the (act to ever nights?) or for the apparent
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;(INAUDIBLE)
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;So does he have some values?
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;yeah he's eh (laughs) he's kind of a playboy actually
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;yeah yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;so yeah, maybe not in China but eh
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;yeah so he's - he has a name that people want to be associated with?
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;yeah but I don't- of course I'm not sure, I mean he is not active anymore, so I'm not sure if it's ehm if people in their twenties
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Kenny;if they know
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;think anything about him
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;yeah yeah (.) cool. But is a good name
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;eh yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;also I would like to meet him so.
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;alright - personally something (.) yeah yeah and Steven did- what did you think about when you heard all this? Other than bacon (laughs)
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Steven;I thought a lot about bacon.
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Steven;eh no! Ehm okay I wrote some stuff here.
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Steven;"ehm mm so I wrote down- I wrote as well when you where sending the different slides on the wall, durability eh with the tagline ""for me and other people"". So if we make sure that, that the customers know that our accessories are 8.) made of sustainable- maybe not sustainable, but durable materials, then they can pass them on to eh generations and generations"
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;ah okay! So sustainable in that sense ,that you are keeping it so you don't have to produce it again, it's not like going to waste when you bought if
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Steven;yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;can you elaborate a little on that?
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Steven;yes
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;what was the tagline?
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Kenny;durability
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;"""for me and other people"" meaning kind of in a timeline?"
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Kenny;yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Steven;yes
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;so not in the moment, but over time?
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Steven;yes
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Kenny;"so I guess it's very much about how you explain or communicate your (INAUDIBLE) so you communicate it in terms of for example the family how it lives on for generations, genera- rather than telling them that ""this thing has been made out of eh Swedish steel"" and stuff like that that. That they might not be able to to relate to and they don't know if that's actually true, but they can't relate to the family thing or something else."
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;could it also be about (.) if (.) I mean if it's recycled? So it's not the same (.) product that lives on.
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Steven;yeah yeah I guess so
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;but that's why it lives on
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;it has the two paths, so you can recycle it or down cycle it in to other parts, or is it the same object, that just eh be inherited, but  is so fucking strong that it actually, you don't even see that people are using it. In fact is the- literally the same thing. Yeah that's two interesting approaches
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Kenny;or it could be made in a way so you can (.) maintain it, you know throwing out
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;or it gets- yeah - or it even gets value through the (.) the action of passing it on
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;mmm
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;"some of the most powerful eh Rolex advertising or (makeup?) advertisement I've seen is like (.) it's about the father how gives the watch to his son (.) and it's like (..) it's not- they say something about (rise?) not about the watch, it is about (.) the tradition to- yeah - time, tradition, new starting, you are starting something, he would give it to his son and so on and so o, and it's yeah- I think that really appeal to me, like ""wow I remember when I got something from my father, that used to be my grandfathers"" and stuff like that, it's that ah suddenly you are not only a person in the moment, you are person that stretches out towards time"
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Steven;yeah so that's what I wanted to say
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;yeah yeah (laughs) I think that's the interesting that actually handing stuff down has- adds value instead of take value away
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Steven;mmm
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;and we heard it as well actually in China with the ehm life companion?
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;yeah what was
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;building over data and starting from when you are a baby and continuing and then you would also get (.) data from (..) how was it ? (.) you could start it if it was my life companion, then I would start it now at 37, but then I would continue, but I would also start if for NAME, my daughter at two, so that her data would be gathered at as well
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;and really-
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Kenny;one reason that you start
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;they would (compete?)
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;collecting data
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Steven;(INAUDIBLE) all kinds of data, pictures and videos, and like a scrapbook of your life
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;yeah but also data about your habits, your way of living and stuff like that
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;exactly! It could be if there is some kind of eh medical measurement in the car, then that data would be collected as well. They were talking more about if it was some kind of - yeah- a medical assistant
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Kenny;biometric and yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;so if you were driving, they would measure something on your body, making sure that you are still fit to drive for example, telling you to (.) slow down or take a break or something like that eh or even if they could measure that something was really critical, tell you to go to the doctor or something like that ehm so the idea wasn't explored at all, it was just one person coming up with the idea and then the other talked a little bit about it eh but something about something that follows you through out the life and you start if for your kids as well, so that they will have the same benefits, it's the thing about (..) [if this is a THE COMPANY] service, then you are of course kind of forcing them to continue within THE COMPANY to make sure that you still have your data and you still have all the benefits ehm but it should of course not be eh done in a- in a forcing kind of way, but of course (.) it's something that we do for you
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;[someone knowing you]
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;"""we kind of force you to do this"""
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;we- if you want to continue with this, you can- we could also offer them to actually take out the data (.) I don't know where they would put them, then the competitors should have a service eh that they could just put the data into, but yeah- that's another story. But something about collecting, and something about giving, passing on information ehm and so on, so that it's not maybe a product, but data
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;true. I think eh I think the cool thing is that it kind of, it's cool to apply it to both sides, to both the data part
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;"but also it's cool to make apply to like a running board (.) ""my grandfather used to have this running board on his THE COMPANY PRODUCT, now you have it"""
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;I wonder if the product could then (laughs)
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;it's just (laughs)
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;and we just eh cut it a little bit [to actually fit your new]
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;[fit to your other car- new other car]
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Steven;but they do it with entire cars in like (everywhere I get?) but especially in the US where they have this old pick up truck where the grand father bought it new [and then] change it to a, like a Hot Rod, kinda
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;[hundred present yeah]
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;definitely
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Kenny;but you can't do it with all cars, it has to be some special kind of car, but I don't know you couldn't do it with a Toyota Corolla, it wouldn't be the same right? It would- it has to have something special build
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;Mmm but the
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;yeah I'm thinking also if it could be like- like almost like the soul of the car
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;that you have a little physical thing, a token, that lives in your car and then it sort of gathers, I don't know, things from you and the way you use your car, and then that thing can be moved over by you to a new car, or to your children's
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;"this is so typical how ONE SCANDINAVIAN DEPARTMENT sees ANOTHER SCANDINAVIAN DEPARTMENT (laughs)  (INAUDIBLE) ""listen guys we have this thing which is like the ""soul"" of the car"""
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Kenny;and co-creation
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;and co-creation as well
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;but now you can say it's not one of you
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;write it down
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;no I'm not gonna, because it's the negative, it's so negative
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;no what! (laughs) I will write it down
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;okay
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;eh did you have something else?
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Steven;yep, but you had two, but I can continue?
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;yeah continu.  you are on a roll
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;I'm on a roll
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Steven;ehm mm well talking about suitability you could also focus on that the ether accessories are produced in a green production environment.
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;okay cool do you have something about that as well?
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;yeah I have (..) yeah things touching on it. I have like eh this maybe the opposite of passing things down, but more that you sh- like  (.) this is more into personalization but it could also be health, that you buy like we can take it later
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;yeah yeah just if it was just like hovering above this
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;no
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;then we merge them, okay. Talking a little bit about what you meant about this one first?
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Steven;yeah I have some eh s- supporting eh
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;yeah is it locally produced green production you said? What is that? What does that mean?
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Steven;that would be ehm then make sure that our factories don't eh pollute a lot in the environment and that no pigs or human beings are hurt in the production (laughs) so we have safety regulations and stuff like that, that you focus on that ehm
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;we can have pig power instead of horse powers (laughs)
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Kenny;yeah exactly
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;how do you manifest this?
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Steven;how I manifest it? Hmm
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;if is a man
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Steven;I don't know. I guess we it's well known now that we have car factories in China and I guess everything else is produced in China as well, but it's not a quality stamp or prof as it is now, but it could be, because the Chinese and (INAUDIBLE) local stuff
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;"yeah true true eh ""is the soul of the car"" ehm yeah, but did you imagine- should this be like a product that thing, is there a marketing campaign? What is this?"
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Steven;I don't know. You did something wonderful before with my post-its
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;product yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Steven;(INAUDIBLE)
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;"could it- do you imagine it to  be some sort of eh like here in Scandinavia we are all about different stamps. You have the ""Ø"" stamp which is like ecological and then you have the ""svanemærke"" which is the Swan branding- is it more like an advertising that talks about this? or?"
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Steven;yeah ehm
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;how do you manifest this thing. It like cam- like is like flyers that you give out to people or?
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Steven;I didn't think that far
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;okay okay
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Steven;ehm
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;this should be- is a value that you wanna promote
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Steven;yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;I was- if I can build on that eh I was thinking on the XXX flags we have on the seats
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;yeah I'm
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;"so instead of a XXX flag, you have like eh not necessary a flag, but you have something that says that (..) ""hm hm province, where you where born"", so you actually have a"
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;okay so like a
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;you pay a little extra to get the limited seats, not from the regular COMPANY level seats, but from this region where you grow up, or [where you know] the people working there or you know the people living there
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;[I see yeah okay]
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;so it's some kind of locally produced, but you have s- specified, you have this special envision that it's made
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;and you pay a little extra
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;actually maybe you local place
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;you pay a little extra but some part of the money goes to that region
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Kenny;oh yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;ah okay
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Kenny;yeah yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;so that's kind of you (.) know about this thing in the US where you have different parts of the high-way are adopted by companies
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;yeah I think I heard about it yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;"Adopt a high-way, drive around a high-way and then you can say ""the next four miles is adopted by Microsoft"" and they are in charge of [keeping in charge] yeah yeah keeping it clean and everything"
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;[just crashes all over]
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;so this is kind of- bu purchasing this you are then adopting or doing something good for your local community or something like that
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;it's not necessary that it's produced there, but the money or dividence or whatever coming from something
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;it could be- or it doesn't have to be, but sp yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;I see,  I see where you are going
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;I think that's the
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;maybe it could be even stronger if it actually is
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;oh yeah yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;where it's possible, if it actually is locally made
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;yeah! (INAUDIBLE)
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;because then it's just not
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;I agree
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;not just the donation, it's a little more where you
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;yeah I'm just thinking of the one thing is more like a figure of speech like, like for example you can ah yeah adopt a goat in Nigeria, but it doesn't really matter if it's a goat or not, isn't it just like a mental construct
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;that is true yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;but you are thinking in the way that actually it is happening
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;yes because then it's more visible
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;more visible, more powerful mmh mmh yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;and you know that it is actually helping people from your own community if it's from your own community
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;of course a bigger effort to
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;bigger effort of course but more powerful (.) could you eh just eh write that down?
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;ah yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Steven;And that's what I mean
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;yeah yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Steven;yeah there it is
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;you see in production and what you in- to be production
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Steven;I-
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;I think this is really really good and also the (.) like the Swedish flag it's a small, small, small little tag on the seats or on whatever product is actually produced  there. This small tag that you need to look for, but it is- it is-
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;fairly visible
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;pretty visible, but it's not  in your face. It is the subtle eh sophisticated-
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;yeah yeah it-
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;symbol
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;and of course it- yes, but it means that you need to know what it is
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;exactly, exactly
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;and I guess that is a blessing and a curse. It's a curse if no one knows it, but it's a blessing if only some people know it, and the right people know it
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;exactly and that was exactly the greatest proof we got from eh this time around in CHINA that the right people will know
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;mmh that is actually
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;it's eh yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;eh yeah cool
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Steven;green production also- because you don't have to- you don't have to make some eh small parts of it in China and then ship them to Scandinavia and have them assemble in Scandinavia, then shipped the stuff back to China
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;Ah okay I get it
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Kenny;so you are talking about all the materials that are sourced locally
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;short travel in a way
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Steven;yeah yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;mmh mmh mmh can I have this to write
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Steven;sure
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;"""short"""
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Steven;"but it's not the same with the post-it below it that says ""sustainable healthy materials"" because we make a big deal about saying that  they- they climate inside a bubble is a- very safe because it's doesn't made any eh injures"
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;emissions and
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Steven;yes
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;yeah and we-
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Steven;then it could also apply for accessories, so your child seat is it a- constructed within the same (.) same qualities
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;okay yeah that's interesting. So that
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;made from the same pig as the rest of the car (laughs)
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;eh so yeah so meaning that yeah the- we expand on the message that (.) our materials are healthy and stuff like that to go beyond just the cabin
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Steven;yeah and we shouldn't be afraid of (.) using eh cutting edge material. So with everything is made from bamboo maybe it was that in the nineties now, but for me it's still new and could be used for anything
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Steven;so we shouldn't be afraid about experimenting with new material all the time
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;okay (.) so this will become (..) this also tells a story around our dedication eh to progress forward and to look for for new you know opportunities to all this improve
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Kenny;I think time is running really fast [so it's just if you] I don't know if it's okay with you if we go a little bit over time then maybe we should fast forward
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;[yeah I agree]
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;if you can just finish this stuff you already have on your post-it's - is that okay?
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Steven;yeah sure
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;Eh yeah, so so- all- and this is also (corteges?) not only to promote it, but also of course to do it. So this is something we do today. I guess we do materials wise and stuff like we push- we try to find new materials
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Kenny;I'm not sure how much they do in some cutting edge materials, but they are of course discussing different materials when they are making seats and- all these kind of things and I know because the-
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Steven;I'm thinking these people they don't want- they don't want a leather key thing, they want something (.) I don't know. Lunar rock (key thing?)
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;to differentiate them self you think? Yeah (.) so to stand out from the crowd
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Steven;yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;eh cool
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Steven;"yeah I had something, I don't know I called accessory pool because I was in a hurry, but it's the same as Steven is saying, but instead of renting our your trunk or your space, you can rent out your eh your roof rack or eh so you have maybe some id tags on the different accessories and they are always broadcasting ""I'm here, and I'm available"" and you can go pick them up somewhere."
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;smart serving
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Steven;because we have to share things just to the cars also accessories
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Kenny;"so it could be supported by like a- like a online service where you can communicate like ""I'm going from A to B every day, then if you need something then I- I have space"" or something like that."
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;I was thinking a little similar, if I may? But not exactly the same, but a basically a (.) family accessory subscription (..) eh so that you pay a fee and then you can basically go and get the accessory you need for the occasion (.) or have it brought to your door, that's even more premium of course eh but the idea is that eh some accessories is at least - I think you need like eh for a few times a year
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;mmh mmh
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;ehm
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;seasonal stuff p yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;ski
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;exactly yeah and that- if you buy it at a cheap place maybe it works, but here you can get the full service in stead, it's brought to your door, it's maybe mounted on your car and [you get-] you don't have to choose this or that because you have access to it all if you pay enough
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;[and you don't have to storage]
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;"are you now thinking of  for example people who will have this mental chain which is ""I only need it once, why should I go for the premium one, I'll just buy some cheap shit that only needs to last for one (.) one time"" that kind of story, then it- or ""I'm not gonna use it more anyways""."
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;if you have this service you can get the best stuff, but you only pay for it or pay a low prize for it
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;yeah and also maybe if you are (.) you don't want the hassle and you are not sure what you need ehm
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;okay so it's a little some thing I can do with
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;like or almost like an insurance
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;yeah mmh mmh
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;and you the best
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;you want the best [yes of course]
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;[yeah exactly]
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;you want the best, but you don't wanna commit tho the (.) you don't wanna commit to the [whole thing and the roof box]
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;[you know maybe these people they will probably]
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Kenny;[(INAUDIBLE) what is the best?]
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;I think you need, I don't know if these people have problem with storage, but it's always like it is something[ they have to mount is bla bla bla]
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;[no but they do actually]
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;but I would just order through my card and (stare it?) the evening I need it
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;but it's interesting in the sense of the kind of reproduction triple bottom line here, 'cause if you want- if you buy stuff and only gonna use it once and you buy the cheap stuff because you save money, but probably it's more suffering involved
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Kenny;yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;because you know, then [you get a roof rack] that it costs 50 kroner. Somewhere along that line (.) is a child in Indonesia
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;[yeah yeah yeah]
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;instead of going for the full thing, but you only gonna use it once, so it's- you don't wanna invest (..) yeah that's cool. Do we have that (..) did you write that down?
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;I'm not- you did
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;[it didn't]
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;[in the meantime I put up]
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Steven;I wrote like family
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;Hold on two seconds
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;(INAUDIABLE) everything
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;[yeah so]
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;[It was down] with the once (INAUDIBLE)
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;Yeah so it came also in the accessory pool. Care to care. Equipment sharing. Local community. Eh. Write it down
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;yeah ehm could you also, yeah, add the whole thing about the yeah if you have this- you can get the best, also sustainability wise
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;eh kit kit
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Kenny;fuldstændig, det er super godt (translated Completely, it's super good)
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;eh eh you wrote down right now the refurbished accessories now. Refurbished accessories. What do you think about that? Or what is it?
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Steven;In the line with the durability and passing things on, that we could also sell refurbished accessories, so you can return them to THE COMPANY or sell them back or- so along with what Paul was saying, that- that you can maybe have some kind of where you pay a fee and then you get (.) or you- like a subscription, then you get a child seat that will last for the first nine months of the child's life and then you get a new one and you just return them kinda like we have in Scandinavia with the Baby Sam shops.
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;yeah, yeah. Baby Sam?
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Steven;yeah Baby Sam has it (laughs)
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;eh it's eh how can you get around that refurbished is sometimes thought about as cheap
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Steven;it's refurbished from cheap (laughs)
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;so much better than you use this
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Steven;yeah I don't know I don't know eh I guess it's in line with we have to s- save the planet so we can't just eh create [new products]
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;[okay so] you're using that as the driver, the value of [products]
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Steven;these products are so durable and you can [reuse some of them again]
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Kenny;[Yeah sorry]
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;yeah yeah cool (.) yeah do we have eh something more
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Steven;yeah I do
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;come on
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;I have also
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;come on come on
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Steven;okay
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;"yeah ""elder care"""
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Steven;care for parents because I remember one time I did a study in China with hearing aids and we discovered that we shouldn't really talk to the actual hearing impaired, we should talk to the children of the hearing
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;because they are hearing (laughs)
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Steven;I did a phone interview  and it was horrible (laughs)
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Steven;but it's actually the kids who- who assist them in buying this so what- mh yeah I don't know, I just if [just a] brain fog
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;[okay]
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Kenny;[super interesting]
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;so it was kind of a- so take the approach kinda indirect- the indirect path to the source of the of the issue eh so elder care. How can you like- so that is linked then to what part of THE COMPANY?
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Steven;(long pause) ac- that's very-(laughs)
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;I guess, Steven, everything that the so the users that we are aiming for are these young progressive users and
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Steven;and their parents
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;and their parents, exactly, so if their parents are going to get something new for their THE COMPANY PRODUCT or whatever, then we want these progressive users to be the ambassadors of THE COMPANY, so that they would suggest (.) some product that fits their parents, right?
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Steven;I couldn't fit that on a post-it, but yes (laughs)
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Steven;something like that yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;so
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;that they are reaching [the elders] through the youngers
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;[that really wasn't very different]
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Steven;yeah yeah that's what I mean
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;yeah yeah yeah that care for- that's why you have care for their parents
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Steven;because yeah we had eh people buying hearing aids for their parents (INAUDIBLE) so they need just some different information than eh the (user?) not done in the same way as the the (INAUDIBLE)
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;yeah could you- could you elaborate a little bit on what kind of eh what values would that (..) elevate or showcase? (..) what's in it for, for the active urbanite? Why would they invest in something like this?
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Steven;Because they need to show as well that they take really good care for their parents and the elders
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;yeah exactly it makes- it makes perfectly [ sense]
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;[show taboo]
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;I guess it's just the
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;show to their parents or to others?
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;to others
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;okay and to their parents I guess also that
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;"""I love you"" there is something for THE COMPANY"
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;but I guess it's I mean if the active urbanite stay in the middle they have kids, they have their parents, they need to take care of both. We have focused a lot of (.) taking care of the kids, making sure that it's eh nice materials and so on, but I guess it's the same for their parents or their grandparents or
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Kenny;it is and actually we had it, I think in some of our material, this (feeling of pity?) but-[we] didn't address it al all, but of course it's something that exist very extensive in China (..) we don't really include it anywhere
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;[yeah yeah]
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;I (.) have it in my draft of this one
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;oh yes
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;there is actually a law
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;wuhu
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;hello! (off task behavior)
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;"so actually in this one ""Progress together"", there is- I found out there is a law in China that says that if you don't meet your parents more than- if you don't visit your parents you could be served"
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Kenny;should we raze through the rest thing?
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;yeah (off task behavior)
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;yeah so this has to do with- so you are connecting this to the values that-
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Steven;yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;the value set and kind of their habits of what they normally would do, which is care for their parents
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Steven;yes  yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;so I guess (.) thinking one step further ahead would be that (.) we should have some products that would create a further (INAUDIBLE) which should- which makes sense for eh
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;we communicate to the active urbanite with products that is meant to to to reach eh their parents
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;exactly, just like a child seat, but for
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;the retire seat (laughs)
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;parents
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;or retarded
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Kenny;retarded
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;like super loud speakers
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;do you wanna write that down? What you said
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Steven;it says it already
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;ah but more explicitly
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;should I take mine super fast?
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Kenny;yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;I was thinking about the- like a THE COMPANY academy (.) ehm classic idea I'm sure. Like ehm where you take a course and get wiser in for example environmental care or
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;okay yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;maybe when you buy your car, like when you buy a car you get like this driving course and I know that THE COMPANY has some courses when you go up the- one of the early drive e- engines like to drive environmentally safe. That maybe that track can be explored more
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;mmh mmh mmh yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;"then I have like get- very simple idea, but eh (.) when you buy an accessory from THE COMPANY you should always get something extra (laughs) like for example if you're at a good restraint or if you are at a bad restaurant you re- read the menu and it says like eh bacon, onion and bread and you get that, but a good restaurant you get that plus something else like ""wow that's nice"". here it would be like two bowls of mountain water or whatever and some- some added value"
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;yeah yeah which is kinda comes as a prize or is it eh advertise
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;first time it is
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;yeah okay
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;but then it's like (..)
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;okay cool
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;a reason for choosing
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;yeah yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;yeah the of course teaming up with a cool local brand
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;okay? Let's talk about that a little bit
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;"either through commu- both through communication, like we do stuff here with BRAND for example ehm so it can be marketing angle, but it can also practically be being in their ""sales channels"" whether that is a wet- website or a physical store and also the other way around of course, that they (.) have stuff in our stores."
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;yeah. What do you think would be the value of that?
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;I think like the (hail?) of it- of course it has to cared- carefully selected because their reputation (.) will (..) eh like wear off on THE COMPANY eh
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;does it has something to do with gaining integrity gaining some sort of status within another area?
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;I  think the BRAND thing is a good example because it is still safety (..), but just showing that we care broader than the car
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;to expand
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;it's the- to expand and maybe reach people that are not very (.)
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;yeah but why do we need to use BRAND or why do we need to use some other brand for that?
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;I  think we get something for free
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;ahh okay
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;"I think they probably ""they"" if they are good, have already an existing group of ""followers"" and if they like vouch for THE COMPANY"
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;and those are the people you want
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;so it's conquest the people?
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;okay
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;but it should be a win-win yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Kenny;I think we should wrap up
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;"last one, last one ""comfy accessories"""
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;comfy accessories?
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;comfy accessories
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;okay yeah just a further line
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;it is. Seatbelt puffs
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;yeah yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;ahh
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Kenny;mmh
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;super non analo- what's it called- allergenic and heated child seats like
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;comfy like yeah
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Abby;yeah like that one. Do you have it?
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Paul;you can have these and these side
+dtrs-11;21-brainstorm-on-concepts-and-products-1;Ewan;(off task behavior) Thank you!

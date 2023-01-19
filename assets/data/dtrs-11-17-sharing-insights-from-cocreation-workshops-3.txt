@@ -1,0 +1,269 @@
+dataset;session;speaker;utterance
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;So I think the thing that came up the first all came here, it was environment and safety and they- and they sort of said it in the same breath, although I guess to them it means different things, but then they just linked (.) these are two strongest things that they associated mo'- (turns post-it cardboard around for the others to see) (..) So, the two things that they associated most were environment and safety. And so (.) I think safety was the one that it was like easiest for them to talk about, they could talk about everything, like- so I guess the few people who spoke first were the THE COMPANY PRODUCT owners who had all the features in the cars they need, uhm
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Abby;"Yeah. The new guy was just (.) he just wanted to go first, like ""oh oh!"""
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Kenny;"""I know it, I know the answer!"" (laughter)"
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Nina;"You could just really see that they are proud that they own THE COMPANY PRODUCT. Like, you know? Like, you know I have to say this, I have to say- there was like- kind of like they were, like, competing like ""oh I have this feature and have that"", you know? Like, and then the others like ""oh I'm a Mercedes, so"" (laughter)"
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Kenny;But actually, I think Heidi, she was quite involved too, she knew a lot about cars and like-
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;Yeah yeah. She was the seatbelt woman.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Kenny;And she [doesn't drive THE COMPANY PRODUCT, right?]
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Abby;[Yeah, exactly. No].
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Kenny;[No. She knew that THE COMPANY invented seatbealt and the whole story].
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Abby;[And the whole story, yeah].
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;So this is the great company that she talked about.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Kenny;Yeah.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;I think what she really- so, greatness and truly (.) (INAUDIBLE) status word, so this one has a bit of (.) we use this word a lot for like (.) I have (.) eh for my mother for example, or for my parents, like you have that kind of-
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Abby;Kind of caring and-
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;Yeah, like your- it's eh (.) like, if you think about how your mom will sacrifice anything for you, it's that kind of an idea. So it's not just great, it's like really admirable quality, like, like that- that was what, usually we use the word for that, so. So I mean she said this is the one, (show?) her the seatbelt and sharing expertise which is- I think that was the key to the- [it was the (INAUDIBLE)].
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Tiffany;[Yes, yes, they didn't keep it for themselves, they were actually sharing with them, yeah].
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Abby;[Exactly, exactly. Planning the-]
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;So safety safety safety everything, and then the environment-
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Abby;So I guess it's the surplus, in this thing here.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;Yes, it's actually-
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Abby;That you actually, you have this (.) I mean, you don't have to keep it for yourself, you are big enough to actually share with everyone, and you don't really get hurt by it, because it's something that you really want for the humanity to (laughs) to get.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Tiffany;Yeah. And there is also-
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Kenny;Maybe mother is a good example, a mother's greatness, I mean. The mother will give the children the good pieces of chicken and eat the rest of it herself.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;Yeah, exactly.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Kenny;That kind of eh greatness, yes.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;Yeah, that kind of greatness.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Tiffany;And then it's also in our communication, at the safety center, it is about that we meant that it's safe to build in a love of stories there, and that now all the cars are set, so. She had a great (INAUDIBLE).
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;Then the environmental friendly measure- I think they didn't (.) know what exactly is environmental friendly, they just had that perception that it was environmentally friendly.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Kenny;Yeah.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Abby;Yeah.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Tiffany;Yeah.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Nina;Also recycling, like the materials, no they didn't mention that here?
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Tiffany;Eh no here they mentioned that they are using certified used standard materials.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;Yeah, so that it mix- mix the-
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Tiffany;And no smell.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;Yeah, and no smell.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Tiffany;Yeah.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Abby;But again, I mean, BMW or Mercedes or Audi will do the same, right?
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;Will also make the same standards, right, yeah, that's what I was thinking.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Abby;Yeah, so.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;I think it's probably the smell I think, 'cause most- most of the owners always talk about how, when you're going to a THE COMPANY car, there's no smell than if you go to like the other cars, but. Yeah, so, this was the thing.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Tiffany;Mhm.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;Then- then this was kind of the components of (.) the facets, the qualities of the brand.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Tiffany;(INAUDIBLE)
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;"Well understated, very understated. This is a word that- this isn't also translated really well in English, so, in a way it's ""grand"", so but then it actually has a bit more of the feeling of the car, so it's not just grand as in big, but it has the aura kind of an ""I do"", kind of (INAUDIBLE)."
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Abby;So is it the premium feeling that you get when you (.) go into it, or is it-
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;"So, I think what- when she first- or whoever first wrote it, the word that they were try- they first said that it was because when I see the car (INAUDIBLE) they are quite big, so I think that's why they used that word. But usually when you use this word it's not just ""big"" as size, but it's the (.) almost like a stature that comes together with it. Not the status, but the stature of the car that, like the aura that comes with the car, so that's the (.) that's the word for it. So it's like ""grand""."
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Abby;"I think it was translated to ""spacious"" in the (.) by the translators, I guess it's-"
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;"There's a- there's ""spacious"" here though. (points to post-it)"
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Abby;Ah okay, so maybe that's just-
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;There's spacious here, yeah.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Abby;Okay, yeah.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;"This is like ""grand""."
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Abby;Yeah.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;"Kind of an idea of ""grand"". Ehm, we had a few personal lights, but they didn't really say- I think- oh, no it was nice, it's more like (.) human centered."
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Kenny;Oh yeah.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;(INAUDIBLE) (laughter)
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Kenny;You can write upside down (laughter)
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Tiffany;(..) They said something that the authority people does not boy- buy THE COMPANY PRODUCTs.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;Sorry?
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Tiffany;Like the authorities?
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;Uh-huh?
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Tiffany;They don't eh buy THE COMPANY PRODUCTs. Did they say something about that?
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Abby;No didn't they say that it could be bought by the government because it was understated?
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;Ah they had to do the understated-
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Abby;Yeah?
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Nina;Yeah I thought it was the other way around too.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Abby;Yeah.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Nina;They were bought actually by the government and then they (.) kind of didn't know.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;Okay the typical government car is Audi. That's the- that's the car that most government people will drive, but I guess (.) if they talked about understated then it kind of makes sense, because they do see that THE COMPANY is not the flashy kind of BMW type of car.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Abby;Yeah, exactly. And I think what they said was that it could be bought by the government, to be gov'- so, but it wasn't, but it could be. So it kind of had the same, exactly with the understated-
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Kenny;But I think one of the guys, he said that he didn't feel like the look of it was understated, because it still looked like it was a big luxurious car.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Abby;Oh.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Kenny;Ehm, I think it was this guy.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Abby;Yeah.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Kenny;But they had some- they had some discu'- I think it was in this discussion they were talking about that, the look of the car.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Abby;Yeah?
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Kenny;When they were talking about understated cars and this is very anonymous, this is very understated.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Abby;I have something here, not about appearance, but about the character.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Kenny;Yeah. (..) And then I think (.) maybe it wasn't here, I think it was here. I think they were talking about the brand, the brand was the- what, that was understated.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;Yeah, the brand was what the understated.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Kenny;Yeah yeah.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;That's usually the-
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Kenny;But the car itself, the appearance was that it was not eh understated.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Abby;Yeah, exactly. And I think that's the not about appearance but the character. The character's the brand and the story and everything that you-
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Kenny;Yeah, everything behind it.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Abby;Yeah, exactly. And then the- also the thing about that eh (.) THE COMPANY cares for humans, so the passenger, of course the driver and the passengers, but also the people surrounding the car, kind of eh yeah.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Kenny;Yeah.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Abby;So it wasn't just (.) the people inside the car, and I think THE COMPANY's also (.) been doing a great deal to actually explain that there are actually also these eh
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Kenny;Pedestrian airbags.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Abby;Pedestrian airbags (laughs) and so on, so.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Tiffany;Yeah.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;I guess we have a bit of the high tech, safety high tech stuff, which I- was linked to I think the safety (power?) functions, I think that's what they were looking at it.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Kenny;What did they say about electrical (INAUDIBLE)?
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;It was I think related to this, in the (issue of power?), I think somebody was talking about the engine
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Tiffany;Yeah.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;And how their-
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Kenny;And they have small but efficient engine.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;Yeah, small but efficient engine.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Tiffany;Yeah, and that BMW is a driver's car, but they thought that THE COMPANY is as well.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Kenny;Yeah, that's true yeah. I guess that's the THE COMPANY driver, he said that he (knew?) the differences, he tried both of them and they are similar to (.)
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Tiffany;Mhm.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;It was- (INAUDIBLE) also talked about the engine, about it being horizontal then if you crash then you would then hit with the-
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Kenny;Mhm, that was true, yeah.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Tiffany;At the same thing, yeah.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;So this time actually I have the- heard somebody talk about that, so. It's very interesting, different way of looking at safety I think. Not so direct.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Kenny;Yeah.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Tiffany;Yeah.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;(INAUDIBLE)
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Tiffany;They said something about this eh (.) the factory, local factories, that it's not that good quality?
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;Made in China.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Tiffany;Yeah.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Abby;Yeah.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;I think it was the (.) it was the thing to (INAUDIBLE) in Europe, but also that it's made in China, it was a bit-
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Abby;Yeah.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Kenny;But it's still only the long wheel (bait?) which are made in China, right?
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;Yeah, but like (.) China specific cars.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Tiffany;No, no. We are dealing more and more cars.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Kenny;Made in China?
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Tiffany;Mhm.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Kenny;Mhm, alright.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Abby;But I guess it was the whole idea that it's now a Chinese brand.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;Yeah, and it's also a (gil?), that the (gili?) (.)
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Abby;Yeah, exactly.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Kenny;Yeah. (..) Off task (..)
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Tiffany;So we'll actually produce that (.) mainly the long el versions of course, but eh also (the units?).
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Kenny;All of the units?
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;Two units, or?
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Tiffany;Two, yeah, [made in Chi'- made in China, and eh]
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;[So it is in China and-] ah.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Abby;And maybe that's even (.) an even bigger thing to actually say, because then [it's actually about]-
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;[Yeah, this is like the story about it].
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Abby;It's totally the odd way around now. Normally it's from west to east, and now it's actually from east to west with the- with the quality cars and everything. I think that's actually eh-
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Kenny;And I think that's something we should not hide or [we run it small, it should be something we write with big letters].
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;[Yeah!]
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Abby;[Yeah, exactly, that's eh yeah].
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Kenny;Something that we should be proud of.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;Exactly, it's like this is for you to (.) if the- if American drivers with supposedly higher standards can accept Chinese cars, then that is perhaps the-
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Tiffany;Of course I mean as eh (.) what I hear is when in China there's a lot of poverty, that as some mentioned, was it yesterday? It's that if you actually show up at the factories as well, and talk about it and have the full story also there, and here you have eh the good thing, the local, you know China. So then it maybe can get things out from that as well, and then if eh really produced here and export it to US, then it is a global brand even- or global car even though it's produced here.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;Well, what's the (INAUDIBLE) in China, are they eh joint venture? With the other companies, or (.)
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Tiffany;It is ehm pure THE COMPANY factories, and it is eh the same car, but a longer version in some cases, I think eh one of the cars-
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Kenny;Sorry?
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Tiffany;One of the cars eh I think it's eh (.) same same even.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;Mhm. Then actually then that I think has more weight. Because actually BMW for example has been producing locally (.) for a very long time and they are always joint venture cars, so that has a lot less weight as compared to like an (in-bottom?) pure BMW version, but if the THE COMPANY PRODUCT is like a THE COMPANY owned factory then actually that carries a lot more weight than like the JV actually, yeah. It was the BMW once that are (.) the joint venture on the back of the car it always have the Chinese joint venture company name together with the BMW.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Tiffany;Ah.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;Yeah, so everybody will know that this is actually a local eh-
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Tiffany;As far as I know it is that, but eh I am not sure, but as I have understood it it's our own factories.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Kenny;Yeah. That's a-
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Tiffany;I think so. I haven't heard anyone talk eh otherwise.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Kenny;"No, no and the presentations of them on the internet is also like just ""this is a THE COMPANY factory""."
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Tiffany;Yeah, yes, yes.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;Yeah. But actually that's-
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Tiffany;With the same THE COMPANY quality and same THE COMPANY specification and same THE COMPANY tests and same sensing.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;"Cause I tried to push a bit about made in China, 'cause I said ""but they are other brands as well"". Then- then they were saying oh but because then the other brands are not doing as well when they produce locally, but if you can differentiate by what type of manufacturing locally really means, then the- there's a really more-"
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Tiffany;So maybe that is also a reason because other brands have actually had it here, and it is a lower (.) eh quality then they assume THE COMPANY has, or [had it as well].
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Nina;[So that it's the] trust and assurance of the (.) final product, that it's not gonna lower the quality.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Tiffany;Mhm.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Nina;Even if it's not produced in SCANDINAVIA.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;So I guess it's like producing locally, but who how where, you know like
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Abby;Mhm.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Nina;Yeah.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;Right? Not just producing locally full stop, right? It's like what about it that's producing locally-
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Tiffany;And also the message that it's not only SCANDINAVIA that we are producing the cars. We have always been- also in EUROPEAN COUNTRY and EUROPEAN COUNTRY. We have always had these three places, it's still Europe, yes. And then (.) now, also China for a couple of years so, we have been for a while still. So, we are kind of a global company with our factories where we want them to be.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Abby;But I think it's really s'- it must be really strong for the customers to hear that (.) these products, made in China, I- I mean of course it's not new that eh made in China is sold in- in the US, but that the
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;Yeah, that like a car and-
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Abby;And quality [car in THE COMPANY is actually quite an intern'- yeah, exactly].
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;[Yes, exactly yeah, I think this is a story to tell, yeah]. This will be very powerful.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Abby;Then I don't know if the US people (.) I mean, maybe they shouldn't hear this stuff (laughter)
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Nina;Yeah.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;But I mean-
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Nina;That's what I'm thinking.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;You know if you could like bolster by showing how it's made in China, then that provides the reassurance that made in China is the quality that is equal to that in SCANDINAVIA, right?
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Nina;Exactly.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Abby;Exactly.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Tiffany;Yeah.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;That people in the US are buying these things.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Abby;Mhm.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Tiffany;Yeah, mhm.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Abby;Yeah. I think we solved the problem now, yeah. (laughter)
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;She just said it right from the start (laughter)
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Tiffany;(..) Yeah, because that is what we will do in the future, so. We don't only have one factory, we will have several factories in China as well.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Nina;Yeah, two right now, right?
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Tiffany;Mhm. (..) Off task (..)
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Abby;But maybe should we focus on eh the slogans?
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;Yes.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Abby;And then we'll be done in twenty minutes.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;Nice.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Abby;At one o'clock. And then it's lunch.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;So I guess the slogans- this is Yang. So he was the one who said that ehm, the thing I heard- not human centric, but just people first, but also respect the people. And then health will follow you. So this is the- starting from the user, the user centric.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Kenny;Mhm.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;"And not just- not just being user centric, but then putting people first and then just (INAUDIBLE) people. Ehm this is (.) safety, reliable, high tech (.) what is this? High tech, environtmentally friendly. (..) Then this one is- oh this one I remember, this was Zack I think, the new guy? He said ""you should get what you deserve"" because he was saying that the current situation is less- sub-optimal, so you are providing them to go back to what was the original, which was better than the current sub-optimal, current situation."
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Tiffany;Mhm.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Abby;Mhm.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;(..) This one is (.) ehm, there are many facets of safety, so. Not just one way of talking about safety. I guess you guys talked about different ways of talking about safety as well.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Tiffany;Mhm.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Kenny;Yeah.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;"Eh this one is (.) oh okay, so this was peace of mind, and then the second (.) the next four words- okay, I just translate it as ""amazing device for your life"", so (laughs), there is ""amazing""- I think we keep talking about the ""god bit"", so this word is actually god, or zhen is a- is a (.)"
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Kenny;Divine.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;Like divine yeah, something like that.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Tiffany;Yeah?
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;But zhen zi- any- when you say zhen something it's more like (.) it's like amazing, like wow and beyond normal kind of thing.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Kenny;Yeah.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;(..) So then there's- oh, always thinking about your safety, so I guess we have quite a lot of safety stuff.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Kenny;Yeah.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;We can get past it. (..) This was comfort, safety (.) or comfort and safety at the core, and then (speaks Chinese) is actually a phrase that I actually don't know how to translate, that it's sort of- (speaks Chinese addressed to Will)
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Will;(Speaks Chinese)
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;It's like, (speaks Chinese) is like-
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Will;It's like expen'- (.) expensive-
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;Like expensive, but it's like the kind of feeling you get when you look at the huge sea, you know-
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;AM;Open horizon.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Will;Open, yeah. [Horizons yeah].
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;[Yeah, open horizon] kind of. As if it's-
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Will;But including the sky, including the ground, including the ocean.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;But it's a feeling.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Will;Yeah, it's a feeling.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;Actually, yeah. That you- yeah.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Kenny;Yeah.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;"(..) Then this is eh (.) ""let your life be more beautiful"". And this was Heidi who wanted the two phrases, but she wanted THE COMPANY yo be included because I think she was thinking it was a new product, you need the THE COMPANY quality to be anchoring the product."
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Abby;Mhm, yeah.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Tiffany;Mhm.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;Okay, that's it.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Kenny;(..) Mhm, I really really know what to get out of it.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;(laughs) I think it's a little bit hot.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Abby;Yeah, but I think it was a lot about the human and the safety and- yeah.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;Safety, yes.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Kenny;Kind of confirms a lot of the things
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;Yes.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Abby;Yeah, exactly.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Kenny;that what they're thinking is (.) is summarized in eh the slogans. Yeah.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Tiffany;It's almost that like, comfort, safety and su'- sun roof is the sky- sky is the limit, [sky is the limit].
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;[Yeah yeah, this is the- this is the feeling], yeah that was the feeling.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Tiffany;Yeah.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;Yeah. The sun roof that was what-
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Tiffany;Closer to the nature as well, and making life even better.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Nina;Yeah. (..) Get what you deserve, always think about it all the time, everywhere. Thinking about your whatever.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Tiffany;Mhm. THE COMPANY quality and THE COMPANY must be there in the slogan, they said.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Nina;Yeah, yeah, Heidi said that.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Tiffany;Yeah.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Abby;Yeah. (..) I think that's it.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Kenny;Yeah.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Tiffany;And then they also actually talked about this eh alcohol detecting device.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Kenny;Oh yeah, they mentioned that.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Tiffany;I found it eh interesting this eh (.)
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;Sorry, what did you (.)
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Kenny;Eh, something to detect eh (.) [if you have- yeah].
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Tiffany;[Alcohol].
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Abby;[Alcholic].
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Kenny;The drinking.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;Ah [alcohol, yeah yeah yeah].
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Tiffany;[So you cannot drink and drive, yeah].
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Abby;But not something as a- something you had to blow into, but just something [that the air] could just eh [measure]
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;[To sense, right?]
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Nina;[Scans your body].
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Abby;Yeah I think it was something about the air could just sense eh (.) eh it was detected (.) [in the air].
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Tiffany;[It was they're robot] kind of, they- they should provide THE COMPANY with this feature, this alcohol detecting something, and eh so-
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Abby;"And they talked about that a lot, actually, at the last session as well, so I think that was also why maybe it came up again, because they could suddenly see ""oh, oh, there's a connection here we need to eh"" (.)"
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Tiffany;But I wonder, is that something common in China? That you use this alcohol detecting in (.)
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;Not really, but I guess a lot would drink, and eh people who will catch (.)
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Kenny;"But I think maybe eh I saw that eh- I saw a lot of big posters in the streets where they say something about ""don't drink"""
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;Yeah yeah yeah
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Tiffany;Yeah? Drink and drive?
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Kenny;Yeah.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Tiffany;Is it eh allowed to drink and drive, or?
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;There's probably some limit, but I think-
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Tiffany;Yeah.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Rose;But I think maybe the idea is that drinking is a huge part of socializing in China, and people get very drunk when they socialize, so, then it is more like that element, and it maybe like targets after they're looking at other people who need to socialize, in the (bad?) business (.)
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Tiffany;Mhm.
+dtrs-11;17-sharing-insights-from-cocreation-workshops-3;Abby;Yeah.

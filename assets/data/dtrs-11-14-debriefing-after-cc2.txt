@@ -1,0 +1,871 @@
+dataset;session;speaker;utterance
+dtrs-11;14-debriefing-after-cc2;Ewan;Ehm also depends on how blasted they are, but ehm thank you so much Will and Rose (everybody's applauding)
+dtrs-11;14-debriefing-after-cc2;Ewan;Thank you so much Amanda (everybody's applauding)
+dtrs-11;14-debriefing-after-cc2;Ewan;And of course (..) to us (pointing at himself and Kenny) (everybody's applauding)
+dtrs-11;14-debriefing-after-cc2;Ewan;And also you guys (referring to the rest sitting at the table) (everybody's applauding)
+dtrs-11;14-debriefing-after-cc2;Ewan;Okay, so we can use a template, or we can loosely talk about it, or we writing it down. We have the next three days to understand this and package it, and cluster it, eh and should we kind of open up with some general thoughts? Of course we don't wanna deflate it, we wanna keep (..) - if we open up for it, we might come (INAUDIBLE) out and what we do tomorrow. We should decide if we do this for real, or we do it kind of light-weight. Or does people (INAUDIBLE)- it's fresh now of course.
+dtrs-11;14-debriefing-after-cc2;Kenny;I want it a little bit light-weight
+dtrs-11;14-debriefing-after-cc2;Ewan;Maybe a little light-weight? Eh light-weight, but captures, capturing.
+dtrs-11;14-debriefing-after-cc2;Kenny;Yeah I think we should capture it
+dtrs-11;14-debriefing-after-cc2;Ewan;Ehh
+dtrs-11;14-debriefing-after-cc2;Abby;We should definitely (INAUDIBLE) or else it doesn't make sense
+dtrs-11;14-debriefing-after-cc2;Kenny;No
+dtrs-11;14-debriefing-after-cc2;Ewan;Eh who wanna be on capture duty
+dtrs-11;14-debriefing-after-cc2;Nina;I take the notes
+dtrs-11;14-debriefing-after-cc2;Ewan;You wanna take the notes?
+dtrs-11;14-debriefing-after-cc2;Nina;I'll do it
+dtrs-11;14-debriefing-after-cc2;Ewan;Okay, very good (..) So maybe should we start out with you guys first, and we do that standard. If you think back on that day, what stood out the most? What is the thing you think about first, when you think about this day?
+dtrs-11;14-debriefing-after-cc2;Tiffany;They really contributed all, and they were so (unclear speeck) that we were listening to
+dtrs-11;14-debriefing-after-cc2;Ewan;Which one was that? Was that- oh it was that group, yeah
+dtrs-11;14-debriefing-after-cc2;Tiffany;Yeah (..) they were so engaged
+dtrs-11;14-debriefing-after-cc2;Ewan;Engaged
+dtrs-11;14-debriefing-after-cc2;Tiffany;Oh they were engaged
+dtrs-11;14-debriefing-after-cc2;Nina;and he ran to the bathroom
+dtrs-11;14-debriefing-after-cc2;Ewan;Who? Who ran to the bathroom?
+dtrs-11;14-debriefing-after-cc2;Nina;Yen?
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah Yenn
+dtrs-11;14-debriefing-after-cc2;Nina;Yeah he ran (everybody's laughing)
+dtrs-11;14-debriefing-after-cc2;Ewan;So he could come back?
+dtrs-11;14-debriefing-after-cc2;Nina;Yeah
+dtrs-11;14-debriefing-after-cc2;Kenny;Yen, like the least runnable guys
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah
+dtrs-11;14-debriefing-after-cc2;Ewan;"I think, not to over-analyze it, but I think it says something about the demographic as well. Like, really. This is the type of demographic that we wanted. They are engaged, the are (.) active, they wanna be there, they are (..) much more individualistic than like, i don't know, maybe ""our"" view of who the Chinese person are. At least they have a voice, they wanna say something. And I think that's great."
+dtrs-11;14-debriefing-after-cc2;Abby;Mmm
+dtrs-11;14-debriefing-after-cc2;Hans;(INAUDIBLE) and also what they're expressing, about the values. It's very much about the match with this environmental kind of thing. It's obvious for them, and it seems important as well.
+dtrs-11;14-debriefing-after-cc2;Ewan;Any particular values you- you kind of caught- that kind of caught your attention
+dtrs-11;14-debriefing-after-cc2;Hans;What was the- yeah- thinking about the environmental things and (INAUDIBLE), that for marketing, for the customers as well.
+dtrs-11;14-debriefing-after-cc2;Ewan;So the environmental things? They mentioned several things in regards to the environment.
+dtrs-11;14-debriefing-after-cc2;Hans;Yeah
+dtrs-11;14-debriefing-after-cc2;Ewan;Anything in particular
+dtrs-11;14-debriefing-after-cc2;Hans;But those (..) yeah (..) quite a lot of examples on the health topic
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah
+dtrs-11;14-debriefing-after-cc2;Hans;(INAUDIBLE) as such
+dtrs-11;14-debriefing-after-cc2;Ewan;Any eh- any- cause you know, they- I think what I thought was really interesting, in my group, was that-
+dtrs-11;14-debriefing-after-cc2;Abby;It was the same, right?
+dtrs-11;14-debriefing-after-cc2;Ewan;Ye- ye- ye- ye- yeah it was the same group. It was that, it was almost they got there straight away, especially, and I especially felt it when they talked about (..) eh the location of head quarter. How impor- not only the location but also the building. How the head quarter was build. As far as I understood. And I think that is the type of thinking that really excites me. The- they think several layers outside of the product itself. But it's not only like, the thing i own or I get, but it like, how is even a head quarter built. What kind f window material do they use. I mean, cause that is- they want to reflect this message, and they want it to be water tight, they want to have a complete story.
+dtrs-11;14-debriefing-after-cc2;Tiffany;And also the employees. In our group- in our group they talked a lot about the employees, they had to take care of their employees. And eh yeah giving them incentives and take care of their health, so they could get like health tickets, and go train.
+dtrs-11;14-debriefing-after-cc2;Nina;Also really like motivate them, like for people is to want to work for the company, to be very (assertive?) with the values and the vision of the company. Because that makes better performance, and then the customer is happy, because they (INAUDIBLE).
+dtrs-11;14-debriefing-after-cc2;Ewan;Mmm
+dtrs-11;14-debriefing-after-cc2;Tiffany;They should have a path, and the manager should see you
+dtrs-11;14-debriefing-after-cc2;Nina;Yeah
+dtrs-11;14-debriefing-after-cc2;Tiffany;and give you credit for it
+dtrs-11;14-debriefing-after-cc2;Ewan;And now for the million dollar question (..) Why was this important for them?
+dtrs-11;14-debriefing-after-cc2;Will;Why was this important?
+dtrs-11;14-debriefing-after-cc2;Ewan;Why do they mention this, why is this important to them?
+dtrs-11;14-debriefing-after-cc2;Ewan;Are they just- is this just random
+dtrs-11;14-debriefing-after-cc2;Will;I think the problem really, at least this is my take, that I think a lot of things (INAUDIBLE), every company or brand can say whatever, they claim credit for it, but if you really go down to the core where your company is, how you are building, how you treat people, it's really about authenticity.
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah
+dtrs-11;14-debriefing-after-cc2;Will;If you want to be (heard?) about the environment, or you want to be about being innovative, then you gonna make sure down to the core, how people are, how your culture is, (INAUDIBLE) it's not just about the message and your product, because that is probably the easier part.
+dtrs-11;14-debriefing-after-cc2;Tiffany;I also think that if people are happy at work, they will stay, and then they will hvae experience in the company and they will have good quality.
+dtrs-11;14-debriefing-after-cc2;Nina;I think they say that actually
+dtrs-11;14-debriefing-after-cc2;Tiffany;Yeah
+dtrs-11;14-debriefing-after-cc2;Ewan;So, if you're happy workers, you have good- the best- better quality?
+dtrs-11;14-debriefing-after-cc2;Tiffany;Yeah
+dtrs-11;14-debriefing-after-cc2;Nina;Yeah
+dtrs-11;14-debriefing-after-cc2;Ewan;Mmm
+dtrs-11;14-debriefing-after-cc2;Nina;They stay longer so they don't have to train
+dtrs-11;14-debriefing-after-cc2;Tiffany;Yeah
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah (..) Mmm (.) So eh I see it as, also as kind of the- what I maybe can call the trust trail. It's not like one message doesn't- or one advertisement slogan can (pack?) it anymore. We need to know that these people are genuine. And it's- it is not enough with just (INAUDIBLE). We need to actually know, yes they have- they are investing way beyond this strictly- little message.
+dtrs-11;14-debriefing-after-cc2;Abby;But the funny thing actually that they actually kept saying a few times in the end that ehm (.) it was the product that you see, and you don't know about the company, so all the company values didn't really matter to them. It was the company that was the- what was- what it was all about. The driver. And then if it was a good product, then they would start to kind of back-trace it a little bit, and the, okay,  say, oh it's actually a really good company. They take care of their employees and so on-
+dtrs-11;14-debriefing-after-cc2;Ewan;Okay so product first, that's kind of catches them.
+dtrs-11;14-debriefing-after-cc2;Abby;And also what she said about ehm that of course the- if it's not a good product, then it can't be sold, no matter how good the (INAUDIBLE) is.
+dtrs-11;14-debriefing-after-cc2;Kenny;But I think they might not be aware of why they prefer (INAUDIBLE) product. So what they remember is of course their product. I think that's why they mentioned the product is in the center, so of course they will see an advertisement or they hear it (INAUDIBLE) or they maybe even see something that they are not concious about, so they are of course exposed to the product but I think that they're not really aware of how the (INAUDIBLE) and marketing connects to eh- so i think that's why they- they communicated that the product is so important.
+dtrs-11;14-debriefing-after-cc2;Abby;It's of course also the easiest, I mean it's what we see-
+dtrs-11;14-debriefing-after-cc2;Kenny;It's what we see, it is what you get, and work with
+dtrs-11;14-debriefing-after-cc2;Ewan;And what you remember, yeah. And maybe all the others sub-consciously primed you.
+dtrs-11;14-debriefing-after-cc2;Abby;And they were also saying that- when they should tell about the product to a friend, they mentioned product, not the company (..) at all. Only if the friend was really interested, then maybe they also go back to tell a little about the- a little bit more about the company values. BUt they ould not (..) tell about the company
+dtrs-11;14-debriefing-after-cc2;Ewan;Yearh first
+dtrs-11;14-debriefing-after-cc2;Abby;First (.) or maybe not even at all
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah
+dtrs-11;14-debriefing-after-cc2;Kenny;And then again I think, that because i the end when we talked about, what do you think about THE COMPANY and all that kind of thing. All the stories came up there, even the stories that might not be totally true, so that's the way that they are telling abaut the product. So it's exactly the same, I think, when they're telling about- They think that they're talking about the product, but actually they're telling stories that they heard from someone else, and they read there.
+dtrs-11;14-debriefing-after-cc2;Ewan;And I think that is- it really comes back to eh whatever we create needs to be intertwined with the values and eh the message that we have.
+dtrs-11;14-debriefing-after-cc2;Abby;Mmm
+dtrs-11;14-debriefing-after-cc2;Tiffany;They also mentioned that the product needs to be in a really nice package, and the store (.) needs to be, like, very polite, inviting, open people, so the whole package really needs to have the (premiumness?).
+dtrs-11;14-debriefing-after-cc2;Nina;So they feel the value for the money
+dtrs-11;14-debriefing-after-cc2;Tiffany;Yes
+dtrs-11;14-debriefing-after-cc2;Nina;Yeah and she also said eh how they would like
+dtrs-11;14-debriefing-after-cc2;Ewan;Who is she?
+dtrs-11;14-debriefing-after-cc2;Nina;Heidi, yeah. That eh she would eh like eh the- in the news (INAUDIBLE) it would catch like more people, and then there were the experience where they can actually touch the product so that way would- in the experience it would be more about the product and in the news, it would be more about the company.
+dtrs-11;14-debriefing-after-cc2;Ewan;Mmm, and eh why do you think it was important to touch the product?
+dtrs-11;14-debriefing-after-cc2;Nina;Eh because she also said she wouldn't invest in something like she wouldn't believe. So she wanted to like, try it out, because that's what- was something like with eh with the price, like if I don't know, if I'm not like sure, like i wouldn't trust it, so I wouldn't invest too much money in it.
+dtrs-11;14-debriefing-after-cc2;Ewan;Mmm, is it trust of quality or trust in they needed it?
+dtrs-11;14-debriefing-after-cc2;Nina;The (.) quality
+dtrs-11;14-debriefing-after-cc2;Abby;Yeah
+dtrs-11;14-debriefing-after-cc2;Kenny;I think it's kind of an idea one of the guys refers to Apple stores, they get kind of this experience that they are (INAUDIBLE) as you get.
+dtrs-11;14-debriefing-after-cc2;Ewan;But it had- did it have to do with trust, or did it like- I might- this is my crazy assumption, but I assume that people trust Apple, but they still go to the store, it has nothing to with trust, it has to do with I wanna be part of it, I wanna aspire to this culture, hang out.
+dtrs-11;14-debriefing-after-cc2;Abby;But that was exactly what they said
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah
+dtrs-11;14-debriefing-after-cc2;Abby;About they actually wanted to go and see what it was all about
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah
+dtrs-11;14-debriefing-after-cc2;Abby;Because no one knew them, knew their product
+dtrs-11;14-debriefing-after-cc2;Ewan;So it was about excitement
+dtrs-11;14-debriefing-after-cc2;Amanda;I think, knowledge, right? You go there, you seee, you experience it. You know and you're authentic of knowing rather then just second hand information.
+dtrs-11;14-debriefing-after-cc2;Ewan;And I think that is fantastic thing about the Apple store. There is nothing else there, there's photos of products and products. That's it. There's (INAUDIBLE), just a little text, no nothing, maybe just a little price, or whatever.
+dtrs-11;14-debriefing-after-cc2;Abby;And our- one guy in our group also mentioned about the culture, how the Apple and the culture and what they do, influence them liking the brand.
+dtrs-11;14-debriefing-after-cc2;Ewan;Mmm (.) Yeah, and I think that is also, so good for us, as THE COMPANY, that it actually has an impact to that. The corporate culture will actually be part of, you know, building the product.
+dtrs-11;14-debriefing-after-cc2;Abby;And what parts of the culture?
+dtrs-11;14-debriefing-after-cc2;Ewan;So the- so the- In our group they- yeah, in our group they mentioned openess, for example, and they used an example from- from Panasonic. At Panasonic, even the low level assembly dudes can write a message to the CEO and say, I think this is (INAUDIBLE), approachable. So it means that, you know-
+dtrs-11;14-debriefing-after-cc2;Abby;They take care of their own
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah, take care of their people and everyone is pushing in the same direction
+dtrs-11;14-debriefing-after-cc2;Kenny;We had one guy talking about the freedom to express yourself
+dtrs-11;14-debriefing-after-cc2;Abby;Yeah
+dtrs-11;14-debriefing-after-cc2;Amanda;Yeah because (when they told eh each other, like that's how you can (INAUDIBLE)?)
+dtrs-11;14-debriefing-after-cc2;Ewan;Mmm (..) And eh- Yeah, so many things of what they say is like, wow, we- we have that in our company. We just need to tell that story. We need to make sure that the product or the service have eh pipelines for telling a story like that.
+dtrs-11;14-debriefing-after-cc2;Tiffany;Eh they also mention story-telling, that it is important, so absolutely
+dtrs-11;14-debriefing-after-cc2;Nina;It's what they mentioned with the Switzerland, like it had a story, and-
+dtrs-11;14-debriefing-after-cc2;Ewan;What was that thing with the Switzerland thing?
+dtrs-11;14-debriefing-after-cc2;Abby;So it was where the company should be placed, and they wanted it to be- or this one guy- the new guy, what was his name?
+dtrs-11;14-debriefing-after-cc2;Nina;Jimmy
+dtrs-11;14-debriefing-after-cc2;Tiffany;Oh Jimmy, yeah
+dtrs-11;14-debriefing-after-cc2;Abby;Ehm so he mentioned that eh he wanted it to be placed in Switzerland because
+dtrs-11;14-debriefing-after-cc2;Tiffany;It wasn't him, it as Yen who-
+dtrs-11;14-debriefing-after-cc2;Abby;Oh it was Yen, oh okay
+dtrs-11;14-debriefing-after-cc2;Kenny;Yeah, Yen talked about Switzerland
+dtrs-11;14-debriefing-after-cc2;Abby;(INAUDIBLE) Okay so Yen was totally into Switzerland and eh (..) one of the companies should be placed there, because of the- it's such a clean country and it was all about the environment and it would be very trustworthy to have it placed there.
+dtrs-11;14-debriefing-after-cc2;Ewan;Okay yeah
+dtrs-11;14-debriefing-after-cc2;Abby;Ehm
+dtrs-11;14-debriefing-after-cc2;Rose;(INAUDIBLE)
+dtrs-11;14-debriefing-after-cc2;Rose;Medical as well
+dtrs-11;14-debriefing-after-cc2;Abby;Ah yeah
+dtrs-11;14-debriefing-after-cc2;Rose;The expertise in more for up front (INAUDIBLE)
+dtrs-11;14-debriefing-after-cc2;Abby;And also- then the other one started to say that it was also important that it was actually a local brand, a place in CHINESE CITY if the products were made for CHINESE CITY
+dtrs-11;14-debriefing-after-cc2;Rose;simple market
+dtrs-11;14-debriefing-after-cc2;Abby;Yeah
+dtrs-11;14-debriefing-after-cc2;Tiffany;Mmm
+dtrs-11;14-debriefing-after-cc2;Abby;To have knowledge about the market instead of just- they didn't really believe that many European brands would fit to the Chinese market because (..) that maybe it didn't know the needs, so it- it's totally what we have got
+dtrs-11;14-debriefing-after-cc2;Ewan;Sort of like, global brand, global wisdom (..) all over again
+dtrs-11;14-debriefing-after-cc2;Kenny;Or if it should be in Eastern europe
+dtrs-11;14-debriefing-after-cc2;Ewan;(laughing) somewhere in Europe, or in Eastern europe, super specific
+dtrs-11;14-debriefing-after-cc2;Rose;But- but there's also a lot more trust for the foreign brand, because when the- I mean for us they were talking about, they were afraid about data, about their privacy being divulged, and then so they want- or some people say that is you have the server in Europe then that's because (INAUDIBLE) they believe that somewhere foreign as we trust versus (INAUDIBLE).
+dtrs-11;14-debriefing-after-cc2;Ewan;Even- yeah and of course, sure, we should focus on that right now, but how many years until that will change. 2 years, 5 years, 10 years, never? Will it change? If feel that we're on the steps of having- I use Chinese, you know, cloud-services, I buy, like
+dtrs-11;14-debriefing-after-cc2;Rose;No, but- but- but I don't think they actually think about the actual data on the server itself, but I think they are thinking of that if you have some- if they- they believe in the foreign brand, right?
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah, the foreign brand, rather than domestic
+dtrs-11;14-debriefing-after-cc2;Rose;Yeah rather than the actual server, as it not the actual thing, but you think the server as a proxy for like the bigger (INAUDIBLE)
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah
+dtrs-11;14-debriefing-after-cc2;Will;dispite that prefered credibility of international brands, I think that it's also- I think there a slow- slowly acceptance of local expertise and of eh brand. But, that said, at this point it hasn't reached large (INAUDIBLE), it's still at a small scale
+dtrs-11;14-debriefing-after-cc2;Ewan;It's still at small scale. So we see it ca- coming up through many start-ups and stuff like that, that the- and that we don't see any kind of major moves yet
+dtrs-11;14-debriefing-after-cc2;Abby;And i think she- and I haven't mentioend that (.) I think- remembering what- that she mentions somethign about the- that she was concerned about data, eh within the foreign contries or companies eh- it was more about what if- what if it's- it's- it gets deleted for example, then she has nothing, if she puts her whole life in this whole system, (INAUDIBLE) her companion is deleted. But ehm the new guys was more, if it was a local brand, then he was more concerned if it was sold
+dtrs-11;14-debriefing-after-cc2;Ewan;Sold?
+dtrs-11;14-debriefing-after-cc2;Abby;If the data was sold to others. Isn't that- wasn't that? O it was kind of different, okay, the local one they don't really trusted and if its kind of a foreign brand then its just
+dtrs-11;14-debriefing-after-cc2;Ewan;another type of choice
+dtrs-11;14-debriefing-after-cc2;Abby;its another, yeah, could it be deleted, or what could happen?
+dtrs-11;14-debriefing-after-cc2;Ewan;Mmm (..) one of the things they talked about in the beginning in my group was that ehm they talked about havi- having some sort of local trust- local link, so I was writing here that, you know, and local- a local value link, that was what I was thinking about, so you have- maybe a foreign brand has some values, but maybe its difficult to understand that value, because they're foreign values. But how can we find the local counterpart of those values, and then- so let's say that THE COMPANY has a value that is (..) safety, but let's sya it was difficult for Chinese people to understand what that safety was, but there was a person, a famous person, or an artist or whatever (.) in China, who shares some of that same values, (INAUDIBLE), then for them to understand it, we can use that person or that brand or whatever, as this channel-
+dtrs-11;14-debriefing-after-cc2;Will;to translate
+dtrs-11;14-debriefing-after-cc2;Ewan;that could translate
+dtrs-11;14-debriefing-after-cc2;Will;to carry
+dtrs-11;14-debriefing-after-cc2;Ewan;yeah (..) and, this of course don't (INAUDIBLE), kind of like, hooking up with other companies, but maybe more in the tangible form, like, oh you have an expertise within that, or it could be interesting to look at how could we story-tell through using eh local persona, eh as a value communicator
+dtrs-11;14-debriefing-after-cc2;Amanda;Yeah I feel, what's interesting was in the good life discussion-
+dtrs-11;14-debriefing-after-cc2;Ewan;Mmm, yeah this- this came around-
+dtrs-11;14-debriefing-after-cc2;Amanda;the family, they were like, oh no, in China it's not one or the other (.) it's together.
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah
+dtrs-11;14-debriefing-after-cc2;Abby;Mmm
+dtrs-11;14-debriefing-after-cc2;Amanda;So I think this is what THE COMPANY maybe should talk about, like, in every advertisement there's always a person, or a family unit, not just his car on his own, so some kind of family values, the (INAUDIBLE) the product itself
+dtrs-11;14-debriefing-after-cc2;Ewan;yeah yeah (..) yeah this is maybe not the lonely guy in the car
+dtrs-11;14-debriefing-after-cc2;Amanda;exactly
+dtrs-11;14-debriefing-after-cc2;Ewan;It is the lonely guy, but he has some sort of linkage to the other value, that are so important
+dtrs-11;14-debriefing-after-cc2;Tiffany;and they also mention that eh- it was important that it's people-oriented, that eh it is the needs from the people and all that, it was important as well. Need of the consumer,(INAUDIBLE) and easy to use.
+dtrs-11;14-debriefing-after-cc2;Hans;User-friendly
+dtrs-11;14-debriefing-after-cc2;Tiffany;Easy to use
+dtrs-11;14-debriefing-after-cc2;Nina;(INAUDIBLE)
+dtrs-11;14-debriefing-after-cc2;Tiffany;No convenient and easy to use
+dtrs-11;14-debriefing-after-cc2;Ewan;Mmm, why do you (INAUDIBLE) she wanted that?
+dtrs-11;14-debriefing-after-cc2;Tiffany;She wants an easy life, not too complicated things, and then the product she use should be easy to use
+dtrs-11;14-debriefing-after-cc2;Ewan;Why would you think she wanted an easy life?
+dtrs-11;14-debriefing-after-cc2;Tiffany;Not to waste time
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah wi- wi- with time?
+dtrs-11;14-debriefing-after-cc2;Tiffany;I- I think so
+dtrs-11;14-debriefing-after-cc2;Abby;But if Heidi had to choose, then she would actually choose comfort over convenience
+dtrs-11;14-debriefing-after-cc2;Ewan;Okay
+dtrs-11;14-debriefing-after-cc2;Kenny;I think she was the only one
+dtrs-11;14-debriefing-after-cc2;Abby;Yeah, so if it's something too uncomfortable then, for example to wear, then she wouldn't use it all even though it was super convenience- convinient, then it- it wouldn't be worth the trouble
+dtrs-11;14-debriefing-after-cc2;Ewan;Okay
+dtrs-11;14-debriefing-after-cc2;Amanda;So it's more like long-term comfort value, than a short-term convinience of use, i think
+dtrs-11;14-debriefing-after-cc2;Abby;Yeah but I mean, it was actually pretty concrete, it was- i think they talked about eh
+dtrs-11;14-debriefing-after-cc2;Amanda;wearables?
+dtrs-11;14-debriefing-after-cc2;Abby;Yeah and if it was uncomfortable she wouldn't wear it
+dtrs-11;14-debriefing-after-cc2;Amanda;So if you use it for a long time, it has to as comfortable from now to 10 hours form now
+dtrs-11;14-debriefing-after-cc2;Abby;Ah yeah
+dtrs-11;14-debriefing-after-cc2;Amanda;So even though it's very easy to put on, but it has to stay on and stay comfortable
+dtrs-11;14-debriefing-after-cc2;Abby;Mmm, yeah
+dtrs-11;14-debriefing-after-cc2;Will;I think the comfort has- might have additional intangible (INAUDIBLE) value or benefit, I mean, I theory, when you think something that's comfortable, you really associate it with something being ehm (INAUDIBLE), you know therefore there's some (partnership behind?) or something (INAUDIBLE), it's better design, or it may be better quality products or high premium, and therefore reflecting on you, so there's a little bit of taste, there's a little bit of ability to own them and buy them, there's a little bit of eh understanding  or appreciation of what is good stuff, as opposed to just- I think- companies that are probably just more, lower hanging fruits, in terms of basic human need or benefit, yeah. Or comfort is as well, but it might have a little bit of-
+dtrs-11;14-debriefing-after-cc2;Amanda;Mmm, so not compromising comfort for the sake of convenience
+dtrs-11;14-debriefing-after-cc2;Will;Yeah
+dtrs-11;14-debriefing-after-cc2;Ewan;Ehm (..) ehm would you mind writing that down on a (INAUDIBLE) (everyone's laughing)
+dtrs-11;14-debriefing-after-cc2;Rose;But then again I guess, because technology sort of (INAUDIBLE) every part of your life, you cannot have something that is inconvenient, because everything else is convenient already, it's more like it's relative
+dtrs-11;14-debriefing-after-cc2;Abby;Yeah (..) I think the convenience here, to be focused even more, is more about- it's not just a pointless add-on, it has to be a seamlessly integrated com- kind of convenience
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah, mmm
+dtrs-11;14-debriefing-after-cc2;Abby;And Yen also said that he didn't want to choose between comfort and convenience
+dtrs-11;14-debriefing-after-cc2;Ewan;Okay, so he- no compromise
+dtrs-11;14-debriefing-after-cc2;Abby;Yeah but Rose forced him (everyone's laughing)
+dtrs-11;14-debriefing-after-cc2;Abby;And he chose convenience, ehm, but he didn't- I mean he was- some of it, like, was almost equally important to him
+dtrs-11;14-debriefing-after-cc2;Tiffany;They also talked about that eh company mission should be like, or- have an added value for the society as well, the whole industry should engage the whole society (..) with their environmental values and stuff
+dtrs-11;14-debriefing-after-cc2;Ewan;And again why is this important for them?
+dtrs-11;14-debriefing-after-cc2;Tiffany;Peace for both body and mind
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah?
+dtrs-11;14-debriefing-after-cc2;Tiffany;That was- that was the next subject we talked about
+dtrs-11;14-debriefing-after-cc2;Ewan;That gets more peace of mind this thing, 'cause whatever a factory does a billion miles form here, doesn't really affect you
+dtrs-11;14-debriefing-after-cc2;Tiffany;Mmm
+dtrs-11;14-debriefing-after-cc2;Ewan;Cause of course, what link we hope to make, or at least I have a secret hope to make, is that, having them invest in something like this and other people seing the investing in sustainability, gives them a higher position. It makes them stand out
+dtrs-11;14-debriefing-after-cc2;Kenny;I think we did not enter the topic of sustainability, it really- the closest we came was like where this material- or what kind of materials they made this thing from-
+dtrs-11;14-debriefing-after-cc2;Ewan;I think, yeah-
+dtrs-11;14-debriefing-after-cc2;Amanda;We also-
+dtrs-11;14-debriefing-after-cc2;Kenny;More like a traditional understanding of the environment and eh-
+dtrs-11;14-debriefing-after-cc2;Amanda;We also talked about talked about that in the company, building-
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah I think that was where we-
+dtrs-11;14-debriefing-after-cc2;Kenny;Yeah energy and the consumption, and that was both the production and the product
+dtrs-11;14-debriefing-after-cc2;Amanda;Yeah
+dtrs-11;14-debriefing-after-cc2;Abby;Mmm
+dtrs-11;14-debriefing-after-cc2;Ewan;I think that we heard it from kind of a little bit on- from both angle- angles, that energy has this is eh electrical, solar power, people have been treated well, and then product has the- the high quality. It was like a classic triple buttom-line. And I think it came out, without us priming them too much, it was something that was within them. I don't feel that we had forced it out
+dtrs-11;14-debriefing-after-cc2;Will;Yeah we didn't have to wait until the modifiers for example
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah true, and I think that is what I really were hoping for that this came from the demographic
+dtrs-11;14-debriefing-after-cc2;Kenny;But yeah I had the same feel- I think also the the (INAUDIBLE) came before any modifier, it was just something that came- eh came from- was it just in the first eh post-it session?
+dtrs-11;14-debriefing-after-cc2;Rose;For the company? Yeah.
+dtrs-11;14-debriefing-after-cc2;Will;(INAUDIBLE) of course it varies between different individual
+dtrs-11;14-debriefing-after-cc2;Rose;Yes
+dtrs-11;14-debriefing-after-cc2;Ewan;Mmm
+dtrs-11;14-debriefing-after-cc2;Will;Eh but, when that- that- that (lady?), she's a little bit more into it, even closer to the fact (INAUDIBLE) whereas someone should be (INAUDIBLE) hey this is gonna benefit me, i'm gonna make the decision (INAUDIBLE) about sustainability or the environment
+dtrs-11;14-debriefing-after-cc2;Amanda;She's very practical
+dtrs-11;14-debriefing-after-cc2;Will;Yeah she's more practical
+dtrs-11;14-debriefing-after-cc2;Ewan;Susan?
+dtrs-11;14-debriefing-after-cc2;Will;Yeah yeah definitely
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah (.) Yeah (.) Yeah (..) We could also see it in the way they work. She was like taking the post-it, taking the pen, doing the stuff (..) and eh
+dtrs-11;14-debriefing-after-cc2;Will;Maybe it was because the guy was being lazy
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah because that was what the- Amanda was saying, 'cause I was like, is- is she like a typical CHINESE CITY woman, and she was like, oh yeah. And the guy Brian, he was like the typical CHINESE CITY man, like, husband.
+dtrs-11;14-debriefing-after-cc2;Amanda;There were such a hassle (INAUDIBLE), right?
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah
+dtrs-11;14-debriefing-after-cc2;Amanda;Like, whisper in her ear, and she will just do the thing, like he'll actually kind of influence her, and then at the end he was all of a sudden, I'm the man of the house, and I was like, oh (..) let the woman do the chore
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah
+dtrs-11;14-debriefing-after-cc2;Amanda;(INAUDIBLE), it was so good
+dtrs-11;14-debriefing-after-cc2;Ewan;But make her feel good while doing it
+dtrs-11;14-debriefing-after-cc2;Amanda;Yeah, and she love it (..) she loved that
+dtrs-11;14-debriefing-after-cc2;Ewan;Oh is there coffee
+dtrs-11;14-debriefing-after-cc2;Kenny;Yes but Anna is also going there
+dtrs-11;14-debriefing-after-cc2;Ewan;Alright
+dtrs-11;14-debriefing-after-cc2;Tiffany;I think that they also- or one of them said, was that you- if you don't have all this choices then you don't need to (INAUDIBLE) the options you have
+dtrs-11;14-debriefing-after-cc2;Ewan;Mmm, mmm
+dtrs-11;14-debriefing-after-cc2;Tiffany;And eh
+dtrs-11;14-debriefing-after-cc2;Ewan;Do you remeber which context?
+dtrs-11;14-debriefing-after-cc2;Tiffany;It was when we- it was in the beginning about- in the whole- in the beginning
+dtrs-11;14-debriefing-after-cc2;Amanda;Enjoy life?
+dtrs-11;14-debriefing-after-cc2;Tiffany;Yeah
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah, mmm
+dtrs-11;14-debriefing-after-cc2;Tiffany;And eh I was just thinking of all the options that THE COMPANY have, it's been a lot of options they need to choose for the specification for instance, but it eh- for me it sounded like it was kind of nothing he wanted. It was freedom, yes, but if you have too much options you don't really need to choose, and if you don't have them you can have more peace of mind in a way.
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah of course we only want the right options, we don't care about the others
+dtrs-11;14-debriefing-after-cc2;Tiffany;Mmm
+dtrs-11;14-debriefing-after-cc2;Ewan;But what is the right option?
+dtrs-11;14-debriefing-after-cc2;Tiffany;Yeah
+dtrs-11;14-debriefing-after-cc2;Ewan;And so-
+dtrs-11;14-debriefing-after-cc2;Tiffany;And also different from eh from eh CHINESE CITY was that I- I still want to enjoy life now, not only future stuff, I do want to enjoy now as well
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah
+dtrs-11;14-debriefing-after-cc2;Kenny;Yeah I think actually they- they read endurance like hard work, they kept saying something about hard work, in the beginning when they were talking about enjoy life, that they felt it was about hard work.
+dtrs-11;14-debriefing-after-cc2;Will;In the beginning or with the contacts or the company as well
+dtrs-11;14-debriefing-after-cc2;Kenny;Eh in the begninng when we talked about enjoy life
+dtrs-11;14-debriefing-after-cc2;Will;Ohh yeah yeah yeah
+dtrs-11;14-debriefing-after-cc2;Abby;All together?
+dtrs-11;14-debriefing-after-cc2;Will;Yeah
+dtrs-11;14-debriefing-after-cc2;Kenny;Yeah
+dtrs-11;14-debriefing-after-cc2;Will;I think that the (believing in hard work bit?), yes, but probably the way we elaborated and say working ha- hard now, and enjoy later, when you retire or whatever, that was too much of like, i'm not gonna delay 'till so- so far away. I- I guess they imagine that life can still be better now
+dtrs-11;14-debriefing-after-cc2;Amanda;It's that pockets (..) of enjoyment
+dtrs-11;14-debriefing-after-cc2;Abby;Exactly yeah
+dtrs-11;14-debriefing-after-cc2;Kenny;Exactly yeah  (INAUDIBLE)
+dtrs-11;14-debriefing-after-cc2;Will;So I guess that the whole thing about xian ku hou tian which is the traditional way of saying, it's really the more traditional way of saying
+dtrs-11;14-debriefing-after-cc2;Ewan;How do you say it?
+dtrs-11;14-debriefing-after-cc2;Will;xian ku, which is, bitter first, and, sweet later, hou tian
+dtrs-11;14-debriefing-after-cc2;Ewan;Bitter first, sweet later
+dtrs-11;14-debriefing-after-cc2;Will;sweet later
+dtrs-11;14-debriefing-after-cc2;Ewan;Zen co?
+dtrs-11;14-debriefing-after-cc2;Will;Xian ku. First bitter, and then (..) later sweet
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah, it's kind of scar- or how do you say in norwegian, i don't know what they do in Sweden, but eh- or in Denmark but eh, it's also a little bit like okay, I (..) I do hard like- okay I eat this really boring poridge right now, and I get full, and then I have little bit of cake afterwards. First you do the crappy part, then you-
+dtrs-11;14-debriefing-after-cc2;Abby;yeah yeah, I guess it's kind of- and also there's always something you don't want to do, and as sooner you get done with, the more you can enjoy it
+dtrs-11;14-debriefing-after-cc2;Will;Because (INAUDIBLE)
+dtrs-11;14-debriefing-after-cc2;Ewan;Ehm I felt- no sorry, yeah, so when we were doing the good life stuff and I wasn't- I was doing something else then, but they were sharing back, and I used the stickers and stuff like that. Well ehm most seemed pretty aligned, but there were some black dots there-
+dtrs-11;14-debriefing-after-cc2;Will;There were two main parts, one was this thing about-
+dtrs-11;14-debriefing-after-cc2;Ewan;Forth paragraph
+dtrs-11;14-debriefing-after-cc2;Will;Yeah the other part was the family thing which Amanda mentioned, ehm I think (INAUDIBLE), I think some subconcious they want some freedom or way from (..) some liberation from, but I don't think- I- I- think the way we written it, may have been kind of extreme, or may- may not be something that is (INAUDIBLE) correct to say
+dtrs-11;14-debriefing-after-cc2;Amanda;Yeah, it sound more like a burden
+dtrs-11;14-debriefing-after-cc2;Will;Yeah, it's more like- yeah
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah yeah yeah yeah
+dtrs-11;14-debriefing-after-cc2;Will;So (..) So, I think yeah the two parts we want is of course they don't see that you need to really break free from old bonds wether it of family or-
+dtrs-11;14-debriefing-after-cc2;Ewan;Shackles! The shackles of family
+dtrs-11;14-debriefing-after-cc2;Will;And number two, and I think that's part of life's enjoyment as well
+dtrs-11;14-debriefing-after-cc2;Rose;Yeah, which is the spending time with family right?
+dtrs-11;14-debriefing-after-cc2;Will;yeah but the other part which is the (trade-off bit), which is where I say, if you don't have all these barriers and challenges then what- what are the enjoyments?
+dtrs-11;14-debriefing-after-cc2;Abby;Yes
+dtrs-11;14-debriefing-after-cc2;Amanda;Yeah
+dtrs-11;14-debriefing-after-cc2;Will;Precisely because you face those barriers and difficulties that's why enjoyment is sweeter
+dtrs-11;14-debriefing-after-cc2;Amanda;Because if it hurt, then it is sweeter
+dtrs-11;14-debriefing-after-cc2;Will;If you just feel enjoyment, it's not really enjoyment
+dtrs-11;14-debriefing-after-cc2;Ewan;I think that eh of course that is very global but it's- it's eh easy to forget that it shouldn't all be like roses (..) Ehm then we started  on the company profile, and I think that worked out fairly well, ehh I was I got a little disconnected there as well- a little difficult to follow, which is- was fine. And they had their own thing going on. How was that process, like, in your- Rose's group?
+dtrs-11;14-debriefing-after-cc2;Kenny;I think it went pretty smooth. I think the logo thing pretty cool. I can see you copied our logo (everybody's laughing)
+dtrs-11;14-debriefing-after-cc2;Ewan;So what logos did you guys have?
+dtrs-11;14-debriefing-after-cc2;Rose;We had- we had really good logos, it was too bad we didn't have the chance to present it (INAUDIBLE)
+dtrs-11;14-debriefing-after-cc2;Will;Car
+dtrs-11;14-debriefing-after-cc2;Ewan;Can you show Kenny?
+dtrs-11;14-debriefing-after-cc2;Ewan;So that was? Was that?
+dtrs-11;14-debriefing-after-cc2;Kenny;So this was about the balance. A ball and then we have a board of some type, and then (INAUDIBLE) symbolized the balance, and then it's off-balance because you couldn't really find- of course you aspire to find the balan- you wouldn't find- you needed to work hard to get there
+dtrs-11;14-debriefing-after-cc2;Rose;But he's- he meant it in the always external challenges, so you're always trying to seek a balance within the (INAUDIBLE) which is, I think precisely  what we're been trying to in the whole enjoy life, right?
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah
+dtrs-11;14-debriefing-after-cc2;Rose;So that was-
+dtrs-11;14-debriefing-after-cc2;Ewan;The whole kind of balance metaphor is so powerful and so- (they speak all at once)
+dtrs-11;14-debriefing-after-cc2;Ewan;So Asian!
+dtrs-11;14-debriefing-after-cc2;Kenny;And then there was a- they started making a mercedes logo actually, he made of course a peace sign, that was the one guy- one guy (INAUDIBLE)
+dtrs-11;14-debriefing-after-cc2;Rose;So for him it was really more of like, I think last when we talked about ehm good life and society, and how the whole society progresses, he really saw like peace was like, the end goal,
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah he said that last time as well
+dtrs-11;14-debriefing-after-cc2;Rose;Yeah but everybody progresses together (INAUDIBLE) how many, that was his-
+dtrs-11;14-debriefing-after-cc2;Ewan;That whole thing is almost a slogan, like the progress together thing. It's kind of Chinese and i guess it's als- it's almost communistic (laughing)
+dtrs-11;14-debriefing-after-cc2;Kenny;Yeah
+dtrs-11;14-debriefing-after-cc2;Ewan;But you can- Like, in a another context it's actualy sounds pretty good. Without the red flag-
+dtrs-11;14-debriefing-after-cc2;Kenny;And then there's this eh trivial triangle, it was really good
+dtrs-11;14-debriefing-after-cc2;Abby;Mmm
+dtrs-11;14-debriefing-after-cc2;Nina;Yeah
+dtrs-11;14-debriefing-after-cc2;Rose;It was a pyramid
+dtrs-11;14-debriefing-after-cc2;Kenny;Yeah three pyramids and they're like eh- wasn't they symbolizing wisedom and eh
+dtrs-11;14-debriefing-after-cc2;Nina;The group (..) green, was like the nature, gold was like the money and the other one-
+dtrs-11;14-debriefing-after-cc2;Abby;Was it the P in pyramid or the first letter in pyramid?
+dtrs-11;14-debriefing-after-cc2;Rose;So- so basically, yeah yeah, so the first was- so he meant it as the triangle, so like, it's a bit of like the foundation and then sort of move up. That kind of an idea. Ehm that in fact he wanted ehm- he was thinking that maybe a green (INAUDIBLE) but what he meant was ehm- because in- in pyramid, in Chinese because Jīn (kai?). Jīn is the word for gold. So it's not just about green and everything as a company they're still profiting, right? So there's still a gold bit.
+dtrs-11;14-debriefing-after-cc2;Ewan;(Wo changai?) is respected as well, especially in CHINESE CITY and CHINESE CITY and something like that, you know. And in the US especially, like wow he's a-
+dtrs-11;14-debriefing-after-cc2;Amanda;How do you measure success?
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah how du you measure success. (..) And it's important to be successful, because it- it stands for hard work, dedication,and  diligence. Yeah
+dtrs-11;14-debriefing-after-cc2;Kenny;It was the three of course that you copied, but ehm
+dtrs-11;14-debriefing-after-cc2;Will;(INAUDIBLE)
+dtrs-11;14-debriefing-after-cc2;Amanda;The fuits
+dtrs-11;14-debriefing-after-cc2;Will;Yeah (..) there's apples on it. There's someone underneath it. Enjoying the fresh air-
+dtrs-11;14-debriefing-after-cc2;Ewan;We had eh- the first guy here which had- this is a thumb guys.
+dtrs-11;14-debriefing-after-cc2;Will;Thumbs up, thumbs up
+dtrs-11;14-debriefing-after-cc2;Ewan;And the cool part is- was that like why is this thumb there, it like because when your friends see that you use the product or service, they give you the thumb (everybody's laughing)
+dtrs-11;14-debriefing-after-cc2;Ewan;I mean that is sexy commitment right there. Like wow. And then he feels like, so. (..) Eh and this one, which was pretty cool, was like, eh the sun rises, which of course like is very Chinese or Asian (INAUDIBLE) the rising sun, and it was like new hope. New beginning. New possibilities.
+dtrs-11;14-debriefing-after-cc2;Will;It must be over- it must be rising from ocean or sea, and not over city, 'cause the city is like- you see a city landscape and you all busy, chaotic and you feel stressed and so- so what is the sun rises from there. The sun rising form ocean is like liberation, freedom, enjoyment, yeah yeah
+dtrs-11;14-debriefing-after-cc2;Ewan;Eh I think they enjoyed that cause it means so much, you know like, new hope, new beginning, eh-
+dtrs-11;14-debriefing-after-cc2;Will;Somewhere else
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah somewhere else,  and also the- the- environmental part like this (.) product is a new beginning, this is the beginning of the start of- of a better life of the environment. Eh then you have this one, which was the person standing on the apple tree, kind of because it's cleaning the air and so on, kind of classic. But then this one, first I was like, what is this, but then it's actually pretty smart. This was the late-guy, or [Billy]
+dtrs-11;14-debriefing-after-cc2;Will;[Billy]
+dtrs-11;14-debriefing-after-cc2;Ewan;Eh so this is an arrow, this thing, pointing upwards, and that was because the arrow is the first thing the flies over the battlefield, so kind of the beginning. That was like, yeah, it's always the first-
+dtrs-11;14-debriefing-after-cc2;Will;Move forward
+dtrs-11;14-debriefing-after-cc2;Ewan;Forward, first-mover. So very very (good?), so on the attack, first-mover, and then this is a shield, right?, to protect you, (INAUDIBLE) protection. So first-mover, very innovative, new, you are there first, but also taking care of you. That was like first I was like, oh, I didn't understand, and then kind of-
+dtrs-11;14-debriefing-after-cc2;Will;You were trying to imagine which way is the arrow in
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah yeah yeah, holdingi t upside down
+dtrs-11;14-debriefing-after-cc2;Will;Cause he say, no it's upwards
+dtrs-11;14-debriefing-after-cc2;Ewan;Ehm eh did they- so again there was a little difficult with the translation for me it felt like they were very fragmented in our group, eh, but maybe that wasn't so- I don't know, maybe-
+dtrs-11;14-debriefing-after-cc2;Will;Yeah it was, but I think it is a bit unnatural for- to force them to kind of like, oh before you can get more [to know each other]
+dtrs-11;14-debriefing-after-cc2;Ewan;[No no, a hundred percent], yeah yeah
+dtrs-11;14-debriefing-after-cc2;Will;So, yeah but so, probably that's the part that is the main reason, but I think at least we got a fair bit of interesting stuff
+dtrs-11;14-debriefing-after-cc2;Ewan;yeah yeah yeah
+dtrs-11;14-debriefing-after-cc2;Rose;In our group was actually quite consistent, or everybody had pretty similar views of- in general. We kind of got to the main things that resonated with everybody pretty quickly. But then I think there was a quite good- a sort of like, sort of fine-tuning the ideas a little bit, to kind of match everybody
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah
+dtrs-11;14-debriefing-after-cc2;Rose;Yeah
+dtrs-11;14-debriefing-after-cc2;Ewan;How much were they going (..) like if you didn't control, you didn't herd them, how much, like herd, herd, herd, like herding a (flok?) of sheep, yeah. If you didn't herd them, how often did they kind of go over board with stuff, like for example we wanted them to constantly think of status symbol for example, and constantly think of health and stuff like that, did they automatically keep within that?
+dtrs-11;14-debriefing-after-cc2;Will;Well (INAUDIBLE) all the other six different pillars, right? Probably the one that is easier for them is status symbol. In fact, Right in the end of the discussion we hear symbols of the environment, we hearsymbols of some form of commitment, they don't want competition. They talk about safety and convenience. All of the kind of came out. The part about status symbol is really tricky, because some of them want to- when they think about building a business or company, they think of making money for masses. So, and that's the case, it's probably harder to kind of (INAUDIBLE) okay, for the masses, then where is that angle of- the more- the more subtle angle of, you know, status.
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah so this is of course the dangerous part of making them into a company, because that is a status symbol of a company, but we really wanted it to be for them as people of course, just using the company as an anology for-
+dtrs-11;14-debriefing-after-cc2;Rose;I think what we had was kind of nice was that, they were thinking of that the product can still be premium, but can be desired by the masses, so it was
+dtrs-11;14-debriefing-after-cc2;Ewan;Oh yeah yeah of course
+dtrs-11;14-debriefing-after-cc2;Rose;So it was (INAUDIBLE), but they still wanted to (make it?) available so that the- so it was a bit- so basically it was like Heidi said about Apple, people in China may earn 25,000 but they spend 7,000 on an iPhone, right?, so it is like, even the masses desire something that is premium, it doesn't bring the brand of Apple down, it just shows how much more people are (comforting?) the- the- the-
+dtrs-11;14-debriefing-after-cc2;Will;I think once they reached a point where they were talking about a custom, yeah kind of like, agreeing- or coming closer agreeing on a product idea, I think that- that becomes better and clearer. But at a starting point where there's few throwing out their own ideas, or what product might be, some was a bit too messy, or it could be ordered by my 60-year-old grandmother, you know, so
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah, I think what i'm wondering is like, yeah, how much is this already embodied in their ways of thinking, but- because i- i'm not afraid but like we shouldn't go back to Europe with a construct that we artificially made, we should come back with pillars that they actually subscribed to in some form or another.
+dtrs-11;14-debriefing-after-cc2;Rose;We asked the question about which additional values where not included in the list, right?, and then I think that was when Yang said that he wanted a company that was sort of- being sure that they excelled at every step, so he was not looking for a very big company to start with, (INAUDIBLE) a hundred but that-
+dtrs-11;14-debriefing-after-cc2;Ewan;The people working there?
+dtrs-11;14-debriefing-after-cc2;Rose;Yeah the people working there, yeah he would make sure that every employee is like eh (..) was like a dedicated member, so ev- every employee embodied the value that he wanted the company (INAUDIBLE), so that at every step where they're growing, they do to their very best, before they move up the ladder.
+dtrs-11;14-debriefing-after-cc2;Ewan;Why do you think that was important to him?
+dtrs-11;14-debriefing-after-cc2;Rose;I think (he would usually use it?), a lot of these values, and then for him, like, excelling is more important than just making money for example, like-
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah okay, so he put it up on that oth- another level
+dtrs-11;14-debriefing-after-cc2;Amanda;The quality but small, versus, scale but-
+dtrs-11;14-debriefing-after-cc2;Rose;Yeah
+dtrs-11;14-debriefing-after-cc2;Abby;Yeah exactly, and didn't he say something about that as well? The quality, and he wanted to- to make sure that-
+dtrs-11;14-debriefing-after-cc2;Amanda;And I think that aligned with us too, we asked them, on an online platform how do you know something is premium, (..) and they said it's one-on-one service, like, personalized, relevant, very targeted
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah
+dtrs-11;14-debriefing-after-cc2;Will;Deliver a service that is about- or getting consumers impression that its personalized for you, even though online. Just the fact that it's personalized and it's one-to-one , will give a feeling hey oh, there's a team behind all of it (INAUDIBLE).
+dtrs-11;14-debriefing-after-cc2;Amanda;Yeah yeah
+dtrs-11;14-debriefing-after-cc2;Ewan;There's a, sorry?
+dtrs-11;14-debriefing-after-cc2;Will;There's a team behind it. You know there's one-to-one, but it's the team entirely, the entire team, which is what premium experience is all about
+dtrs-11;14-debriefing-after-cc2;Ewan;Okay, that is like, that's the dream of of course eh THE COMPANY, both cars but also accessories to have that feeling of customization and one-on-one, like you get like, you are there, i'm here, but eh that is the premiumness of it. Is there any- have THE COMPANY ever tried something like that?Do we have like this some sort of?
+dtrs-11;14-debriefing-after-cc2;Tiffany;Customization you mean?
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah customization for sure-
+dtrs-11;14-debriefing-after-cc2;Hans;(to sort of create?) unique?
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah well yeah. One-on-one- to actually to like- the company has-
+dtrs-11;14-debriefing-after-cc2;Amanda;Knowing this person so well, you know what kind snack to give them as an option
+dtrs-11;14-debriefing-after-cc2;Nina;When I read an article it was published 2014 in December last year, that it's supposed to be in 2018, every new owner should have his own, like the personal (..) guy for the car, if it breaks like, you go to him, so it should be-
+dtrs-11;14-debriefing-after-cc2;Tiffany;Now that we have for the service of the car
+dtrs-11;14-debriefing-after-cc2;Ewan;Mmm
+dtrs-11;14-debriefing-after-cc2;Tiffany;But you can always choose to go to the employed
+dtrs-11;14-debriefing-after-cc2;Ewan;For one guys?
+dtrs-11;14-debriefing-after-cc2;Tiffany;One guy
+dtrs-11;14-debriefing-after-cc2;Ewan;Mmm, so yeah it's- we have something that is similar, but we just need to elevate it up to, like, when something breaks, that's like the saddest part of having
+dtrs-11;14-debriefing-after-cc2;Tiffany;Or when you have the service. But then eh they are thinking is like, you know for the customer- when to make the choice of the car, but it's eh- if you have different levels and it differs in Europe you have some (chain?) levels, Asia you have others, but then it's kind of (chain?) levels they are guided to. But then you always choose about the interior and exterior, color and-
+dtrs-11;14-debriefing-after-cc2;Hans;But I think working in different direction where we think less options
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah
+dtrs-11;14-debriefing-after-cc2;Tiffany;Yes
+dtrs-11;14-debriefing-after-cc2;Hans;To make things less complicated in the production (INAUDIBLE)
+dtrs-11;14-debriefing-after-cc2;Ewan;You can sa say- and it doesn't necessarily have so much to do with options, it's more like the personalized service. That someone knows you.
+dtrs-11;14-debriefing-after-cc2;Hans;Yeah but with the product as well
+dtrs-11;14-debriefing-after-cc2;Ewan;ye- ye- yeah it's true, of course you need to have- then you need to have something to choose from, but at least that eh that it's not sold to you by nobody, sold to you by someone that knows you
+dtrs-11;14-debriefing-after-cc2;Tiffany;Or it is if customer comes to the the store or the (dealership?) and then they know that you have a family or they know that you have eh you eh compete with horses or whatever. It the- it's up to the sales person kind of, to know them, what to offer. And choose some kind of package for the customer, but we are not there yet. Some of the dealers, yes, probably, but they are not as the standard, so to say.
+dtrs-11;14-debriefing-after-cc2;Hans;That should be the centralized direction of that. It's not up to the dealer. Of course (INAUDIBLE) so.
+dtrs-11;14-debriefing-after-cc2;Amanda;There could be a differentiation right? They come to THE COMPANY (INAUDIBLE) highly personalized. But then if they go to, you know,
+dtrs-11;14-debriefing-after-cc2;Ewan;A dealer
+dtrs-11;14-debriefing-after-cc2;Amanda;Yeah
+dtrs-11;14-debriefing-after-cc2;Ewan;Eh a franchise dealer
+dtrs-11;14-debriefing-after-cc2;Amanda;Yeah, then you really understand what quality means
+dtrs-11;14-debriefing-after-cc2;Tiffany;Mm
+dtrs-11;14-debriefing-after-cc2;Amanda;And I think that Chinese people can see that, like, just the bank example
+dtrs-11;14-debriefing-after-cc2;Rose;yeah something like banks yeah
+dtrs-11;14-debriefing-after-cc2;Amanda;Priority banking, how do i know you versus the mass, it could be any branches anwhere, which is very transactional, but then there's if you desire higher service, then like, even the staff is nicer to you when you're V.I.P.
+dtrs-11;14-debriefing-after-cc2;Will;But they are quite explicit about this, I mean- I think it's it's a- it's a more- it's a stronger more competitive way of expressing it, than just, I wanna be treated like a V.I.P., it's almost like the ressources in China are limited, there are so many people, I just want to grab a bigger piece of the pie. I just want to have more attention, more ressourcer. They are quite explict in saying that, which I think- not many- not many out of markets- consumers out of markets, say this way. They just say, I just want to be tre- treated better. You know, this nice feeling, and- and premium.
+dtrs-11;14-debriefing-after-cc2;Ewan;Can you exmplain ressources what did you mean by that?
+dtrs-11;14-debriefing-after-cc2;Will;"It's like ressources could be; medical, could be attention, could be service, could be just anything"
+dtrs-11;14-debriefing-after-cc2;Abby;Just like we hear last as well
+dtrs-11;14-debriefing-after-cc2;Amanda;I think (INAUDIBLE) (..) so there are so many, like, in a bank. In one-
+dtrs-11;14-debriefing-after-cc2;Ewan;In a bank
+dtrs-11;14-debriefing-after-cc2;Amanda;Yeah (..) You know- In an hour there may be 50 people waiting, whereas in other countries maybe only 15 to 20. So because it's already the mass, that's why having a (peer or precise?) alwyas matters. Because then you're kind of away from this ressources- pool of ressources, it's like, giving you a different thing, that you didn't have to fight with this people.
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah, of course we wish there were 50 people in our stores in- (everybody's laughing)
+dtrs-11;14-debriefing-after-cc2;Hans;In norway you mean?
+dtrs-11;14-debriefing-after-cc2;Ewan;We can do this, we can do this (everybody's laughing)
+dtrs-11;14-debriefing-after-cc2;Amanda;But if you look at Apple, compared to other stores, it's crazy. That's why Apple stores are so huge, and it's all still- it's always full.
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah, so- yeah and there's a- but also there's a billion people working there, so
+dtrs-11;14-debriefing-after-cc2;Amanda;Yeah, and they make you wait which actually- semi-intentional, cause then it kind of show the volume
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah show the volume and also they give you time with the product, of course.
+dtrs-11;14-debriefing-after-cc2;Will;But that- that only works when the brand has a certain credibility-
+dtrs-11;14-debriefing-after-cc2;Amanda;Yes
+dtrs-11;14-debriefing-after-cc2;Will;You know, (INAUDIBLE)
+dtrs-11;14-debriefing-after-cc2;Ewan;Of course, but they didn't start, they built it.
+dtrs-11;14-debriefing-after-cc2;Will;Yeah yeah yeah, they're gonna get there
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah yeah yeah, they're gonna get there, right? So-
+dtrs-11;14-debriefing-after-cc2;Will;So you can't be any brand and say, oh (i like this one, can I serve you?) (..) Okay
+dtrs-11;14-debriefing-after-cc2;Ewan;yeah yeah yeah (..) Eh yeah, eh then we moved into, so yeah okay so there was the company, then the product. Was there anything particular, from-, that they- that was easy for them, and something that difficult. Did you feel there was a difference, like was there something they struggled with, or something like, oh yeah it's easy bam bam bam and they- they- it not on the right (line?)
+dtrs-11;14-debriefing-after-cc2;Will;I was quite surprised actually that, eh, the topic of ehm the environment, as I said, they acutally came to it quite easily. I mean even though I think that the starting point of it was probably about well-being, probably about safety, probably about convenience and freedom. But somehow it integrates quite quickly and easily ehm, you know, with anything for environment.
+dtrs-11;14-debriefing-after-cc2;Ewan;Mmm
+dtrs-11;14-debriefing-after-cc2;Will;Yeah, so that was, what I was surpri- I thought that we might have figured a way in, that kind of forced them to kind of think, okay so we haven't thought about that, what we gonna do know. But I think somehow it just got covered (INAUDIBLE)
+dtrs-11;14-debriefing-after-cc2;Ewan;Cause we heard that a little bit the first time here, that- like, some of them are really into- or one of them are really into the commitment, at least in our group, but the rest was, naw maybe. But here they seem to be really much into it, eh. Why do you think that happened? Was it a different way of thinking, or they- they're just, like-
+dtrs-11;14-debriefing-after-cc2;Will;Ehm (..) I think they can- can't imagine eh the whole topic of environment, commitment to the environment, and also status, right, social status. What was interesting is that they can imagining working if there's a social competition, kind of, dimension. If it's just about- If it's just purely about social status, or purely about, hey i'm committed about the environment, it's kind of like- or at least it's only annually, someone like, win the goal, who kind of feel so strongly about it, but you build in some social competition like, evne like fitness gadgets or fitness trackers, right?. You know, if you are just exercising for your own sake, you know, you need someone who's quite committed, like, taking part in Iron Man, whatever, to kind of feel self-motivated, and committed to it. But if you are just an average guy, you know, you just- but having that competitive element, comparing with other people, envying other people. Other people are envying you. This is where the possibility comes about, and that's where they can imagine, hey whatever the product is, ehm that status can come into play-
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah, and I think that is maybe our door, at least it is a stepping stone towards eh towards this kind of commitment by doing something good, that it is attractive to you when you do it, because you can show it off in a- in a humble way.
+dtrs-11;14-debriefing-after-cc2;Rose;We had a bit of the gamification, in- in- so
+dtrs-11;14-debriefing-after-cc2;Kenny;Some kind of reward (INAUDIBLE)
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah what was- can you- can you talk about that?
+dtrs-11;14-debriefing-after-cc2;Rose;I think that it- maybe a little bit more in like, basically like the (INAUDIBLE) if you make (how many steps?) and then there's a prize and all, like, the message that comes to you is not just that you hit this, but it's more like, hey good job. You know you did a go- a thing today, and then- ehm so I think that was the starting point of it, but it wasn't thinking about- because (..) hte product that we have would be- it's first possible because it collects your information, but it is also social because it shares then information with people around you, so like, so it becomes like a whole system that- that aggregates the information- or- and you can share (INAUDIBLE)
+dtrs-11;14-debriefing-after-cc2;Ewan;Eh I think all we've talked about that as well, about sharing that was really important eh. You think- and of course sharing with friends is fun (you wanna?)- but it's also about (.) exposing the right sides of you, right?, and in it has to do with status
+dtrs-11;14-debriefing-after-cc2;Rose;Yeah
+dtrs-11;14-debriefing-after-cc2;Will;That instagram aspect of it
+dtrs-11;14-debriefing-after-cc2;Ewan;Yes, you want that photo of you on the bike
+dtrs-11;14-debriefing-after-cc2;Will;Show that you drive really well or whatever
+dtrs-11;14-debriefing-after-cc2;Kenny;I think for him it was about reaching his goals
+dtrs-11;14-debriefing-after-cc2;Ewan;Who was him?
+dtrs-11;14-debriefing-after-cc2;Kenny;I think it was Yang who said that
+dtrs-11;14-debriefing-after-cc2;Ewan;Yang
+dtrs-11;14-debriefing-after-cc2;Kenny;that that's something that you of course are proud of, (i'm always?) reaching my goals, I want to be rich, reaching that goal and so on, so of course he wants to (build?) that up
+dtrs-11;14-debriefing-after-cc2;Ewan;And I think that is cool with the goals because that is so scalable. You can eh >you know< eh goal for in the hour, and the goal for life, and (.) and it is you know, it's almost equal eh
+dtrs-11;14-debriefing-after-cc2;Rose;They need (goals?)
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah it's almost equal credit eh mm if it's your life or in an hour because it's just reaching a goal that says something about your character. Eh and the you have goals which are really kind of honorable, and goals which are not so honorable, ehh but then yeah, you reached a goal and of course it would mean something for yourself, but then being able to expose that is also- has a-
+dtrs-11;14-debriefing-after-cc2;Kenny;(She?) wanted to have a medal I think she said
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah (..) Yeah
+dtrs-11;14-debriefing-after-cc2;Will;So a guy in our group were saying like, you know, if you are able to obtain a certain level of fitness or health, that is (me?) of habit, or the habit of the masses. Why wouldn't you want other people know about it.
+dtrs-11;14-debriefing-after-cc2;Amanda;Yeah it's to inspire others like
+dtrs-11;14-debriefing-after-cc2;Ewan;Inspire others, that's what-
+dtrs-11;14-debriefing-after-cc2;Amanda;You have to prove it first yourself, and then others hoepfully will find inspiration in you.
+dtrs-11;14-debriefing-after-cc2;Will;Which is interesting also because that environmental bit, actually is quite tough, I mean we talk about commitment and it has the pay-off in the end, right?, and that's actually the angle that, you know eh, some of them would say you know, is- if( you make sure they?) can be committed in a certain way, you can kind of lead people around you, and people kind of like, try to, you know, live up to what you-
+dtrs-11;14-debriefing-after-cc2;Amanda;people follows together
+dtrs-11;14-debriefing-after-cc2;Will;yeah following you, and you- you kind of gain credibility and gain some-
+dtrs-11;14-debriefing-after-cc2;Amanda;and that becomes a motivation itself, for you to keep on being ahead
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah (..) I think it's really cool the thing about ehm you know you is- inspire others. That's also like a humble thing to do, but it means so much about how fucking awesome you are (everybody's laughing)
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah, I talked to these guys to do that, and I inspired them to that, you know, the reason why they're doing that is because, I inspired them to do that, like, I was- I wa- I started this.
+dtrs-11;14-debriefing-after-cc2;Kenny;But also the humble
+dtrs-11;14-debriefing-after-cc2;Will;Awesomely humble
+dtrs-11;14-debriefing-after-cc2;Amanda;Awesomely humble (everybody's laughing)
+dtrs-11;14-debriefing-after-cc2;Ewan;Gold-plated humbleness
+dtrs-11;14-debriefing-after-cc2;Will;With a medal
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah
+dtrs-11;14-debriefing-after-cc2;Abby;I think there's also the thing about ehm. I think it was Yen saying something about ehm. I think it- it was when he was buying some things ehm from a company in Europe who was taking care of the environment. He felt better, he felt superior, but it was unspoken of.
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah how- how did-
+dtrs-11;14-debriefing-after-cc2;Rose;(happens many times?)-
+dtrs-11;14-debriefing-after-cc2;Ewan;How did he solve it? How did he get- how did he get the credit he felt he wanted?
+dtrs-11;14-debriefing-after-cc2;Rose;I think it was just that personal satisfaction.
+dtrs-11;14-debriefing-after-cc2;Abby;Yeah exactly I think-
+dtrs-11;14-debriefing-after-cc2;Rose;Internal snobbery
+dtrs-11;14-debriefing-after-cc2;Ewan;It made him walk a little prouder
+dtrs-11;14-debriefing-after-cc2;Abby;Yeah exactly
+dtrs-11;14-debriefing-after-cc2;Ewan;Okay
+dtrs-11;14-debriefing-after-cc2;Amanda;I think that sends some empowerment, cause last week he was all about that. No one can tell me what to do, no one influence. I choose it, and he's so proud by the fact that he chose it on his own
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah
+dtrs-11;14-debriefing-after-cc2;Abby;Yeah
+dtrs-11;14-debriefing-after-cc2;Ewan;So he
+dtrs-11;14-debriefing-after-cc2;Abby;But also like that- I mean this time around at least, he was kind of saying that it was unspoken of (..) so it was just-
+dtrs-11;14-debriefing-after-cc2;Amanda;He own private-
+dtrs-11;14-debriefing-after-cc2;Abby;yeah exactly
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeahm
+dtrs-11;14-debriefing-after-cc2;Abby;Very interesting
+dtrs-11;14-debriefing-after-cc2;Amanda;It's very intrinsic (..) yeah it's not about showing- but I think in a way he kind of counters with what he say, when he choose Tesla, right?
+dtrs-11;14-debriefing-after-cc2;Abby;Yeah
+dtrs-11;14-debriefing-after-cc2;Amanda;He still (had the?) status (INAUDIBLE)
+dtrs-11;14-debriefing-after-cc2;Ewan;And that's the thing, yeah yeah. That's the gap there.
+dtrs-11;14-debriefing-after-cc2;Amanda;There's tension
+dtrs-11;14-debriefing-after-cc2;Ewan;yeah yeah yeah (..) Ehmm
+dtrs-11;14-debriefing-after-cc2;Rose;But I guess because with the Tesla, at least for the first adopters, he would have been, is like (..) that- in the initial group of people who have the Tesla, you gain that- that credibility just in that very small group that you just (need to end?)- there's little need to kind of show off to the rest, because they just feel good that they are already in the group, right?
+dtrs-11;14-debriefing-after-cc2;Ewan;And I think that is one of the reasons behind the success of Tesla, yeah (..) And it's like yeah, it's so the right thing to do, eh because it is environmentally friendly and I look awesome, it is awesomely humble in a way, like (..) yeah, I'm doing this for the environment you can say, and people have to believe you, even though you can think you own thoughts in your head, but you can't argue against that.
+dtrs-11;14-debriefing-after-cc2;Amanda;So being a first-mover give them some instrinsic value kind of
+dtrs-11;14-debriefing-after-cc2;Ewan;Mm definitely
+dtrs-11;14-debriefing-after-cc2;Rose;And it- I guess it reflect something of them, (so?) to be the first-mover to begin with, right?, I mean
+dtrs-11;14-debriefing-after-cc2;Amanda;Exactly
+dtrs-11;14-debriefing-after-cc2;Ewan;Ehh I think it's very very interesting about, yeah, the whole- okay so maybe this guy he bought environmental things and he felt good about it, it was only for him. Still I think that he really wants to get (repaid?) in one way or another, but maybe there is that he's- this is fuelling some other parts with him, so it makes him proud, or more confident maybe. That is where he gets repaid. He walks into the room, he kind of own the room-
+dtrs-11;14-debriefing-after-cc2;Abby;Yeah probably, I think it was interesting that he actually said that it was unspoken of
+dtrs-11;14-debriefing-after-cc2;Ewan;Mm yeah yeah yeah
+dtrs-11;14-debriefing-after-cc2;Abby;That he was- he said it in that. It really-
+dtrs-11;14-debriefing-after-cc2;Ewan;He knew of the concept of-
+dtrs-11;14-debriefing-after-cc2;Abby;It melt- it felt- it made him feel superior but-
+dtrs-11;14-debriefing-after-cc2;Ewan;yeah, unspoken
+dtrs-11;14-debriefing-after-cc2;Abby;unspoken, yeah I think that was eh, and that's kind of eh need to-
+dtrs-11;14-debriefing-after-cc2;Ewan;But he the awere- He had awareness of that
+dtrs-11;14-debriefing-after-cc2;Abby;Yeah, and you have to ask him a few times before he actually said-
+dtrs-11;14-debriefing-after-cc2;Ewan;How did he- how did he kind of in the end, break, how did you break him? (laughing)
+dtrs-11;14-debriefing-after-cc2;Rose;He actually automatically talked about energy sources, he started say it was not just (INAUDIBLE)
+dtrs-11;14-debriefing-after-cc2;Ewan;Sorry I forgot, was this Yang?
+dtrs-11;14-debriefing-after-cc2;Abby;No Yen
+dtrs-11;14-debriefing-after-cc2;Rose;Yeah, so it was- he- he was saying that- it's when we talked abou the environmently friendly it's not just eh the source of energy of the product, but goes back to the factory, so he aready had that concept behind it, then I kind of like pushed into asking that eh, you know, how- how it make you feel, (INAUDIBLE), so he was very (INAUDIBLE) that he was not going to brag about it, but then you could tell that he was (INAUDIBLE) the- the feel good, but he wasn't gonna say untill like, of sort of like really pushed to- to get him to say, and then he said yeah
+dtrs-11;14-debriefing-after-cc2;Amanda;I think he's the kind of persona who would value the story behind something
+dtrs-11;14-debriefing-after-cc2;Ewan;Mmm
+dtrs-11;14-debriefing-after-cc2;Rose;Yeah!, he came up with Switzerland for exAMple
+dtrs-11;14-debriefing-after-cc2;Ewan;You saw he came up with?
+dtrs-11;14-debriefing-after-cc2;Rose;Switzerland
+dtrs-11;14-debriefing-after-cc2;Ewan;So yeah he was in Switzerland
+dtrs-11;14-debriefing-after-cc2;Amanda;Exactly yeah, the origin of (thing?)
+dtrs-11;14-debriefing-after-cc2;Will;It's the guys who spoke last week about eh
+dtrs-11;14-debriefing-after-cc2;Amanda;A food source, like, what do they-
+dtrs-11;14-debriefing-after-cc2;Will;Food source
+dtrs-11;14-debriefing-after-cc2;Ewan;And of course these, and this is what we talked about this before. We need to- we need to dare to go narrow, we need to talk to this guy, this is the guy we want to buy our products first, cause he is going to promote it, he is gonna tells these stories, he loves stories, and maybe that's- okay we gonna not sell a billion first, but he will build our brand, and then we'll go from there. We need to be narrow, find Yen (everybody's laughing)
+dtrs-11;14-debriefing-after-cc2;Ewan;Yen?
+dtrs-11;14-debriefing-after-cc2;Abby;We need to find him
+dtrs-11;14-debriefing-after-cc2;Ewan;We find him, whereever he is, we need to find him and his friends and we need them to build our brand and them it expands from there. Not go broad, because we then- it's really difficult to build it. Eh he have- he had- what kind of car did he have?
+dtrs-11;14-debriefing-after-cc2;Kenny;Tesla
+dtrs-11;14-debriefing-after-cc2;Ewan;So he's the Tesla-guy. Good, so how can we make that happen. (..) But it's really cool cause these are- these are eh- we can't do this by our self of course, we need to go in through Yen, in and out. Eh yeah. How old is he by the way?
+dtrs-11;14-debriefing-after-cc2;Abby;Thirty-five I think
+dtrs-11;14-debriefing-after-cc2;Will;Yeah
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah, so he's like (..) yeah i guess he's not a young professional anymore, he's just a professional.
+dtrs-11;14-debriefing-after-cc2;Will;Investment kind of-
+dtrs-11;14-debriefing-after-cc2;Nina;General Manager
+dtrs-11;14-debriefing-after-cc2;Ewan;On his way upwards definitely. Eh  (long break)
+dtrs-11;14-debriefing-after-cc2;Ewan;What was the exact quote, eh, something you said Abby, about unspoken
+dtrs-11;14-debriefing-after-cc2;Amanda;Superiority
+dtrs-11;14-debriefing-after-cc2;Ewan;Unspoken Superiority
+dtrs-11;14-debriefing-after-cc2;Kenny;(INAUDIBLE)
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah
+dtrs-11;14-debriefing-after-cc2;Abby;That wasn't really what he told
+dtrs-11;14-debriefing-after-cc2;Ewan;It is now
+dtrs-11;14-debriefing-after-cc2;Abby;It is now
+dtrs-11;14-debriefing-after-cc2;Kenny;Because it's cool
+dtrs-11;14-debriefing-after-cc2;Ewan;Should-
+dtrs-11;14-debriefing-after-cc2;Abby;But it's all about the feeling inside
+dtrs-11;14-debriefing-after-cc2;Ewan;Inside yeah, and in- yeah
+dtrs-11;14-debriefing-after-cc2;Abby;But of course he wants to- I mean also that type of guy is of course- he wants to kind of brag about that he make- makes all his own choices,(INAUDIBLE), so of course it is something that will say at some point, but he also feels that it's somehing that he shouldn't speak of.
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah
+dtrs-11;14-debriefing-after-cc2;Abby;Eh so he also knows that, okay I also need to keep it a little bit to myself, but a guy like that just- he seems like he-
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah, really- we need that guy to buy THE COMPANY
+dtrs-11;14-debriefing-after-cc2;Kenny;(INAUDIBLE)
+dtrs-11;14-debriefing-after-cc2;Abby;Exactly, he is
+dtrs-11;14-debriefing-after-cc2;Will;(Should be?) like eh (.) quiet snobness
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah thats true
+dtrs-11;14-debriefing-after-cc2;Will;I know it, i don't say it
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah yeah. That is so much swedish people  (everybody's laughing)
+dtrs-11;14-debriefing-after-cc2;Ewan;i know the swedish people
+dtrs-11;14-debriefing-after-cc2;Amanda;I think for him, credibility comes from his decisions that he make, not approval from others.
+dtrs-11;14-debriefing-after-cc2;Abby;Yeah absolutely
+dtrs-11;14-debriefing-after-cc2;Amanda;And because of what- the decisions that he make, others approve him. Whereas for Sherry (..) it was the other way around
+dtrs-11;14-debriefing-after-cc2;Ewan;Susan
+dtrs-11;14-debriefing-after-cc2;Will;Susan
+dtrs-11;14-debriefing-after-cc2;Amanda;Susan
+dtrs-11;14-debriefing-after-cc2;Will;(INAUDIBLE)
+dtrs-11;14-debriefing-after-cc2;Amanda;Yeah right
+dtrs-11;14-debriefing-after-cc2;Ewan;Okay talk a little bit about that, what do you mean by that
+dtrs-11;14-debriefing-after-cc2;Amanda;So he's all about, I make my own deicisions, I listen to my friends but at the end I make my own decisions, and that gives me credibility. It's not about my friends influenced me to buy it, which is what Susan is more about, i think.
+dtrs-11;14-debriefing-after-cc2;Ewan;Mmm
+dtrs-11;14-debriefing-after-cc2;Amanda;Oh I need other people to see it, I want (INAUDIBLE) other friends. So it's more like this- eh like if Yen were to choose something, and then I think Susan will then think of Yen more highly.
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah Yeah
+dtrs-11;14-debriefing-after-cc2;Amanda;Because of what chose
+dtrs-11;14-debriefing-after-cc2;Ewan;Because he did it independently
+dtrs-11;14-debriefing-after-cc2;Amanda;Yeah
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah, yeah (..) okay. Alright, good. Ehm then- so yeah, we were- we were coming from- there was something that was easy for them or something that eh- (INAUDIBLE) actually Rose, something that was really easy for them here, they kind of flo- floated out (.) compared  to something else that may be difficult.
+dtrs-11;14-debriefing-after-cc2;Rose;I think actually they were very fast in coming up with a product.
+dtrs-11;14-debriefing-after-cc2;Kenny;Yeah they were very
+dtrs-11;14-debriefing-after-cc2;Ewan;With the product, the actual-
+dtrs-11;14-debriefing-after-cc2;Rose;Yeah
+dtrs-11;14-debriefing-after-cc2;Will;So you guys, I thought, jumped quite far, and they were still like writing and-
+dtrs-11;14-debriefing-after-cc2;Rose;Yeah they- and- I mean- and even though it was slightly different from the beginning there were also a lot of commonalities, I think that was quite (INAUDIBLE) very easy. So they were both thinking about an actual product, to begin with, so like, the- the-medical device (accessory?) or something, and then (keep?) thinking about a system or like a surface, ehm providing the kind of information, so then it was easy to match and marry both (INAUDIBLE), and- and somebody already saidit should be a product linking to a system, and then- and then add a lot of opportunities, that we've discussed, that you can always change things behind the surface and can add more deals, and stuff like that. So-
+dtrs-11;14-debriefing-after-cc2;Abby;And it's totally (true?) for THE COMPANY, it's really-
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah connected product, connected services, something that is bigger yeah
+dtrs-11;14-debriefing-after-cc2;Abby;All the modules that you can change
+dtrs-11;14-debriefing-after-cc2;Rose;Yes
+dtrs-11;14-debriefing-after-cc2;Abby;What you want, you can personalize it, you can-
+dtrs-11;14-debriefing-after-cc2;Ewan;Oh yeah, we also had modular-
+dtrs-11;14-debriefing-after-cc2;Abby;It's really-
+dtrs-11;14-debriefing-after-cc2;Tiffany;Start with a base, and then eh
+dtrs-11;14-debriefing-after-cc2;Abby;and then add on
+dtrs-11;14-debriefing-after-cc2;Tiffany;Yeah
+dtrs-11;14-debriefing-after-cc2;Abby;Yeah
+dtrs-11;14-debriefing-after-cc2;Rose;They had the sense that because with eh with the services, it- it's eh continual purchase process, because you can always buy  new services, if you just had product, the (INAUDIBLE) product is just like that, and then the services, they are always looking for more services.
+dtrs-11;14-debriefing-after-cc2;Abby;Yeah
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah
+dtrs-11;14-debriefing-after-cc2;Abby;I think Heidi eh- I really liked that she call it a- it should be like a life companion-
+dtrs-11;14-debriefing-after-cc2;Ewan;life companion, life long companion
+dtrs-11;14-debriefing-after-cc2;Abby;Yeah exactly (..) so but it wouldn't- it wasn't too late for her to start now, but for kids it would be even better. Was that what she said?
+dtrs-11;14-debriefing-after-cc2;Rose;Yeah
+dtrs-11;14-debriefing-after-cc2;Abby;Because then they could start from scratch, form zero, and they could build up the whole life  getting all the data into the system and kind of eh maybe she didn't think it through, of course that maybe it's probably too much data to- if you really want to do that, but for her it sounded like a- then you'll have all this knowledge built up and you could benefit from it, and the system could help you. You would be really attached to that system
+dtrs-11;14-debriefing-after-cc2;Hans;Yeah, very much with the- the data, the big data, collecting eh. Make- make- make that combination
+dtrs-11;14-debriefing-after-cc2;Abby;Yeah exactly
+dtrs-11;14-debriefing-after-cc2;Hans;A really core of it I would say. Super important.
+dtrs-11;14-debriefing-after-cc2;Nina;But they also (thought that it was not only?) monitoring but also of the solution, like if there's something dangerous, like they should know so they can, you know, take action on it, not only to monitor.
+dtrs-11;14-debriefing-after-cc2;Ewan;Mmm Mmm. What's eh (.) How- How come do you think they were so fast for them to get to that stage?
+dtrs-11;14-debriefing-after-cc2;Rose;I actually think they, just sort of all subscribed to- or they had a common consent, or i guess-
+dtrs-11;14-debriefing-after-cc2;Ewan;Mmm, so it came from the com- concerns side and-
+dtrs-11;14-debriefing-after-cc2;Abby;I think it came a little bit form last session where-
+dtrs-11;14-debriefing-after-cc2;Rose;Yes there's also-
+dtrs-11;14-debriefing-after-cc2;Will;Yeah i think that both groups from the last time, they were already talking about robotics
+dtrs-11;14-debriefing-after-cc2;Abby;Exactly
+dtrs-11;14-debriefing-after-cc2;Will;When you (get into the car?), robotics when you're at home, or having to do a chore-
+dtrs-11;14-debriefing-after-cc2;Tiffany;Ah that's why they both eh robotics
+dtrs-11;14-debriefing-after-cc2;Hans;And it was very quick into that
+dtrs-11;14-debriefing-after-cc2;Will;Yeah and there was some mention-
+dtrs-11;14-debriefing-after-cc2;Tiffany;So I was surprised of that- that part
+dtrs-11;14-debriefing-after-cc2;Will;I mean among other ideas- ideas that were
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah it wasn't super powerful last time
+dtrs-11;14-debriefing-after-cc2;Abby;No we- THE COMPANY said that they shouldn't go ehm- they didn't go in depth with that, the ideas i think, because it was just kind of, ideas popping up eh
+dtrs-11;14-debriefing-after-cc2;Tiffany;Cause I was a bit surprised that it was about the same for both groups
+dtrs-11;14-debriefing-after-cc2;Ewan;I think we should maybe credit 20 % of it, to that. The rest was just- this actually was what they- they think of
+dtrs-11;14-debriefing-after-cc2;Abby;And I think especially the convenience part because eh
+dtrs-11;14-debriefing-after-cc2;Ewan;E- E- E- That's where I think it comes from really,
+dtrs-11;14-debriefing-after-cc2;Abby;Because, they- that was also what they said here that, they wanted- I mean why is it that you want this. I want this so that I don't have to stand in line at the doctors or the hospital, so all this- I don't have to waste my time. Okay, why don't you (inadible) they want to spend it on other stuff
+dtrs-11;14-debriefing-after-cc2;Ewan;And I think that was the good part of them coming off, cause it was a vessel for them to communicate this. The didn't spend time on actually like, oh what is it like, what physical thing- we can go straight into actually probing into why, why, why. And of course they had like an embodiment. I think that was actually a good think that we (made it in for a ride?)- and for sure for see it last time, that eh that they actually grabed onto some of that and continued on eh but we had a chance then to ask why. I think that worked out. Ehm so the same question, was there anything that was- maybe start with you Will- difficultfor them, was it any particular press, a place they struggled really.
+dtrs-11;14-debriefing-after-cc2;Will;Eh I think maybe coming to pitch, (getting there?) to consolidate, and kind of like (INAUDIBLE) because I think the earlier bit, they were- they had i little bit more liberty in terms of okay (INAUDIBLE) from what the other group
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah yeah yeah that was kind of (INAUDIBLE) kind of we carry everything, but there, they had to really-
+dtrs-11;14-debriefing-after-cc2;Will;We are forcing them to kind of summarize it into a, you know, to a real sort of like pitch presentation, concise version. So I think that's where they were, I think it was a bit good for them to, like- I think that were two things working well, was that (..) at an indivdiual level they- they were- it was harder for them kind of consolidating, but also they were shy about, hey if I consolidate (INAUDIBLE) own way, would it (INAUDIBLE)
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah yeah yeah
+dtrs-11;14-debriefing-after-cc2;Will;Because you know, all different comments and contributions come from different people, so they were a  bit holding back. I think my group was not as, forthcoming I feel, compared to the other group, they were probably a bit rowdier, and they don't mind just saying whatever thye want
+dtrs-11;14-debriefing-after-cc2;Abby;Yeah I think
+dtrs-11;14-debriefing-after-cc2;Will;So there was a little bit more holding back I felt
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah
+dtrs-11;14-debriefing-after-cc2;Rose;I think mine was (INAUDIBLE) I think the pitch was a bit messier, also because I think everybody kind of wanted to hold firm to what they believed in, so there's like- they were a little bit like mixed (everybody's laughing)
+dtrs-11;14-debriefing-after-cc2;Rose;So like the big picture idea, I think everybody kind of subscribed to it, but what were the individual elements that kind of went into it, it wasn't as clear I think. And then maybe ehm- I thought- I think prices (INAUDIBLE) to us, but actually it was interesting that they came up with ways to think about price, (INAUDIBLE) about price, when you don't even have a product, right?
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah yeah
+dtrs-11;14-debriefing-after-cc2;Rose;You don't even know where you coming into
+dtrs-11;14-debriefing-after-cc2;Ewan;More like a random gut feeling in a way
+dtrs-11;14-debriefing-after-cc2;Rose;Yeah, but I thought what was interesting was that they had (certain sense?) of like, for example when asked about price range, they first thing that came up was how would you use- what do you use as a benchmark, right?, and he said like, I will use 10 years of how much I will spend on medical health assessments as a benchmark, to compare to how much a will spend to-
+dtrs-11;14-debriefing-after-cc2;Ewan;Aaa, okay wauw, so he had a system-
+dtrs-11;14-debriefing-after-cc2;Rose;There was- yeah there was some thinking behind it which I think was quite cool, right?, that-
+dtrs-11;14-debriefing-after-cc2;Nina;(INAUDIBLE)
+dtrs-11;14-debriefing-after-cc2;Rose;yeah they do have ce- certain kind of idea-
+dtrs-11;14-debriefing-after-cc2;Ewan;And that- that was very interesting, so it wasn't like pulled- just pulled out of thin air, it was calculated
+dtrs-11;14-debriefing-after-cc2;Rose;It was calculated yeah
+dtrs-11;14-debriefing-after-cc2;Abby;It was not- I mean he didn't calculate it, but
+dtrs-11;14-debriefing-after-cc2;Ewan;Con- constructed
+dtrs-11;14-debriefing-after-cc2;Abby;(INAUDIBLE) it would be worth the same as actually going to all of this for 10 years, if I could have it there
+dtrs-11;14-debriefing-after-cc2;Rose;That was what he said about how he bought insurance as well, like, how much money am I going to spend at the doctors each year, will be how much money will I-
+dtrs-11;14-debriefing-after-cc2;Will;Sorry who was it?
+dtrs-11;14-debriefing-after-cc2;Rose;Yen.
+dtrs-11;14-debriefing-after-cc2;Will;Yen.
+dtrs-11;14-debriefing-after-cc2;Rose;Yeah so he was very fast
+dtrs-11;14-debriefing-after-cc2;Will;(INAUDIBLE) (laughing)
+dtrs-11;14-debriefing-after-cc2;Will;I think our group in terms of like the- the price, I think was really far apart, so they would- they kind of like- one bunch was like going to, hey it should be cheap like maybe for a couple of thousands dollars, tens of thousands dollars, because it's got to be accessible, so that people feel that it's practical, and it's eh- they can reach it, and they can aspire to it, eh but the other bunch which was like someone like Brian, and probably Yen as well, they (wish to pay?) two hundred to three hundred thousand
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah
+dtrs-11;14-debriefing-after-cc2;Will;we're offering- you can do something for really cheap (INAUDIBLE) actually it will do all of these things well, and where is that team behind it, and (people behind?)
+dtrs-11;14-debriefing-after-cc2;Ewan;five hundred thouand, right?
+dtrs-11;14-debriefing-after-cc2;Will;or something, a few hundred thousands
+dtrs-11;14-debriefing-after-cc2;Amanda;I think that link feature and capability to quality, like, the more- the better quality you have the more feature it serves, and therefore it's better quality
+dtrs-11;14-debriefing-after-cc2;Will;Yeah yeah, but it's got to deliver it well, I mean, there's no point having features which, which I think it's in a Chinese context, for the masses, you get a lot of products that can deliver stuff at a regular price, very basic, but to deliver it really well, this is not what Chinese brands are (moving for?) here
+dtrs-11;14-debriefing-after-cc2;Amanda;The integration between-
+dtrs-11;14-debriefing-after-cc2;Will;Correct, correct, so at this point they still think of it, okay want to get that really really good quality experience, (above anything?). You've got to have something that is really put into play, some real effort there is put into it.
+dtrs-11;14-debriefing-after-cc2;Hans;Yeah. That's interesting
+dtrs-11;14-debriefing-after-cc2;D;Didn't he actually say- at least the time I was listening, eh that higher the investment the more worries about mad- made in china sign.
+dtrs-11;14-debriefing-after-cc2;Will;The more investments?
+dtrs-11;14-debriefing-after-cc2;D;The higher the investment (INAUDIBLE) and the decision-making process, the cost of that, the more worries he had on the madei n china stamp.
+dtrs-11;14-debriefing-after-cc2;Will;The more worries?
+dtrs-11;14-debriefing-after-cc2;D;Like you have to revise your decision more for a long time instead of eh he said that eh for example the (wuawe) example, the cellphones, it was the product with the less cycle on it, like easily replaceable, it was not a lot of costs on it, but when it's more costly and it has the made in China sign on it, it would take considerable validation and eh
+dtrs-11;14-debriefing-after-cc2;Will;So the credibility in terms of like, does it justify
+dtrs-11;14-debriefing-after-cc2;D;A justification, and yeah
+dtrs-11;14-debriefing-after-cc2;Ewan;Ehm going back to the- I think it's the guy (INAUDIBLE) Yan. Probably Yan. Is his name Yan?
+dtrs-11;14-debriefing-after-cc2;Rose;Yen.
+dtrs-11;14-debriefing-after-cc2;Ewan;Yen
+dtrs-11;14-debriefing-after-cc2;Will;Who- who? So this or our group or-
+dtrs-11;14-debriefing-after-cc2;Ewan;Well, let's- I call them Brian 1, Brian 2  (off task)
+dtrs-11;14-debriefing-after-cc2;Will;Brian right? In our group?
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah, the real Brian
+dtrs-11;14-debriefing-after-cc2;Will;The real Brian (laughing)
+dtrs-11;14-debriefing-after-cc2;Ewan;Brian D M
+dtrs-11;14-debriefing-after-cc2;Tiffany;Not Brian but the real Brian
+dtrs-11;14-debriefing-after-cc2;Ewan;So yeah the whole thing- no no actually no, the fake Brian. Because- yeah then he put it- put price into perspective adn I think that is such a smart thing to do, (INAUDIBLE) the medical robot like, it cost 10 years of medical services. If you're able to communicate that, you know, it makes sense. Suddenly it does make sense.
+dtrs-11;14-debriefing-after-cc2;Amanda;Yeah Chinese people are very calculated, and that-
+dtrs-11;14-debriefing-after-cc2;Ewan;Yes, that's what I'm thinking , and you need to give them the tools and give them the possibility to see it in that perspective. Ehm
+dtrs-11;14-debriefing-after-cc2;Rose;It's just- what will (INAUDIBLE)- something else that they were talking about the advertising, the marketing message and somebody talked about the ad and said like, you can (be official?) the comparison between if you don't have the products or what (your crappy reality currently is) and then when you have the product it's like, you're enjoying life while other people are stuck in their crappy reality, so that they gives you a sense of comparison and (INAUDIBLE) other benefits versus the cost.
+dtrs-11;14-debriefing-after-cc2;Ewan;Mmm. I think from our project, Kenny, (healthy life?), that was like on of the things we really really wanted to do. Not in money but with- in benefits, like how can we calculate that this device inside versus outside eh (INAUDIBLE) really put into perspective what it does for you. Cause we- if we can come up with numbers, like you know, if we use that for two years or five years or whatever, you know you gonna literally live longer (..) or, and so on and so on. And putting it, I'm getting that more (INAUDIBLE). And  it could be price is also important.
+dtrs-11;14-debriefing-after-cc2;Ewan;And moving on, so they made a pitch and I felt that when they were pitching- of course that was- (INAUDIBLE) together, and kind of- stuck coming together, and kind of (INAUDIBLE) with this table in the middle, you had one there, one here, and they were kind of  eh- they were kind of embracing it more of course and the always happen when you have the blue dots versus the green dots and stuff like that. And we started with you guys over there and they were eh- there were first- Brian 2 was pitching first, right?
+dtrs-11;14-debriefing-after-cc2;Rose;Yes
+dtrs-11;14-debriefing-after-cc2;Ewan;Eh and then- and the other guy which i didn't-
+dtrs-11;14-debriefing-after-cc2;Rose;The new guy
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah
+dtrs-11;14-debriefing-after-cc2;Kenny;Zack
+dtrs-11;14-debriefing-after-cc2;Ewan;Zack, yeah (..) Eh so there were- he was- didn't agree and it was about if it was a robot or not.
+dtrs-11;14-debriefing-after-cc2;Rose;I think it was about how specific that they wanted the- that thing to be, cause I think eh Yen really wanted it to be like a health assessment device slash some solutions even embedded in it, and I think Zack wanted it to be just more of the monitoring, so like a bit more like the irobot kind of- he- he actually called it a- a smart furniture, that was the word he uses
+dtrs-11;14-debriefing-after-cc2;Ewan;Oh that's good, okay so- okay furnitures, that's also kind of you degrade it to furniture but i becomes less intrusive. Like a robot is like, kind of an intrusive thing eh at least in the western world
+dtrs-11;14-debriefing-after-cc2;Rose;I think Yen wanted it (INAUDIBLE) more active, more- more involvement based, and his was less, so-
+dtrs-11;14-debriefing-after-cc2;Ewan;So okay that was the reason to- more or less and embodied in different ways. Okay.
+dtrs-11;14-debriefing-after-cc2;D;In our group they also mentioned, internet of things, which is kind of related to all that activity
+dtrs-11;14-debriefing-after-cc2;Amanda;Robot
+dtrs-11;14-debriefing-after-cc2;D;Yeah yeah-
+dtrs-11;14-debriefing-after-cc2;Amanda;He wants every- the device communicate and exchange information about him
+dtrs-11;14-debriefing-after-cc2;D;Yeah exactly
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah they talk about him behind his back
+dtrs-11;14-debriefing-after-cc2;Amanda;Yeah yeah the team that serve him
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah yeah yeah
+dtrs-11;14-debriefing-after-cc2;D;But it- it-
+dtrs-11;14-debriefing-after-cc2;Abby;It was smart living- was- it was translated to smart living (..) for the- I liked the new guy that were talking about the smart living little bit kind of- mean that it's already there something you can- on your phone you can turn on your airco- on the aircondition at your home, but it was more than this, so just to really take it in all in, so you have all that in smart living, but- but-
+dtrs-11;14-debriefing-after-cc2;Ewan;Actualy that's not- also because- yeah sorry-
+dtrs-11;14-debriefing-after-cc2;Abby;But yeah because this is what you can do to your home and so on, but this eh service concerns you actually, so it will- it was all about to monitoring you not your home or your fridge or something, it's actually you
+dtrs-11;14-debriefing-after-cc2;D;But that is, the internet of things, that- that is you.
+dtrs-11;14-debriefing-after-cc2;Abby;Ah okay
+dtrs-11;14-debriefing-after-cc2;D;Because it- it's not like it's- it's basically patterned algorithms, which eh like, for an example, if you always do your- do your dishes after you come home form work or whatever, it kind of estimates the time you should put the dishes on, in comparison to the cheap windmill energy, and- and when it to be finished back home and stuff like that
+dtrs-11;14-debriefing-after-cc2;Abby;Yeah but this is- this is still about nothing- this is not about you, this- I think the thing that the new guy was- this is an 'n' for the new guy in my note
+dtrs-11;14-debriefing-after-cc2;Rose;Jimmy
+dtrs-11;14-debriefing-after-cc2;Abby;It was that it- it concerned your body- I mean it was eh the physical body things that you can measure
+dtrs-11;14-debriefing-after-cc2;D;Yeah
+dtrs-11;14-debriefing-after-cc2;Ewan;Bioelectrics
+dtrs-11;14-debriefing-after-cc2;Abby;yeah exactly so it wasn't just the whatever surrounds you- you- whenever you should turn on the (INAUDIBLE)
+dtrs-11;14-debriefing-after-cc2;D;Ah- yeah
+dtrs-11;14-debriefing-after-cc2;Abby;It was something that really concerned you, and it was- exactly if you do this, then maybe you live longer
+dtrs-11;14-debriefing-after-cc2;Nina;Like- like even diet like what do I need to eat
+dtrs-11;14-debriefing-after-cc2;Amanda;So it was not a (INAUDIBLE)
+dtrs-11;14-debriefing-after-cc2;Rose;That was very health related
+dtrs-11;14-debriefing-after-cc2;Abby;Yeah
+dtrs-11;14-debriefing-after-cc2;Amanda;Personal doctor
+dtrs-11;14-debriefing-after-cc2;D;Yeah yeah yeah  (off task)
+dtrs-11;14-debriefing-after-cc2;Ewan;Eh yeah but th- so- but- so even though they were not a hundred percent aligned on the what it should be, really doesn't matter that (..) the value of it, that were (INAUDIBLE) Yeah. Eh anything you were surprised of eh when it come to what- where they started, (INAUDIBLE) where they started and where they ended up? Did they take a sharp turn somewhere, or was it a natural evovlement?
+dtrs-11;14-debriefing-after-cc2;Rose;Not really, I think eh- but there was still- so i think ehm it was very obvious that like whatever products (INAUDIBLE) so the immediate benefit must be the most important thing-
+dtrs-11;14-debriefing-after-cc2;Ewan;Immediate benefit
+dtrs-11;14-debriefing-after-cc2;Rose;Immediate benefit, right?, so they- so I mean like for example convenience or comfort like, it must be very tangible that they can actually grasp and will be the- the first thing that they will tell their friends because they will talk about product before they talk about anything else. But then at the same time they also (INAUDIBLE) quite early on talked about what it actually looked like, so we actually had (fashion?) of both fun and cool coming up quite early on as a value as well
+dtrs-11;14-debriefing-after-cc2;Ewan;Was that connected to status symbol or excitement or ?
+dtrs-11;14-debriefing-after-cc2;Rose;I think it's both actually so it was a bit like somebody said nobody want to use an (INAUDIBLE) all because it looks like that, so having an iPhone, like (laughing)
+dtrs-11;14-debriefing-after-cc2;Rose;So
+dtrs-11;14-debriefing-after-cc2;Ewan;Too soon (laughing)
+dtrs-11;14-debriefing-after-cc2;Rose;So so like- I mean people are all looking for something that looks good, so that apperance is actually quite (INAUDIBLE) to be trendy, to be seen, ahead of the curve, so that- that as well. So I think as the premium customers that- that we're looking at, they also need that bit.
+dtrs-11;14-debriefing-after-cc2;Abby;But also the fun part because eh I think it was Heidi who mentioned that eh there were all these many many many products on the market, then there's one eh smart watch that can do one thing, then you can get other gadgets and so on, but this service should combine everything and then there was the competition part in it, it should be fun it should be kind of playful, eh
+dtrs-11;14-debriefing-after-cc2;Ewan;Really enjoyed the competition part of it, or the gamification or whatever, because that is like a ea-eh yeah- an easy way to show off
+dtrs-11;14-debriefing-after-cc2;Abby;Yeah
+dtrs-11;14-debriefing-after-cc2;Ewan;It's a game, it's a game
+dtrs-11;14-debriefing-after-cc2;Abby;(INAUDIBLE)
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah yeah
+dtrs-11;14-debriefing-after-cc2;Ewan;Eh yeah sorry-
+dtrs-11;14-debriefing-after-cc2;Abby;I think also pretty early they talked about that, when we talked about the environment and if they will buy products purely because of the environment or not, and they were really-
+dtrs-11;14-debriefing-after-cc2;Ewan;Oh okay they did talk about that?
+dtrs-11;14-debriefing-after-cc2;Abby;Yeah but, it had to have a function, the product had to have a function. It wan't enough to buy just to save the- it had to actually
+dtrs-11;14-debriefing-after-cc2;Rose;be practical
+dtrs-11;14-debriefing-after-cc2;Abby;Yeah exactly, and then if you contribute into saving the environment that were just a benefit, but eh
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah it needs to have the both yeah, sounds good. Eh our group eh when they presented they eh the first there who was gonna present eh but then of course we had the real Brian stepping up, and I really (INAUDIBLE), yeah we have made the same just slightly more powerful (laughing)
+dtrs-11;14-debriefing-after-cc2;Will;He- he's quite (right about it?) the final bit about the product story, company story, that elaborate four lines. Those are written by him. It says eh, the experience of the company, innovation, eh what they have gone through. Number two, technical, (INAUDIBLE), the platform and eh the interest accumulation, the (retreat of?) product, big data, accumulation, anas- analysis, eh (INAUDIBLE), thank you, expect something, expectation, work hard, (INAUDIBLE), so it's eh-
+dtrs-11;14-debriefing-after-cc2;Ewan;And what was this for?
+dtrs-11;14-debriefing-after-cc2;Will;Because, they way (they position when then were?) stuck, where to say that, how- imagine if you were CEO, you were interviewed, you know, how are you gonna present yourself, you know, product, the company
+dtrs-11;14-debriefing-after-cc2;Amanda;The brand and the-
+dtrs-11;14-debriefing-after-cc2;Will;Yeah the brand (INAUDIBLE)
+dtrs-11;14-debriefing-after-cc2;Amanda;Because Billy couldn't say it, he say one line
+dtrs-11;14-debriefing-after-cc2;Will;He just say, buy it
+dtrs-11;14-debriefing-after-cc2;Amanda;Buy it
+dtrs-11;14-debriefing-after-cc2;Ewan;Buy it (laughing)
+dtrs-11;14-debriefing-after-cc2;Will;(INAUDIBLE) you know small (snippets?), like snapshot and all, but he was writing- but he was writing a speech
+dtrs-11;14-debriefing-after-cc2;Ewan;I mean, he was so natural
+dtrs-11;14-debriefing-after-cc2;Will;He was just (INAUDIBLE)
+dtrs-11;14-debriefing-after-cc2;Ewan;And how did that go, what was the first thing they kind of pitched, like what was their- how did they- I was- actually (INAUDIBLE)
+dtrs-11;14-debriefing-after-cc2;Will;Yeah, I think they just looked at it, I think that the humanizing part of it was quite (modern?), the way they described it. Even though it's a THE COMPANY PRODUCT, or it's very based on robotics or technology and all that, I think there's humanizing and either in the way it conceptualized to imagine you as a person or as user, or the way it functions so it feels seamlessly integrated with human life. It's not just- It shouldn't be just a machine that is doing machine work, but it should be a machine that is doing close to human kind of work. Understanding how a human work
+dtrs-11;14-debriefing-after-cc2;Amanda;I think this one is all about having the data to inform you how to interact (..) rather than the data is the function itself.
+dtrs-11;14-debriefing-after-cc2;Ewan;Can you make an example of that?
+dtrs-11;14-debriefing-after-cc2;Amanda;Right, so eh-
+dtrs-11;14-debriefing-after-cc2;Will;It should- it should help you achieve something, so the data to be like deciding like (INAUDIBLE) it should easily tell you, say what should be the things you would be buying that helps your- eh that serves your health or fitness needs, eh it could be based on your fitness information it tells you okay what should you be doing next, what should be modified next. It could be based on your driving information, that tells you, okay, this are your driving habits, this is how you are compared to other people, this is what you can adjust and benefit from it. Or maybe you're already a better driver you know in some sense (INAUDIBLE).
+dtrs-11;14-debriefing-after-cc2;Ewan;Staying informed, really being the forefront of yeah-
+dtrs-11;14-debriefing-after-cc2;Amanda;So you- collecting data of your behavior to inform how you should
+dtrs-11;14-debriefing-after-cc2;Hans;To improve your performance, and eh- (INAUDIBLE) to be better. Also to- to be able to compare it, I think, share it with others
+dtrs-11;14-debriefing-after-cc2;Ewan;Then it come back into the, oh look at my scores, it's a little higher than (you?)-
+dtrs-11;14-debriefing-after-cc2;Will;Yeah (laughs)
+dtrs-11;14-debriefing-after-cc2;Ewan;Eh and then we had Susan she had a part of it.
+dtrs-11;14-debriefing-after-cc2;Will;Susan was talking more about, I think more about (where it were sold?)
+dtrs-11;14-debriefing-after-cc2;Ewan;Okay where was it?
+dtrs-11;14-debriefing-after-cc2;Will;I think they way they talked about (where it were sold?), I think was a bit very mess, but the- the early part of the discussion
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah I think that was a good- the- the- the earlier part
+dtrs-11;14-debriefing-after-cc2;Will;Yeah yeah, there were two interesting part, okay one is not that special, one was really about, you know, ehm specialty storehouse that is able to carry across an experience. So this is not just a product but it's also experience, that you need some (INAUDIBLE) on it, some extra experience before you can- you can say I buy it because of the specifications.
+dtrs-11;14-debriefing-after-cc2;Amanda;This eh IKEA-thing
+dtrs-11;14-debriefing-after-cc2;Will;Yeah. The other one that was interesting was actually major factory outlets
+dtrs-11;14-debriefing-after-cc2;Amanda;Yes
+dtrs-11;14-debriefing-after-cc2;Will;We were quite confused at first, because the way (INAUDIBLE) seem it's cheaper or whatever, which is what some of the ladies were like, okay yeah it's cheap so maybe we go shop there, but the guys who thought about factory outlets, it was like, you'll go straight to the source, and because you go straight to the source they can bet- give you the best quality, eh attention, they can get you the best quality equipment. They can really personalize it to the extend you need it.
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah, you are there when it's born.
+dtrs-11;14-debriefing-after-cc2;Amanda;Yeah.
+dtrs-11;14-debriefing-after-cc2;Will;Yeah. Where? At the source.
+dtrs-11;14-debriefing-after-cc2;Ewan;You are at the source of the creation.
+dtrs-11;14-debriefing-after-cc2;Will;So then that is their definition of a factory outlet as opposed to like-
+dtrs-11;14-debriefing-after-cc2;Amanda;Yeah, I think it's more like a warehouse.
+dtrs-11;14-debriefing-after-cc2;Will;Yeah.
+dtrs-11;14-debriefing-after-cc2;Amanda;Rather than a factory outlet.
+dtrs-11;14-debriefing-after-cc2;D;Or an actual- actual production. Like, I- I totally got it like it was like getting customization.
+dtrs-11;14-debriefing-after-cc2;Will;Exactly.
+dtrs-11;14-debriefing-after-cc2;D;Like insane (.)
+dtrs-11;14-debriefing-after-cc2;Will;Yeah. It's like if you go to a factory who has the special'- specialization to do it, they can probably customize it better than eh at the retail level whom (.) who with some stuff they who- they'll just take your measurements and ask you some questions and maybe he or she doesn't know anything about the technology behind it.
+dtrs-11;14-debriefing-after-cc2;Rose;We had some like, b-to-b partnership kind of thing, so if they were thinking about ehm, like, if it's something for the whole day you can work with the interior designers who will then promote your products, so then, that's like another angle or coming in.
+dtrs-11;14-debriefing-after-cc2;Ewan;"Yeah, I think that was interesting, and I also I- I didn't get to ask the question, but I was like ""okay, imagine us (.) taking these people to eh a THE COMPANY plant, in China. Eh would that-"" of course we have the trips, at least for the US it would be- I guess it's still ongoing, the- you can buy a THE COMPANY PRODUCT in the US and they fly you to (INAUDIBLE), the plant, and you get the-"
+dtrs-11;14-debriefing-after-cc2;Tiffany;Tourist and diplomat stays.
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah, you get to hang out there for a little and drive a little round, then you go back. Eh which works out, it's a classic concept.
+dtrs-11;14-debriefing-after-cc2;Tiffany;Mhm.
+dtrs-11;14-debriefing-after-cc2;Ewan;Eh but, would it be possible like, you bring them to China and they see all of the happy people working there and the environmentally friendly stuff and that we are contributing to like a rising China. A China that takes responsibility, a foreign company that comes in.
+dtrs-11;14-debriefing-after-cc2;Will;Yeah.
+dtrs-11;14-debriefing-after-cc2;Tiffany;Yeah.
+dtrs-11;14-debriefing-after-cc2;Ewan;I think that could be amazing to do.
+dtrs-11;14-debriefing-after-cc2;Will;Yeah yeah yeah, definitely.
+dtrs-11;14-debriefing-after-cc2;Ewan;And like, again, in the first movers kind of a thing, right? Of course, it's just a time question before someone's gonna do it, but eh THE COMPANY again has so much to win on being a first mover on something, like we're building the plans, literally right now, and there should be done soon. Even before the plans are done, bring these people- yeah.
+dtrs-11;14-debriefing-after-cc2;Tiffany;Yeah, invite them, yeah.
+dtrs-11;14-debriefing-after-cc2;Ewan;Invite Yen, eh.
+dtrs-11;14-debriefing-after-cc2;Rose;They can see the whole process.
+dtrs-11;14-debriefing-after-cc2;Tiffany;To see the making of eh-
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah yeah, Brian 1 and Brian 2, straight up there (laughter) eh. And it's (.) stuff like this is so simple. It li'- it's mega simple to do. You need, like, get fifty or hundred people, two hundred people, and make them talk, make them eh
+dtrs-11;14-debriefing-after-cc2;Hans;(INAUDIBLE)
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah, eh of course I don't know (if we can lead this?) as an accessory (laughs), but, but still this is part of building the brand, eh and going beyond the base product, and it is only about val'- it's about values basically. Eh. And I think- yeah. It would be so amazing to do it, and do it differently, like, eh it- you'll be so much eh (.) what should- what can I call it? Like ehm eh investment in China (.) as that.
+dtrs-11;14-debriefing-after-cc2;Hans;Yeah.
+dtrs-11;14-debriefing-after-cc2;Ewan;We don't take you abroad, it is about China. It's about THE COMPANY being (.) we bli'- we definitely believe in THE COMPANY in China.
+dtrs-11;14-debriefing-after-cc2;Tiffany;But the Chinese people would then- like, in SCANDINAVIA you can take this train that goes inside the factory.
+dtrs-11;14-debriefing-after-cc2;Ewan;Mhm?
+dtrs-11;14-debriefing-after-cc2;Tiffany;Eh would the Chinese people like that?
+dtrs-11;14-debriefing-after-cc2;Will;Yeah, I agree-
+dtrs-11;14-debriefing-after-cc2;Amanda;[It's an experience, yeah].
+dtrs-11;14-debriefing-after-cc2;Tiffany;[To see the factory from eh], from inside and see how they building actually, from start on and all the way.
+dtrs-11;14-debriefing-after-cc2;Amanda;Especially for people like Brian 2, who love this kind of story.
+dtrs-11;14-debriefing-after-cc2;Rose;Mhm.
+dtrs-11;14-debriefing-after-cc2;Will;Yeah.
+dtrs-11;14-debriefing-after-cc2;Amanda;So for him, having the access to be there (.) is the source of credibility.
+dtrs-11;14-debriefing-after-cc2;Tiffany;Cause they always start with the (Fiona?) in, like, fifteen minutes telling about all the THE COMPANY's history,
+dtrs-11;14-debriefing-after-cc2;Amanda;Yes, yeah.
+dtrs-11;14-debriefing-after-cc2;Tiffany;Eh from start, like someone said the (INAUDIBLE) the safety build, it's from the start, and then you see some films from the (.) eh where they crash tests, with the- with the doors, and the cras'- crash, those even have names, it's (crime?) alive, because he always survives. (Laughter) So there is really- there is so much stories about it.
+dtrs-11;14-debriefing-after-cc2;Amanda;Yeah.
+dtrs-11;14-debriefing-after-cc2;Tiffany;And then you have the factory tour as an end of the- a guide telling you about the different eh factories and eh-
+dtrs-11;14-debriefing-after-cc2;Ewan;"And I think this should definitely be a part of it, eh and I think the history part should be ""yes, for sure we have the SCANDINAVIAN history, but what is the Chinese history?"" You know, what happened, like you need to tie it back to (.) pride. And the investment."
+dtrs-11;14-debriefing-after-cc2;Tiffany;And lift up the Chinese factory as well.
+dtrs-11;14-debriefing-after-cc2;Amanda;Yes.
+dtrs-11;14-debriefing-after-cc2;Rose;Yes.
+dtrs-11;14-debriefing-after-cc2;Will;So I think it tries to resolve two problem, one is eh the lack of credibility about Chinese car manufacturing, and number two is that eh tension between okay, THE COMPANY as a very credible brand, but yet, residing within the Chinese locally made kind of complex. So how do I resolve that in my mind, because that's the tension in their mind.
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah.
+dtrs-11;14-debriefing-after-cc2;Tiffany;"That would be the storytelling that really say ""yeah- yes it is THE COMPANY factory in China, but it's still same same""."
+dtrs-11;14-debriefing-after-cc2;Amanda;Yeah.
+dtrs-11;14-debriefing-after-cc2;Tiffany;And tell the whole story then.
+dtrs-11;14-debriefing-after-cc2;Ewan;And even not excusing it.
+dtrs-11;14-debriefing-after-cc2;Tiffany;[>No no no<, just be proud of it].
+dtrs-11;14-debriefing-after-cc2;Ewan;[Of course it's- of course-] it is the most advanced plan THE COMPANY has. Like, we're doing it here.
+dtrs-11;14-debriefing-after-cc2;Tiffany;The newest one.
+dtrs-11;14-debriefing-after-cc2;Ewan;The newest one, and you know, it's like of course, like all the people are here and they're educated, and (.) eh yeah.
+dtrs-11;14-debriefing-after-cc2;Tiffany;I don't- I don't think they have it here, but it would- might be an idea to (.)
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah at least- for instance, it should be done- it is an exclusive thing. It's not something that run like the blue train, it's kind of like old in a way there, but it should be done in a very beautiful way. Of course then it's- this is surgically striking.
+dtrs-11;14-debriefing-after-cc2;Tiffany;Mhm.
+dtrs-11;14-debriefing-after-cc2;Ewan;Ehm yeah.
+dtrs-11;14-debriefing-after-cc2;Tiffany;And also maybe to eh have like (.) you can win stuff, and they can win like this trip in the factory.
+dtrs-11;14-debriefing-after-cc2;Ewan;"Eh yeah, yeah yeah, yeah. Eh yeah, that's going into ideation mode, but I think- but I just thought of that eh when we talked about the factory outlet, and of course you- they immediate thought it's like ""yeah, we fly them to SCANDINAVIA"", but no way, we fly- we take them here in China, it's about the history of THE COMPANY in China, and why we have chosen China and how we- basically how we respect the Chinese customs or like (.) what we're doing here is not because- like, I'm not doing it because I wanna sell more, like find a way to sell more cars. I do it because I wanna understand [these people]."
+dtrs-11;14-debriefing-after-cc2;Tiffany;[(Sound more as history is?) (INAUDIBLE)] (laughter)
+dtrs-11;14-debriefing-after-cc2;Amanda;[The relevance].
+dtrs-11;14-debriefing-after-cc2;Ewan;The relevance, yeah yeah. Yeah, do it because of the relevance, yeah.
+dtrs-11;14-debriefing-after-cc2;Will;They will prefer-
+dtrs-11;14-debriefing-after-cc2;Ewan;The relevance, yeah.
+dtrs-11;14-debriefing-after-cc2;Will;They will prefer SCANDINAVIA (laughter)
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah. Of course they will prefer SCANDINAVIA, but that's why of course we (.) people who only want to go to SCANDINAVIA, I feel that is- that should be- that's the old (.) [(plan?), and we wanna have a (plan?)].
+dtrs-11;14-debriefing-after-cc2;Will;[But I guess that's- that's normal], but you are- you are gonna do it in China, that's also a lot more confidence about [doing it].
+dtrs-11;14-debriefing-after-cc2;Ewan;[That's the confidence!]
+dtrs-11;14-debriefing-after-cc2;Amanda;[I think the reasion- yeah]. The reason is because you want it to be relevant to the local insights. And that is the key point.
+dtrs-11;14-debriefing-after-cc2;Ewan;That's the key point.
+dtrs-11;14-debriefing-after-cc2;Amanda;And how is it different from other brands, that, yeah. Because it show that you put an effort in the (thinking?) about it.
+dtrs-11;14-debriefing-after-cc2;Ewan;Yeah. Eh let's eh put a pin on that discussion, and I think it's really an interesting discussion.
+dtrs-11;14-debriefing-after-cc2;Hans;Mhm, products as well.
+dtrs-11;14-debriefing-after-cc2;Ewan;Eh yeah, and of course it can definitely- if you have the grand thing, which is the tour and everything, but how can it be manifested in other ways?
+dtrs-11;14-debriefing-after-cc2;Hans;Yeah, yeah.
+dtrs-11;14-debriefing-after-cc2;Ewan;Eh alright. I think- let's close up here.

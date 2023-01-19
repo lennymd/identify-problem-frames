@@ -1,0 +1,475 @@
+dataset;session;speaker;utterance
+dtrs-11;09-clustering-insights-cc1;Amanda;"The distance is just so different and (.) especially when it comes to the business world, I think, being able to surround yourself, all the different touch point you see about ""me"" reflect it, that consistency."
+dtrs-11;09-clustering-insights-cc1;Kenny;Ah I think it's a good thinking. So they're quite aware of what can push them down and what can elevate them, and because we don't have that concern, we don't need to [think about what pushed me down] or what elevates me, so we can- or we probably have other concerns that we care about then instead.
+dtrs-11;09-clustering-insights-cc1;Amanda;[Mhm, we start at the same baseline].
+dtrs-11;09-clustering-insights-cc1;Ewan;Yeah that thing is, and that- you should write that down because that is a good- is a really good insight about that there.
+dtrs-11;09-clustering-insights-cc1;Amanda;(Everybody writes post-its) (..) And another example I could think of for this is the- in Chinese, the family name comes first, like in Korea I suppose, before your own. So I think that carries a lot of weight, right? Like, I am a reflection on my family, because it's so intertwined. It's not like I'm different from like, I- you know, my parents' value is different than mine, it's really not about that.
+dtrs-11;09-clustering-insights-cc1;Ewan;And of course this goes back to- this is ultra-European, 'cause Europe had tons of revolutions and stuff like that to remove themselves from this. Your father was a blacksmith, you are a blacksmith, that kind of thing, like no, it is not about that, it is about you as an individual, you are a blank canvas, you could do whatever you want, your past should not follow you.
+dtrs-11;09-clustering-insights-cc1;Amanda;So then when it comes to commitment, how- how like- okay the question is do we want to enable that, or do we actually wanna give them also (.) the space of not having to feel that burden?
+dtrs-11;09-clustering-insights-cc1;Ewan;Yeah so, I feel it's a little disconnected, 'cause I'm- I wrote down the thing with kind of the engine, like you know, you don't prioritize your own needs to cater for others, but other people discover your commitment and sacrifice, and you get elevated to a higher status level.
+dtrs-11;09-clustering-insights-cc1;Amanda;Mhm.
+dtrs-11;09-clustering-insights-cc1;Ewan;And I think-, eh and you know, and then you reach that level and you- you sacrifice something here, you sacrifice ten here, but you get twelve back, in another place.
+dtrs-11;09-clustering-insights-cc1;Abby;I guess something more needs to be added to that. I mean if you-
+dtrs-11;09-clustering-insights-cc1;Ewan;Yeah yeah yeah this is the very basic. [Oh sorry].
+dtrs-11;09-clustering-insights-cc1;Abby;[No no, but still], in the middle there, something needs to be added because I mean, you- you sacrifice for your family, you tell it to your friends or whatever but they're doing the same thing, then you will not get elevated, then you will just kind of eh,
+dtrs-11;09-clustering-insights-cc1;Ewan;Stay the same. But then they of course- you- it is still good- there will always be others that is not doing it, and if you are in this- your little group, that's good. Then you are in a select few group.
+dtrs-11;09-clustering-insights-cc1;Abby;"But I guess it's- you will only be elevated if the people not doing it think it's a, really eh good thing, and if it's taking care of your family, other people are thinking ""oh, wow, why do you want to do that? [We're just trying (INAUDIBLE) to do it.""]"
+dtrs-11;09-clustering-insights-cc1;Ewan;[Oh, no no clearly], that's a core value, so then we can't use that one, we need to use something else, and that else is basically, you know, sorting your trash, or buying a product that is sustainable or, and that's the thing. Taking care of the family is eh is I think too- everyone is- everyone doing it so it doesn't add that effect, so we need to find something on the fringes.
+dtrs-11;09-clustering-insights-cc1;Abby;Yeah.
+dtrs-11;09-clustering-insights-cc1;Ewan;"And of course there will be a point, and, you know, it's amazing, there will be a point where everyone is recycling and stuff like that, then that- we need to find something else in that. And but then of course there's hopefully, or hopefully not, but there's many years untill that's gonna happen. Ehm. I don't know if it's connected, and of course I'm not a religious man, but there's an amazing quote from the bible, which is this guy who asks for courage. God- he prays to God ""can I get courage?"", and he never gets the courage, he never gets courage at all, and then, I don't know if God or whoever speaks to this, probably a wise man that they meet, which of course he represents or like that is God, kind of, and he says you know ""what do you think?"" you know, ""do you think God would just give you courage, or do you think he will give you the opportunity to be courageous?"". Eh, and I think that's what we need to do here. We need them-, the opportunity to take commitment, instead of just giving them the free stuff. They need an opportunity to be courageous so they can shine through that in a way. And so I don't know if that with this was connected, but [I know we can- yeah]"
+dtrs-11;09-clustering-insights-cc1;Abby;[Yeah but I guess it's] almost the opposite, because if we just give them (.) give them, they need to buy the car of course, (laughter) but if we give them the car with all the ehm recycled eh whatever, then (.) they don't need to do anything, I mean, then they-
+dtrs-11;09-clustering-insights-cc1;Ewan;They did-, they already did it, they bought the car.
+dtrs-11;09-clustering-insights-cc1;Amanda;I think it's the- it's like the BMW story, in our group, like they believed that even the, the metal or the whatever material, or the screw used in the car already reflected that value. Remember?
+dtrs-11;09-clustering-insights-cc1;Abby;Yeah, yeah, that everything was eh recycled and so on, but I'm just thinking that (.) that is the only action they need to do. I mean eh, it's- it's just very very very easy.
+dtrs-11;09-clustering-insights-cc1;Ewan;"Yeah but we are-, we have to remember we are not the only piece of this puzzle. We are just one of the actions they take, and they do take several other actions as well, but we are a- a car or an accessory or whatever is a pretty big thing, but then they do all these small things as well, we're just one piece of the puzzle. So I don't think these people will like, they are living like pigs, consuming like crazy and buy a THE COMPANY-PRODUCT and then, it's done. I think they're doing other stuff as well. But we're just one piece of the big puzzle moving forward. Eh and, you know, we cannot start with people that are totally blank. We need to start with the right demographic that has an attitude and like are already kind of moving in to this, like for example Heidi from our group. She was the one who said it, ""we need this commitment no matter what""."
+dtrs-11;09-clustering-insights-cc1;Abby;Mhm.
+dtrs-11;09-clustering-insights-cc1;Ewan;"I don't know if she had a THE COMPANY-PRODUCT or not, but she would be ""okay, these [are the person-""]"
+dtrs-11;09-clustering-insights-cc1;Kenny;[(INAUDIBLE) BMW].
+dtrs-11;09-clustering-insights-cc1;Ewan;Yeah yeah, yeah. And this is a person that's already open to our ideas. Eh and of course you have the people- the person that- who already had THE COMPANY, he's- but he's like already there, and we wanna do maybe some conquest there, not only resell to the people who already are there. Ehm, yeah.
+dtrs-11;09-clustering-insights-cc1;Amanda;So, my (.) bigger question is actually, for some reason I just got so fixated with me-time. I think there's untapped opportunity there.
+dtrs-11;09-clustering-insights-cc1;Ewan;Yeah yeah yeah.
+dtrs-11;09-clustering-insights-cc1;Abby;Yeah.
+dtrs-11;09-clustering-insights-cc1;Amanda;I understand that you're saying okay, THE COMPANY is already catering for just the driver, but I think (.)
+dtrs-11;09-clustering-insights-cc1;Abby;But not enough at all, I mean.
+dtrs-11;09-clustering-insights-cc1;Amanda;Not enough, or in a very different mindset. So you're catering the driver wanting to make the driver the superhero, but the way I see it is (.) the car catering to the driver as a resting time from being a superhero.
+dtrs-11;09-clustering-insights-cc1;Ewan;Mhm mhm.
+dtrs-11;09-clustering-insights-cc1;Amanda;Does that make sense?
+dtrs-11;09-clustering-insights-cc1;Ewan;Yeah
+dtrs-11;09-clustering-insights-cc1;Abby;Mhm.
+dtrs-11;09-clustering-insights-cc1;Amanda;"Like, the car becomes this safe place for me to let go, and away from all this burden and ""da-da-da-da"", but it is still about me, it's just that I'm not performing what I was expected to do, in a sense."
+dtrs-11;09-clustering-insights-cc1;Abby;Yeah.
+dtrs-11;09-clustering-insights-cc1;Ewan;"Mhm mhm mhm. Ehm (.) can we try to take that a bit further, how can that- how can we, can we envision some ideas, or like, themes around me-time that is more than a- me-time is just- is a- I think that is a big theme. And we talked about it many times before of course, this is like, we've called it me-time, sometimes we called it THE COMPANY-time, so it's like-. And of course, in the company right now there's a lot of talk about me-time but in a very technical sense because it's like ""what can you do while eh-"""
+dtrs-11;09-clustering-insights-cc1;Abby;Work, relax eh [(INAUDIBLE), yeah].
+dtrs-11;09-clustering-insights-cc1;Ewan;"[Yeah, work, relax, what can you do-], ""when the car is driving itself, what do you do then?"""
+dtrs-11;09-clustering-insights-cc1;Abby;Yeah.
+dtrs-11;09-clustering-insights-cc1;Ewan;"Ehm. ""How can you stay un- not bored in the car?"""
+dtrs-11;09-clustering-insights-cc1;Abby;Mhm.
+dtrs-11;09-clustering-insights-cc1;Ewan;Eh is it that way you think?
+dtrs-11;09-clustering-insights-cc1;Amanda;I'm just thinking of another analogy. It's like, you go to a café, because you want that social aspect, you want to be surrounded, that's why you're not at home in your study-room, right?
+dtrs-11;09-clustering-insights-cc1;Ewan;Yeah yeah yeah.
+dtrs-11;09-clustering-insights-cc1;Amanda;But once you go there, you clock in to your own little world.
+dtrs-11;09-clustering-insights-cc1;Ewan;Mhm, own little world yeah.
+dtrs-11;09-clustering-insights-cc1;Amanda;So I think that- that is a super interesting tension.
+dtrs-11;09-clustering-insights-cc1;Ewan;Okay yeah, so you go to a social place to be un-social.
+dtrs-11;09-clustering-insights-cc1;Amanda;Yeah.
+dtrs-11;09-clustering-insights-cc1;Abby;Mhm.
+dtrs-11;09-clustering-insights-cc1;Ewan;Yeah? That's a great eh, that's an interesting area.
+dtrs-11;09-clustering-insights-cc1;Amanda;So this is a, I think-
+dtrs-11;09-clustering-insights-cc1;Ewan;So you want the comfort of the other people around you, but you wanna have your space there.
+dtrs-11;09-clustering-insights-cc1;Amanda;"Yeah, you go there not nece'-, yes, you- the space itself is a good platform for you to meet other, to see other, a meeting place, but it's also good enough for my own, my needs. So it's that kind of tension that I think the opportunity lies. So maybe going back to the tangible car, it could be ""the car itself is catering for me and my family. When I'm driving, I'm not necessarily the superhero"", it's more like The Incredibles where different family have different role in the car, but a different mood from that, is when it is night time, ""everyone is all asleep, I need to rest, this is where- this is my cocoon as well""."
+dtrs-11;09-clustering-insights-cc1;Abby;Mhm.
+dtrs-11;09-clustering-insights-cc1;Rose;(Opens door and comes into room) We have till eleven fifteen?
+dtrs-11;09-clustering-insights-cc1;Ewan;We can just push the time.
+dtrs-11;09-clustering-insights-cc1;Rose;Till eleven fifteen?
+dtrs-11;09-clustering-insights-cc1;Ewan;Yeah, we need probably, we need more time as well, so that's very good.
+dtrs-11;09-clustering-insights-cc1;Rose;Ah okay.
+dtrs-11;09-clustering-insights-cc1;Ewan;So don't-, if you need more time just eh, it's good for us as well.
+dtrs-11;09-clustering-insights-cc1;Rose;Okay, good.
+dtrs-11;09-clustering-insights-cc1;Ewan;Eh, Rose?
+dtrs-11;09-clustering-insights-cc1;Amanda;Rose?
+dtrs-11;09-clustering-insights-cc1;Ewan;"So then eh yeah, use as much time as you feel that you come to a level where ""yeah, wow, that feels good"""
+dtrs-11;09-clustering-insights-cc1;Rose;Okay yeah. I think we have been iterating and discussing at the same time, so I think we're on the same.
+dtrs-11;09-clustering-insights-cc1;Ewan;How does it feel?
+dtrs-11;09-clustering-insights-cc1;Rose;Yeah, it's good.
+dtrs-11;09-clustering-insights-cc1;Ewan;"Yeah? Nice. (Rose leaves the room) Yeah, eh, I think it's interesting. I- when you said it I was like also going to do ""okay so, you're a superhero in your normal life, you know you're taking care of everything, when you're in the car you can relax a little bit, because the car is taking over a little bit of that responsibility"""
+dtrs-11;09-clustering-insights-cc1;Amanda;"Yes, yeah. It's that boundary and that safe space that, ""who is going to take care of me?"""
+dtrs-11;09-clustering-insights-cc1;Abby;Mhm.
+dtrs-11;09-clustering-insights-cc1;Amanda;So the car, or the brand, is the one that will take care of me, 'cause I have been taking care of everyone, you know, from nine am to nine pm.
+dtrs-11;09-clustering-insights-cc1;Ewan;Yeah. There's a lot of good storytelling in that.
+dtrs-11;09-clustering-insights-cc1;Kenny;I think there's a lot of good things in it, but I- I also feel that within THE COMPANY, that topic is kind of exhausted already. So I'm a little bit afraid of-
+dtrs-11;09-clustering-insights-cc1;Ewan;In a technical kind of sense, at least.
+dtrs-11;09-clustering-insights-cc1;Abby;Yeah but maybe [the accessory is eh-]
+dtrs-11;09-clustering-insights-cc1;Kenny;[Yeah, but in many ways- maybe accessories] has ne'- I think accessories has never worked with any of the themes when (INAUDIBLE) (laughs), [so in that sense it might be alright].
+dtrs-11;09-clustering-insights-cc1;Abby;[Yeah but so maybe it's actually-], and maybe it's actually something that would be the exact match for the next cars?
+dtrs-11;09-clustering-insights-cc1;Kenny;Maybe.
+dtrs-11;09-clustering-insights-cc1;Ewan;What I'm trying to do is that- or trying to understand, can this exist, eh as something tangible or a service. The story- I can totally buy into the story, but can it exist- how can it be manifested?
+dtrs-11;09-clustering-insights-cc1;Amanda;Well this is where the co-design comes in and they, they need to tell us how, right?
+dtrs-11;09-clustering-insights-cc1;Kenny;Yeah.
+dtrs-11;09-clustering-insights-cc1;Ewan;Yeah, true.
+dtrs-11;09-clustering-insights-cc1;Abby;But I guess it could be everything from extra comfort to (.) services [that- yeah exactly].
+dtrs-11;09-clustering-insights-cc1;Ewan;[Automation and so on and so on].
+dtrs-11;09-clustering-insights-cc1;Amanda;Yeah so, so is this the level of theme we wanna give them? Like, here's the tension, the me-time, the duty, okay, go figure out how to- tell us all this.
+dtrs-11;09-clustering-insights-cc1;Abby;Mhm.
+dtrs-11;09-clustering-insights-cc1;Ewan;Alright, so what I see here is that, and I feel (.) the awareness and responsibility is base layer. That is a base story you buy into, and that is ever-present. So knowing that you buy a car that people were happy making and the s'- the products is sustainable and the company's responsible and everything, that is-
+dtrs-11;09-clustering-insights-cc1;Abby;Yeah, but it- it will probably- most likely not be the reason for them to buy it, [right, but it's the- it's the, it's-]
+dtrs-11;09-clustering-insights-cc1;Ewan;[No no no, but it is a base, it's a core value of] why you buy it, and we see this eh and, it's just-
+dtrs-11;09-clustering-insights-cc1;Abby;Yeah either it's a core value, or it's the bonus that you get. It's- it's- I guess there's two different ways to see it.
+dtrs-11;09-clustering-insights-cc1;Ewan;I think- I think to THE COMPANY, to exist it needs to find a core value, it used to be safety, that is exhausted. Now it needs to be something else.
+dtrs-11;09-clustering-insights-cc1;Abby;Yeah but, seen from the respondents sides, or the customer side, is it- why do they buy the THE COMPANY-PRODUCT, is it because it has the core value of being eh environmental friendly, or is it the features it has, and then it's a bonus for them that it's eh
+dtrs-11;09-clustering-insights-cc1;Ewan;I think we need to- we need to change this so it is the core value, [and they call the feature-]
+dtrs-11;09-clustering-insights-cc1;Abby;[Yeah, that would be absolutely the best].
+dtrs-11;09-clustering-insights-cc1;Ewan;[All the values], are the bonuses. And that's kind of maybe really what pushes them over the edge, eh to buy it, but you shouldn't see the environment'- like the sustainability as the bonus, that should be the base and everything else will stack on top.
+dtrs-11;09-clustering-insights-cc1;Abby;No but I-, it's not how I should see it, it's eh it's- it's- I'm thinking what is it (.) that they actually want to buy into?
+dtrs-11;09-clustering-insights-cc1;Ewan;So they wanna buy into the-
+dtrs-11;09-clustering-insights-cc1;Abby;I think- I think, I mean, for THE COMPANY it would be perfect if they, if we have the- that environment instead of the safety part, if we could do some kind of shift there, and then, that is what it's sold on.
+dtrs-11;09-clustering-insights-cc1;Ewan;Mhm.
+dtrs-11;09-clustering-insights-cc1;Abby;But I'm thinking if that's going to be too much, is it going to be tree-huggers who is just buying the car?
+dtrs-11;09-clustering-insights-cc1;Ewan;No no no, and of course we're not going to take it to the extreme. It needs to be balanced in a- in a exclusive, beautiful way. But it-
+dtrs-11;09-clustering-insights-cc1;Abby;Yeah yeah, exactly. So it's hints of- of this.
+dtrs-11;09-clustering-insights-cc1;Ewan;"It's hints, it's definitely hints and this comes back to- to maybe this thing that of course it's yes, it is-, ""I'm different because I'm taking responsibility, also for you and also for you, by purchasing this car"". But this is just one piece of the story, it's not like we're- it's not like we have this very black and white story."
+dtrs-11;09-clustering-insights-cc1;Abby;Yeah yeah.
+dtrs-11;09-clustering-insights-cc1;Ewan;"It is- it is a more complex thing, it is a eco-system of story, but we need a base story. It's just, I think just that the-, having this as one part of the story and having kind of the ehm, the ""car-take responsibility of me""-story, those need to go together. I think, the sustainability part of this is more untapped than the ""the car is taking care of me"", and I think that is als'- already a little used, the design around you and everything, that is- that is part of that thing. Eh we just- so, but here I think we need to change it into maybe a more Chinese way, of thinking about this, what it is all about. Eh but it is- yeah, definitely several layers ehm. But, so going back to what co-creation 2 could be about, definitely (.) the whole thing around eh, the me-time and stuff is an important part, but we just, as Kenny is saying, it is almost exhausted."
+dtrs-11;09-clustering-insights-cc1;Kenny;Yeah, but I also agree that it might be really interesting for accessories,
+dtrs-11;09-clustering-insights-cc1;Ewan;Yeah, yeah.
+dtrs-11;09-clustering-insights-cc1;Abby;Exactly, because it's exhausted within (.) the rest of the company. Or, not exhausted because it's going on right now so it is super relevant, ehm.
+dtrs-11;09-clustering-insights-cc1;Kenny;Yeah, but I also think it's, it's not necessarily-, at least for me it's not super sexy. I think it's very easy, it goes in the practical way, that it's gonna solve some very-
+dtrs-11;09-clustering-insights-cc1;Ewan;Yeah yeah, calendars and alarm clocks and like whatever.
+dtrs-11;09-clustering-insights-cc1;Kenny;And maybe that's alright, but then we need to maybe spice it with the sexy commitment (laughs)
+dtrs-11;09-clustering-insights-cc1;Ewan;Yeah.
+dtrs-11;09-clustering-insights-cc1;Kenny;No not sexy commitment, but- but with the global awareness responsibility.
+dtrs-11;09-clustering-insights-cc1;Abby;"And the story around that ""okay, THE COMPANY actually takes- takes care of you, now you have taken care of everyone else, now it's time for you to be pampered a little bit. This is your time""."
+dtrs-11;09-clustering-insights-cc1;Amanda;Yeah.
+dtrs-11;09-clustering-insights-cc1;Kenny;So I think maybe this is more about how we tell the story.
+dtrs-11;09-clustering-insights-cc1;Abby;Exactly. And then the products could absolutely live within here, but the story around it is eh
+dtrs-11;09-clustering-insights-cc1;Ewan;And this is what I mean, [the basic area is this, yeah, this is the core, the base layer]
+dtrs-11;09-clustering-insights-cc1;Kenny;[And I think that's kind of the way we should- yeah].
+dtrs-11;09-clustering-insights-cc1;Ewan;It's always present and then this is how it embodies, in a way. I can- I can see that happen.
+dtrs-11;09-clustering-insights-cc1;Kenny;Yeah.
+dtrs-11;09-clustering-insights-cc1;Ewan;Ehm.
+dtrs-11;09-clustering-insights-cc1;Abby;Because, I mean, it has to end up (.) in super tangible products in the-
+dtrs-11;09-clustering-insights-cc1;Ewan;In the very [very end, yeah, in the very very end, yeah].
+dtrs-11;09-clustering-insights-cc1;Abby;[Very very end, not here, but eh], in the very very end, and it will be some kind of (.) whatever it is, a new type of eh head rest cushion or whatever (laughs), eh.
+dtrs-11;09-clustering-insights-cc1;Ewan;[May'- maybe].
+dtrs-11;09-clustering-insights-cc1;Amanda;[I'm just- yeah]. I think we talked about this yesterday. Just a wild (.) product, great product to have, 'cause we hear a lot about people wanting to go to the gym or go, you know, driving- just driving a car me and my music, at night. Very simple, actually. But it seems like it's an untapped market, right? Like imagine like, okay, in a travel family holiday time, this is what the car is for, it could fit everyone, I can just throw everything in and that's it. But at night, what do you-, the whole environment, the whole mood inside the car has been changed and you have this little kit that you just bring with you and it has everything you need.
+dtrs-11;09-clustering-insights-cc1;Ewan;Yeah. (Laughs)
+dtrs-11;09-clustering-insights-cc1;Amanda;That would be so cool, I want one of those. (laughter)
+dtrs-11;09-clustering-insights-cc1;Ewan;So like and, like, there's a kit that has everything you need?
+dtrs-11;09-clustering-insights-cc1;Amanda;"It's just taking a backpack, like ""this is my me-time backpack""."
+dtrs-11;09-clustering-insights-cc1;Ewan;Yeah?
+dtrs-11;09-clustering-insights-cc1;Amanda;You put it in the car, there's some kind of whatever feature whatever that can enable that, like the- the smell that I like depending on my mood. If it's raining maybe there's a different tone of music or lighting feature.
+dtrs-11;09-clustering-insights-cc1;Ewan;Yeah yeah yeah yeah
+dtrs-11;09-clustering-insights-cc1;Kenny;Yeah.
+dtrs-11;09-clustering-insights-cc1;Ewan;But that goes into kind of the well being eh realm.
+dtrs-11;09-clustering-insights-cc1;Amanda;Yeah, yes, but away from my family, right? 'Cause there's so much- and then, this is where the business case could come in like, Philips is all about creating movie at home.
+dtrs-11;09-clustering-insights-cc1;Ewan;Yeah yeah.
+dtrs-11;09-clustering-insights-cc1;Abby;Mhm?
+dtrs-11;09-clustering-insights-cc1;Amanda;What does it look like in a car? Because people wanna get away from home, for that.
+dtrs-11;09-clustering-insights-cc1;Abby;Yeah, yeah.
+dtrs-11;09-clustering-insights-cc1;Ewan;(..) It's interesting I think, not us, but we have another department, XXX.
+dtrs-11;09-clustering-insights-cc1;Abby;XXX, yeah yeah.
+dtrs-11;09-clustering-insights-cc1;Ewan;She did actually a product with OTHER COMPANY, where she had like-
+dtrs-11;09-clustering-insights-cc1;Abby;Well being- well being products.
+dtrs-11;09-clustering-insights-cc1;Ewan;Yeah.
+dtrs-11;09-clustering-insights-cc1;Amanda;Where does this come from? (points to post-it)
+dtrs-11;09-clustering-insights-cc1;David;Me. (laughs)
+dtrs-11;09-clustering-insights-cc1;Amanda;I'm like suddenly, wow! (laughter)
+dtrs-11;09-clustering-insights-cc1;Ewan;Yeah, boom!
+dtrs-11;09-clustering-insights-cc1;David;Yeah (laughs)
+dtrs-11;09-clustering-insights-cc1;Ewan;"And this- she took it too far I think, 'cause she went way tree-hugger, and she was like ""the car is a womb"", and eh I think that was too far (laughter)"
+dtrs-11;09-clustering-insights-cc1;Kenny;But she- I think she did some good things. I think she was one of those- she was part of this mood lighting, at the (INAUDIBLE), right?
+dtrs-11;09-clustering-insights-cc1;Abby;Yeah exactly, that I think, that was what actually came out of it, so she of course took it to the extreme, but then what actually eh got into the car was actually a good thing. Ehm.
+dtrs-11;09-clustering-insights-cc1;Kenny;And maybe it was the intention, [maybe it wasn't, I don't know].
+dtrs-11;09-clustering-insights-cc1;Abby;[Yeah, exactly, because] you need to make it super crazy and then they'll just pick small small small bits, and then it's actually perfect.
+dtrs-11;09-clustering-insights-cc1;Kenny;And I think that's also what we learned in THE COMPANY, that we come with something, and then they will cut off ninety percent of it so you'll get the ten percent into the car.
+dtrs-11;09-clustering-insights-cc1;Ewan;Yeah (laughs). Yeah, and you just need to make sure that the ninety percent they cut off is un- is cuttable, and the ten percent is ehm-
+dtrs-11;09-clustering-insights-cc1;Kenny;So you need to- to provide a thousand percent, and they will get one hundred percent into the car. (laughs)
+dtrs-11;09-clustering-insights-cc1;Abby;So I think one of her ideas was that all the fabrics should have lights from behind, so that eh it would- it could pulse a little bit or it could do whatever, and then it ended up with two tiny lights eh, (laughter)
+dtrs-11;09-clustering-insights-cc1;Kenny;LED's from the roof!
+dtrs-11;09-clustering-insights-cc1;Abby;LED's that can change eh colours or you can- you can-
+dtrs-11;09-clustering-insights-cc1;Ewan;It's just four colours! (laughter) (..) But they are- you know, you have it in your car.
+dtrs-11;09-clustering-insights-cc1;Kenny;I have it in my car.
+dtrs-11;09-clustering-insights-cc1;Ewan;And it's okay looking!
+dtrs-11;09-clustering-insights-cc1;Abby;It is really nice, I think eh
+dtrs-11;09-clustering-insights-cc1;Ewan;It's okay! It's very nice (laughs)
+dtrs-11;09-clustering-insights-cc1;Kenny;I enjoy it, I do enjoy it (laughs). It doesn't really change my mood
+dtrs-11;09-clustering-insights-cc1;Amanda;It's not a womb, but-
+dtrs-11;09-clustering-insights-cc1;Kenny;It's nice. (laugher)
+dtrs-11;09-clustering-insights-cc1;Ewan;"And that's the thing, it's like, yeah it's like you- so much work and you say ""yeah, it's okay, I have forgot about it""."
+dtrs-11;09-clustering-insights-cc1;Kenny;Yeah (laughter)
+dtrs-11;09-clustering-insights-cc1;Ewan;But for that little moment there, we had in the car, that was ten minutes. It was okay! We thought about it.
+dtrs-11;09-clustering-insights-cc1;Abby;And we saw the different colours and yeah, it was good (laughs)
+dtrs-11;09-clustering-insights-cc1;Ewan;Yeah yeah, which colour do you like best, I like this one, okay yeah, and yeah, let's talk about something else. (laughter)
+dtrs-11;09-clustering-insights-cc1;Kenny;(..) Alright, I feel that we are closing in onto something.
+dtrs-11;09-clustering-insights-cc1;Ewan;Yeah?
+dtrs-11;09-clustering-insights-cc1;Kenny;That tastes a little bit of eh global awareness and eh me-time.
+dtrs-11;09-clustering-insights-cc1;Ewan;"Yeah, mhm. And also the level like ""how can we"" (..) so maybe this is what I'm drawing here, it's my- the- so I have this base layer which is kind of called ""I'm aware, I have a surplus, I have commitment, I take commitment"", or whatever could you (won?) like the, [the communication line],"
+dtrs-11;09-clustering-insights-cc1;Abby;[Take responsibility].
+dtrs-11;09-clustering-insights-cc1;Ewan;Yeah, responsibility, story, and then the product or service line becomes maybe more the me-time in a way. I'm- I'm open to it, I'm, as Kenny, a little afraid of it, because- but I'm- I'm probably also just damaged by all the talk about me-time the last three years.
+dtrs-11;09-clustering-insights-cc1;Amanda;But does it being discussed in the same way?
+dtrs-11;09-clustering-insights-cc1;Ewan;No no, not at all.
+dtrs-11;09-clustering-insights-cc1;Kenny;Very different ways.
+dtrs-11;09-clustering-insights-cc1;Abby;Exactly.
+dtrs-11;09-clustering-insights-cc1;Ewan;Not at all. So we just need to- is there another name? Can we call it something else.
+dtrs-11;09-clustering-insights-cc1;Amanda;Ah, okay.
+dtrs-11;09-clustering-insights-cc1;Kenny;"And- and- but it has been discussed like in very different shapes, like in productivity and in ""how do you care for me"" and these mood-things and [lots of different shapes]."
+dtrs-11;09-clustering-insights-cc1;Abby;"[And especially with the] driverless cars, okay, ""what should you [spend the time on]"","
+dtrs-11;09-clustering-insights-cc1;Kenny;"[Yeah, ""what should you do?""]"
+dtrs-11;09-clustering-insights-cc1;Abby;Now that you don't have to drive, now that you don't have to drive yourself, okay, now you can actually just go to sleep if that's what you want, take a small nap or you can meditate, so it's- is really the me-time, in focus. Ehm but I'm-
+dtrs-11;09-clustering-insights-cc1;Amanda;Yeah. Chinese people wanna eat.
+dtrs-11;09-clustering-insights-cc1;Ewan;[Yeah].
+dtrs-11;09-clustering-insights-cc1;Kenny;[Yeah].
+dtrs-11;09-clustering-insights-cc1;Abby;[Yeah]. (laughter)
+dtrs-11;09-clustering-insights-cc1;Ewan;"Kind of like a mini-dai pai dong, kind of. ""Dai pai dong"", wup! (laughter)"
+dtrs-11;09-clustering-insights-cc1;Kenny;The problem by eating in a car is actually that you'll get food on your clothes and on the floor, I think that that thing [could solve that].
+dtrs-11;09-clustering-insights-cc1;Abby;[In that sense it's really unique] to eh-
+dtrs-11;09-clustering-insights-cc1;Kenny;Accessory unit, yeah!
+dtrs-11;09-clustering-insights-cc1;Ewan;[Aprons!]
+dtrs-11;09-clustering-insights-cc1;Amanda;[To pull it down, pull down that little-]
+dtrs-11;09-clustering-insights-cc1;Abby;[It's- actually this is the, what are you calling], the- the things that you put to your hands to here when you're driving the scooter, the things that [will sound like you kind of eh]
+dtrs-11;09-clustering-insights-cc1;Ewan;[Oh the heater-thing].
+dtrs-11;09-clustering-insights-cc1;Amanda;[Yes, the gloves].
+dtrs-11;09-clustering-insights-cc1;Abby;And also the blanket then, so you just hold the-
+dtrs-11;09-clustering-insights-cc1;Kenny;On the steering wheel. (laughter)
+dtrs-11;09-clustering-insights-cc1;Abby;On the steering wheel like this, and then you're totally covered. (laughter)
+dtrs-11;09-clustering-insights-cc1;Ewan;Or you by- bypass that, you just, you have this tube that you just suck on (laughter), and there's like, you see on this display,
+dtrs-11;09-clustering-insights-cc1;Abby;What it is that you're eating!
+dtrs-11;09-clustering-insights-cc1;Ewan;"The different foods and it says like ""meeeeeee"""
+dtrs-11;09-clustering-insights-cc1;Amanda;Ah, a final-
+dtrs-11;09-clustering-insights-cc1;Abby;"""No no, a different one. No it's a burger!"" (laughter)"
+dtrs-11;09-clustering-insights-cc1;Ewan;It's the burger juice!
+dtrs-11;09-clustering-insights-cc1;Abby;"""I would like the multi now""."
+dtrs-11;09-clustering-insights-cc1;Ewan;Yeah yeah, burger juice, fries juice, and then the smoothie juice afterwards.
+dtrs-11;09-clustering-insights-cc1;Amanda;"You can have burger and a fry, combo, combo-set. I finally made a different name for me-time, ""sprinkle the king"" (laughter)"
+dtrs-11;09-clustering-insights-cc1;Abby;Yeah it is actually
+dtrs-11;09-clustering-insights-cc1;Kenny;It was not a coincidence that you found that restaurant! Now everything makes sense (laughter)
+dtrs-11;09-clustering-insights-cc1;Ewan;I can see the advertisement already.
+dtrs-11;09-clustering-insights-cc1;Abby;Food circle!
+dtrs-11;09-clustering-insights-cc1;Kenny;Yeah, food circle!
+dtrs-11;09-clustering-insights-cc1;Ewan;There's a guy, with like a crown, going in to the cars, prince sits into the car and there's just gold dust.
+dtrs-11;09-clustering-insights-cc1;Abby;Exactly!
+dtrs-11;09-clustering-insights-cc1;Ewan;"(..) ""I'm just an average king"". (laughter) Magnificent!"
+dtrs-11;09-clustering-insights-cc1;Amanda;So going from a peninsula husband with the duty, we should call it king of the-
+dtrs-11;09-clustering-insights-cc1;Kenny;Yeah, to springle the king, yeah (laughter). So these is just peninsula [husband, and this is sprinkle the king!]
+dtrs-11;09-clustering-insights-cc1;Amanda;[Husband, that's the sprinkle the king], oh my God, full circle!
+dtrs-11;09-clustering-insights-cc1;Ewan;(..) Okay.
+dtrs-11;09-clustering-insights-cc1;Kenny;Yeah.
+dtrs-11;09-clustering-insights-cc1;Amanda;Imagine presenting this! (laughing)
+dtrs-11;09-clustering-insights-cc1;Ewan;"Yeah! ""Guys guys guys guys, sit down. Listen to this, just give me a couple of minutes for you to understand"" (laughing)"
+dtrs-11;09-clustering-insights-cc1;Abby;I'm thinking the, I mean, we kind of want to change the THE COMPANY values, and (.) for this project it's kind of impossible, but we can- I'm just thinking we need to find some way where we can actually eh,
+dtrs-11;09-clustering-insights-cc1;Ewan;Kind of [mo'- weasel- weasel away forward, yeah].
+dtrs-11;09-clustering-insights-cc1;Abby;[Still have the kind of normal value], THE COMPANY values, but also have these kind of extra values, so you have the THE COMPANY-car, but if you actually also buy these accessories you have become even more, eh responsible.
+dtrs-11;09-clustering-insights-cc1;Kenny;I totally agree.
+dtrs-11;09-clustering-insights-cc1;Ewan;Or you turn up, yeah that thing, and yeah you turn up the volume of the respons'- like the THE COMPANY values.
+dtrs-11;09-clustering-insights-cc1;Abby;Yeah yeah, exactly, you become even-
+dtrs-11;09-clustering-insights-cc1;Ewan;It's like a, what do you call that, a hyper- hyper charged THE COMPANY value maybe, could be.
+dtrs-11;09-clustering-insights-cc1;Amanda;Mega-value (laughter)
+dtrs-11;09-clustering-insights-cc1;Ewan;Mega-value!
+dtrs-11;09-clustering-insights-cc1;Abby;Mega-val'- (laughs)
+dtrs-11;09-clustering-insights-cc1;Ewan;And I think the XXX eh XXX eh example like the car as a womb is good becua'- not the example in itself, but that- the way she pushed it, you know, she went all out and this was the small things that came. And that is in a car project. We probably would be able to do more, because we are in a- connected to a much more agile department.
+dtrs-11;09-clustering-insights-cc1;Kenny;Yeah, I don't think we need to go extreme like XXX-
+dtrs-11;09-clustering-insights-cc1;Ewan;No because that kind of had a- it had a blowback, like it had a- it actually started working in a negative way because it was too tree-hugger-ish. And she- she as a person as well of course being-
+dtrs-11;09-clustering-insights-cc1;Kenny;She is also very artistic.
+dtrs-11;09-clustering-insights-cc1;Ewan;Artistic person. And I totally- I totally love her, but I can definitely see that the engineering part of THE COMPANY would-
+dtrs-11;09-clustering-insights-cc1;Kenny;But- but actually she's- she's quite connected to- to the engineering part too, and I think that's her strength, that she is kind of crazy woman from EUROPEAN COUNTRY or where she is from, but she's actually quite connected to- to the tech'- technical part of it.
+dtrs-11;09-clustering-insights-cc1;Abby;Yeah, she knew- yeah, we had a meeting with her. She was really- explained so many things about how it would actually work on the eletric eh things, and
+dtrs-11;09-clustering-insights-cc1;Amanda;Circuit and-
+dtrs-11;09-clustering-insights-cc1;Abby;Yeah exactly, so, that was pretty impressive [that she had eh that side as well].
+dtrs-11;09-clustering-insights-cc1;Kenny;[Yeah she- she is eh, she has quite] a large knowledge, yeah.
+dtrs-11;09-clustering-insights-cc1;David;(..) Yeah, I wrote it, I think I wrote in some different terminology, but it's kind of the same thing, eh that, obviously you are already latently aware of eh, like, in must-be's, other use, and eh-
+dtrs-11;09-clustering-insights-cc1;Ewan;The must-be values?
+dtrs-11;09-clustering-insights-cc1;David;Must-be, because there are some things that- that can't be changed, and there must be fulfilled no matter what across [all accessories, and all cars].
+dtrs-11;09-clustering-insights-cc1;Kenny;"[""I need to eat, I need to pee, I need to-""]."
+dtrs-11;09-clustering-insights-cc1;Abby;[Yeah].
+dtrs-11;09-clustering-insights-cc1;David;Then you have the very core values and competencies which you cannot leave, eh across THE COMPANY, and which is highly, like, must be identified, at least be highly aware of, and then you're targeting or focusing on the niche as a- in these sessions, which eh, the participants are eh, yeah, indicating. It could be me-time or whatever, it's identified, eh.
+dtrs-11;09-clustering-insights-cc1;Kenny;What- are we talking about values or needs or, or just like, everything?
+dtrs-11;09-clustering-insights-cc1;David;Like, I was relaying this because you were talking a lot about storytelling and the marketing focus, so eh I was elaborating on eh, like kind of the sale points which is part of the marketing mix which must be available, so if you go in to details with those things, you were touching stuff like eco, comfort, price, eh all kinds of variables that were being- they mentioned tech and ehm, eh yeah practicalities, (witcher?) and aestethics, all of these things are eh (.) eh, they- like, if all of it is equivalent to a hundred percent, they each have a weight right now, to each customer segment, but as of now, towards the- the targeted segment you identify, it needs to change. They're still there, but maybe the percentage for each one of them gotta change. Like, it needs to float.
+dtrs-11;09-clustering-insights-cc1;Kenny;So they can change shape or they can change weight, size or-
+dtrs-11;09-clustering-insights-cc1;David;"They can change- yeah, change percentage eh more or less, like, maybe for the current customer in Scandinavia, they enhance price and environmental stuff, but here, comfort might only outdo two percent of the marketing mix, but they should be (.) super aware on eh, yeah, tech-stuff, maybe, ehm, in terms of marketing mix, for an example. Yeah. And that- what you already got on phase one eh, you're having like, the conclusion that the ""one size fits all"" (.) doesn't work, of course, and you need to be eh more local, eh targeting, having a targeting eh, like, participants in a way that appeal to their like re'- to they relate to it more, they identify it and they haven't enhanced credibility, so. Eventually there'll be tons of identified, like outer layers of potential customers, starting with me of course. You've got the closer relates, then the networks around it, immediate, outer and so and so and so, you can always divide it. And I don't know where you're, you're like targeting, of course it's penetrating somewhere, but it needs to be identified which- which-, how far you wanna go, eh or at least considered which ones you are targeting and how they- it's like, how it's going in between."
+dtrs-11;09-clustering-insights-cc1;Ewan;Yeah, or if it's that- I don't know, I can't really tell the percent, but if it's even, have to transcend all of them, or we can for example light up the first ring and the fifth ring.
+dtrs-11;09-clustering-insights-cc1;David;Exactly. And- and it might have-, it definitely has connections, ehm.
+dtrs-11;09-clustering-insights-cc1;Kenny;Mhm. And I guess here, like here, then- then the weight on the circles might also be different, or maybe [just fades out].
+dtrs-11;09-clustering-insights-cc1;David;[Oh way more, exactly], and you can divide it even more of course, all depending on how broad the actual outcome of this whole project is gonna be. Then eh, on the side, I was noting eh (.) what Amanda said, at least that was what I got out of it, that eh, like the potential, like the future and already existing owners of THE COMPANY-cars, in terms of their identification, they're kind of like, an East-, considered here in the East, they wanna identify from the hierarchies above. They wanna pull that identification towards them. But below, they wanna push that identification away, so they wanna stand out from the people below.
+dtrs-11;09-clustering-insights-cc1;Amanda;Mhm.
+dtrs-11;09-clustering-insights-cc1;Kenny;Mhm. That's kind of an interesting way to represent it, I think.
+dtrs-11;09-clustering-insights-cc1;David;It's eh, maybe something to consider.
+dtrs-11;09-clustering-insights-cc1;Ewan;"I almost had this golden thing up here, like advertisement wise. 'Cause like everyone can buy a diamond, no one can buy commitment. (laughter) It is- and then it was like the next line ""buy a THE COMPANY-PRODUCT"". (laughter) That was why it failed! ""So buy our product!"""
+dtrs-11;09-clustering-insights-cc1;Abby;"""It's not a diamond, but eh"""
+dtrs-11;09-clustering-insights-cc1;Amanda;"""It's the commitment!"""
+dtrs-11;09-clustering-insights-cc1;Ewan;Yeah, it's embodied, it is yeah tangible commitment (laughter)
+dtrs-11;09-clustering-insights-cc1;Abby;It's a beautiful commitment!
+dtrs-11;09-clustering-insights-cc1;Ewan;Yeah yeah, yeah. And the thing is- was that we elevate the eh, the kind of the exclusivity and the premiumness to the- it's not tangible anymore, it is the, it's a single value,
+dtrs-11;09-clustering-insights-cc1;Abby;Mhm.
+dtrs-11;09-clustering-insights-cc1;Ewan;Eh which is far beyond the golden diamond, which is like in the excessive part.
+dtrs-11;09-clustering-insights-cc1;Abby;(..) Yeah.
+dtrs-11;09-clustering-insights-cc1;Ewan;So I write here on the- yeah?
+dtrs-11;09-clustering-insights-cc1;Abby;But I kind of agree with Will or whoever it was, asking if commitment and responsibility are- or how to make responsibility and commitment sexy.
+dtrs-11;09-clustering-insights-cc1;Ewan;Sexy, how- yeah.
+dtrs-11;09-clustering-insights-cc1;Kenny;Mhm.
+dtrs-11;09-clustering-insights-cc1;Abby;Do you we'- do you really want to buy this responsible car? [Or do you want to buy the diamond car?]
+dtrs-11;09-clustering-insights-cc1;Ewan;[Yeah but his is-, we shouldn't-], yeah, but we should never call it responsible car, this [is unsaid, it's unsaid],
+dtrs-11;09-clustering-insights-cc1;Abby;[Yeah yeah, I know that this is eh not-]
+dtrs-11;09-clustering-insights-cc1;Ewan;We're not going the Prius- the Prius-way, we're not gonna sell it like Prius, ehm, 'cause it's not about, it's-
+dtrs-11;09-clustering-insights-cc1;Abby;I know we're not going to sell it like that, but it is what we want people to feel.
+dtrs-11;09-clustering-insights-cc1;Ewan;Yeah, but it has littl'- but it is- has more less to do with the carbon emission and much more have to do with the holistic sustainability, human sustainability and so on, and that is so much closer to family, and the core values. But this is effecting-, it is maybe not your family, but it's families like you.
+dtrs-11;09-clustering-insights-cc1;Kenny;Mhm. I like this human stability. I'm not sure that's the right way to say it, but I think it's more about that, because that includes both the environmental issue and how we solve that, but also for example wars, political eh situations, refugees, things like that. And that's all the things that we heard, and I think human stability or [something like that].
+dtrs-11;09-clustering-insights-cc1;Ewan;[And even telling] the story that the accessory you buy or the car you buy is sourced from material from conflict-free areas for example.
+dtrs-11;09-clustering-insights-cc1;Kenny;That's kinda sexy.
+dtrs-11;09-clustering-insights-cc1;Ewan;Yeah! (laughter) And I think that's- those are all day is sprinkling the king! 'Cause those are all the small things that are your sprinkling- your sprinkling the king.
+dtrs-11;09-clustering-insights-cc1;Amanda;What do you sprinkle the king with?
+dtrs-11;09-clustering-insights-cc1;Kenny;It's not being said here.
+dtrs-11;09-clustering-insights-cc1;Ewan;You're sprinkling the king with one of the things is buying eh material from conflict-free areas, that's just a little sprinkle, it's one of the fifty sprinkles. (laughter)
+dtrs-11;09-clustering-insights-cc1;Kenny;One of the fifty sprinkles (..) yeah, how many sprinkles do we want?
+dtrs-11;09-clustering-insights-cc1;Ewan;Only fifty.
+dtrs-11;09-clustering-insights-cc1;Kenny;Only fifty, alright.
+dtrs-11;09-clustering-insights-cc1;Ewan;It's the max-fifty sprinkle king.
+dtrs-11;09-clustering-insights-cc1;Kenny;Yeah, I'm afraid you wanna do the maximum. Scientifically there should be a maximum.
+dtrs-11;09-clustering-insights-cc1;David;When you wanna leave the company in twenty years you should definitely pitch that one for just getting fired. (laughter)
+dtrs-11;09-clustering-insights-cc1;Ewan;Yes, just one more thing before I leave.
+dtrs-11;09-clustering-insights-cc1;David;(..) Ehm, just adding to the, like, the whole marketing mix thing, and- but also like, in general, eh at least for me it's important not always to think of eliminating stuff, or eh, also because you need to be aware of what's already there, and not risking of taking something core out. Ehm, so you don't necessarily think of elimination, but maybe just decrease of some of these variables.
+dtrs-11;09-clustering-insights-cc1;Kenny;And I think actually these could also be increased, or expand, or change, or- yeah.
+dtrs-11;09-clustering-insights-cc1;Amanda;Go deeper, and-
+dtrs-11;09-clustering-insights-cc1;David;Oh yeah, definitely. It's just that, so you don't think of elimination, like taking something out, it doesn't necessary, but of course you should add something, or change it, but it should arise from the gap which has been changed, right? So, it's not-, the, like the radical outcome doesn't necessarily entitle like a radical elimination or something, so.
+dtrs-11;09-clustering-insights-cc1;Amanda;Everyone can buy a diamond, but not everyone understand the value of commitment.
+dtrs-11;09-clustering-insights-cc1;Ewan;Yeah, it's something like that.
+dtrs-11;09-clustering-insights-cc1;Amanda;THE COMPANY-ness.
+dtrs-11;09-clustering-insights-cc1;Kenny;Yeah. (laughter)
+dtrs-11;09-clustering-insights-cc1;Ewan;(..) Eh, yeah, I think we're (.) we're into something, something is materializing, and I can't quite grasp it yet, but we're- the discussion is good. And it is (.) you know in a way so classic marketing, but in another way, it is a- it is- it's China, it is eh we just need to look at it in a- from another angle, and of course maybe it's more obvious for you, but for us as being Europeans, it's difficult for us to grasp. But I think yeah for example around the ehm (.) the sustainability thing is so much more towards the family, than it is to anything else as of right now, so we need to-
+dtrs-11;09-clustering-insights-cc1;Amanda;I think it's a phase.
+dtrs-11;09-clustering-insights-cc1;Ewan;Yeah.
+dtrs-11;09-clustering-insights-cc1;Amanda;In China, a phase in China. Maybe ten years from now it's gonna be there.
+dtrs-11;09-clustering-insights-cc1;Ewan;Yeah, and we need to think in those perspectives.
+dtrs-11;09-clustering-insights-cc1;Amanda;Yeah yeah yeah.
+dtrs-11;09-clustering-insights-cc1;Ewan;Cause eh, yeah, there's zero chance for us to change anything that fast.
+dtrs-11;09-clustering-insights-cc1;Amanda;That is the role the brand plays here, as- to move them towards that.
+dtrs-11;09-clustering-insights-cc1;Ewan;Yeah yeah.
+dtrs-11;09-clustering-insights-cc1;Kenny;Yeah.
+dtrs-11;09-clustering-insights-cc1;Abby;I'm thinking that for the next co-creation maybe we need to change it a little bit, because we actually spend quite some time on developing a product, concepting about a product, and it's not really what we want. We want what we're talking about now, we want this discussion.
+dtrs-11;09-clustering-insights-cc1;Ewan;Yeah, this discussion.
+dtrs-11;09-clustering-insights-cc1;Abby;And that will not happen when they're going deeper and deeper and deeper.
+dtrs-11;09-clustering-insights-cc1;Ewan;Because it's too low, right?
+dtrs-11;09-clustering-insights-cc1;Abby;"Exactly. So we want them to talk about ""okay, so what is it about this product that really excites you, okay it's eh"" (.) so we give them a few pointers, and then they need to elaborate on that."
+dtrs-11;09-clustering-insights-cc1;Ewan;Yeah. And we should- and that part, that's really where we need Rose and Will to be- own it. Own the direction, alright, because they will, you know, they should keep them within and give them provocation when needed and give them support when needed and so on. Help the river flowing.
+dtrs-11;09-clustering-insights-cc1;Abby;Yeah. But I think we need to ehm, make more time for this in the next co-creation.
+dtrs-11;09-clustering-insights-cc1;Ewan;Yeah this type of discussion space.
+dtrs-11;09-clustering-insights-cc1;Abby;Yeah.
+dtrs-11;09-clustering-insights-cc1;Ewan;Yeah. Ehm-
+dtrs-11;09-clustering-insights-cc1;Amanda;I think we need to have a ru'- eh just on the practical side, a rule for this discussion, like one discussion at a time.
+dtrs-11;09-clustering-insights-cc1;Ewan;Yeah, yeah yeah yeah.
+dtrs-11;09-clustering-insights-cc1;Amanda;Cause, I feel like-
+dtrs-11;09-clustering-insights-cc1;Abby;Yeah.
+dtrs-11;09-clustering-insights-cc1;Ewan;Oh you had issues with that? Oh that's the worst. When they are so-' some baby discussions going on.
+dtrs-11;09-clustering-insights-cc1;Amanda;Like, the two starting to talk and he was talking to me.
+dtrs-11;09-clustering-insights-cc1;Ewan;Oh yeah yeah yeah
+dtrs-11;09-clustering-insights-cc1;Abby;Yeah (laughter)
+dtrs-11;09-clustering-insights-cc1;Ewan;Will?
+dtrs-11;09-clustering-insights-cc1;Amanda;[No no no, eh]
+dtrs-11;09-clustering-insights-cc1;Abby;[No eh]
+dtrs-11;09-clustering-insights-cc1;Ewan;The respondent was talking to- [ah yeah].
+dtrs-11;09-clustering-insights-cc1;Amanda;[Yen].
+dtrs-11;09-clustering-insights-cc1;Abby;Oh, Yen?
+dtrs-11;09-clustering-insights-cc1;Amanda;"Yen was talking to me at some point, [and then Will and the three of them] talked together like ""waaaah! Wait!"" (laughter)"
+dtrs-11;09-clustering-insights-cc1;Abby;[Ah yeah, while eh, yeah, mhm].
+dtrs-11;09-clustering-insights-cc1;Ewan;"(..) We should make like a fight- some Fight Club rules. ""First rule, of co-creation two"""
+dtrs-11;09-clustering-insights-cc1;Abby;"But I guess it will be, hopefully, easier in the next one, because here it was more ""okay, so what do you think? Okay, so what do you think? And what do you think?"" and here they actually need to create it together."
+dtrs-11;09-clustering-insights-cc1;Ewan;Yeah.
+dtrs-11;09-clustering-insights-cc1;Abby;"And it could- I mean, then one, eh Billy said ""okay this is important to me"" and they're- the other ones couldn't really relate and, the other way around so it was, yeah. Was a little bit difficult."
+dtrs-11;09-clustering-insights-cc1;Amanda;(..) So, when they come in, they're gonna share where they are at, what are some of the things?
+dtrs-11;09-clustering-insights-cc1;Ewan;Yeah.
+dtrs-11;09-clustering-insights-cc1;Amanda;And then, do we then, as they share, write down some key themes already?
+dtrs-11;09-clustering-insights-cc1;Ewan;I think so. We need to try to- I don't know if we have- we don't have any key themes so we're basically now- or we are getting there of course. So me-time is one thing, maybe we should call it something else.
+dtrs-11;09-clustering-insights-cc1;Amanda;(Whispers) sprinkle the king.
+dtrs-11;09-clustering-insights-cc1;Ewan;Yeah (laughs) that's- that is our backup.
+dtrs-11;09-clustering-insights-cc1;Abby;But I think that maybe, I mean, it could also be that that is the theme that the respondents get for the next co-creation.
+dtrs-11;09-clustering-insights-cc1;Amanda;For now, yeah.
+dtrs-11;09-clustering-insights-cc1;Abby;One- one theme. And then they have this kind of inspiration that they can put in, if they think it's eh
+dtrs-11;09-clustering-insights-cc1;Ewan;Me-time?
+dtrs-11;09-clustering-insights-cc1;Abby;Yeah.
+dtrs-11;09-clustering-insights-cc1;Ewan;Yeah, or something else, but just- I'm-
+dtrs-11;09-clustering-insights-cc1;Amanda;We can ask them to rename it.
+dtrs-11;09-clustering-insights-cc1;Ewan;[Yeah we need to rename it, yeah okay okay].
+dtrs-11;09-clustering-insights-cc1;Abby;[Yeah yeah, some- something else, but that's-] that theme, that we have right there, the enjoy life theme, [that we also have called freedom or time].
+dtrs-11;09-clustering-insights-cc1;Ewan;[Ah okay okay, yeah yeah okay I'm with you].
+dtrs-11;09-clustering-insights-cc1;Abby;So that we have the theme, and then both groups get the same theme, and then they have this inspiration like the environmental part, and like,
+dtrs-11;09-clustering-insights-cc1;Ewan;Commitment.
+dtrs-11;09-clustering-insights-cc1;Abby;Exactly, all these values that they can kind of put in, if they- if that is what they want to focus on.
+dtrs-11;09-clustering-insights-cc1;Ewan;"And we all the- we have the cards which is like, ""how does it make you excited?"""
+dtrs-11;09-clustering-insights-cc1;Abby;[Yeah, exactly, exactly].
+dtrs-11;09-clustering-insights-cc1;Ewan;"[""How does it-"", that's where they put in]. If you feel they flip too much into the ""I need to you know eh it's all about my family and everything"", no like okay ""what about you? What would you- how-"" yeah."
+dtrs-11;09-clustering-insights-cc1;Kenny;Mhm.
+dtrs-11;09-clustering-insights-cc1;Ewan;Yeah, and we- yeah, have a very very strong focus, and then we flesh it out by giving them inspiration or stimulus kind of in small packages along the way. Yeah. Ehm.
+dtrs-11;09-clustering-insights-cc1;Abby;I get- I'm just thinking that is a way for us to also focus, because then we have one theme, and we're sure that both eh teams are actually focusing in on the same theme, and then we need to focus, so maybe instead of the prototype we need to actually make the inspiration for the environment and for ehm this assurance and the safety and so on to- so that they can form whatever they come up with, based on these values that we give them.
+dtrs-11;09-clustering-insights-cc1;Kenny;I think I like that idea.
+dtrs-11;09-clustering-insights-cc1;Ewan;"Ehm. I would- it's almost like I would like to discuss ""sexy commitment"" with them."
+dtrs-11;09-clustering-insights-cc1;Kenny;But I think you can.
+dtrs-11;09-clustering-insights-cc1;Abby;Yeah, but I think that that's also-, I think that could be a- a, kind of inspiration eh.
+dtrs-11;09-clustering-insights-cc1;Amanda;Is that on the top level?
+dtrs-11;09-clustering-insights-cc1;Ewan;Eh no, it's eh on the bottom, oh sorry it's on the yellow.
+dtrs-11;09-clustering-insights-cc1;Kenny;Yeah.
+dtrs-11;09-clustering-insights-cc1;Ewan;(..) Yeah. I'm a little afraid that enjoy life is a little too big.
+dtrs-11;09-clustering-insights-cc1;Abby;Yeah but, I mean-
+dtrs-11;09-clustering-insights-cc1;Amanda;Freedom.
+dtrs-11;09-clustering-insights-cc1;Kenny;Freedom.
+dtrs-11;09-clustering-insights-cc1;Abby;Yeah, we-.
+dtrs-11;09-clustering-insights-cc1;Kenny;So it's about creating and using time with myself, or-
+dtrs-11;09-clustering-insights-cc1;Amanda;[So then they are the same, ah].
+dtrs-11;09-clustering-insights-cc1;Abby;[And these are the same, yeah]. And I think that's also- that they should be. So we just need to present whatever we feel this is, and I'm thinking enjoy life is also way too broad a title, but we need to find the right one to actually fit.
+dtrs-11;09-clustering-insights-cc1;Kenny;Yeah.
+dtrs-11;09-clustering-insights-cc1;Ewan;Yeah, yeah. (..) Hm I like- I think eh-
+dtrs-11;09-clustering-insights-cc1;Abby;Because, I mean, I'm just thinking that we- we want it to cross over all the time and then we can't really tell them to choose one of the themes. Then it will not-
+dtrs-11;09-clustering-insights-cc1;Ewan;No.
+dtrs-11;09-clustering-insights-cc1;Abby;We don't- we'll not get the connection to the other ones then.
+dtrs-11;09-clustering-insights-cc1;Kenny;Mhm. (..) So the yellow ones, they are inspiration, or modifiers, or whatever they'll call it.
+dtrs-11;09-clustering-insights-cc1;Abby;Yeah.
+dtrs-11;09-clustering-insights-cc1;Kenny;Could there be-
+dtrs-11;09-clustering-insights-cc1;Ewan;"Yeah that's what I'm thinking. [""This makes me excited""]."
+dtrs-11;09-clustering-insights-cc1;Kenny;[So there could be a] human stability.
+dtrs-11;09-clustering-insights-cc1;Ewan;For example, yeah.
+dtrs-11;09-clustering-insights-cc1;Kenny;For example.
+dtrs-11;09-clustering-insights-cc1;Ewan;"(..) Yeah, this is- was kind of on the level of ""sexy commitment"" and eh-"
+dtrs-11;09-clustering-insights-cc1;Abby;Yeah. (..) Then something about,
+dtrs-11;09-clustering-insights-cc1;Ewan;I have something about- it's literally evolving status symbol, how can we make it into a status symbol, or opportunistic involvement.
+dtrs-11;09-clustering-insights-cc1;Abby;And something about the safety aspect or the assurance, insurance, reassurance, (laughs) all of these eh kind of eh-
+dtrs-11;09-clustering-insights-cc1;Kenny;Yeah. I'm not really sure if anyone meant insurance, I think-
+dtrs-11;09-clustering-insights-cc1;Abby;[They did in eh, in our group. They-]
+dtrs-11;09-clustering-insights-cc1;Ewan;[Yeah that's what I'm also wondering about].
+dtrs-11;09-clustering-insights-cc1;Kenny;Because I think in our group, I think they meant assurance, and not insurance, so-
+dtrs-11;09-clustering-insights-cc1;Ewan;Yeah, the indif'- the physical thing of going to be insured so you get many- money back if you have something that deserves-
+dtrs-11;09-clustering-insights-cc1;Abby;It was in our group.
+dtrs-11;09-clustering-insights-cc1;Ewan;Ah okay.
+dtrs-11;09-clustering-insights-cc1;Amanda;But our format of assurance is insurance.
+dtrs-11;09-clustering-insights-cc1;Abby;(..) Hm.
+dtrs-11;09-clustering-insights-cc1;Ewan;I'm not sure I understand?
+dtrs-11;09-clustering-insights-cc1;Amanda;So, the way they have this assurance, is like purchasing insurance.
+dtrs-11;09-clustering-insights-cc1;Kenny;Yeah.
+dtrs-11;09-clustering-insights-cc1;Ewan;Ah okay, like that (laughs).
+dtrs-11;09-clustering-insights-cc1;David;Yeah, exactly. It's the medium for ehm-
+dtrs-11;09-clustering-insights-cc1;Amanda;Yeah.
+dtrs-11;09-clustering-insights-cc1;Ewan;Is it okay I- we write your post-it in the yellow ones? Or was it supposed to- like just to be-
+dtrs-11;09-clustering-insights-cc1;Abby;So we- it's all the-, yeah.
+dtrs-11;09-clustering-insights-cc1;Ewan;Is that okay?
+dtrs-11;09-clustering-insights-cc1;Kenny;Sorry?
+dtrs-11;09-clustering-insights-cc1;Ewan;Like that you write homan stabi'- human stability? [Can I write that?]
+dtrs-11;09-clustering-insights-cc1;Kenny;[Did I?]
+dtrs-11;09-clustering-insights-cc1;Ewan;Yeah, or didn't you?
+dtrs-11;09-clustering-insights-cc1;Kenny;No, I didn't.
+dtrs-11;09-clustering-insights-cc1;Amanda;I did.
+dtrs-11;09-clustering-insights-cc1;Ewan;Ah okay.
+dtrs-11;09-clustering-insights-cc1;Amanda;I- well, that was- you were saying that this sounds more sexy than sexy commitment. Is it?
+dtrs-11;09-clustering-insights-cc1;Kenny;But I think we can just add it, and then-
+dtrs-11;09-clustering-insights-cc1;Ewan;We can add it- maybe we can just add it on a- on a yellow sticker.
+dtrs-11;09-clustering-insights-cc1;Kenny;Yeah.
+dtrs-11;09-clustering-insights-cc1;Ewan;(..) Okay so, the cool thing here is that okay, we- we can- maybe we need to work more on what the freedom, enjoy life, me-time is, like maybe rename it or make it into like a more ehm, a more attractive title maybe, and we can maybe write something what it is that can be presented,
+dtrs-11;09-clustering-insights-cc1;Abby;Absolutely.
+dtrs-11;09-clustering-insights-cc1;Ewan;And we need to work more on the modifiers that goes underneath it, maybe a little eh what do you call that, description of what that is, and you know, even on a practi'- very practical note how do we present it, is it a physical card that we laminate, is it a, you know, can some of it be a role play, is some of it part of a prototype, I don't know. Yeah. It's very good to actually see one thing up there.
+dtrs-11;09-clustering-insights-cc1;Abby;Mhm.
+dtrs-11;09-clustering-insights-cc1;Kenny;Mhm.
+dtrs-11;09-clustering-insights-cc1;Ewan;That we are narrowing down.
+dtrs-11;09-clustering-insights-cc1;Abby;Exactly.
+dtrs-11;09-clustering-insights-cc1;Kenny;Yeah, it is.
+dtrs-11;09-clustering-insights-cc1;Ewan;It feels much more right than seeing six or three or whatever.
+dtrs-11;09-clustering-insights-cc1;Abby;The whole morning from ten to twelve needs to be (.) totally changed, eh but I think maybe-
+dtrs-11;09-clustering-insights-cc1;Ewan;"Who wanna tell Rose that? (laughter) ""Okay. Okay we have this new crazy idea!"""
+dtrs-11;09-clustering-insights-cc1;Amanda;"""Baby just roll with it!"" (laughter)"
+dtrs-11;09-clustering-insights-cc1;Ewan;Yeah.
+dtrs-11;09-clustering-insights-cc1;Kenny;Yeah yeah yeah.
+dtrs-11;09-clustering-insights-cc1;Amanda;What about health?
+dtrs-11;09-clustering-insights-cc1;Ewan;Yeah? China health?
+dtrs-11;09-clustering-insights-cc1;Amanda;Where- is that a yellow thing?
+dtrs-11;09-clustering-insights-cc1;Kenny;I think it should be a yellow.
+dtrs-11;09-clustering-insights-cc1;Ewan;It should be a yellow.
+dtrs-11;09-clustering-insights-cc1;Abby;Yeah.
+dtrs-11;09-clustering-insights-cc1;Ewan;"It should be a- 'cause these are the things like ""what changes when you put this in? What do you think about when you do this, how can you-"". We also need to think about- then again, on a practical note, how can we capture this? How should we be able- 'cause I felt last time it was a little difficult for me to- to capture the stuff that happened. How can we play an active part, or a much more active part of this?"
+dtrs-11;09-clustering-insights-cc1;Kenny;Do we need to have convenience and comfort, as a yellow one?
+dtrs-11;09-clustering-insights-cc1;Ewan;Yeah maybe, 'cause that is kind of the- that is the counter opposite of many of these things.
+dtrs-11;09-clustering-insights-cc1;Kenny;Yeah, or the obstacle, sometimes?
+dtrs-11;09-clustering-insights-cc1;Ewan;Or the obstacle sometimes, yeah.
+dtrs-11;09-clustering-insights-cc1;Kenny;Or the requirement.
+dtrs-11;09-clustering-insights-cc1;Ewan;Yeah, yeah.
+dtrs-11;09-clustering-insights-cc1;Kenny;(..) I think I need some coffee.
+dtrs-11;09-clustering-insights-cc1;Ewan;Yeah, should we do that?
+dtrs-11;09-clustering-insights-cc1;Amanda;[Yeah, we need a little break].
+dtrs-11;09-clustering-insights-cc1;Abby;[Yeah I think that definitely would be- yeah.]
+dtrs-11;09-clustering-insights-cc1;Ewan;We can continue this here- this is maybe work we can continue together with them even, when they present back to us, 'cause it's much easier for us to communicate that thing than all of this stuff.
+dtrs-11;09-clustering-insights-cc1;Abby;Mhm.
+dtrs-11;09-clustering-insights-cc1;Ewan;Alright, great work!
+dtrs-11;09-clustering-insights-cc1;Kenny;Yeah, you too.

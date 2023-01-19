@@ -1,0 +1,161 @@
+dataset;session;speaker;utterance
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Will;So maybe for now, I'll just start with the first section, and they are focused on the ones that they considered the more important. The top three that they voted.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Abby;Yeah.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Will;But this is maybe a little more (INAUDIBLE), you know, and experienced as well. So I think probably the clusters that are the (.) for them, eh number one will be in terms of the body and the mind, eh health. Right? So, physical and mental health, alright? Eh which we- of course we took to the second- second activity and that connects to that as well. So-
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Amanda;Do you wanna (.) be here? (W and AM switch seats)
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Will;Okay, yeah. So, when they were talking about eh body and mind eh I mean several things of course some exercise, where to exercise, eh but they straight away started talking about things like relaxation.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Abby;Mhm.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Will;It should include- exercise is not just about ehm enjoying your body's (prep?) time or preventing eh poor health and so on, but it's also about relaxation. And part of that is also together from that, that it's actually the more ehm massage kind of (.)
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Abby;Yeah.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Will;So that has a little bit of, you know, you gotta relax a little bit, when you get away from your daily grind and your stresses, and (.) (..) (Off task) (..)
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Will;So, eh, I think there was one guy who, the younger guy, who I think leads a slightly more disciplined life, I mean like, he's not married, he's not, you know, has his own family and whatever. He talks about things like sleeping early, going to bed by ten, waking up really early by six, you know, because your body starts to detox at eleven a clock.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Abby;Yeah.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Will;That's actually a little bit of eh (.) traditional Chinese medicine, that's part of the concept. Your body starts to work itself eh actually from that time which is eleven at night, your body should start resting before that, so you need to go to bed before that, so that, you know, it can work its magic.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Abby;Mhm.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Will;So people like us who sleep at twelve, sleep at one, you have really bypassed that magic hour of where we can actually get that. So-
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Amanda;But that's interesting here, since how about partying? But I think it kind of (INAUDIBLE), because the other people couldn't relate it with, and they felt that (INAUDIBLE) (.)
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Will;Yeah. But I also suspect given my- my reading of him, I don't think he's very hard core in partying. Probably it's only because he's (certainly?) younger, he's single, so he's got more time for that kind of thing, but I think being a guy, he probably wants more of a party here (INAUDIBLE)
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Abby;Yeah, I think that as well.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Will;Yeah, there's a sense of-
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Abby;He's kind of also talking about only-
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Will;I think he's- he's only holding him back because he's got a kid, and he can't do it anymore.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Abby;It's a little bit annoying, but- (laughter)
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Amanda;So he wants freedom.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Will;Yeah yeah, then which is why he talked a lot about time. And freedom. You know? Eh so, when- in the first session he mentioned, you know, driving, going out (straight with this?). We talked about the- the moments of day positives. Eh, okay primarily- actually he's got plenty of time. He's actually- I think he's just self-employed or probably second generation in the company, so, you think actually (.) time is not the problem.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Abby;Yeah.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Will;It's just that whatever time I have, I've got to make sure that I'm around for my wife and my child.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Abby;Yeah yeah.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Will;"So it's not the time, but it's just that (.) they will take all the time (laughs), and so ""how do I still break out there and, you know, allow time to travel, hang out with my friends"", and the main, eh, the main way that he can break out with, regularly, and to him it's a form of relaxation, it's also travelling."
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Abby;Yeah.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Will;"Taking a long drive at night, on the express way for an hour, and stuff like that. So, this way, he's had a lot to do in the time, like him and the lady who's got a kid, I think they're very concerned about, you know ""where's my freedom? I do not know- I do not have autonomy anymore. So that all the things are- you know, what will be my control?"""
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Abby;Yeah.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Will;"You know. Whether it's things to do in relaxation, things to take the stresses away and all that. Eh ""I don't have as much opportunity to do something about-"""
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Abby;Yeah, because of all the domestic chores.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Will;"Yeah. It's like regular exercise, regular massage, not anymore. ""I can be- do them, when I can find the time for it"". So it's really the way, body and mind, and the whole thing like time, is actually quite relevant eh in terms of (.) whether it's a constrain number one,"
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Abby;Yeah.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Will;Number two if you can improve your well being generally, if it's coming in to the- actually allows you to also be more free (.) to pursue whatever you want.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Abby;Yeah.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Will;So it's actually a kind of cycle. Ehm. The whole being alone thing was also that- that- the guy, you know, that- the guy. So, I think his name is Yen, right? Yen.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Amanda;Yen.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Will;Yen, yeah. So, Yen, I think he was talking a bit more about alone. So it's interesting, I think he's quite a social animal, but he's got his side where (.) a bit more pronounced where he needs to be alone.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Abby;Mhm.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Will;"Whereas I think that younger guy, who's Billy, he's not as sociable I think. But, he also doesn't feel the need to really, you know, ""I need to find my own isolated me-time"". Because I-"
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Abby;Yeah, he also said something like eh what was it, that he would- he just never does anything by himself,
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Will;Yeah, exactly.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Abby;So, I don't know what exactly it was, but kind of going out or going- doing whatever, also he was in this jogging club, jogging together with some other people.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Will;So he's got enough opportunity to be social.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Abby;Mhm.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Will;And- and I don't think- I don't think- I don't he's terribly social (.) social person, but he also doesn't feel the need to take myself away from everyone else.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Abby;Yeah, exactly.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Will;So when it came to the topic of being alone and- and my me- personal time, eh actually it's really quite more to do with Yen, and maybe Susan. Simply because, you know, it's so part of having a child.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Abby;Exactly.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Will;I think that's a very common thing for women and (INAUDIBLE).
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Abby;I think so, absolutely. And that's totally the reason that he- there's no really pressure on him, besides his- just his work, maybe he wants to be a little more together with his family like he said, but (.)
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Amanda;And his dog.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Will;And his dog.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Abby;Yeah, and otherwise he can just do whatever he feels like.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Amanda;"Yeah. He's very independently minded. He always drives like ""no one tell me what to do"""
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Abby;Mhm.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Amanda;"You know, ""it's me making my own decision"" kind of thing."
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Will;And that could also be the (.) ehm-
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Abby;Oh but, was this the young guy? Wasn't it the
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Will;Yen.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Amanda;The other guy. Yen, yeah yeah.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Abby;Yeah, yeah exactly. Yeah, exactly.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Will;And- but, I think something we can think about is eh this sort of expression, right? Eh and also for a more cosmopolitan, more progressive city like CHINESE CITY. Their kind of expression and mentality could also be a form of like status symbol.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Abby;Yeah.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Amanda;Yes, exactly.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Will;Because it's no longer (.) it's no longer powerful or important for you to go for material stuff, because you're not that rich, you know? So how do I really differentiate myself? So, it's through my thinking (.)
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Amanda;And my choices.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Will;Yeah and my choice of- at least show that I can be anything that, you know, I have put my mind on or view or- this is so a- sort of like subtle status symbol.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Abby;"Exactly. I really felt that also he- he kind of want to state it many times. ""No no, I don't take recommendations from my friends, I don't- no no, I (.) no one should decide, I want to decide this""."
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Will;Your own status.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Abby;Yeah, exactly.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Will;Ehm. Okay, the only one (.) one of the things that I think the younger guy Billy drew out a little bit more was about picking up on new things.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Amanda;Yeah.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Abby;Yeah, yeah?
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Will;I think again, owing back from his age, I think he's still new to society, ehm he's- I don't think he has (INAUDIBLE) many years (of course?). Eh, I think he's still at a stage where I think he realizes that he's still got more to go. He's got to keep up. Eh he's got to progress, and the only way to do that would- he's gonna need the next level material substance or just when (.)
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Abby;Yeah.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Will;Or otherwise, you got to show that at least you are there. And not here within (the pain?).
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Abby;Yeah, exactly.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Will;So, yeah. So he's talking a little bit more about learning.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Abby;Yeah. It was interesting what he said about that the (.) it's not about all the materialistic things, it's more about knowledge and like for sure that could be not so rich, but very respected because of his position and eh knowledge, eh.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Will;"So, we are moving away from the more important ones. So, actually the second important one, actually eh, of the top three is actually about safety and security. And when we bring in the additional family dimension, that's when it became more pronounced. We asked them what they would say about if we bring in the whole topic of good life and when they think about good life, and in the context of family, what would be stronger and they actually said that safety was- at least that's where they- there's more concerns beyond themself. It was just like sounding smaller, ""should I eat KFC or not? Should I eat out more or not?"" But whereas what concerns my family they were talking about how they don't have to worry about them. You know, ""it's my child, am I buying the right kind of baby food? Am I buying the right kind of vegetables? Should I be buying- paying more for something organic than ehm (.) is this environmental company or brand or producer"" or so and so, and label and like that. So, that's where it's a lot more pronounced, and at a personal level also, eh. They were more concerned with things like ensuring that they knew that, some things like insurance,"
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Abby;Yeah yeah.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Will;"Eh, things like, you know, ""if I have been (.) if I've been drinking, I shouldn't be driving""."
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Abby;Mhm.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Will;Yeah. So, it's personal safety and security, but at the same time it's also safety and protection for the family, indirectly.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Abby;Yeah.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Will;Eh but the more- the more (.) eh apparent demonstrations and concerns about safety and security is about food and water.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Abby;Yeah.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Will;Food, water, and air, kind of, yeah. Maybe CHINESE CITY not as bad, but ehm generally the environment and what you consume. I think that consumption, environment is pre that.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Amanda;Yeah, I think it starts way earlier, like what you put in. They called what it- what it- what effects it has on you.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Abby;Mhm. Yeah, yeah.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Will;So-
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Abby;But they didn't really talk about air pollution. They mentioned it as an example of some things, a service or (INAUDIBLE), but it wasn't like really an issue.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Will;I think maybe (.) compared to CHINESE CITY, eh they don't have it as bad, number one, and also number two I think the food and water scares in China happen very often.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Abby;Ah, yeah.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Will;This month it could be about chicken, two months later it could be soy sauce, another month it could be fish that were from a certain region, another month it could be about some fake company making fake eggs.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Abby;Yeah, yeah.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Will;Or recycle, or eh thinks like that. So, there is-
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Abby;Yeah because, I was actually a little bit surprised that they were so focused on (.) what was in the different products, eh where it came from, they wanted to trace it back to the source, and ehm
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Amanda;Yeah.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Will;"And it's actually more pronounced I suspect than in the West, of the developed markets, where it's more about ""okay, I should eat better"", but here it's ""I should eat"" (.)"
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Amanda;Safer.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Will;"""Safer, because the basic benchmark's not even met""."
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Amanda;It's not safe.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Abby;Exactly.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Will;Yeah, that's the thing, you have all the government sanitation, but it's like they can't eve'- cannot be trusted.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Abby;Yeah.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Will;Cause the enforcement will not be met. You know, so-
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Amanda;I feel like it's a matter of choice. When it comes to air pollution it's not that I can choose not to breathe.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Abby;Yeah.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Amanda;Right? So, and then there's all this PMI thing that the guy mentioned, that you could actually see, you kind of know, whereas for food it was every day, you know, I make a choice to buy this, from this place rather than that place, so it's an option decision making kind of thing.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Abby;And sticking to whatever you know is good for you. A brand that's (.) you've kind of tried out and maybe researched a little bit about and know that okay, this is actually-
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Will;The problem in China is we think history is that you don't trust the reputable brands. They can sometimes fall because (.) suddenly someone connected with (INAUDIBLE) thinks that the product is actually not that safe.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Abby;Yeah.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Will;So, there's a lot of mistrust of generally of the government, of brands, producers, especially when it comes to food. So, that's where I think the- the area of conscience kind of spiral into the health in the population as well. I think the health bit is complicated. This is no longer just doing enough on your own, maintain health and be healthier, you know, but (.) it becomes really an issue that- that's really about the bigger environmental (level?).
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Abby;"Yeah. But I guess it's (.) isn't it kind of a general thing that (.) I mean, we heard it in CHINESE CITY FROM PHASE 1 as well about the (.) trusting dealerships, car dealerships. ""We didn't really trust the one that we heard some kind of rumors that ""no no, maybe they just want to make more money"". It's better to trust- to trace it back to (where they make it?) instead, then we know that it's kind of the real thing""."
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Amanda;Yeah, then we know, yeah.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Abby;So it's kind of a little bit eh-
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Will;Except that I think for- to do something like car stores and for dealerships, I think the impact on new is generally mistreated to say the money current or financially (.) say if you got scammed by someone, or you didn't pick the best value for money, eh it hits you more clean in the pocket. Here it's actually- it hits you, your health,
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Abby;Yeah. The foundation.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Will;And it hits your faith on, you know, the rest of society.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Abby;Yeah.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Will;It effects how you feel about everyone else, you know, brands and companies.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Abby;Yeah, so- yeah.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Amanda;So, I find it interesting, especially for Yen, because he loves to eat. So the way that (INAUDIBLE) seem to go to the gym it's kind of like tipping the balance.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Abby;"Yeah. (laughs) Gets on the scale every day to see ""hm, ah, I need to go to the gym today"" (laughs)"
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Will;Yeah, it's a bit of that, what do you call that, compensation kind of-
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Amanda;Yeah, mentality.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Abby;Exactly.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Will;I think, when it comes to health and exercise, and that kind of health consciousness I think that it's the compensation is a not very (.) yeah, it's-
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Abby;Yeah.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Will;It's like (INDAUDIBLE) (laughs)
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Abby;For the other guy it was, I mean it was clear that he (.) maybe didn't want to exercise, but he really wanted to eat really well and he totally felt like-
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Will;Whereas for Billy, I got the sense that he has a bit (.) he's more- a bit more paranoid from younger people.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Amanda;Yeah, like a favorite mis- mistake.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Will;Yeah, he has a on the surface where he's starting to feel it, yet he doesn't seem like eh (.)
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Amanda;[Bad consciouss- yeah].
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Will;"[Very adventurous either], but he's already taking steps to ""hey, I better do stuff and make sure that I don't, you know, suffer the consequences later"". So he's already in the kind of avoidance ideology, opposed to compensation."
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Abby;Yeah.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Will;"They ehm (.) okay, yeah, the (.) the new experiencing new and different, I think (.) the combination of (INAUDIBLE) have probably a lot to do with Yen. I think he's got more concrete examples about, you know, what you're do'- and even Susan she'll say that ""ah, I wish I can do stuff that other people want to do, but they can't do"". Notice that when she say it, she express it as ""what other people want to do, but they can't do"", as opposed to ""what I want to do, but it's hard for me to do""."
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Abby;Yeah yeah.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Will;So that's also a bit of the, ehm, bragging rights,
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Abby;Yeah, absolutely.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Will;That she hope to have, but of course we didn't have status, she had less and much less opportunity.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Abby;Mhm.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Amanda;"They can see it from her body language like, ""I'll be like (.) like people look up to me""."
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Abby;Ah, mhm.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Will;So it's quite interesting that from different expressions, eh it's quite clearly indicating that they are picking up or using ehm emotional indicators as self-expression, as bragging rights, as differentiation, you know.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Abby;Yeah.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Will;Demonstrated that friend. Okay so, they are expressing some- no, the one thing that stood out eh was about tradition. Eh and when this actually came mostly from Yen, eh I think (.) a couple of points. I think he came from a more- I think he came from a background where he stayed in like eh whole houses, where it's more community minded.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Abby;Exactly.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Will;"Eh I think he still experience a bit of that (.) mind, it's a bit of tradition, of the past. So I think, he's also looking forward to ""hey, only ambition, I have to own- buy my own old vintage home"", you know eh, or, you know ""I feel that reading a physical book is different, and more cultural, more (.) and more a real feel than reading on your iPad""."
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Abby;Yeah.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Will;You know, it's an experience as opposed to, you know, actually picking up of information to the different (.) yeah. And also the sense that- this feeling that, you know, there's a loss of (.) ehm emotional relationships, fellowship, friendships.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Abby;Yeah.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Will;There's a dilution of that kind of feeling, over time, because everyone live in condominiums or even (INAUDIBLE) or homestead, you know, where there's no privacy, you know you only say (INAUDIBLE) personal relationship.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Abby;Exactly, you don't take care of each other as (.) he was kind of used to from (.)
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Will;And so- yeah. So, this is why I think when you talk about family, it actually expanded from, you know, fam'- safety and security for myself and for everyone else, but to also be more conscious about eh ensuring that body and mind, you know being well, being healthy, actually that allows me to take care of my family better. It allows me to be safe and secure and therefore my family can face- eh can feel safe and secure. So I think that's a kind of a related point, but he's going on about swimming exercising for my own sake, but actually for my family's sake, so.
+dtrs-11;07-designing-cocreation-workshops-debrief-day-1;Abby;Yeah.
