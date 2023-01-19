@@ -14,14 +14,7 @@ async function main() {
       ngrams: findNGrams(d.utterance, 4),
     };
   });
-  console.log(data);
-
-  //   Accessors for working with DTRS data
-  // TODO - consider adding accessors as part of the UI.
-  let dataset = d => d.dataset;
-  let speaker = d => d.speaker;
-  let session = d => d.session;
-  let utterance = d => d.utterance;
+  console.log('loaded data', data);
 
   // Create a function to remove punctuation from sentences
   function removePunctuation(sentence) {
@@ -30,7 +23,6 @@ async function main() {
       .replace(/\s{2,}/g, ' ')
       .toLowerCase();
   }
-
   // Create a function to find n-grams.
   function findNGrams(sentence, n) {
     // Given a sentence, find all the n-grams of length from 1 to n.
@@ -45,6 +37,12 @@ async function main() {
     }
     return _ngrams;
   }
-  // findNGrams("No longer, it's not a problem anymore", 4);
+
+  // console.log("Test case of findNGrams() function:", findNGrams("No longer, it's not a problem anymore", 4));
+
+  // calculate frequency of n-grams using ngrams columns
+  let nGrams = data.map(d => d.ngrams);
+  let nGramsFlat = nGrams.flat();
+  console.log(nGramsFlat);
 }
 main();
