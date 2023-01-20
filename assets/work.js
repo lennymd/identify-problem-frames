@@ -39,74 +39,63 @@ async function main() {
     return _ngrams;
   }
 
-  console.log('Test case of findNGrams() function:', findNGrams("No longer, it's not a problem anymore", 4));
+  console.log('Test case of find_ngram() function:', find_ngram("No longer, it's not a problem anymore", 4));
 
   // calculate frequency of n-grams using ngrams columns
-  let nGramList = data.map(d => d.ngrams);
-  let nGramFlat = nGramList.flat();
-  let nGramFreq = {};
+  let ngram_list = data.map(d => d.ngrams).flat();
+  let ngram_freq = {};
   nGramFlat.forEach(gram => {
-    nGramFreq[gram] = (nGramFreq[gram] || 0) + 1;
+    ngram_freq[gram] = (ngram_freq[gram] || 0) + 1;
   });
-  // console.log(nGramFreq);
-
-  // create an array that is populated by objects in the form {"gram", "frequency", "length"}
-  let nGramTally = [];
-  Object.keys(nGramFreq).forEach(gram => {
-    nGramTally.push({ngram: gram, frequency: nGramFreq[gram], length: gram.split(' ').length});
-  });
-  console.log('nGramTally', nGramTally);
-
-  // Filter nGramTally to only include n-grams of length > 1, and frequency > 1
-  let nGramTallyFiltered = nGramTally.filter(d => d.length > 1 && d.frequency > 1);
-  console.log('nGramTallyFiltered', nGramTallyFiltered);
+  // console.log(ngram_freq);
 
   // Let's create the corpus by cleaning and joining all the utterances
-  let speechTurnsList = data.map(d => d.utterance);
-  let speechTurnsListClean = speechTurnsList.map(remove_punctuation);
-  // console.log(speechTurnsListClean);
-  let corpus = speechTurnsListClean.flat().join(' ');
+  let speech_turns_list = data.map(d => d.utterance);
+  let speech_turns_list_clean = speech_turns_list.map(remove_punctuation);
+  // console.log(speech_turns_list_clean);
+  let corpus = speech_turns_list_clean.flat().join(' ');
   console.log(corpus);
 
   // Create a frequency table for the corpus
-  let corpusWordCounts = {};
+  let corpus_word_count = {};
   corpus.split(' ').forEach(word => {
-    corpusWordCounts[word] = (corpusWordCounts[word] || 0) + 1;
+    corpus_word_count[word] = (corpus_word_count[word] || 0) + 1;
   });
-  console.log(corpusWordCounts);
-  console.log(corpusWordCounts['we']);
+  console.log(corpus_word_count);
+  console.log(corpus_word_count['we']);
 
   // Create a function to calculate the Mutual Information of a given n-gram
-  function mutualInformation(ngram, corpus, corpusWordCounts, showWork = false) {
+  function mutual_information(ngram, corpus, corpus_word_count, show_work = false) {
     const nGramWordList = ngram.split(' ');
-    const totalWords = Object.values(corpusWordCounts).reduce((a, b) => a + b);
-    // why is allWordProbs defined as 1?
-    const allWordProbs = 1;
+    const totalWords = Object.values(corpus_word_count).reduce((a, b) => a + b);
+    // why is all_word_probs defined as 1?
+    const all_word_probs = 1;
     let wordProbability = 0.0;
-    if (showWork) {
+    if (show_work) {
       console.log(`total words in corpus: ${totalWords}`);
       console.log(`n-gram: ${ngram}`);
     }
     nGramWordList.forEach(word => {
-      wordProbability = corpusWordCounts[word] / totalWords;
-      if (showWork) {
-        console.log(`count for "${word}": ${corpusWordCounts[word]}`);
+      wordProbability = corpus_word_count[word] / totalWords;
+      if (show_work) {
+        console.log(`count for "${word}": ${corpus_word_count[word]}`);
         console.log(`prob. for "${word}": ${wordProbability}`);
       }
     });
-    const nGramProb = nGramFreq[ngram] / totalWords;
-    const mutualInfo = Math.log2(nGramProb / allWordProbs);
+    const ngram_prob = ngram_freq[ngram] / totalWords;
+    const mutualInfo = Math.log2(ngram_prob / all_word_probs);
 
-    if (showWork) {
-      console.log('prob. for all words:', allWordProbs);
-      console.log('count for "', ngram, '":', nGramFreq[ngram]);
-      console.log('prob. for "', ngram, '":', nGramProb);
+    if (show_work) {
+      console.log(`prob. for all words: ${all_word_probs}`);
+      console.log(`count for "${ngram}": ${ngram_freq[ngram]}`);
+      console.log(`prob. for "${ngram}": ${ngram_prob}`);
     }
     return mutualInfo;
   }
-  console.log(mutualInformation('problem solving', corpus, corpusWordCounts, true));
+  console.log(mutual_information('problem solving', corpus, corpus_word_count, true));
 
-  // TODO add mutual information as a column to nGramTallyFiltered
+  // TODO Compute mutual information for all n-grams that are length > 1 and frequency > 1. Store in an object.
+  // TODO Sort the n-grams by mutual information and print the top 10.
 }
 
 main();
