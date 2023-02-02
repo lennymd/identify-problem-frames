@@ -48,12 +48,11 @@ async function main() {
           conversation_data_all.push(line);
         });
       });
-      console.log(conversation_data_all);
     });
 
-    //   console.log(files_to_read);
-    // let data = await read_conversations_to_data(files_to_read);
-    // console.log(data);
+    console.log(conversation_data_all);
+
+    // NEXT STEPS: Process the conversation_data_all dataset. Follow code and functions from v2.
   });
 }
 main();
