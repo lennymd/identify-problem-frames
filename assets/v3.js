@@ -2,7 +2,15 @@
 
 async function main() {
   console.log('v3 Hello World!');
+  let container = d3.select('#container');
+  let _status = d3.select('#status');
+  let submit_button = d3.select('#submit_button');
+  let file_selector = d3.select('#file_selector');
+  let file_list = [];
 
-  
+  submit_button.on('click', () => {
+    // process submit
+    console.log(file_selector.node().files);
+  });
 }
 main();
