@@ -40,17 +40,25 @@ async function main() {
       promises.push(file_promise);
     });
     // Once all files have been read, create a structured dataset to work with.
-    Promise.all(promises).then(file_contents => {
-      console.log(file_contents);
-      file_contents.forEach(file_content => {
-        let conversation_data = d3.dsvFormat(';').parse(file_content);
-        conversation_data.forEach(line => {
-          conversation_data_all.push(line);
+    Promise.all(promises)
+      .then(file_contents => {
+        // console.log(file_contents);
+        file_contents.forEach(file_content => {
+          let conversation_data = d3.dsvFormat(';').parse(file_content);
+          conversation_data.forEach(line => {
+            conversation_data_all.push(line);
+          });
         });
+      })
+      .then(() => {
+        console.log(conversation_data_all);
+        // In this section we will do the processing work
+        // 1. Create a column that has been cleaned utterances
+        // 2. Identify all the ngram possibilies from the cleaned utterances
+        // 3. Create a new object of Ngrams and the Mutual info
+        // 4. for each ngram identify speakers
+        // 5. display stuff in another promise.
       });
-    });
-
-    console.log(conversation_data_all);
 
     // NEXT STEPS: Process the conversation_data_all dataset. Follow code and functions from v2.
   });
